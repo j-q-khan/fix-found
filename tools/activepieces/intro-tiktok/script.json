@@ -1,0 +1,21 @@
+[
+  ["problem", "", [
+    "Still copying data between apps by hand?",
+    "Form to spreadsheet, spreadsheet to Slack, every single day. Miss one, and a customer waits."
+  ]],
+  ["fix", "", [
+    "Fix found: Active pieces. Building blocks for your busywork, with an open-source core."
+  ]],
+  ["use", "", [
+    "Pick a trigger, like a schedule or a new form entry.",
+    "Add steps from hundreds of apps: Google Sheets, Slack, Gmail, even an A.I. prompt.",
+    "Test each step, publish, and it runs by itself, on your own server."
+  ]],
+  ["catch", "", [
+    "The catch: single sign-on, roles and audit logs need a paid licence.",
+    "And the one-command install is for personal use. Real workloads need a database, a queue and file storage."
+  ]],
+  ["ask", "", [
+    "What problem should we fix next?"
+  ]]
+]

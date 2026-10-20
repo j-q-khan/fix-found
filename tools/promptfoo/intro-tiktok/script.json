@@ -1,0 +1,21 @@
+[
+  ["problem", "", [
+    "You fixed one answer. Three others broke.",
+    "One small prompt change, and your A.I. got worse. Would you catch it?"
+  ]],
+  ["fix", "", [
+    "Fix found: prompt foo. An exam for your A.I. app."
+  ]],
+  ["use", "", [
+    "You write test questions, and what a good answer must contain.",
+    "One command runs them on every model and marks each answer pass or fail, side by side.",
+    "Change a prompt, run it again, and you see what broke before your customers do."
+  ]],
+  ["catch", "", [
+    "The catch: every test calls a real model, so big test runs cost real money.",
+    "And the free version caps red teaming and sharing."
+  ]],
+  ["ask", "", [
+    "What problem should we fix next?"
+  ]]
+]

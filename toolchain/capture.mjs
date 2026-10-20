@@ -1,8 +1,10 @@
 // Deterministic frame capture: headless Chrome (isolated profile) via CDP over Node's native WebSocket -> ffmpeg.
 // usage: node toolchain/capture.mjs <video_dir> <out.mp4> [holdSeconds=1.0] [stills=comma list of seconds]
-// Frame size and the length limit come from <video_dir>/meta.json (format, max_seconds). Run one capture at a time (fixed port).
+// Frame size and the length limit come from <video_dir>/meta.json (format, max_seconds).
+// Each capture gets its own temporary Chrome profile and a free port, so several can run side by side.
 import { spawn } from 'node:child_process';
 import fs from 'node:fs';
+import os from 'node:os';
 import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 
@@ -19,11 +21,11 @@ const fps = TL.fps, total = TL.total + hold, N = Math.round(total * fps);
 if (!stills && total > META.max_seconds) { console.error(`refusing: ${total.toFixed(2)}s > ${META.max_seconds}s`); process.exit(2); }
 
 const CHROME = 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe';
-const prof = path.join(here, 'chrome-profile');
-const port = 9335;
-const chrome = spawn(CHROME, ['--headless=new', `--remote-debugging-port=${port}`, `--user-data-dir=${prof}`,
+const prof = fs.mkdtempSync(path.join(os.tmpdir(), 'fixfound-chrome-'));
+const chrome = spawn(CHROME, ['--headless=new', '--remote-debugging-port=0', `--user-data-dir=${prof}`,
   `--window-size=${W},${H}`, '--hide-scrollbars', '--force-device-scale-factor=1', '--allow-file-access-from-files',
   pathToFileURL(path.join(dir, 'anim.html')).href], { stdio: 'ignore' });
+chrome.on('exit', () => { try { fs.rmSync(prof, { recursive: true, force: true }); } catch {} });
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
 let ws, id = 0; const pending = new Map();
@@ -31,9 +33,10 @@ function send(method, params = {}) { const i = ++id; ws.send(JSON.stringify({ id
   return new Promise((res, rej) => pending.set(i, { res, rej })); }
 
 async function main() {
-  let target;
+  let target, port;   // Chrome writes the port it picked to DevToolsActivePort in the profile
   for (let k = 0; k < 50 && !target; k++) { await sleep(200);
-    try { const list = await (await fetch(`http://127.0.0.1:${port}/json`)).json(); target = list.find(t => t.type === 'page'); } catch {} }
+    try { if (!port) port = parseInt(fs.readFileSync(path.join(prof, 'DevToolsActivePort'), 'utf8'));
+      const list = await (await fetch(`http://127.0.0.1:${port}/json`)).json(); target = list.find(t => t.type === 'page'); } catch {} }
   if (!target) throw new Error('chrome did not start');
   ws = new WebSocket(target.webSocketDebuggerUrl);
   await new Promise(r => ws.addEventListener('open', r));

@@ -40,6 +40,7 @@ window.render = function (t) {
     const fi = s.start === 0 ? 1 : P(t, s.start, .4), fo = s === last ? 1 : 1 - P(t, s.start + s.dur - .4, .4), o = Math.min(fi, fo);
     el.style.opacity = o; el.style.visibility = o > 0 ? 'visible' : 'hidden'; if (o > .5 && s.label) chap = s.label; }
   $('chapter').textContent = chap;
+  const cv = $('cover'); if (cv) { const o = 1 - P(t, 0.45, 0.35); cv.style.opacity = o; cv.style.visibility = o > 0 ? 'visible' : 'hidden'; }
   for (const a of ANIM) anim(a.el, P(t, B(a.s, a.b) + a.o, a.d), a.ty);
   for (const c of COUNT) { const v = Math.round(c.n * out3(P(t, B(c.s, c.b) + c.o, c.d))); c.el.textContent = c.f === 'comma' ? v.toLocaleString('en-US') : v; }
   // burned-in captions: the chunk being spoken, from timeline.json

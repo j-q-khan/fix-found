@@ -1,0 +1,76 @@
+1
+00:00:00,300 --> 00:00:02,304
+Who spent your AI budget?
+
+2
+00:00:02,364 --> 00:00:05,205
+Three teams, three AI providers, three
+
+3
+00:00:05,205 --> 00:00:07,843
+sets of keys, and one surprise bill
+
+4
+00:00:07,843 --> 00:00:09,399
+nobody can explain.
+
+5
+00:00:09,649 --> 00:00:13,214
+Fix found: LiteLLM, one gateway for more
+
+6
+00:00:13,214 --> 00:00:16,780
+than a hundred AI providers, with an MIT
+
+7
+00:00:16,780 --> 00:00:18,238
+licensed core.
+
+8
+00:00:18,488 --> 00:00:20,776
+Give each team its own key, with a
+
+9
+00:00:20,776 --> 00:00:22,462
+budget and a rate limit.
+
+10
+00:00:22,522 --> 00:00:24,815
+Every request is logged with its cost,
+
+11
+00:00:24,815 --> 00:00:27,163
+so you can see who spent what. And if a
+
+12
+00:00:27,163 --> 00:00:29,565
+provider fails, it falls back to another
+
+13
+00:00:29,565 --> 00:00:30,111
+model.
+
+14
+00:00:30,361 --> 00:00:32,872
+The catch: single sign-on past five
+
+15
+00:00:32,872 --> 00:00:35,190
+users and audit logs need a paid
+
+16
+00:00:35,190 --> 00:00:35,963
+licence.
+
+17
+00:00:36,023 --> 00:00:38,292
+And keys and budgets need a Postgres
+
+18
+00:00:38,292 --> 00:00:39,029
+database.
+
+19
+00:00:39,279 --> 00:00:41,517
+What problem should we fix next?
+

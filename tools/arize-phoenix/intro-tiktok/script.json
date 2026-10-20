@@ -1,0 +1,20 @@
+[
+  ["problem", "", [
+    "Your A.I. agent got it wrong. Why?",
+    "It searched the docs, called a tool, and still answered badly. Was it the search, the prompt, or the model?"
+  ]],
+  ["fix", "", [
+    "Fix found: Arise Phoenix. An X-ray for your A.I. app, free to run on your own machine."
+  ]],
+  ["use", "", [
+    "Every request becomes a tree of steps: each search, each tool, each model call, with timings and tokens.",
+    "Then grade the answers, with another model as the judge or simple code checks, and test a fix before you ship."
+  ]],
+  ["catch", "", [
+    "The catch: the server is under the Elastic License, so you can't offer it to others as a hosted service.",
+    "And login is off until you switch it on."
+  ]],
+  ["ask", "", [
+    "What problem should we fix next?"
+  ]]
+]

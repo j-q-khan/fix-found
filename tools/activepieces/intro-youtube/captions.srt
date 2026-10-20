@@ -1,0 +1,144 @@
+1
+00:00:00,300 --> 00:00:03,468
+Every morning, someone copies new form entries into a
+
+2
+00:00:03,468 --> 00:00:06,246
+spreadsheet, then pastes a summary into Slack.
+
+3
+00:00:06,306 --> 00:00:09,199
+Miss one, and a customer never hears back.
+
+4
+00:00:09,259 --> 00:00:11,914
+What if that busywork ran by itself?
+
+5
+00:00:12,164 --> 00:00:14,971
+Fix found: Activepieces.
+
+6
+00:00:15,031 --> 00:00:19,298
+Building blocks for your busywork: when this happens, do that.
+
+7
+00:00:19,358 --> 00:00:23,695
+Its README calls it an open-source Zapier replacement, with over
+
+8
+00:00:23,695 --> 00:00:26,120
+twenty-five thousand GitHub stars.
+
+9
+00:00:26,370 --> 00:00:30,372
+Each flow starts with a trigger: a schedule, a webhook, or an
+
+10
+00:00:30,372 --> 00:00:31,604
+event in an app.
+
+11
+00:00:31,664 --> 00:00:35,887
+Then come the steps, each one a piece: Google Sheets, an AI
+
+12
+00:00:35,887 --> 00:00:37,831
+prompt, or a little code.
+
+13
+00:00:37,891 --> 00:00:41,555
+Test each step, publish, and it runs by itself.
+
+14
+00:00:41,805 --> 00:00:46,275
+One. Connect your apps: hundreds of ready-made pieces, with
+
+15
+00:00:46,275 --> 00:00:50,531
+loops, branches, retries, and an HTTP step for the rest.
+
+16
+00:00:50,591 --> 00:00:54,978
+Two. Keep a human in the loop. A flow can wait, or pause until
+
+17
+00:00:54,978 --> 00:00:57,371
+someone approves, then carry on.
+
+18
+00:00:57,431 --> 00:01:02,027
+Three. Let your AI assistant build it. The built-in MCP server
+
+19
+00:01:02,027 --> 00:01:06,205
+lets Claude or Cursor create flows from a plain request.
+
+20
+00:01:06,455 --> 00:01:08,043
+Now, the catch.
+
+21
+00:01:08,103 --> 00:01:12,561
+The core is MIT licensed, but the enterprise code is under a
+
+22
+00:01:12,561 --> 00:01:17,088
+commercial licence. Single sign-on, roles, audit logs and git
+
+23
+00:01:17,088 --> 00:01:18,899
+sync need a paid plan.
+
+24
+00:01:18,959 --> 00:01:22,725
+The one-command Docker install is for personal use on one
+
+25
+00:01:22,725 --> 00:01:26,863
+machine. Real workloads need a database, a queue, file storage,
+
+26
+00:01:26,863 --> 00:01:29,271
+and a worker for each running flow.
+
+27
+00:01:29,331 --> 00:01:32,714
+And it's still before version one, so upgrades often bring
+
+28
+00:01:32,714 --> 00:01:33,860
+breaking changes.
+
+29
+00:01:34,110 --> 00:01:37,578
+It's for teams who want automations on their own servers, and
+
+30
+00:01:37,578 --> 00:01:40,299
+developers happy to write pieces in TypeScript.
+
+31
+00:01:40,359 --> 00:01:43,292
+If you'd rather not look after a server, it's more than you
+
+32
+00:01:43,292 --> 00:01:43,711
+need.
+
+33
+00:01:43,771 --> 00:01:47,604
+Want an alternative? Take a look at n8n.
+
+34
+00:01:47,854 --> 00:01:51,858
+To try it, run the one Docker command from their docs, open it
+
+35
+00:01:51,858 --> 00:01:54,892
+in your browser, and create the first account.
+
+36
+00:01:54,952 --> 00:01:58,581
+What problem should we fix next? Tell us in the comments.
+

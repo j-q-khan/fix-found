@@ -1,0 +1,72 @@
+1
+00:00:00,300 --> 00:00:02,765
+You fixed one answer. Three others
+
+2
+00:00:02,765 --> 00:00:03,414
+broke.
+
+3
+00:00:03,474 --> 00:00:06,284
+One small prompt change, and your AI got
+
+4
+00:00:06,284 --> 00:00:08,201
+worse. Would you catch it?
+
+5
+00:00:08,451 --> 00:00:12,167
+Fix found: promptfoo. An exam for your
+
+6
+00:00:12,167 --> 00:00:13,140
+AI app.
+
+7
+00:00:13,390 --> 00:00:15,412
+You write test questions, and what a
+
+8
+00:00:15,412 --> 00:00:16,879
+good answer must contain.
+
+9
+00:00:16,939 --> 00:00:19,544
+One command runs them on every model and
+
+10
+00:00:19,544 --> 00:00:22,089
+marks each answer pass or fail, side by
+
+11
+00:00:22,089 --> 00:00:22,622
+side.
+
+12
+00:00:22,682 --> 00:00:24,842
+Change a prompt, run it again, and you
+
+13
+00:00:24,842 --> 00:00:27,105
+see what broke before your customers do.
+
+14
+00:00:27,355 --> 00:00:30,010
+The catch: every test calls a real
+
+15
+00:00:30,010 --> 00:00:33,085
+model, so big test runs cost real money.
+
+16
+00:00:33,145 --> 00:00:35,571
+And the free version caps red teaming
+
+17
+00:00:35,571 --> 00:00:36,518
+and sharing.
+
+18
+00:00:36,768 --> 00:00:39,006
+What problem should we fix next?
+

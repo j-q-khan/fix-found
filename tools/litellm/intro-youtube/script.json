@@ -1,0 +1,36 @@
+[
+  ["problem", "", [
+    "Three teams, three A.I. providers, three sets of keys, and three bills.",
+    "The invoice arrives, and nobody can say who spent what.",
+    "And when one provider goes down, so does your app."
+  ]],
+  ["fix", "01  The fix", [
+    "Fix found: Lite L.L.M., one gateway for more than a hundred A.I. providers.",
+    "Think of it as a switchboard for your A.I. calls.",
+    "The core is M.I.T. licensed, with over sixty thousand GitHub stars."
+  ]],
+  ["how", "02  How it works", [
+    "Your apps call one endpoint in the Open A.I. format, or use it as a Python library.",
+    "It checks the key, sends the call to the right provider, and logs what it cost."
+  ]],
+  ["uses", "03  Three real uses", [
+    "One. Switch models without rewriting code: the same call reaches Open A.I., Anthropic or Gemini. You change one name.",
+    "Two. Give each team its own key, with its own models, budget and rate limit. Once a key passes its budget, its requests fail.",
+    "Three. Stay up when a provider fails. It retries, spreads traffic across deployments, and falls back to another model."
+  ]],
+  ["catch", "04  The catch", [
+    "Now, the catch.",
+    "It's open core: single sign-on past five users, audit logs and secret managers need a paid licence.",
+    "Keys, budgets and spend tracking need a Postgres database, and more than one copy needs Redis too.",
+    "And it moves fast: a new minor version every week, so pin your version."
+  ]],
+  ["fit", "05  Who it's for", [
+    "It's for platform teams sharing many models across many apps, and Python developers who want one way to call them.",
+    "With one app and one provider, a gateway is probably more than you need.",
+    "Want an alternative? Take a look at Portkey Gateway."
+  ]],
+  ["try", "06  Try it", [
+    "To try it, follow the Docker quick start in their docs: it starts the gateway and a Postgres database. Then sign in to the admin page.",
+    "What problem should we fix next? Tell us in the comments."
+  ]]
+]

@@ -58,6 +58,15 @@ ffprobe -v error -show_entries stream=codec_name,width,height,sample_rate,channe
 - **Images:** screenshots go beside the video's files and are referenced with a relative path. `capture.mjs` waits for every image to load.
 - **Motion graphics, never slides:** things move, stack, count, type and stamp in time with the words.
 
+## Start screen
+
+`page.py` adds it to every video; scenes.html doesn't need to. Frame 0 shows:
+- the `problem` line from `index.json`, large
+- `logo.png` (if the video folder has one) and the tool or category name
+- a gold "Fix found · #N" stamp
+
+It fades out between 0.45 s and 0.8 s. TikTok uses the first frame as the default cover, and its profile grid crops it to the middle 3:4, so the 9:16 layout keeps everything inside that. Put `logo.png` in **both** folders before the final `page.py` and render. A problem line over 45 characters gets smaller type, but shorter reads better. Check a still at `0.1`.
+
 ## Layout safe zones
 
 | | 16:9 (1920×1080) | 9:16 (1080×1920) |

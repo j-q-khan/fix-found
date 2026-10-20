@@ -1,0 +1,37 @@
+[
+  ["problem", "", [
+    "You change one line in your A.I. assistant's prompt, to fix one bad answer.",
+    "That answer gets better. Three others quietly get worse.",
+    "How would you know, before your customers do?"
+  ]],
+  ["fix", "01  The fix", [
+    "Fix found: prompt foo.",
+    "Think of it as an exam for your A.I. app.",
+    "It's open source, M.I.T. licensed, with more than twenty-six thousand stars on GitHub."
+  ]],
+  ["how", "02  How it works", [
+    "You write a simple config file: your prompts, the models to try, and what each answer must contain.",
+    "One command sends every test to every model.",
+    "You get a grid of answers in your browser, each marked pass or fail."
+  ]],
+  ["uses", "03  Three real uses", [
+    "One. Compare models. Run the same tests on G.P.T., Claude, Gemini or a local model, and see which passes.",
+    "Two. Attack your own app. Red-team mode writes hundreds of tricky inputs, like jailbreaks and prompt injections, and reports what got through.",
+    "Three. Guard every change. Run the tests automatically, so a prompt edit that breaks things is blocked before it ships."
+  ]],
+  ["catch", "04  The catch", [
+    "Now, the catch.",
+    "Every test calls a real model, so big test runs mean a real A.P.I. bill.",
+    "Red-team attacks are generated in prompt foo's cloud by default. You can turn that off, but their docs say quality may drop. And the free version caps red teaming and sharing.",
+    "Prompt foo is now part of Open A.I., and the team says it stays open source."
+  ]],
+  ["fit", "05  Who it's for", [
+    "It's for teams shipping A.I. features who want to catch it when a change breaks something.",
+    "For a one-off prompt, it's more than you need.",
+    "Want an alternative? Take a look at Deep Eval."
+  ]],
+  ["try", "06  Try it", [
+    "To try it, install it, load their getting-started example, and add an A.P.I. key. Then run the tests and open the results in your browser.",
+    "What problem should we fix next? Tell us in the comments."
+  ]]
+]

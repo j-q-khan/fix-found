@@ -1,0 +1,335 @@
+{
+ "total": 114.369,
+ "fps": 30,
+ "voice": "Ruth",
+ "scenes": [
+  {
+   "id": "problem",
+   "label": "",
+   "start": 0.0,
+   "dur": 12.749,
+   "beats": [
+    {
+     "start": 0.3,
+     "dur": 4.961,
+     "text": "Three teams, three A.I. providers, three sets of keys, and three bills."
+    },
+    {
+     "start": 5.321,
+     "dur": 3.728,
+     "text": "The invoice arrives, and nobody can say who spent what."
+    },
+    {
+     "start": 9.109,
+     "dur": 3.29,
+     "text": "And when one provider goes down, so does your app."
+    }
+   ]
+  },
+  {
+   "id": "fix",
+   "label": "01  The fix",
+   "start": 12.349,
+   "dur": 15.134,
+   "beats": [
+    {
+     "start": 12.649,
+     "dur": 6.134,
+     "text": "Fix found: Lite L.L.M., one gateway for more than a hundred A.I. providers."
+    },
+    {
+     "start": 18.843,
+     "dur": 3.285,
+     "text": "Think of it as a switchboard for your A.I. calls."
+    },
+    {
+     "start": 22.187,
+     "dur": 4.946,
+     "text": "The core is M.I.T. licensed, with over sixty thousand GitHub stars."
+    }
+   ]
+  },
+  {
+   "id": "how",
+   "label": "02  How it works",
+   "start": 27.083,
+   "dur": 11.649,
+   "beats": [
+    {
+     "start": 27.383,
+     "dur": 6.058,
+     "text": "Your apps call one endpoint in the Open A.I. format, or use it as a Python library."
+    },
+    {
+     "start": 33.501,
+     "dur": 4.88,
+     "text": "It checks the key, sends the call to the right provider, and logs what it cost."
+    }
+   ]
+  },
+  {
+   "id": "uses",
+   "label": "03  Three real uses",
+   "start": 38.332,
+   "dur": 26.218,
+   "beats": [
+    {
+     "start": 38.632,
+     "dur": 8.801,
+     "text": "One. Switch models without rewriting code: the same call reaches Open A.I., Anthropic or Gemini. You change one name."
+    },
+    {
+     "start": 47.493,
+     "dur": 8.436,
+     "text": "Two. Give each team its own key, with its own models, budget and rate limit. Once a key passes its budget, its requests fail."
+    },
+    {
+     "start": 55.989,
+     "dur": 8.211,
+     "text": "Three. Stay up when a provider fails. It retries, spreads traffic across deployments, and falls back to another model."
+    }
+   ]
+  },
+  {
+   "id": "catch",
+   "label": "04  The catch",
+   "start": 64.15,
+   "dur": 20.639,
+   "beats": [
+    {
+     "start": 64.45,
+     "dur": 1.588,
+     "text": "Now, the catch."
+    },
+    {
+     "start": 66.098,
+     "dur": 6.842,
+     "text": "It's open core: single sign-on past five users, audit logs and secret managers need a paid licence."
+    },
+    {
+     "start": 73.0,
+     "dur": 6.736,
+     "text": "Keys, budgets and spend tracking need a Postgres database, and more than one copy needs Redis too."
+    },
+    {
+     "start": 79.797,
+     "dur": 4.642,
+     "text": "And it moves fast: a new minor version every week, so pin your version."
+    }
+   ]
+  },
+  {
+   "id": "fit",
+   "label": "05  Who it's for",
+   "start": 84.389,
+   "dur": 15.192,
+   "beats": [
+    {
+     "start": 84.689,
+     "dur": 6.541,
+     "text": "It's for platform teams sharing many models across many apps, and Python developers who want one way to call them."
+    },
+    {
+     "start": 91.29,
+     "dur": 4.53,
+     "text": "With one app and one provider, a gateway is probably more than you need."
+    },
+    {
+     "start": 95.88,
+     "dur": 3.351,
+     "text": "Want an alternative? Take a look at Portkey Gateway."
+    }
+   ]
+  },
+  {
+   "id": "try",
+   "label": "06  Try it",
+   "start": 99.181,
+   "dur": 15.188,
+   "beats": [
+    {
+     "start": 99.481,
+     "dur": 9.248,
+     "text": "To try it, follow the Docker quick start in their docs: it starts the gateway and a Postgres database. Then sign in to the admin page."
+    },
+    {
+     "start": 108.789,
+     "dur": 3.629,
+     "text": "What problem should we fix next? Tell us in the comments."
+    }
+   ]
+  }
+ ],
+ "captions": [
+  {
+   "start": 0.3,
+   "end": 4.608,
+   "text": "Three teams, three AI providers, three sets of keys, and three"
+  },
+  {
+   "start": 4.608,
+   "end": 5.261,
+   "text": "bills."
+  },
+  {
+   "start": 5.321,
+   "end": 9.049,
+   "text": "The invoice arrives, and nobody can say who spent what."
+  },
+  {
+   "start": 9.109,
+   "end": 12.399,
+   "text": "And when one provider goes down, so does your app."
+  },
+  {
+   "start": 12.649,
+   "end": 17.653,
+   "text": "Fix found: LiteLLM, one gateway for more than a hundred AI"
+  },
+  {
+   "start": 17.653,
+   "end": 18.783,
+   "text": "providers."
+  },
+  {
+   "start": 18.843,
+   "end": 22.127,
+   "text": "Think of it as a switchboard for your AI calls."
+  },
+  {
+   "start": 22.187,
+   "end": 27.133,
+   "text": "The core is MIT licensed, with over sixty thousand GitHub stars."
+  },
+  {
+   "start": 27.383,
+   "end": 32.118,
+   "text": "Your apps call one endpoint in the OpenAI format, or use it as a"
+  },
+  {
+   "start": 32.118,
+   "end": 33.441,
+   "text": "Python library."
+  },
+  {
+   "start": 33.501,
+   "end": 37.133,
+   "text": "It checks the key, sends the call to the right provider, and"
+  },
+  {
+   "start": 37.133,
+   "end": 38.382,
+   "text": "logs what it cost."
+  },
+  {
+   "start": 38.632,
+   "end": 43.578,
+   "text": "One. Switch models without rewriting code: the same call reaches"
+  },
+  {
+   "start": 43.578,
+   "end": 47.433,
+   "text": "OpenAI, Anthropic or Gemini. You change one name."
+  },
+  {
+   "start": 47.493,
+   "end": 51.839,
+   "text": "Two. Give each team its own key, with its own models, budget and"
+  },
+  {
+   "start": 51.839,
+   "end": 55.929,
+   "text": "rate limit. Once a key passes its budget, its requests fail."
+  },
+  {
+   "start": 55.989,
+   "end": 59.996,
+   "text": "Three. Stay up when a provider fails. It retries, spreads"
+  },
+  {
+   "start": 59.996,
+   "end": 64.2,
+   "text": "traffic across deployments, and falls back to another model."
+  },
+  {
+   "start": 64.45,
+   "end": 66.038,
+   "text": "Now, the catch."
+  },
+  {
+   "start": 66.098,
+   "end": 70.358,
+   "text": "It's open core: single sign-on past five users, audit logs and"
+  },
+  {
+   "start": 70.358,
+   "end": 72.94,
+   "text": "secret managers need a paid licence."
+  },
+  {
+   "start": 73.0,
+   "end": 77.235,
+   "text": "Keys, budgets and spend tracking need a Postgres database, and"
+  },
+  {
+   "start": 77.235,
+   "end": 79.737,
+   "text": "more than one copy needs Redis too."
+  },
+  {
+   "start": 79.797,
+   "end": 83.724,
+   "text": "And it moves fast: a new minor version every week, so pin your"
+  },
+  {
+   "start": 83.724,
+   "end": 84.439,
+   "text": "version."
+  },
+  {
+   "start": 84.689,
+   "end": 88.203,
+   "text": "It's for platform teams sharing many models across many apps,"
+  },
+  {
+   "start": 88.203,
+   "end": 91.23,
+   "text": "and Python developers who want one way to call them."
+  },
+  {
+   "start": 91.29,
+   "end": 95.075,
+   "text": "With one app and one provider, a gateway is probably more than"
+  },
+  {
+   "start": 95.075,
+   "end": 95.82,
+   "text": "you need."
+  },
+  {
+   "start": 95.88,
+   "end": 99.231,
+   "text": "Want an alternative? Take a look at Portkey Gateway."
+  },
+  {
+   "start": 99.481,
+   "end": 103.463,
+   "text": "To try it, follow the Docker quick start in their docs: it"
+  },
+  {
+   "start": 103.463,
+   "end": 107.766,
+   "text": "starts the gateway and a Postgres database. Then sign in to the"
+  },
+  {
+   "start": 107.766,
+   "end": 108.729,
+   "text": "admin page."
+  },
+  {
+   "start": 108.789,
+   "end": 112.419,
+   "text": "What problem should we fix next? Tell us in the comments."
+  }
+ ]
+}

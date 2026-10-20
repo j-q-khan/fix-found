@@ -1,0 +1,136 @@
+1
+00:00:00,300 --> 00:00:04,608
+Three teams, three AI providers, three sets of keys, and three
+
+2
+00:00:04,608 --> 00:00:05,261
+bills.
+
+3
+00:00:05,321 --> 00:00:09,049
+The invoice arrives, and nobody can say who spent what.
+
+4
+00:00:09,109 --> 00:00:12,399
+And when one provider goes down, so does your app.
+
+5
+00:00:12,649 --> 00:00:17,653
+Fix found: LiteLLM, one gateway for more than a hundred AI
+
+6
+00:00:17,653 --> 00:00:18,783
+providers.
+
+7
+00:00:18,843 --> 00:00:22,127
+Think of it as a switchboard for your AI calls.
+
+8
+00:00:22,187 --> 00:00:27,133
+The core is MIT licensed, with over sixty thousand GitHub stars.
+
+9
+00:00:27,383 --> 00:00:32,118
+Your apps call one endpoint in the OpenAI format, or use it as a
+
+10
+00:00:32,118 --> 00:00:33,441
+Python library.
+
+11
+00:00:33,501 --> 00:00:37,133
+It checks the key, sends the call to the right provider, and
+
+12
+00:00:37,133 --> 00:00:38,382
+logs what it cost.
+
+13
+00:00:38,632 --> 00:00:43,578
+One. Switch models without rewriting code: the same call reaches
+
+14
+00:00:43,578 --> 00:00:47,433
+OpenAI, Anthropic or Gemini. You change one name.
+
+15
+00:00:47,493 --> 00:00:51,839
+Two. Give each team its own key, with its own models, budget and
+
+16
+00:00:51,839 --> 00:00:55,929
+rate limit. Once a key passes its budget, its requests fail.
+
+17
+00:00:55,989 --> 00:00:59,996
+Three. Stay up when a provider fails. It retries, spreads
+
+18
+00:00:59,996 --> 00:01:04,200
+traffic across deployments, and falls back to another model.
+
+19
+00:01:04,450 --> 00:01:06,038
+Now, the catch.
+
+20
+00:01:06,098 --> 00:01:10,358
+It's open core: single sign-on past five users, audit logs and
+
+21
+00:01:10,358 --> 00:01:12,940
+secret managers need a paid licence.
+
+22
+00:01:13,000 --> 00:01:17,235
+Keys, budgets and spend tracking need a Postgres database, and
+
+23
+00:01:17,235 --> 00:01:19,737
+more than one copy needs Redis too.
+
+24
+00:01:19,797 --> 00:01:23,724
+And it moves fast: a new minor version every week, so pin your
+
+25
+00:01:23,724 --> 00:01:24,439
+version.
+
+26
+00:01:24,689 --> 00:01:28,203
+It's for platform teams sharing many models across many apps,
+
+27
+00:01:28,203 --> 00:01:31,230
+and Python developers who want one way to call them.
+
+28
+00:01:31,290 --> 00:01:35,075
+With one app and one provider, a gateway is probably more than
+
+29
+00:01:35,075 --> 00:01:35,820
+you need.
+
+30
+00:01:35,880 --> 00:01:39,231
+Want an alternative? Take a look at Portkey Gateway.
+
+31
+00:01:39,481 --> 00:01:43,463
+To try it, follow the Docker quick start in their docs: it
+
+32
+00:01:43,463 --> 00:01:47,766
+starts the gateway and a Postgres database. Then sign in to the
+
+33
+00:01:47,766 --> 00:01:48,729
+admin page.
+
+34
+00:01:48,789 --> 00:01:52,419
+What problem should we fix next? Tell us in the comments.
+

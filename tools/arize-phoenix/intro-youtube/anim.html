@@ -1,0 +1,281 @@
+<!doctype html><html><head><meta charset="utf-8"><style>:root{--W:1920px;--H:1080px}:root{--navy:#14213D;--card:#1E2F52;--cream:#F7F5F0;--gold:#D9A441;--slate:#C9D3E0;--muted:#8FA0B8;--teal:#4FD1C5;--coral:#FF7A59;--green:#3FBF7F;--violet:#9F8CFF;--term:#0B1222}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:var(--W);height:var(--H);overflow:hidden;background:var(--navy)}
+#stage{position:relative;width:var(--W);height:var(--H);overflow:hidden;font-family:'Segoe UI',Arial,sans-serif;color:var(--cream);
+  background:radial-gradient(1300px 900px at 75% 15%,#22386a 0%,#14213D 55%,#0e1830 100%)}
+#dots{position:absolute;inset:-60px;background-image:radial-gradient(rgba(201,211,224,.10) 1.6px,transparent 1.8px);background-size:44px 44px}
+.abs{position:absolute}.scene{position:absolute;inset:0;opacity:0}
+[data-a]{opacity:0}
+.serif{font-family:Georgia,serif;font-weight:700}
+.h1{font-size:124px;line-height:1.05}.h2{font-size:76px;line-height:1.12}
+.sub{font-size:46px;font-weight:600;color:var(--slate);line-height:1.3}
+.eyebrow{font-size:30px;letter-spacing:5px;text-transform:uppercase;color:var(--gold);font-weight:700}
+.chip{position:absolute;padding:14px 28px;border-radius:999px;font-size:34px;font-weight:700;white-space:nowrap;color:var(--navy)}
+.card{position:absolute;border-radius:28px;background:var(--card);border:3px solid #2e4677}
+.paper{position:absolute;border-radius:22px;background:var(--cream);color:var(--navy);box-shadow:0 26px 70px rgba(0,0,0,.45)}
+.term{position:absolute;border-radius:18px;background:var(--term);border:3px solid #2e4677;font:500 30px Consolas,'Cascadia Mono',monospace;color:#d6e2f0;padding:56px 30px 24px;white-space:pre;overflow:hidden}
+.term::before{content:'';position:absolute;left:24px;top:20px;width:14px;height:14px;border-radius:50%;background:#FF7A59;box-shadow:24px 0 #D9A441,48px 0 #3FBF7F}
+.gold{color:var(--gold)}.teal{color:var(--teal)}.coral{color:var(--coral)}.green{color:var(--green)}.violet{color:var(--violet)}
+.stamp{position:absolute;padding:16px 34px;border:7px solid var(--gold);border-radius:16px;color:var(--gold);font:900 58px 'Segoe UI';letter-spacing:6px;text-transform:uppercase;white-space:nowrap}
+svg{position:absolute;left:0;top:0;overflow:visible}
+#brand{position:absolute;left:70px;top:58px;font:800 28px 'Segoe UI';letter-spacing:6px;color:var(--gold)}
+#brand span{color:var(--muted);font-weight:700;margin-left:14px}
+#chapter{position:absolute;right:110px;top:62px;font-size:28px;letter-spacing:4px;text-transform:uppercase;color:var(--muted);font-weight:700}
+#bar{position:absolute;left:0;bottom:0;height:8px;background:linear-gradient(90deg,var(--teal),var(--gold),var(--coral))}
+#cap{position:absolute;left:50%;transform:translateX(-50%);bottom:64px;max-width:1500px;text-align:center;pointer-events:none}
+#cap span{display:inline;padding:6px 22px;line-height:1.5;border-radius:12px;background:rgba(8,14,28,.82);color:#fff;
+  font:700 44px 'Segoe UI';-webkit-box-decoration-break:clone;box-decoration-break:clone}
+/* start screen (page.py): the problem line and the tool, shown on frame 0 and faded out by common.js */
+#cover{position:absolute;inset:0;background:radial-gradient(1300px 900px at 75% 15%,#22386a 0%,#14213D 55%,#0e1830 100%)}
+.cv-wrap{position:absolute;left:150px;top:150px;width:1620px;height:730px;display:flex;flex-direction:column;justify-content:center;align-items:flex-start;gap:54px}
+.cv-problem{font:900 118px/1.04 'Segoe UI';text-transform:uppercase;letter-spacing:-1px;color:var(--cream)}
+.cv-problem.long{font-size:96px}
+.cv-tool{display:flex;align-items:center;gap:36px}
+.cv-tool img{width:150px;height:150px;border-radius:30px;background:#fff;object-fit:contain}
+.cv-tool span{font:700 96px Georgia,serif;color:var(--teal)}
+.cv-stamp{padding:12px 30px;border:7px solid var(--gold);border-radius:16px;color:var(--gold);font:900 50px 'Segoe UI';letter-spacing:6px;text-transform:uppercase;white-space:nowrap;transform:rotate(-4deg);transform-origin:left center}
+/* 9:16: TikTok's profile grid crops covers to the middle 3:4 (y 240-1680), so everything sits inside it */
+.v .cv-wrap{left:60px;top:300px;width:880px;height:1100px;gap:64px}
+.v .cv-problem{font-size:104px}.v .cv-problem.long{font-size:88px}
+.v .cv-tool img{width:170px;height:170px}
+/* 9:16 (TikTok, Shorts): keep clear of the app's bottom bar and right-hand buttons */
+.v #brand{left:60px;top:110px}.v #chapter{display:none}
+.v #cap{bottom:auto;top:1270px;max-width:880px;left:calc(50% - 50px)}
+.v #cap span{font-size:54px}
+</style></head>
+<body data-w="1920" class="h"><div id="stage"><div id="dots"></div>
+<style>
+.code{font:500 28px Consolas,'Cascadia Mono',monospace;white-space:pre;position:absolute}
+.ex{color:#8FA0B8;letter-spacing:3px}
+.bubble{position:absolute;padding:20px 30px;border-radius:24px 24px 24px 6px;background:#F7F5F0;color:#14213D;font:600 34px 'Segoe UI';white-space:nowrap;box-shadow:0 20px 50px rgba(0,0,0,.4)}
+.bubble.bot{border-radius:24px 24px 6px 24px;background:#26395f;color:#F7F5F0;border:3px solid #2e4677}
+.box{position:absolute;width:400px;height:130px;border-radius:20px;background:#1E2F52;border:3px solid #2e4677;display:flex;align-items:center;padding:0 26px;font:700 32px 'Segoe UI';white-space:nowrap}
+.arrow{position:absolute;width:80px;text-align:center;font:700 60px 'Segoe UI';color:#D9A441}
+.q{position:absolute;padding:6px 20px;border-radius:999px;background:#FF7A59;color:#14213D;font:800 28px 'Segoe UI';white-space:nowrap}
+.xrow{position:absolute;left:30px;width:540px;height:50px;border-radius:10px;background:#26395f;font:600 26px 'Segoe UI';display:flex;align-items:center;padding:0 16px}
+.scan{position:absolute;left:0;top:0;width:6px;height:250px;background:#4FD1C5;box-shadow:0 0 30px 8px rgba(79,209,197,.6)}
+.ucard{position:absolute;left:210px;top:175px;width:1500px;height:620px;border-radius:28px;background:#1E2F52;border:3px solid #2e4677;box-shadow:0 30px 80px rgba(0,0,0,.55)}
+.num{font:900 84px Georgia,serif;color:#D9A441;position:absolute;left:50px;top:18px}
+.ctitle{position:absolute;left:50px;top:122px;font:700 40px 'Segoe UI';white-space:nowrap}
+.mini{position:absolute;left:50px;width:440px;height:58px;border-radius:12px;background:#26395f;font:600 26px 'Segoe UI';display:flex;align-items:center;padding:0 18px;white-space:nowrap}
+.shot{position:absolute;left:520px;top:40px;width:940px;height:540px;border-radius:16px;overflow:hidden;background:#111}
+.shot img{display:block}
+.credit{position:absolute;right:12px;top:12px;padding:4px 12px;border-radius:8px;background:rgba(8,14,28,.85);color:#C9D3E0;font:600 18px 'Segoe UI';white-space:nowrap}
+.ring{position:absolute;border:5px solid #3FBF7F;border-radius:10px}
+.vrow{position:absolute;left:24px;width:892px;height:56px;border-radius:12px;background:#fff;border:2px solid #d9dde6;display:flex;align-items:center;padding:0 20px;font:600 26px 'Segoe UI';color:#14213D}
+.vrow b{margin-left:auto;font-weight:700}
+.pill{position:absolute;padding:6px 16px;border-radius:999px;font:700 22px 'Segoe UI';white-space:nowrap}
+.cbar{position:absolute;left:140px;width:1640px;height:96px;border-radius:18px;background:#1E2F52;border:3px solid #2e4677;display:flex;align-items:center;padding:0 30px;font:600 36px 'Segoe UI';white-space:nowrap}
+.tag{margin-left:auto;padding:10px 24px;border-radius:999px;font:700 30px 'Segoe UI';color:#14213D;white-space:nowrap}
+.dim{position:absolute;left:0;top:0;width:1920px;height:1080px;background:rgba(14,24,48,.96)}
+.dimfull{position:absolute;left:0;top:0;width:1920px;height:1080px;background:radial-gradient(1300px 900px at 75% 15%,#22386a 0%,#14213D 55%,#0e1830 100%)}
+.lbl{position:absolute;font:700 24px 'Segoe UI';color:#8FA0B8}
+</style>
+
+<div class="scene" id="s-problem">
+  <div class="abs eyebrow" data-a="problem 0 0 fade" style="left:150px;top:160px">A support chat <span class="ex">· example</span></div>
+  <div class="bubble" data-a="problem 0 0.1 pop" style="left:150px;top:222px">🧑 “Where's my order?”</div>
+  <div class="box" data-a="problem 0 1.0 pop" style="left:150px;top:380px">🔎 Search the help docs</div>
+  <div class="arrow" data-a="problem 0 1.8 left" style="left:570px;top:408px">→</div>
+  <div class="box" data-a="problem 0 2.1 pop" style="left:660px;top:380px">🛠️ Call a tool</div>
+  <div class="arrow" data-a="problem 0 2.8 left" style="left:1080px;top:408px">→</div>
+  <div class="box" data-a="problem 0 3.1 pop" style="left:1170px;top:380px">🤖 Write the answer</div>
+  <div class="bubble bot" data-a="problem 0 4.0 pop" style="left:1170px;top:566px">🤖 “It arrives Monday.”</div>
+  <div class="q" data-a="problem 0 5.0 pop" style="left:1170px;top:672px;background:#6b2d2d;color:#fff">❌ Wrong delivery date</div>
+  <div class="q" data-a="problem 1 0.2 pop" style="left:182px;top:350px">Search?</div>
+  <div class="q" data-a="problem 1 1.0 pop" style="left:1202px;top:350px">Prompt?</div>
+  <div class="q" data-a="problem 1 1.8 pop" style="left:1390px;top:350px">Model?</div>
+  <div class="abs serif h2" data-a="problem 2 0 show" style="left:150px;top:756px">Without a trace, you're <span class="coral">guessing.</span></div>
+</div>
+
+<div class="scene" id="s-fix">
+  <div class="stamp" data-a="fix 0 0 stamp" style="left:150px;top:190px">Fix found · #004</div>
+  <div class="abs serif h1" data-a="fix 0 0.7 show" style="left:150px;top:370px">Arize Phoenix</div>
+  <div class="abs" data-a="fix 0 0.9 pop" style="left:1400px;top:170px;width:320px;height:320px;border-radius:56px;background:#fff;box-shadow:0 30px 90px rgba(0,0,0,.5);overflow:hidden"><img src="logo.png" style="width:100%;height:100%;object-fit:contain"></div>
+  <div class="abs sub" data-a="fix 1 0.1 show" style="left:150px;top:545px;width:1000px">🩻 An <span class="gold">X-ray</span> for your AI app</div>
+  <div class="card" data-a="fix 1 0.4 pop" style="left:1160px;top:540px;width:600px;height:300px;overflow:hidden">
+    <div class="abs" style="left:30px;top:22px;font:700 28px 'Segoe UI';color:#C9D3E0">Your AI app, step by step</div>
+    <div class="xrow" data-a="fix 1 0.9 fade" style="top:82px">🔎 Search</div>
+    <div class="xrow" data-a="fix 1 1.4 fade" style="top:146px">🛠️ Tool call</div>
+    <div class="xrow" data-a="fix 1 1.9 fade" style="top:210px">🤖 Model call</div>
+  </div>
+  <div class="chip" data-a="fix 2 0.3 pop" style="left:150px;top:690px;background:#4FD1C5">🏠 Free to self-host</div>
+  <div class="chip" data-a="fix 2 2.2 pop" style="left:520px;top:690px;background:#D9A441">⭐ <span data-count="fix 2 2.2 1.4 11918 comma">0</span> GitHub stars</div>
+</div>
+
+<div class="scene" id="s-how">
+  <div class="term" data-a="how 0 0 fade" style="left:120px;top:170px;width:880px;height:380px"></div>
+  <div class="code violet" data-a="how 0 0.4 type 0.5" style="left:156px;top:236px">from phoenix.otel import register</div>
+  <div class="code teal" data-a="how 0 1.0 type 0.2" style="left:156px;top:316px">register(</div>
+  <div class="code gold" data-a="how 0 1.2 type 0.5" style="left:156px;top:356px">    project_name="tracing-quickstart",</div>
+  <div class="code gold" data-a="how 0 1.7 type 0.4" style="left:156px;top:396px">    protocol="http/protobuf",</div>
+  <div class="code gold" data-a="how 0 2.1 type 0.3" style="left:156px;top:436px">    auto_instrument=True,</div>
+  <div class="code teal" data-a="how 0 2.4 type 0.1" style="left:156px;top:476px">)</div>
+  <div class="lbl" data-a="how 0 0.6 fade" style="left:120px;top:562px">From the Phoenix tracing quickstart (Python)</div>
+  <div class="chip" data-a="how 0 2.8 pop" style="left:120px;top:628px;background:#4FD1C5">📡 Traces over OpenTelemetry</div>
+  <div class="chip" data-a="how 0 4.4 pop" style="left:620px;top:628px;background:#F7F5F0">🔓 An open standard</div>
+  <div class="arrow" data-a="how 0 3.2 left" style="left:1030px;top:330px">→</div>
+  <div class="paper" data-a="how 0 3.4 pop" style="left:1150px;top:165px;width:560px;height:693px;overflow:hidden;background:#111"><img src="shot-tree.png" style="width:560px;display:block">
+    <div class="credit" style="top:8px;right:8px">Screenshot: Phoenix docs (older version)</div>
+    <div class="ring" data-a="how 1 0.3 pop" style="left:6px;top:166px;width:452px;height:524px;border-color:#D9A441"></div>
+    <div class="ring" data-a="how 1 2.4 pop" style="left:110px;top:58px;width:90px;height:50px"></div>
+    <div class="ring" data-a="how 1 2.6 pop" style="left:236px;top:238px;width:50px;height:34px"></div>
+    <div class="ring" data-a="how 1 3.2 pop" style="left:340px;top:652px;width:100px;height:36px"></div>
+  </div>
+  <div class="chip" data-a="how 1 0.3 pop" style="left:120px;top:744px;background:#D9A441">🌳 One tree per request</div>
+  <div class="chip" data-a="how 1 2.4 pop" style="left:560px;top:744px;background:#3FBF7F">⏱️ Timings</div>
+  <div class="chip" data-a="how 1 3.2 pop" style="left:800px;top:744px;background:#3FBF7F">🔢 Tokens</div>
+</div>
+
+<div class="scene" id="s-uses">
+  <div class="ucard" data-a="uses 0 0 pop">
+    <div class="num">1</div><div class="ctitle">Find the broken step</div>
+    <div class="mini" data-a="uses 0 2.0 left" style="top:220px">📄 Which documents came back</div>
+    <div class="mini" data-a="uses 0 3.4 left" style="top:296px">🛠️ Which tool ran</div>
+    <div class="mini" data-a="uses 0 4.6 left" style="top:372px">✉️ What the model was sent</div>
+    <div class="shot" data-a="uses 0 0.5 fade" style="top:130px;height:308px"><img src="shot-trace.png" style="width:940px">
+      <div class="credit">Screenshot: Phoenix docs (older version)</div>
+      <div class="ring" data-a="uses 0 2.0 pop" style="left:30px;top:134px;width:210px;height:52px"></div>
+      <div class="ring" data-a="uses 0 4.6 pop" style="left:290px;top:177px;width:642px;height:100px"></div>
+    </div>
+    <div class="lbl" data-a="uses 0 1.0 fade" style="left:520px;top:458px;width:940px;line-height:1.4">Each step keeps its inputs, outputs, time and tokens: a retriever's documents, a tool's arguments, the model's messages.</div>
+  </div>
+
+  <div class="dim" data-a="uses 1 0 fade 0.3"></div>
+  <div class="ucard" data-a="uses 1 0 pop">
+    <div class="num">2</div><div class="ctitle">Grade the answers</div>
+    <div class="mini" data-a="uses 1 2.6 left" style="top:220px">⚖️ Ready-made judges</div>
+    <div class="mini" data-a="uses 1 4.2 left" style="top:296px">🌀 Hallucination</div>
+    <div class="mini" data-a="uses 1 5.2 left" style="top:372px">✅ Correctness</div>
+    <div class="mini" data-a="uses 1 6.1 left" style="top:448px">🛠️ Tool choice</div>
+    <div class="shot" data-a="uses 1 0.5 fade" style="background:#f4f5f8">
+      <div class="pill" style="left:24px;top:20px;background:#e3e6ee;color:#4a5470">Example answer</div>
+      <div class="vrow" style="top:66px;background:#eef1f6">🧑 “Where's my order?”</div>
+      <div class="vrow" style="top:130px;background:#eef1f6">🤖 “It arrives Monday.”</div>
+      <div class="pill" data-a="uses 1 2.6 fade" style="left:24px;top:206px;background:#fde7b8;color:#7a5200">⚖️ A judge model scores it · example</div>
+      <div class="vrow" data-a="uses 1 4.2 left" style="top:252px">Hallucination<b class="coral">❌ not in the docs</b></div>
+      <div class="vrow" data-a="uses 1 5.2 left" style="top:316px">Correctness<b class="coral">❌ wrong date</b></div>
+      <div class="vrow" data-a="uses 1 6.1 left" style="top:380px">Tool choice<b class="green">✅ right tool</b></div>
+      <div class="abs" data-a="uses 1 1.2 fade" style="left:0;top:456px;width:940px;height:84px;background:#111"><img src="shot-feedback.png" style="position:absolute;left:10px;top:10px;width:600px">
+        <div class="abs" style="left:626px;top:20px;width:306px;font:600 16px 'Segoe UI';color:#C9D3E0;line-height:1.4;white-space:nowrap">Eval labels on a trace<br>Screenshot: Phoenix docs (older version)</div></div>
+    </div>
+  </div>
+
+  <div class="dim" data-a="uses 2 0 fade 0.3"></div>
+  <div class="ucard" data-a="uses 2 0 pop">
+    <div class="num">3</div><div class="ctitle">Test a fix first</div>
+    <div class="mini" data-a="uses 2 2.8 left" style="top:220px">▶️ Replay a traced call</div>
+    <div class="mini" data-a="uses 2 5.2 left" style="top:296px">📚 Run it over saved examples</div>
+    <div class="mini" data-a="uses 2 7.4 left" style="top:372px">📊 Compare with the last run</div>
+    <div class="shot" data-a="uses 2 0.5 fade" style="height:455px;top:60px"><img src="shot-playground.png" style="width:940px">
+      <div class="credit">Screenshot: Phoenix docs (older version)</div>
+      <div class="ring" data-a="uses 2 3.4 pop" style="left:26px;top:96px;width:906px;height:62px"></div>
+      <div class="abs" data-a="uses 2 7.4 pop" style="left:470px;top:286px;width:446px;height:150px;border-radius:16px;background:#F7F5F0;color:#14213D;box-shadow:0 20px 50px rgba(0,0,0,.6);padding:16px 22px;font:600 26px 'Segoe UI';line-height:1.55">
+        <div style="font:700 20px 'Segoe UI';color:#6b7590;letter-spacing:2px;text-transform:uppercase">Experiment · example</div>
+        Last run: <span class="coral">❌ wrong date</span><br>New prompt: <span class="green">✅ right date</span></div>
+    </div>
+    <div class="lbl" data-a="uses 2 1.0 fade" style="left:520px;top:530px">The playground: three prompt versions on one question</div>
+  </div>
+</div>
+
+<div class="scene" id="s-catch">
+  <div class="abs serif h2 coral" data-a="catch 0 0 show" style="left:140px;top:160px">The catch</div>
+  <div class="cbar" data-a="catch 1 0.2 left" style="top:290px">⚖️ Licence: Elastic License 2.0 (source-available)<span class="tag" data-a="catch 1 2.6 pop" style="background:#FF7A59">Not OSI open source</span></div>
+  <div class="cbar" data-a="catch 1 4.6 left" style="top:405px">🏠 Self-hosting is free, with no paid features<span class="tag" data-a="catch 1 5.4 pop" style="background:#3FBF7F">✅ Free</span></div>
+  <div class="cbar" data-a="catch 1 6.2 left" style="top:520px">🚫 Offering it to others as a hosted service<span class="tag" data-a="catch 1 8.0 pop" style="background:#FF7A59">Not allowed</span></div>
+
+  <div class="dimfull" data-a="catch 2 0 fade 0.3"></div>
+  <div class="abs serif h2 coral" data-a="catch 2 0 show" style="left:140px;top:160px">The catch</div>
+  <div class="cbar" data-a="catch 2 0.1 left" style="top:290px">🔓 Login is off by default<span class="tag" data-a="catch 2 2.2 pop" style="background:#D9A441">Switch it on first</span></div>
+  <div class="code" data-a="catch 2 2.6 type 0.8" style="left:172px;top:400px;color:#8FA0B8">PHOENIX_ENABLE_AUTH=True   PHOENIX_SECRET=&lt;a long random string&gt;</div>
+  <div class="cbar" data-a="catch 2 5.4 left" style="top:470px">🐘 Real workloads: PostgreSQL 14+ and a persistent volume<span class="tag" data-a="catch 2 7.2 pop" style="background:#4FD1C5">Docs recommend</span></div>
+  <div class="cbar" data-a="catch 3 0.1 left" style="top:610px">🚀 Eight major versions in 2026: 13.0 → 20.0<span class="tag" data-a="catch 3 1.4 pop" style="background:#FF7A59">Check the migration guide</span></div>
+</div>
+
+<div class="scene" id="s-fit">
+  <div class="card" data-a="fit 0 0 pop" style="left:140px;top:190px;width:760px;height:440px;border-color:#3FBF7F"></div>
+  <div class="abs" data-a="fit 0 0.2 show" style="left:190px;top:230px;font:800 48px 'Segoe UI';color:#3FBF7F">✅ Worth it</div>
+  <div class="abs sub" data-a="fit 0 0.5 show" style="left:190px;top:320px;width:660px;font-size:40px">Developers building<br>AI apps and agents</div>
+  <div class="abs sub" data-a="fit 0 3.0 show" style="left:190px;top:460px;width:660px;font-size:40px">Tracing and testing on<br><span class="teal">your own servers</span></div>
+  <div class="card" data-a="fit 1 0 pop" style="left:1020px;top:190px;width:760px;height:440px"></div>
+  <div class="abs" data-a="fit 1 0.2 show" style="left:1070px;top:230px;font:800 48px 'Segoe UI';color:#D9A441">🤔 Not built for</div>
+  <div class="abs sub" data-a="fit 1 0.5 show" style="left:1070px;top:320px;width:660px;font-size:40px">Managed alerts and<br>team dashboards</div>
+  <div class="abs" data-a="fit 1 1.6 fade" style="left:1070px;top:470px;width:660px;font:600 28px 'Segoe UI';color:#8FA0B8;line-height:1.35">Per its docs, those are in Arize AX,<br>the maker's commercial platform</div>
+  <div class="chip" data-a="fit 2 0.6 pop" style="left:140px;top:700px;background:#F7F5F0">🔁 Alternative: Langfuse</div>
+</div>
+
+<div class="scene" id="s-try">
+  <div class="abs eyebrow" data-a="try 0 0 fade" style="left:140px;top:170px">Try it</div>
+  <div class="term" data-a="try 0 0.1 fade" style="left:140px;top:230px;width:860px;height:310px"></div>
+  <div class="code teal" data-a="try 0 0.9 type 0.7" style="left:176px;top:300px">$ pip install arize-phoenix</div>
+  <div class="code teal" data-a="try 0 2.3 type 0.5" style="left:176px;top:350px">$ phoenix serve</div>
+  <div class="code" data-a="try 0 3.6 type 0.8" style="left:176px;top:420px;color:#8FA0B8"># then open http://localhost:6006</div>
+  <div class="lbl" data-a="try 0 1.0 fade" style="left:140px;top:556px">From the Phoenix README. Also: uvx arize-phoenix serve, or the Docker image</div>
+  <div class="chip" data-a="try 0 1.2 pop" style="left:1060px;top:240px;font-size:28px;background:#F7F5F0">🐍 Python 3.11 to 3.14</div>
+  <div class="chip" data-a="try 0 3.8 pop" style="left:1060px;top:340px;font-size:28px;background:#4FD1C5">🌐 Opens on port 6006</div>
+  <div class="chip" data-a="try 0 4.6 pop" style="left:1060px;top:440px;font-size:28px;background:#D9A441">🔑 Tracing calls needs your own model key</div>
+  <div class="abs serif h2 gold" data-a="try 1 0 show" style="left:140px;top:700px;width:1640px">What problem should we fix next?</div>
+</div>
+
+<div id="cover"><div class="cv-wrap"><div class="cv-problem">Why did your AI agent get it wrong?</div><div class="cv-tool"><img src="logo.png"><span>Arize Phoenix</span></div><div class="cv-stamp">Fix found · #004</div></div></div><div id="brand">FIX FOUND<span>#004</span></div><div id="chapter"></div><div id="cap"><span></span></div><div id="bar"></div></div>
+<script src="timeline.js"></script>
+<script></script>
+<script>// Shared engine for Fix Found videos. scenes.html marks elements declaratively:
+//   data-a="scene beat offset type [dur]"   type: show | pop | left | right | fade | grow | drop | stamp | type
+//   data-count="scene beat offset dur target [comma]"
+// "type" reveals an element's text one character at a time (for terminal lines).
+// scenes.html may define window.extra(t) for custom motion. render(t) is deterministic (driven by capture.mjs).
+const TL = window.TL, $ = id => document.getElementById(id), W = +document.body.dataset.w;
+const clamp = (x, a = 0, b = 1) => Math.min(b, Math.max(a, x)), P = (t, a, d) => clamp((t - a) / d);
+const out3 = x => 1 - Math.pow(1 - x, 3), back = x => { const c1 = 1.9, c3 = c1 + 1; return 1 + c3 * Math.pow(x - 1, 3) + c1 * Math.pow(x - 1, 2); };
+const S = Object.fromEntries(TL.scenes.map(s => [s.id, s]));
+const B = (id, i = 0) => S[id].beats[Math.min(i, S[id].beats.length - 1)].start;
+const BD = (id, i = 0) => S[id].beats[Math.min(i, S[id].beats.length - 1)].dur;
+const END = id => S[id].start + S[id].dur;
+const NS = 'http://www.w3.org/2000/svg';
+
+function anim(el, p, type) {
+  const e = out3(p);
+  switch (type) {
+    case 'pop': el.style.opacity = clamp(p * 3); el.style.transform = `scale(${p <= 0 ? 0 : back(p)})`; break;
+    case 'left': el.style.opacity = e; el.style.transform = `translateX(${(1 - e) * -160}px)`; break;
+    case 'right': el.style.opacity = e; el.style.transform = `translateX(${(1 - e) * 160}px)`; break;
+    case 'fade': el.style.opacity = e; break;
+    case 'grow': el.style.opacity = p > 0 ? 1 : 0; el.style.transformOrigin = 'left center'; el.style.transform = `scaleX(${e})`; break;
+    case 'drop': el.style.opacity = clamp(p * 3); el.style.transform = `translateY(${(1 - out3(p)) * -260}px) rotate(${(1 - e) * 12}deg)`; break;
+    case 'stamp': el.style.opacity = clamp(p * 4); el.style.transform = `scale(${p <= 0 ? 2.4 : 2.4 - 1.4 * out3(p)}) rotate(-6deg)`; break;
+    case 'type': el.style.opacity = p > 0 ? 1 : 0; el.textContent = el._full.slice(0, Math.round(el._full.length * p)); break;
+    default: el.style.opacity = e; el.style.transform = `translateY(${(1 - e) * 40}px)`;
+  }
+}
+const ANIM = [...document.querySelectorAll('[data-a]')].map(el => { const [s, b, o, ty, d] = el.dataset.a.split(' ');
+  if (ty === 'type') el._full = el.textContent;
+  return { el, s, b: +b, o: +o, ty: ty || 'show', d: +(d || (ty === 'type' ? 1.2 : 0.55)) }; });
+const COUNT = [...document.querySelectorAll('[data-count]')].map(el => { const [s, b, o, d, n, f] = el.dataset.count.split(' ');
+  return { el, s, b: +b, o: +o, d: +d, n: +n, f }; });
+
+window.render = function (t) {
+  $('dots').style.transform = `translate(${-(t * 9) % 44}px,${-(t * 5) % 44}px)`;
+  $('bar').style.width = (W * clamp(t / TL.total)) + 'px';
+  let chap = ''; const last = TL.scenes[TL.scenes.length - 1];
+  for (const s of TL.scenes) { const el = $('s-' + s.id); if (!el) continue;
+    const fi = s.start === 0 ? 1 : P(t, s.start, .4), fo = s === last ? 1 : 1 - P(t, s.start + s.dur - .4, .4), o = Math.min(fi, fo);
+    el.style.opacity = o; el.style.visibility = o > 0 ? 'visible' : 'hidden'; if (o > .5 && s.label) chap = s.label; }
+  $('chapter').textContent = chap;
+  const cv = $('cover'); if (cv) { const o = 1 - P(t, 0.45, 0.35); cv.style.opacity = o; cv.style.visibility = o > 0 ? 'visible' : 'hidden'; }
+  for (const a of ANIM) anim(a.el, P(t, B(a.s, a.b) + a.o, a.d), a.ty);
+  for (const c of COUNT) { const v = Math.round(c.n * out3(P(t, B(c.s, c.b) + c.o, c.d))); c.el.textContent = c.f === 'comma' ? v.toLocaleString('en-US') : v; }
+  // burned-in captions: the chunk being spoken, from timeline.json
+  const cap = TL.captions.find(c => t >= c.start && t < c.end), span = $('cap').firstElementChild;
+  span.textContent = cap ? cap.text : ''; $('cap').style.opacity = cap ? 1 : 0;
+  if (window.extra) window.extra(t);
+};
+// keep chips on the same row from overlapping (emoji widths vary)
+document.querySelectorAll('.scene').forEach(sc => {
+  const rows = {}; [...sc.children].filter(e => e.classList.contains('chip') && e.style.left).forEach(e => (rows[e.style.top] = rows[e.style.top] || []).push(e));
+  Object.values(rows).forEach(r => { r.sort((a, b) => a.offsetLeft - b.offsetLeft);
+    for (let i = 1; i < r.length; i++) { const min = r[i - 1].offsetLeft + r[i - 1].offsetWidth + 22; if (r[i].offsetLeft < min) r[i].style.left = min + 'px'; } });
+});
+window.render(0);
+</script>
+</body></html>

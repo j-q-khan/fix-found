@@ -1,0 +1,63 @@
+<style>
+.row{position:absolute;left:60px;width:880px;height:104px;border-radius:18px;background:#1E2F52;border:3px solid #2e4677;display:flex;align-items:center;padding:0 30px;font:700 44px 'Segoe UI';white-space:nowrap}
+.row .st{margin-left:auto;font:700 34px 'Segoe UI'}
+.lbl{position:absolute;font:700 32px 'Segoe UI';letter-spacing:4px;text-transform:uppercase;color:#D9A441}
+.ex{color:#8FA0B8;letter-spacing:3px}
+.credit{position:absolute;right:8px;top:8px;padding:4px 12px;border-radius:8px;background:rgba(8,14,28,.85);color:#C9D3E0;font:600 18px 'Segoe UI';white-space:nowrap}
+.ring{position:absolute;border:5px solid #3FBF7F;border-radius:10px}
+.ccard{position:absolute;left:60px;width:880px;border-radius:24px;background:#1E2F52;border:3px solid #2e4677;padding:30px 34px;font:700 44px 'Segoe UI';line-height:1.25}
+.qq{position:absolute;top:960px;padding:12px 26px;border-radius:999px;background:#FF7A59;color:#14213D;font:800 36px 'Segoe UI';white-space:nowrap}
+</style>
+
+<div class="scene" id="s-problem">
+  <div class="abs serif h2" data-a="problem 0 0 show" style="left:60px;top:250px;width:900px;font-size:72px">Your AI agent<br>got it <span class="coral">wrong.</span> Why?</div>
+  <div class="lbl" data-a="problem 1 0 fade" style="left:60px;top:462px">A support agent <span class="ex">· example</span></div>
+  <div class="row" data-a="problem 1 0 left" style="top:520px">🔎 Searched the docs</div>
+  <div class="row" data-a="problem 1 1.2 left" style="top:650px">🛠️ Called a tool</div>
+  <div class="row" data-a="problem 1 2.3 left" style="top:780px;background:#6b2d2d;border-color:#8a3a3a">🤖 Answered badly<span class="st">❌</span></div>
+  <div class="qq" data-a="problem 1 3.9 pop" style="left:60px">Search?</div>
+  <div class="qq" data-a="problem 1 4.9 pop" style="left:330px">Prompt?</div>
+  <div class="qq" data-a="problem 1 5.7 pop" style="left:600px">Model?</div>
+</div>
+
+<div class="scene" id="s-fix">
+  <div class="stamp" data-a="fix 0 0 stamp" style="left:90px;top:290px">Fix found · #{{N}}</div>
+  <div class="abs serif h1" data-a="fix 0 0.7 show" style="left:70px;top:460px">Arize<br>Phoenix</div>
+  <div class="abs" data-a="fix 0 0.9 pop" style="left:660px;top:480px;width:260px;height:260px;border-radius:44px;background:#fff;box-shadow:0 30px 90px rgba(0,0,0,.5);overflow:hidden"><img src="logo.png" style="width:100%;height:100%;object-fit:contain"></div>
+  <div class="abs sub" data-a="fix 0 2.0 show" style="left:70px;top:790px;width:860px;font-size:52px">🩻 An <span class="gold">X-ray</span> for<br>your AI app</div>
+  <div class="chip" data-a="fix 0 4.5 pop" style="left:70px;top:970px;background:#4FD1C5">🏠 Free to self-host</div>
+  <div class="chip" data-a="fix 0 5.6 pop" style="left:70px;top:1070px;background:#D9A441">⭐ <span data-count="fix 0 5.6 1.2 11918 comma">0</span> GitHub stars</div>
+</div>
+
+<div class="scene" id="s-use">
+  <div class="lbl" data-a="use 0 0 fade" style="left:60px;top:240px">Every request: a tree of steps</div>
+  <div class="paper" data-a="use 0 0.2 pop" style="left:120px;top:300px;width:540px;height:669px;overflow:hidden;background:#111"><img src="shot-tree.png" style="width:540px;display:block">
+    <div class="credit">Screenshot: Phoenix docs (older version)</div>
+    <div class="ring" data-a="use 0 2.6 pop" style="left:66px;top:226px;width:214px;height:38px"></div>
+    <div class="ring" data-a="use 0 4.2 pop" style="left:214px;top:626px;width:110px;height:40px"></div>
+    <div class="ring" data-a="use 0 5.6 pop" style="left:106px;top:56px;width:87px;height:48px"></div>
+    <div class="ring" data-a="use 0 6.4 pop" style="left:340px;top:628px;width:94px;height:36px"></div>
+  </div>
+  <div class="chip" data-a="use 0 2.6 pop" style="left:700px;top:520px;background:#F7F5F0;font-size:30px">🔎 search</div>
+  <div class="chip" data-a="use 0 4.2 pop" style="left:700px;top:610px;background:#F7F5F0;font-size:30px">🤖 model</div>
+  <div class="chip" data-a="use 0 5.6 pop" style="left:700px;top:700px;background:#3FBF7F;font-size:30px">⏱️ time</div>
+  <div class="chip" data-a="use 0 6.4 pop" style="left:700px;top:790px;background:#3FBF7F;font-size:30px">🔢 tokens</div>
+  <div class="chip" data-a="use 1 1.5 pop" style="left:60px;top:996px;background:#D9A441;font-size:32px">🤖 Another model as the judge</div>
+  <div class="chip" data-a="use 1 3.4 pop" style="left:60px;top:1074px;background:#F7F5F0;font-size:32px">🧮 Or simple code checks</div>
+  <div class="chip" data-a="use 1 5.0 pop" style="left:60px;top:1152px;background:#4FD1C5;font-size:32px">🧪 Test a fix before you ship</div>
+</div>
+
+<div class="scene" id="s-catch">
+  <div class="abs serif h2 coral" data-a="catch 0 0 show" style="left:70px;top:270px">The catch</div>
+  <div class="ccard" data-a="catch 0 0.9 left" style="top:420px">⚖️ Elastic License 2.0
+    <div class="coral" data-a="catch 0 2.2 fade" style="font:700 38px 'Segoe UI';margin-top:14px">source-available, not OSI open source</div></div>
+  <div class="ccard" data-a="catch 0 3.2 left" style="top:650px">🚫 Can't offer it to others
+    <div class="gold" data-a="catch 0 4.6 fade" style="font:700 38px 'Segoe UI';margin-top:14px">as a hosted service</div></div>
+  <div class="ccard" data-a="catch 1 0 left" style="top:880px">🔓 Login is off by default
+    <div class="teal" data-a="catch 1 1.2 fade" style="font:700 34px 'Segoe UI';margin-top:14px">switch it on: PHOENIX_ENABLE_AUTH</div></div>
+</div>
+
+<div class="scene" id="s-ask">
+  <div class="abs serif h2 gold" data-a="ask 0 0 show" style="left:70px;top:520px;width:860px">What problem should we fix next?</div>
+  <div class="abs sub" data-a="ask 0 0.8 show" style="left:70px;top:900px;width:860px">👇 Tell us in the comments</div>
+</div>

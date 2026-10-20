@@ -1,0 +1,140 @@
+1
+00:00:00,300 --> 00:00:03,997
+Your AI agent searches the help docs, calls a tool, and still
+
+2
+00:00:03,997 --> 00:00:06,557
+gives a customer the wrong delivery date.
+
+3
+00:00:06,617 --> 00:00:09,444
+Was it the search, the prompt, or the model?
+
+4
+00:00:09,504 --> 00:00:11,331
+Without a trace, you're guessing.
+
+5
+00:00:11,581 --> 00:00:14,568
+Fix found: Arize Phoenix.
+
+6
+00:00:14,628 --> 00:00:17,612
+Think of it as an X-ray for your AI app.
+
+7
+00:00:17,672 --> 00:00:21,263
+It's free to run yourself, with almost twelve thousand GitHub
+
+8
+00:00:21,263 --> 00:00:21,815
+stars.
+
+9
+00:00:22,065 --> 00:00:25,454
+Add a few lines to your app, and it sends traces over
+
+10
+00:00:25,454 --> 00:00:27,595
+OpenTelemetry, an open standard.
+
+11
+00:00:27,655 --> 00:00:31,445
+Each request becomes a tree of steps, with timings and tokens
+
+12
+00:00:31,445 --> 00:00:32,436
+for each one.
+
+13
+00:00:32,686 --> 00:00:36,890
+One. Find the broken step: which documents came back, which tool
+
+14
+00:00:36,890 --> 00:00:39,178
+ran, and what the model was sent.
+
+15
+00:00:39,238 --> 00:00:43,061
+Two. Grade the answers. Ready-made judges check for
+
+16
+00:00:43,061 --> 00:00:46,329
+hallucination, correctness and tool choice.
+
+17
+00:00:46,389 --> 00:00:50,489
+Three. Test a fix before you ship. Replay a traced call with a
+
+18
+00:00:50,489 --> 00:00:54,590
+new prompt, or run a change over saved examples and compare it
+
+19
+00:00:54,590 --> 00:00:55,957
+with the last run.
+
+20
+00:00:56,207 --> 00:00:57,795
+Now, the catch.
+
+21
+00:00:57,855 --> 00:01:01,589
+Its makers call it open source, but the server is under the
+
+22
+00:01:01,589 --> 00:01:05,441
+Elastic License: free to self-host, but you can't offer it to
+
+23
+00:01:05,441 --> 00:01:07,278
+others as a hosted service.
+
+24
+00:01:07,338 --> 00:01:11,309
+Login is off by default, so switch it on before anyone else can
+
+25
+00:01:11,309 --> 00:01:15,279
+reach it. For real workloads, the docs recommend Postgres and a
+
+26
+00:01:15,279 --> 00:01:16,583
+persistent volume.
+
+27
+00:01:16,643 --> 00:01:19,866
+And it moves fast: eight major versions this year.
+
+28
+00:01:20,116 --> 00:01:23,841
+It's for developers building AI apps and agents who want tracing
+
+29
+00:01:23,841 --> 00:01:25,867
+and testing on their own servers.
+
+30
+00:01:25,927 --> 00:01:29,412
+If you need managed alerts and team dashboards, it's not built
+
+31
+00:01:29,412 --> 00:01:30,099
+for that.
+
+32
+00:01:30,159 --> 00:01:33,449
+Want an alternative? Take a look at Langfuse.
+
+33
+00:01:33,699 --> 00:01:37,811
+To try it, install it with pip, run phoenix serve, and open it
+
+34
+00:01:37,811 --> 00:01:39,057
+in your browser.
+
+35
+00:01:39,117 --> 00:01:42,747
+What problem should we fix next? Tell us in the comments.
+

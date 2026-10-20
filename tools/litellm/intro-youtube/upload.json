@@ -1,0 +1,28 @@
+{
+ "video": "renders/Fix Found 005 - Who spent your AI budget - LiteLLM (YouTube).mp4",
+ "title": "Who spent your AI budget? LiteLLM tracks and caps it",
+ "description": "LiteLLM is an open-source AI gateway and Python SDK (open core) for calling 100+ LLM providers, including OpenAI, Anthropic, Gemini and Bedrock, in one OpenAI-compatible format, with a virtual key per team, budgets, rate limits, spend tracking and fallbacks.\nIt's a self-hosted LLM gateway with an MIT-licensed core; SSO beyond 5 users, audit logs and other enterprise features need a paid licence.\n\nIn this video:\n- What LiteLLM is and how the gateway works (one endpoint in the OpenAI format; it checks the key, routes the call and logs the cost)\n- 3 real uses: switch models without rewriting code, give each team its own key and budget, stay up when a provider fails\n- The catch: the open-core licence, the Postgres (and Redis) it needs, and its weekly release pace\n- Who it's for, an alternative, and how to try it\n\nThree real uses:\n1. Switch models without rewriting code: the same completion() call in Python, or the OpenAI SDK pointed at the gateway, reaches OpenAI, Anthropic, Gemini, Bedrock, Azure and the rest of its 100+ providers. You change the model name.\n2. A key per team: virtual keys with their own allowed models, max_budget, budget_duration and rpm/tpm rate limits. Spend is logged per request, key, team and user. Once a key passes its budget, its requests fail.\n3. Stay up when a provider fails: retries, load balancing across deployments, and fallbacks to another model, set in config.yaml (num_retries, fallbacks).\n\nThe catch: LiteLLM is open core. Code outside the enterprise/ folder is MIT; the enterprise/ folder is under a commercial licence that needs a paid subscription for production use, and the enterprise features are unlocked by a licence key in the same image. Paid features include SSO and SCIM (SSO is free for up to 5 users), audit logs, secret managers, per-team logging, spend reports, guardrails per key or team, and key rotation. Virtual keys, budgets and spend tracking need a Postgres database: without one, virtual keys don't work and budgets aren't enforced. Once you run more than one copy of the gateway, the docs say to add Redis 7.0 or newer so rate limits are shared. It moves fast: a new minor version every week (six since mid-September, up to 1.106.0), so pin the version you run, as the docs recommend. Keep the master key and salt key safe: the master key gives full admin access, and changing the salt key makes stored provider keys unreadable.\n\nTry it (the Docker quick start in the docs):\ncurl -sSLO https://github.com/BerriAI/litellm/raw/main/docker/docker-compose.quickstart.yml\nCreate a .env file with a LITELLM_MASTER_KEY and a LITELLM_SALT_KEY, as the quick start shows, then run:\ndocker compose -f docker-compose.quickstart.yml up -d\nIt starts the gateway on port 4000 and a Postgres database. Open http://localhost:4000/ui and sign in as admin with your master key. You need your own provider API key.\nPython SDK only (Python 3.10 to 3.14): uv add litellm\n\nLinks:\nRepo: https://github.com/BerriAI/litellm\nDocs: https://docs.litellm.ai/docs/\nGateway quick start: https://docs.litellm.ai/docs/proxy/docker_quick_start\nProduction setup: https://docs.litellm.ai/docs/proxy/prod\nEnterprise features: https://docs.litellm.ai/docs/enterprise\nLicence: https://github.com/BerriAI/litellm/blob/main/LICENSE\nAlternative: Portkey Gateway, https://github.com/Portkey-AI/gateway\n\nFacts checked 2026-10-20 (LiteLLM 1.106.0, 61,655 GitHub stars). An open-source (open-core) option to consider, not an endorsement. Not affiliated with BerriAI, LiteLLM or Portkey.\nNarration: AI voice.\n\n#LiteLLM #LLMGateway #AIGateway",
+ "tags": [
+  "litellm",
+  "litellm tutorial",
+  "litellm proxy",
+  "llm gateway",
+  "ai gateway",
+  "openai compatible api",
+  "llm api",
+  "llm cost tracking",
+  "ai spend tracking",
+  "virtual keys",
+  "llm load balancing",
+  "llm fallbacks",
+  "openai",
+  "anthropic",
+  "gemini",
+  "aws bedrock",
+  "self hosted ai gateway",
+  "portkey alternative",
+  "python llm sdk",
+  "fix found"
+ ],
+ "thumbnail": "thumb.jpg"
+}

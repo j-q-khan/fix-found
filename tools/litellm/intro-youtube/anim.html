@@ -1,0 +1,334 @@
+<!doctype html><html><head><meta charset="utf-8"><style>:root{--W:1920px;--H:1080px}:root{--navy:#14213D;--card:#1E2F52;--cream:#F7F5F0;--gold:#D9A441;--slate:#C9D3E0;--muted:#8FA0B8;--teal:#4FD1C5;--coral:#FF7A59;--green:#3FBF7F;--violet:#9F8CFF;--term:#0B1222}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:var(--W);height:var(--H);overflow:hidden;background:var(--navy)}
+#stage{position:relative;width:var(--W);height:var(--H);overflow:hidden;font-family:'Segoe UI',Arial,sans-serif;color:var(--cream);
+  background:radial-gradient(1300px 900px at 75% 15%,#22386a 0%,#14213D 55%,#0e1830 100%)}
+#dots{position:absolute;inset:-60px;background-image:radial-gradient(rgba(201,211,224,.10) 1.6px,transparent 1.8px);background-size:44px 44px}
+.abs{position:absolute}.scene{position:absolute;inset:0;opacity:0}
+[data-a]{opacity:0}
+.serif{font-family:Georgia,serif;font-weight:700}
+.h1{font-size:124px;line-height:1.05}.h2{font-size:76px;line-height:1.12}
+.sub{font-size:46px;font-weight:600;color:var(--slate);line-height:1.3}
+.eyebrow{font-size:30px;letter-spacing:5px;text-transform:uppercase;color:var(--gold);font-weight:700}
+.chip{position:absolute;padding:14px 28px;border-radius:999px;font-size:34px;font-weight:700;white-space:nowrap;color:var(--navy)}
+.card{position:absolute;border-radius:28px;background:var(--card);border:3px solid #2e4677}
+.paper{position:absolute;border-radius:22px;background:var(--cream);color:var(--navy);box-shadow:0 26px 70px rgba(0,0,0,.45)}
+.term{position:absolute;border-radius:18px;background:var(--term);border:3px solid #2e4677;font:500 30px Consolas,'Cascadia Mono',monospace;color:#d6e2f0;padding:56px 30px 24px;white-space:pre;overflow:hidden}
+.term::before{content:'';position:absolute;left:24px;top:20px;width:14px;height:14px;border-radius:50%;background:#FF7A59;box-shadow:24px 0 #D9A441,48px 0 #3FBF7F}
+.gold{color:var(--gold)}.teal{color:var(--teal)}.coral{color:var(--coral)}.green{color:var(--green)}.violet{color:var(--violet)}
+.stamp{position:absolute;padding:16px 34px;border:7px solid var(--gold);border-radius:16px;color:var(--gold);font:900 58px 'Segoe UI';letter-spacing:6px;text-transform:uppercase;white-space:nowrap}
+svg{position:absolute;left:0;top:0;overflow:visible}
+#brand{position:absolute;left:70px;top:58px;font:800 28px 'Segoe UI';letter-spacing:6px;color:var(--gold)}
+#brand span{color:var(--muted);font-weight:700;margin-left:14px}
+#chapter{position:absolute;right:110px;top:62px;font-size:28px;letter-spacing:4px;text-transform:uppercase;color:var(--muted);font-weight:700}
+#bar{position:absolute;left:0;bottom:0;height:8px;background:linear-gradient(90deg,var(--teal),var(--gold),var(--coral))}
+#cap{position:absolute;left:50%;transform:translateX(-50%);bottom:64px;max-width:1500px;text-align:center;pointer-events:none}
+#cap span{display:inline;padding:6px 22px;line-height:1.5;border-radius:12px;background:rgba(8,14,28,.82);color:#fff;
+  font:700 44px 'Segoe UI';-webkit-box-decoration-break:clone;box-decoration-break:clone}
+/* start screen (page.py): the problem line and the tool, shown on frame 0 and faded out by common.js */
+#cover{position:absolute;inset:0;background:radial-gradient(1300px 900px at 75% 15%,#22386a 0%,#14213D 55%,#0e1830 100%)}
+.cv-wrap{position:absolute;left:150px;top:150px;width:1620px;height:730px;display:flex;flex-direction:column;justify-content:center;align-items:flex-start;gap:54px}
+.cv-problem{font:900 118px/1.04 'Segoe UI';text-transform:uppercase;letter-spacing:-1px;color:var(--cream)}
+.cv-problem.long{font-size:96px}
+.cv-tool{display:flex;align-items:center;gap:36px}
+.cv-tool img{width:150px;height:150px;border-radius:30px;background:#fff;object-fit:contain}
+.cv-tool span{font:700 96px Georgia,serif;color:var(--teal)}
+.cv-stamp{padding:12px 30px;border:7px solid var(--gold);border-radius:16px;color:var(--gold);font:900 50px 'Segoe UI';letter-spacing:6px;text-transform:uppercase;white-space:nowrap;transform:rotate(-4deg);transform-origin:left center}
+/* 9:16: TikTok's profile grid crops covers to the middle 3:4 (y 240-1680), so everything sits inside it */
+.v .cv-wrap{left:60px;top:300px;width:880px;height:1100px;gap:64px}
+.v .cv-problem{font-size:104px}.v .cv-problem.long{font-size:88px}
+.v .cv-tool img{width:170px;height:170px}
+/* 9:16 (TikTok, Shorts): keep clear of the app's bottom bar and right-hand buttons */
+.v #brand{left:60px;top:110px}.v #chapter{display:none}
+.v #cap{bottom:auto;top:1270px;max-width:880px;left:calc(50% - 50px)}
+.v #cap span{font-size:54px}
+</style></head>
+<body data-w="1920" class="h"><div id="stage"><div id="dots"></div>
+<style>
+.code{font:500 24px Consolas,'Cascadia Mono',monospace;white-space:pre;position:absolute}
+.ex{color:#8FA0B8;letter-spacing:3px}
+.team{position:absolute;top:225px;width:500px;height:330px;border-radius:24px;background:#1E2F52;border:3px solid #2e4677}
+.thead{position:absolute;left:30px;top:26px;font:700 36px 'Segoe UI';white-space:nowrap}
+.trow{position:absolute;left:30px;width:440px;height:62px;border-radius:12px;background:#26395f;font:600 28px 'Segoe UI';display:flex;align-items:center;padding:0 20px;white-space:nowrap}
+.trow .m{font:500 26px Consolas,monospace;color:#C9D3E0}
+.q{position:absolute;padding:8px 22px;border-radius:999px;background:#FF7A59;color:#14213D;font:800 30px 'Segoe UI';white-space:nowrap}
+.bad{position:absolute;padding:8px 20px;border-radius:12px;background:#6b2d2d;color:#fff;font:700 28px 'Segoe UI';white-space:nowrap}
+.gw{position:absolute;left:1120px;top:190px;width:400px;height:400px;border-radius:24px;background:#1E2F52;border:3px solid #D9A441;box-shadow:0 30px 80px rgba(0,0,0,.5)}
+.gwrow{position:absolute;left:24px;width:352px;height:64px;border-radius:12px;background:#26395f;font:600 28px 'Segoe UI';display:flex;align-items:center;padding:0 18px;white-space:nowrap}
+.prov{position:absolute;left:1600px;width:220px;height:62px;border-radius:12px;background:#F7F5F0;color:#14213D;font:700 26px 'Segoe UI';display:flex;align-items:center;justify-content:center;white-space:nowrap}
+.arrow{position:absolute;width:70px;text-align:center;font:700 60px 'Segoe UI';color:#D9A441}
+.ucard{position:absolute;left:210px;top:175px;width:1500px;height:620px;border-radius:28px;background:#1E2F52;border:3px solid #2e4677;box-shadow:0 30px 80px rgba(0,0,0,.55)}
+.num{font:900 84px Georgia,serif;color:#D9A441;position:absolute;left:50px;top:18px}
+.ctitle{position:absolute;left:50px;top:122px;font:700 40px 'Segoe UI';white-space:nowrap}
+.mini{position:absolute;left:50px;width:430px;height:58px;border-radius:12px;background:#26395f;font:600 26px 'Segoe UI';display:flex;align-items:center;padding:0 18px;white-space:nowrap}
+.shot{position:absolute;left:520px;top:40px;width:940px;height:540px;border-radius:16px;overflow:hidden;background:#111}
+.shot img{display:block}
+.credit{position:absolute;right:10px;bottom:10px;padding:4px 12px;border-radius:8px;background:rgba(8,14,28,.88);color:#C9D3E0;font:600 18px 'Segoe UI';white-space:nowrap}
+.ring{position:absolute;border:5px solid #3FBF7F;border-radius:10px}
+.lbl{position:absolute;font:600 20px 'Segoe UI';color:#8FA0B8;white-space:nowrap}
+.fpill{position:absolute;left:640px;width:280px;height:66px;border-radius:14px;display:flex;align-items:center;padding:0 18px;font:700 24px 'Segoe UI';white-space:nowrap}
+.cbar{position:absolute;left:140px;width:1640px;height:96px;border-radius:18px;background:#1E2F52;border:3px solid #2e4677;display:flex;align-items:center;padding:0 30px;font:600 36px 'Segoe UI';white-space:nowrap}
+.tag{margin-left:auto;padding:10px 24px;border-radius:999px;font:700 30px 'Segoe UI';color:#14213D;white-space:nowrap}
+.dim{position:absolute;left:0;top:0;width:1920px;height:1080px;background:rgba(14,24,48,.96)}
+.dimfull{position:absolute;left:0;top:0;width:1920px;height:1080px;background:radial-gradient(1300px 900px at 75% 15%,#22386a 0%,#14213D 55%,#0e1830 100%)}
+.sw{position:absolute;height:52px;border-radius:12px;font:700 24px 'Segoe UI';display:flex;align-items:center;justify-content:center;white-space:nowrap}
+</style>
+
+<div class="scene" id="s-problem">
+  <div class="abs eyebrow" data-a="problem 0 0 fade" style="left:150px;top:160px">Three teams <span class="ex">· example</span></div>
+  <div class="team" data-a="problem 0 0.1 pop" style="left:150px"></div>
+  <div class="thead" data-a="problem 0 0.2 fade" style="left:180px;top:251px">🛟 Support team</div>
+  <div class="trow" data-a="problem 0 0.5 left" style="left:180px;top:330px">🤖 OpenAI</div>
+  <div class="trow" data-a="problem 0 2.7 left" style="left:180px;top:404px">🔑 <span class="m">&nbsp;sk-…a91f</span></div>
+  <div class="trow" data-a="problem 0 3.9 left" style="left:180px;top:478px">🧾 Its own bill</div>
+
+  <div class="team" data-a="problem 0 1.0 pop" style="left:710px"></div>
+  <div class="thead" data-a="problem 0 1.1 fade" style="left:740px;top:251px">🔎 Search team</div>
+  <div class="trow" data-a="problem 0 1.4 left" style="left:740px;top:330px">🤖 Anthropic</div>
+  <div class="trow" data-a="problem 0 2.9 left" style="left:740px;top:404px">🔑 <span class="m">&nbsp;sk-ant-…7c2e</span></div>
+  <div class="trow" data-a="problem 0 4.1 left" style="left:740px;top:478px">🧾 Its own bill</div>
+
+  <div class="team" data-a="problem 0 1.9 pop" style="left:1270px"></div>
+  <div class="thead" data-a="problem 0 2.0 fade" style="left:1300px;top:251px">🛒 Checkout team</div>
+  <div class="trow" data-a="problem 0 2.3 left" style="left:1300px;top:330px">🤖 Gemini</div>
+  <div class="trow" data-a="problem 0 3.1 left" style="left:1300px;top:404px">🔑 <span class="m">&nbsp;AIza…k3Qp</span></div>
+  <div class="trow" data-a="problem 0 4.3 left" style="left:1300px;top:478px">🧾 Its own bill</div>
+
+  <div class="paper" data-a="problem 1 0 drop" style="left:150px;top:610px;width:620px;height:230px;padding:26px 34px">
+    <div style="font:700 24px 'Segoe UI';letter-spacing:3px;text-transform:uppercase;color:#6b7590">🧾 AI invoice · example</div>
+    <div style="font:800 54px 'Segoe UI';margin-top:14px">Total: $4,812.40</div>
+    <div style="font:600 26px 'Segoe UI';color:#6b7590;margin-top:8px">Who spent what? No idea.</div>
+  </div>
+  <div class="q" data-a="problem 1 1.6 pop" style="left:840px;top:640px">Support?</div>
+  <div class="q" data-a="problem 1 2.0 pop" style="left:1060px;top:640px">Search?</div>
+  <div class="q" data-a="problem 1 2.4 pop" style="left:1260px;top:640px">Checkout?</div>
+
+  <div class="abs" data-a="problem 2 0.4 pop" style="left:1286px;top:322px;width:468px;height:78px;border:5px solid #FF7A59;border-radius:16px"></div>
+  <div class="bad" data-a="problem 2 0.6 pop" style="left:1560px;top:336px">❌ Down</div>
+  <div class="bad" data-a="problem 2 1.4 left" style="left:840px;top:760px">😟 Checkout is down too</div>
+</div>
+
+<div class="scene" id="s-fix">
+  <div class="stamp" data-a="fix 0 0 stamp" style="left:150px;top:190px">Fix found · #005</div>
+  <div class="abs serif h1" data-a="fix 0 0.7 show" style="left:150px;top:370px">LiteLLM</div>
+  <div class="abs" data-a="fix 0 0.9 pop" style="left:1400px;top:170px;width:320px;height:320px;border-radius:56px;background:#fff;box-shadow:0 30px 90px rgba(0,0,0,.5);overflow:hidden"><img src="logo.png" style="width:100%;height:100%;object-fit:contain"></div>
+  <div class="abs sub" data-a="fix 0 3.0 show" style="left:150px;top:545px;width:980px">🚪 One gateway for <span class="gold">100+</span> AI providers</div>
+  <div class="abs sub" data-a="fix 1 0.1 show" style="left:150px;top:635px;width:980px">🎛️ A <span class="gold">switchboard</span> for your AI calls</div>
+  <div class="card" data-a="fix 1 0.4 pop" style="left:1160px;top:540px;width:620px;height:300px;overflow:hidden">
+    <svg width="620" height="300"><g stroke="#D9A441" stroke-width="4" fill="none" opacity=".9">
+      <path d="M150 74 C 220 74, 240 150, 280 150"/><path d="M150 150 L 280 150"/><path d="M150 226 C 220 226, 240 150, 280 150"/>
+      <path d="M340 150 C 380 150, 400 74, 450 74"/><path d="M340 150 L 450 150"/><path d="M340 150 C 380 150, 400 226, 450 226"/></g></svg>
+    <div class="sw" data-a="fix 1 0.7 fade" style="left:24px;top:48px;width:126px;background:#26395f">App</div>
+    <div class="sw" data-a="fix 1 0.8 fade" style="left:24px;top:124px;width:126px;background:#26395f">App</div>
+    <div class="sw" data-a="fix 1 0.9 fade" style="left:24px;top:200px;width:126px;background:#26395f">App</div>
+    <div class="abs" data-a="fix 1 1.1 pop" style="left:270px;top:110px;width:80px;height:80px;border-radius:50%;background:#D9A441;display:flex;align-items:center;justify-content:center;font-size:40px">🚅</div>
+    <div class="sw" data-a="fix 1 1.5 fade" style="left:450px;top:48px;width:146px;background:#F7F5F0;color:#14213D">OpenAI</div>
+    <div class="sw" data-a="fix 1 1.7 fade" style="left:450px;top:124px;width:146px;background:#F7F5F0;color:#14213D">Anthropic</div>
+    <div class="sw" data-a="fix 1 1.9 fade" style="left:450px;top:200px;width:146px;background:#F7F5F0;color:#14213D">Gemini</div>
+  </div>
+  <div class="chip" data-a="fix 2 0.3 pop" style="left:150px;top:760px;background:#4FD1C5">⚖️ MIT-licensed core</div>
+  <div class="chip" data-a="fix 2 2.4 pop" style="left:560px;top:760px;background:#D9A441">⭐ <span data-count="fix 2 2.4 1.4 61655 comma">0</span> GitHub stars</div>
+</div>
+
+<div class="scene" id="s-how">
+  <div class="term" data-a="how 0 0 fade" style="left:110px;top:180px;width:900px;height:356px"></div>
+  <div class="code violet" data-a="how 0 0.4 type 0.3" style="left:146px;top:246px">import openai</div>
+  <div class="code teal" data-a="how 0 0.8 type 0.5" style="left:146px;top:286px">client = openai.OpenAI(api_key="anything",</div>
+  <div class="code gold" data-a="how 0 1.3 type 0.5" style="left:146px;top:322px">                       base_url="http://0.0.0.0:4000")</div>
+  <div class="code teal" data-a="how 0 1.9 type 0.4" style="left:146px;top:378px">response = client.chat.completions.create(</div>
+  <div class="code teal" data-a="how 0 2.3 type 0.2" style="left:146px;top:414px">    model="gpt-4o",</div>
+  <div class="code teal" data-a="how 0 2.5 type 0.4" style="left:146px;top:450px">    messages=[{"role": "user", "content": "Hello!"}]</div>
+  <div class="code teal" data-a="how 0 2.9 type 0.1" style="left:146px;top:486px">)</div>
+  <div class="ring" data-a="how 0 1.9 pop" style="left:443px;top:316px;width:436px;height:42px;border-color:#D9A441;border-width:4px"></div>
+  <div class="lbl" data-a="how 0 0.6 fade" style="left:110px;top:548px">From the LiteLLM README: the OpenAI Python SDK, pointed at the gateway</div>
+  <div class="chip" data-a="how 0 2.2 pop" style="left:110px;top:600px;background:#F7F5F0">🔌 One endpoint, OpenAI format</div>
+  <div class="chip" data-a="how 0 4.4 pop" style="left:110px;top:690px;background:#4FD1C5;font-size:30px">🐍 Or in Python: <span style="font-family:Consolas,monospace;font-weight:600">from litellm import completion</span></div>
+
+  <div class="arrow" data-a="how 1 0 left" style="left:1030px;top:350px">→</div>
+  <div class="gw" data-a="how 1 0 pop">
+    <div class="abs" style="left:24px;top:22px;font:800 32px 'Segoe UI';color:#D9A441;white-space:nowrap">🚅 LiteLLM gateway</div>
+    <div class="gwrow" data-a="how 1 0.3 left" style="top:96px">🔑 Check the key</div>
+    <div class="gwrow" data-a="how 1 1.5 left" style="top:178px">🧭 Pick the provider</div>
+    <div class="gwrow" data-a="how 1 3.4 left" style="top:260px">💲 Log what it cost</div>
+    <div class="abs" data-a="how 1 3.9 fade" style="left:26px;top:338px;font:600 22px 'Segoe UI';color:#8FA0B8;white-space:nowrap">example: $0.011028 a request</div>
+  </div>
+  <div class="arrow" data-a="how 1 1.7 left" style="left:1525px;top:350px">→</div>
+  <div class="prov" data-a="how 1 1.9 fade" style="top:196px">OpenAI</div>
+  <div class="prov" data-a="how 1 2.0 fade" style="top:272px">Anthropic</div>
+  <div class="prov" data-a="how 1 2.1 fade" style="top:348px">Gemini</div>
+  <div class="prov" data-a="how 1 2.2 fade" style="top:424px">Bedrock</div>
+  <div class="prov" data-a="how 1 2.3 fade" style="top:500px;background:#D9A441">100+ in all</div>
+</div>
+
+<div class="scene" id="s-uses">
+  <div class="ucard" data-a="uses 0 0 pop">
+    <div class="num">1</div><div class="ctitle">Switch models</div>
+    <div class="mini" data-a="uses 0 2.6 left" style="top:220px">🔁 The same call</div>
+    <div class="mini" data-a="uses 0 4.6 left" style="top:296px">🤖 OpenAI, Anthropic, Gemini</div>
+    <div class="mini" data-a="uses 0 7.0 left" style="top:372px">✏️ Change one name</div>
+    <div class="shot" data-a="uses 0 0.5 fade" style="background:transparent;overflow:visible;height:420px">
+      <div class="term" style="left:0;top:0;width:940px;height:400px"></div>
+      <div class="abs" data-a="uses 0 7.0 pop" style="left:232px;top:196px;width:182px;height:34px;border-radius:6px;background:rgba(217,164,65,.30)"></div>
+      <div class="abs" data-a="uses 0 7.15 pop" style="left:232px;top:250px;width:434px;height:34px;border-radius:6px;background:rgba(217,164,65,.30)"></div>
+      <div class="abs" data-a="uses 0 7.3 pop" style="left:232px;top:304px;width:302px;height:34px;border-radius:6px;background:rgba(217,164,65,.30)"></div>
+      <div class="code violet" data-a="uses 0 1.0 type 0.4" style="left:30px;top:62px;font-size:22px">from litellm import completion</div>
+      <div class="code" data-a="uses 0 1.5 type 0.6" style="left:30px;top:122px;color:#d6e2f0;font-size:22px">msgs = [{"role": "user", "content": "Hello!"}]</div>
+      <div class="code teal" data-a="uses 0 3.0 type 0.5" style="left:30px;top:200px;font-size:22px">completion(model="openai/gpt-4o", messages=msgs)</div>
+      <div class="code violet" data-a="uses 0 4.6 type 0.6" style="left:30px;top:254px;font-size:22px">completion(model="anthropic/claude-sonnet-4-20250514", messages=msgs)</div>
+      <div class="code gold" data-a="uses 0 5.6 type 0.5" style="left:30px;top:308px;font-size:22px">completion(model="gemini/gemini-2.5-flash", messages=msgs)</div>
+      <div class="lbl" style="left:0;top:414px">Adapted from the LiteLLM README (shortened). API keys come from environment variables.</div>
+    </div>
+  </div>
+
+  <div class="dim" data-a="uses 1 0 fade 0.3"></div>
+  <div class="ucard" data-a="uses 1 0 pop">
+    <div class="num">2</div><div class="ctitle">A key per team</div>
+    <div class="mini" data-a="uses 1 1.6 left" style="top:220px">🔑 Its own key</div>
+    <div class="mini" data-a="uses 1 3.3 left" style="top:296px">🧠 Its own models</div>
+    <div class="mini" data-a="uses 1 4.0 left" style="top:372px">💰 A budget</div>
+    <div class="mini" data-a="uses 1 4.6 left" style="top:448px">⏱️ A rate limit</div>
+    <div class="mini" data-a="uses 1 6.0 left" style="top:524px;background:#6b2d2d">⛔ Over budget: requests fail</div>
+    <div class="shot" data-a="uses 1 0.5 fade" style="height:306px;width:910px;top:60px;background:transparent"><img src="shot-keys.png" style="width:900px">
+      <div class="ring" data-a="uses 1 1.6 pop" style="left:0;top:30px;width:228px;height:276px"></div>
+      <div class="ring" data-a="uses 1 4.0 pop" style="left:730px;top:30px;width:180px;height:276px;border-color:#D9A441"></div>
+    </div>
+    <div class="lbl" data-a="uses 1 0.5 fade" style="left:520px;top:372px">Screenshot: LiteLLM docs · sample data</div>
+    <div class="term" data-a="uses 1 6.0 fade" style="left:520px;top:412px;width:940px;height:142px;padding:0"></div>
+    <div class="code coral" data-a="uses 1 6.2 type 0.6" style="left:550px;top:454px;font-size:22px">Authentication Error, ExceededTokenBudget:</div>
+    <div class="code coral" data-a="uses 1 6.6 type 0.8" style="left:550px;top:488px;font-size:22px">Current spend for token: 7.2e-05; Max Budget for Token: 2e-07</div>
+    <div class="lbl" data-a="uses 1 6.0 fade" style="left:520px;top:566px">Example error, from the LiteLLM budgets docs</div>
+  </div>
+
+  <div class="dim" data-a="uses 2 0 fade 0.3"></div>
+  <div class="ucard" data-a="uses 2 0 pop">
+    <div class="num">3</div><div class="ctitle">Stay up</div>
+    <div class="mini" data-a="uses 2 3.6 left" style="top:220px">🔁 Retries</div>
+    <div class="mini" data-a="uses 2 4.4 left" style="top:296px">⚖️ Load balancing</div>
+    <div class="mini" data-a="uses 2 6.0 left" style="top:372px">🛟 Falls back to another model</div>
+    <div class="shot" data-a="uses 2 0.5 fade" style="background:transparent;overflow:visible">
+      <div class="term" style="left:0;top:0;width:610px;height:520px"></div>
+      <div class="code teal" style="left:28px;top:56px;font-size:22px">model_list:</div>
+      <div class="code" style="left:28px;top:90px;font-size:22px;color:#d6e2f0">  - model_name: <span class="gold">main</span></div>
+      <div class="code" style="left:28px;top:124px;font-size:22px;color:#d6e2f0">    litellm_params:</div>
+      <div class="code" style="left:28px;top:158px;font-size:22px;color:#d6e2f0">      model: openai/gpt-4o</div>
+      <div class="code" style="left:28px;top:192px;font-size:22px;color:#8FA0B8">      api_key: os.environ/OPENAI_API_KEY</div>
+      <div class="code" style="left:28px;top:226px;font-size:22px;color:#d6e2f0">  - model_name: <span class="green">backup</span></div>
+      <div class="code" style="left:28px;top:260px;font-size:22px;color:#d6e2f0">    litellm_params:</div>
+      <div class="code" style="left:28px;top:294px;font-size:22px;color:#d6e2f0">      model: anthropic/claude-sonnet-4-20250514</div>
+      <div class="code" style="left:28px;top:328px;font-size:22px;color:#8FA0B8">      api_key: os.environ/ANTHROPIC_API_KEY</div>
+      <div class="code teal" style="left:28px;top:362px;font-size:22px">litellm_settings:</div>
+      <div class="code" style="left:28px;top:396px;font-size:22px;color:#d6e2f0">  num_retries: 3</div>
+      <div class="code" style="left:28px;top:430px;font-size:22px;color:#d6e2f0">  fallbacks: [{"main": ["backup"]}]</div>
+      <div class="ring" data-a="uses 2 3.6 pop" style="left:20px;top:390px;width:230px;height:40px;border-width:4px"></div>
+      <div class="ring" data-a="uses 2 6.0 pop" style="left:20px;top:424px;width:440px;height:40px;border-width:4px;border-color:#D9A441"></div>
+      <div class="lbl" style="left:0;top:530px">Example config, in the format of the LiteLLM reliability docs</div>
+      <div class="lbl" style="left:640px;top:4px;color:#D9A441;letter-spacing:2px">ONE REQUEST · EXAMPLE</div>
+      <div class="fpill" data-a="uses 2 1.4 pop" style="top:44px;background:#F7F5F0;color:#14213D">💬 Ask “main”</div>
+      <div class="fpill" data-a="uses 2 2.2 pop" style="top:130px;background:#6b2d2d;color:#fff">❌ Provider error 429</div>
+      <div class="fpill" data-a="uses 2 3.6 pop" style="top:216px;background:#26395f;color:#fff">🔁 Retried 3 times</div>
+      <div class="fpill" data-a="uses 2 6.0 pop" style="top:302px;background:#3FBF7F;color:#14213D">🛟 Sent to “backup”</div>
+      <div class="fpill" data-a="uses 2 6.8 pop" style="top:388px;background:#F7F5F0;color:#14213D">✅ Answer returned</div>
+    </div>
+  </div>
+</div>
+
+<div class="scene" id="s-catch">
+  <div class="abs serif h2 coral" data-a="catch 0 0 show" style="left:140px;top:160px">The catch</div>
+  <div class="cbar" data-a="catch 1 0.1 left" style="top:290px">⚖️ Core: MIT · <span style="font-family:Consolas,monospace;margin:0 10px">enterprise/</span> folder: commercial<span class="tag" data-a="catch 1 0.8 pop" style="background:#D9A441">Open core</span></div>
+  <div class="cbar" data-a="catch 1 1.6 left" style="top:405px">🔐 SSO past 5 users · audit logs · secret managers<span class="tag" data-a="catch 1 5.4 pop" style="background:#FF7A59">Paid licence</span></div>
+  <div class="cbar" data-a="catch 2 0.1 left" style="top:520px">🐘 Keys, budgets, spend tracking<span class="tag" data-a="catch 2 2.6 pop" style="background:#4FD1C5">Need Postgres</span></div>
+  <div class="cbar" data-a="catch 2 3.6 left" style="top:635px">🧱 More than one copy of the gateway<span class="tag" data-a="catch 2 5.0 pop" style="background:#4FD1C5">Redis 7+ too</span></div>
+
+  <div class="dimfull" data-a="catch 3 0 fade 0.3"></div>
+  <div class="abs serif h2 coral" data-a="catch 3 0 show" style="left:140px;top:160px">The catch</div>
+  <div class="cbar" data-a="catch 3 0.2 left" style="top:330px">🚀 A new minor version every week<span class="tag" data-a="catch 3 1.2 pop" style="background:#D9A441">1.101 → 1.106 since mid-September</span></div>
+  <div class="cbar" data-a="catch 3 2.6 left" style="top:445px">📌 The docs: pin the latest stable release<span class="tag" data-a="catch 3 3.2 pop" style="background:#FF7A59">Pin your version</span></div>
+</div>
+
+<div class="scene" id="s-fit">
+  <div class="card" data-a="fit 0 0 pop" style="left:140px;top:190px;width:760px;height:440px;border-color:#3FBF7F"></div>
+  <div class="abs" data-a="fit 0 0.2 show" style="left:190px;top:230px;font:800 48px 'Segoe UI';color:#3FBF7F">✅ Worth it</div>
+  <div class="abs sub" data-a="fit 0 0.5 show" style="left:190px;top:320px;width:660px;font-size:40px">Platform teams sharing many<br>models across many apps</div>
+  <div class="abs sub" data-a="fit 0 3.6 show" style="left:190px;top:460px;width:660px;font-size:40px">Python developers who want<br><span class="teal">one way to call them</span></div>
+  <div class="card" data-a="fit 1 0 pop" style="left:1020px;top:190px;width:760px;height:440px"></div>
+  <div class="abs" data-a="fit 1 0.2 show" style="left:1070px;top:230px;font:800 48px 'Segoe UI';color:#D9A441">🤔 Probably too much</div>
+  <div class="abs sub" data-a="fit 1 0.5 show" style="left:1070px;top:320px;width:660px;font-size:40px">One app and<br>one provider</div>
+  <div class="chip" data-a="fit 2 0.8 pop" style="left:140px;top:700px;background:#F7F5F0">🔁 Alternative: Portkey Gateway</div>
+</div>
+
+<div class="scene" id="s-try">
+  <div class="abs eyebrow" data-a="try 0 0 fade" style="left:140px;top:170px">Try it</div>
+  <div class="term" data-a="try 0 0.1 fade" style="left:140px;top:230px;width:1640px;height:300px"></div>
+  <div class="code teal" data-a="try 0 1.0 type 0.8" style="left:174px;top:296px;font-size:22px">$ curl -sSLO https://github.com/BerriAI/litellm/raw/main/docker/docker-compose.quickstart.yml</div>
+  <div class="code teal" data-a="try 0 1.8 type 0.9" style="left:174px;top:340px;font-size:22px">$ printf 'LITELLM_MASTER_KEY=sk-%s\nLITELLM_SALT_KEY=sk-%s\n' "$(openssl rand -hex 32)" "$(openssl rand -hex 32)" &gt; .env</div>
+  <div class="code teal" data-a="try 0 2.7 type 0.6" style="left:174px;top:384px;font-size:22px">$ docker compose -f docker-compose.quickstart.yml up -d</div>
+  <div class="code" data-a="try 0 6.6 type 0.7" style="left:174px;top:448px;font-size:22px;color:#8FA0B8"># then open http://localhost:4000/ui   (user: admin, password: your master key)</div>
+  <div class="lbl" data-a="try 0 1.0 fade" style="left:140px;top:544px;font-size:22px">From the LiteLLM Docker quick start in its docs. Keep the .env file: it holds your master key and salt key.</div>
+  <div class="chip" data-a="try 0 4.6 pop" style="left:140px;top:596px;font-size:28px;background:#4FD1C5">🐳 Starts the gateway + Postgres</div>
+  <div class="chip" data-a="try 0 6.6 pop" style="left:620px;top:596px;font-size:28px;background:#F7F5F0">🌐 localhost:4000/ui</div>
+  <div class="chip" data-a="try 0 7.4 pop" style="left:960px;top:596px;font-size:28px;background:#D9A441">🔑 Sign in: admin + your master key</div>
+  <div class="abs serif h2 gold" data-a="try 1 0 show" style="left:140px;top:720px;width:1640px">What problem should we fix next?</div>
+</div>
+
+<div id="cover"><div class="cv-wrap"><div class="cv-problem">Who spent your AI budget?</div><div class="cv-tool"><img src="logo.png"><span>LiteLLM</span></div><div class="cv-stamp">Fix found · #005</div></div></div><div id="brand">FIX FOUND<span>#005</span></div><div id="chapter"></div><div id="cap"><span></span></div><div id="bar"></div></div>
+<script src="timeline.js"></script>
+<script></script>
+<script>// Shared engine for Fix Found videos. scenes.html marks elements declaratively:
+//   data-a="scene beat offset type [dur]"   type: show | pop | left | right | fade | grow | drop | stamp | type
+//   data-count="scene beat offset dur target [comma]"
+// "type" reveals an element's text one character at a time (for terminal lines).
+// scenes.html may define window.extra(t) for custom motion. render(t) is deterministic (driven by capture.mjs).
+const TL = window.TL, $ = id => document.getElementById(id), W = +document.body.dataset.w;
+const clamp = (x, a = 0, b = 1) => Math.min(b, Math.max(a, x)), P = (t, a, d) => clamp((t - a) / d);
+const out3 = x => 1 - Math.pow(1 - x, 3), back = x => { const c1 = 1.9, c3 = c1 + 1; return 1 + c3 * Math.pow(x - 1, 3) + c1 * Math.pow(x - 1, 2); };
+const S = Object.fromEntries(TL.scenes.map(s => [s.id, s]));
+const B = (id, i = 0) => S[id].beats[Math.min(i, S[id].beats.length - 1)].start;
+const BD = (id, i = 0) => S[id].beats[Math.min(i, S[id].beats.length - 1)].dur;
+const END = id => S[id].start + S[id].dur;
+const NS = 'http://www.w3.org/2000/svg';
+
+function anim(el, p, type) {
+  const e = out3(p);
+  switch (type) {
+    case 'pop': el.style.opacity = clamp(p * 3); el.style.transform = `scale(${p <= 0 ? 0 : back(p)})`; break;
+    case 'left': el.style.opacity = e; el.style.transform = `translateX(${(1 - e) * -160}px)`; break;
+    case 'right': el.style.opacity = e; el.style.transform = `translateX(${(1 - e) * 160}px)`; break;
+    case 'fade': el.style.opacity = e; break;
+    case 'grow': el.style.opacity = p > 0 ? 1 : 0; el.style.transformOrigin = 'left center'; el.style.transform = `scaleX(${e})`; break;
+    case 'drop': el.style.opacity = clamp(p * 3); el.style.transform = `translateY(${(1 - out3(p)) * -260}px) rotate(${(1 - e) * 12}deg)`; break;
+    case 'stamp': el.style.opacity = clamp(p * 4); el.style.transform = `scale(${p <= 0 ? 2.4 : 2.4 - 1.4 * out3(p)}) rotate(-6deg)`; break;
+    case 'type': el.style.opacity = p > 0 ? 1 : 0; el.textContent = el._full.slice(0, Math.round(el._full.length * p)); break;
+    default: el.style.opacity = e; el.style.transform = `translateY(${(1 - e) * 40}px)`;
+  }
+}
+const ANIM = [...document.querySelectorAll('[data-a]')].map(el => { const [s, b, o, ty, d] = el.dataset.a.split(' ');
+  if (ty === 'type') el._full = el.textContent;
+  return { el, s, b: +b, o: +o, ty: ty || 'show', d: +(d || (ty === 'type' ? 1.2 : 0.55)) }; });
+const COUNT = [...document.querySelectorAll('[data-count]')].map(el => { const [s, b, o, d, n, f] = el.dataset.count.split(' ');
+  return { el, s, b: +b, o: +o, d: +d, n: +n, f }; });
+
+window.render = function (t) {
+  $('dots').style.transform = `translate(${-(t * 9) % 44}px,${-(t * 5) % 44}px)`;
+  $('bar').style.width = (W * clamp(t / TL.total)) + 'px';
+  let chap = ''; const last = TL.scenes[TL.scenes.length - 1];
+  for (const s of TL.scenes) { const el = $('s-' + s.id); if (!el) continue;
+    const fi = s.start === 0 ? 1 : P(t, s.start, .4), fo = s === last ? 1 : 1 - P(t, s.start + s.dur - .4, .4), o = Math.min(fi, fo);
+    el.style.opacity = o; el.style.visibility = o > 0 ? 'visible' : 'hidden'; if (o > .5 && s.label) chap = s.label; }
+  $('chapter').textContent = chap;
+  const cv = $('cover'); if (cv) { const o = 1 - P(t, 0.45, 0.35); cv.style.opacity = o; cv.style.visibility = o > 0 ? 'visible' : 'hidden'; }
+  for (const a of ANIM) anim(a.el, P(t, B(a.s, a.b) + a.o, a.d), a.ty);
+  for (const c of COUNT) { const v = Math.round(c.n * out3(P(t, B(c.s, c.b) + c.o, c.d))); c.el.textContent = c.f === 'comma' ? v.toLocaleString('en-US') : v; }
+  // burned-in captions: the chunk being spoken, from timeline.json
+  const cap = TL.captions.find(c => t >= c.start && t < c.end), span = $('cap').firstElementChild;
+  span.textContent = cap ? cap.text : ''; $('cap').style.opacity = cap ? 1 : 0;
+  if (window.extra) window.extra(t);
+};
+// keep chips on the same row from overlapping (emoji widths vary)
+document.querySelectorAll('.scene').forEach(sc => {
+  const rows = {}; [...sc.children].filter(e => e.classList.contains('chip') && e.style.left).forEach(e => (rows[e.style.top] = rows[e.style.top] || []).push(e));
+  Object.values(rows).forEach(r => { r.sort((a, b) => a.offsetLeft - b.offsetLeft);
+    for (let i = 1; i < r.length; i++) { const min = r[i - 1].offsetLeft + r[i - 1].offsetWidth + 22; if (r[i].offsetLeft < min) r[i].style.left = min + 'px'; } });
+});
+window.render(0);
+</script>
+</body></html>

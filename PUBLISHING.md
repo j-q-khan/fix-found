@@ -28,6 +28,10 @@ The same fields exist for `howto` and `compare`. A video whose status is already
 - category Science & Technology, English, not made for kids, embeddable, the recording date, standard licence
 - the thumbnail, the English captions (`captions.srt`), and the playlist if one is set
 
+**After every upload, the script reads the video back from YouTube.** It checks that the title, description, tags, category, languages, privacy and publish time match what was sent, and prints `metadata check: passed`.
+- **A wrong or missing snippet field:** the script sends it again once and rechecks.
+- **Anything still wrong:** it goes in `reports/<date>.md` as a `CHECK` line, and the run fails with the fields named.
+
 Comments, "Paid promotion" and "Featured places" can't be set through the API, so they stay at YouTube's defaults.
 
 ```

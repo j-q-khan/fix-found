@@ -1,0 +1,350 @@
+{
+ "total": 113.632,
+ "fps": 30,
+ "voice": "Ruth",
+ "scenes": [
+  {
+   "id": "problem",
+   "label": "",
+   "start": 0.0,
+   "dur": 12.236,
+   "beats": [
+    {
+     "start": 0.3,
+     "dur": 5.076,
+     "text": "You change one line in your A.I. assistant's prompt, to fix one bad answer."
+    },
+    {
+     "start": 5.436,
+     "dur": 3.741,
+     "text": "That answer gets better. Three others quietly get worse."
+    },
+    {
+     "start": 9.238,
+     "dur": 2.648,
+     "text": "How would you know, before your customers do?"
+    }
+   ]
+  },
+  {
+   "id": "fix",
+   "label": "01  The fix",
+   "start": 11.836,
+   "dur": 11.792,
+   "beats": [
+    {
+     "start": 12.136,
+     "dur": 2.337,
+     "text": "Fix found: prompt foo."
+    },
+    {
+     "start": 14.533,
+     "dur": 2.85,
+     "text": "Think of it as an exam for your A.I. app."
+    },
+    {
+     "start": 17.443,
+     "dur": 5.835,
+     "text": "It's open source, M.I.T. licensed, with more than twenty-six thousand stars on GitHub."
+    }
+   ]
+  },
+  {
+   "id": "how",
+   "label": "02  How it works",
+   "start": 23.228,
+   "dur": 14.687,
+   "beats": [
+    {
+     "start": 23.528,
+     "dur": 6.38,
+     "text": "You write a simple config file: your prompts, the models to try, and what each answer must contain."
+    },
+    {
+     "start": 29.968,
+     "dur": 3.286,
+     "text": "One command sends every test to every model."
+    },
+    {
+     "start": 33.314,
+     "dur": 4.251,
+     "text": "You get a grid of answers in your browser, each marked pass or fail."
+    }
+   ]
+  },
+  {
+   "id": "uses",
+   "label": "03  Three real uses",
+   "start": 37.515,
+   "dur": 26.02,
+   "beats": [
+    {
+     "start": 37.815,
+     "dur": 7.97,
+     "text": "One. Compare models. Run the same tests on G.P.T., Claude, Gemini or a local model, and see which passes."
+    },
+    {
+     "start": 45.845,
+     "dur": 9.238,
+     "text": "Two. Attack your own app. Red-team mode writes hundreds of tricky inputs, like jailbreaks and prompt injections, and reports what got through."
+    },
+    {
+     "start": 55.143,
+     "dur": 8.042,
+     "text": "Three. Guard every change. Run the tests automatically, so a prompt edit that breaks things is blocked before it ships."
+    }
+   ]
+  },
+  {
+   "id": "catch",
+   "label": "04  The catch",
+   "start": 63.135,
+   "dur": 24.124,
+   "beats": [
+    {
+     "start": 63.435,
+     "dur": 1.588,
+     "text": "Now, the catch."
+    },
+    {
+     "start": 65.083,
+     "dur": 5.075,
+     "text": "Every test calls a real model, so big test runs mean a real A.P.I. bill."
+    },
+    {
+     "start": 70.218,
+     "dur": 11.205,
+     "text": "Red-team attacks are generated in prompt foo's cloud by default. You can turn that off, but their docs say quality may drop. And the free version caps red teaming and sharing."
+    },
+    {
+     "start": 81.483,
+     "dur": 5.426,
+     "text": "Prompt foo is now part of Open A.I., and the team says it stays open source."
+    }
+   ]
+  },
+  {
+   "id": "fit",
+   "label": "05  Who it's for",
+   "start": 86.859,
+   "dur": 12.015,
+   "beats": [
+    {
+     "start": 87.159,
+     "dur": 4.961,
+     "text": "It's for teams shipping A.I. features who want to catch it when a change breaks something."
+    },
+    {
+     "start": 92.18,
+     "dur": 2.824,
+     "text": "For a one-off prompt, it's more than you need."
+    },
+    {
+     "start": 95.064,
+     "dur": 3.46,
+     "text": "Want an alternative? Take a look at Deep Eval."
+    }
+   ]
+  },
+  {
+   "id": "try",
+   "label": "06  Try it",
+   "start": 98.474,
+   "dur": 15.158,
+   "beats": [
+    {
+     "start": 98.774,
+     "dur": 9.218,
+     "text": "To try it, install it, load their getting-started example, and add an A.P.I. key. Then run the tests and open the results in your browser."
+    },
+    {
+     "start": 108.052,
+     "dur": 3.629,
+     "text": "What problem should we fix next? Tell us in the comments."
+    }
+   ]
+  }
+ ],
+ "captions": [
+  {
+   "start": 0.3,
+   "end": 4.425,
+   "text": "You change one line in your AI assistant's prompt, to fix one"
+  },
+  {
+   "start": 4.425,
+   "end": 5.376,
+   "text": "bad answer."
+  },
+  {
+   "start": 5.436,
+   "end": 9.178,
+   "text": "That answer gets better. Three others quietly get worse."
+  },
+  {
+   "start": 9.238,
+   "end": 11.886,
+   "text": "How would you know, before your customers do?"
+  },
+  {
+   "start": 12.136,
+   "end": 14.473,
+   "text": "Fix found: promptfoo."
+  },
+  {
+   "start": 14.533,
+   "end": 17.383,
+   "text": "Think of it as an exam for your AI app."
+  },
+  {
+   "start": 17.443,
+   "end": 21.398,
+   "text": "It's open source, MIT licensed, with more than twenty-six"
+  },
+  {
+   "start": 21.398,
+   "end": 23.278,
+   "text": "thousand stars on GitHub."
+  },
+  {
+   "start": 23.528,
+   "end": 27.621,
+   "text": "You write a simple config file: your prompts, the models to try,"
+  },
+  {
+   "start": 27.621,
+   "end": 29.908,
+   "text": "and what each answer must contain."
+  },
+  {
+   "start": 29.968,
+   "end": 33.254,
+   "text": "One command sends every test to every model."
+  },
+  {
+   "start": 33.314,
+   "end": 37.055,
+   "text": "You get a grid of answers in your browser, each marked pass or"
+  },
+  {
+   "start": 37.055,
+   "end": 37.565,
+   "text": "fail."
+  },
+  {
+   "start": 37.815,
+   "end": 42.641,
+   "text": "One. Compare models. Run the same tests on GPT, Claude, Gemini"
+  },
+  {
+   "start": 42.641,
+   "end": 45.785,
+   "text": "or a local model, and see which passes."
+  },
+  {
+   "start": 45.845,
+   "end": 49.613,
+   "text": "Two. Attack your own app. Red-team mode writes hundreds of"
+  },
+  {
+   "start": 49.613,
+   "end": 53.32,
+   "text": "tricky inputs, like jailbreaks and prompt injections, and"
+  },
+  {
+   "start": 53.32,
+   "end": 55.083,
+   "text": "reports what got through."
+  },
+  {
+   "start": 55.143,
+   "end": 59.228,
+   "text": "Three. Guard every change. Run the tests automatically, so a"
+  },
+  {
+   "start": 59.228,
+   "end": 63.185,
+   "text": "prompt edit that breaks things is blocked before it ships."
+  },
+  {
+   "start": 63.435,
+   "end": 65.023,
+   "text": "Now, the catch."
+  },
+  {
+   "start": 65.083,
+   "end": 69.557,
+   "text": "Every test calls a real model, so big test runs mean a real API"
+  },
+  {
+   "start": 69.557,
+   "end": 70.158,
+   "text": "bill."
+  },
+  {
+   "start": 70.218,
+   "end": 74.298,
+   "text": "Red-team attacks are generated in promptfoo's cloud by default."
+  },
+  {
+   "start": 74.298,
+   "end": 78.378,
+   "text": "You can turn that off, but their docs say quality may drop. And"
+  },
+  {
+   "start": 78.378,
+   "end": 81.423,
+   "text": "the free version caps red teaming and sharing."
+  },
+  {
+   "start": 81.483,
+   "end": 86.154,
+   "text": "promptfoo is now part of OpenAI, and the team says it stays open"
+  },
+  {
+   "start": 86.154,
+   "end": 86.909,
+   "text": "source."
+  },
+  {
+   "start": 87.159,
+   "end": 90.658,
+   "text": "It's for teams shipping AI features who want to catch it when a"
+  },
+  {
+   "start": 90.658,
+   "end": 92.12,
+   "text": "change breaks something."
+  },
+  {
+   "start": 92.18,
+   "end": 95.004,
+   "text": "For a one-off prompt, it's more than you need."
+  },
+  {
+   "start": 95.064,
+   "end": 98.524,
+   "text": "Want an alternative? Take a look at DeepEval."
+  },
+  {
+   "start": 98.774,
+   "end": 102.97,
+   "text": "To try it, install it, load their getting-started example, and"
+  },
+  {
+   "start": 102.97,
+   "end": 107.229,
+   "text": "add an API key. Then run the tests and open the results in your"
+  },
+  {
+   "start": 107.229,
+   "end": 107.992,
+   "text": "browser."
+  },
+  {
+   "start": 108.052,
+   "end": 111.682,
+   "text": "What problem should we fix next? Tell us in the comments."
+  }
+ ]
+}

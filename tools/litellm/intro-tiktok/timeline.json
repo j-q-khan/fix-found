@@ -1,0 +1,184 @@
+{
+ "total": 43.467,
+ "fps": 30,
+ "voice": "Ruth",
+ "scenes": [
+  {
+   "id": "problem",
+   "label": "",
+   "start": 0.0,
+   "dur": 9.749,
+   "beats": [
+    {
+     "start": 0.3,
+     "dur": 2.004,
+     "text": "Who spent your A.I. budget?"
+    },
+    {
+     "start": 2.364,
+     "dur": 7.035,
+     "text": "Three teams, three A.I. providers, three sets of keys, and one surprise bill nobody can explain."
+    }
+   ]
+  },
+  {
+   "id": "fix",
+   "label": "",
+   "start": 9.349,
+   "dur": 9.239,
+   "beats": [
+    {
+     "start": 9.649,
+     "dur": 8.589,
+     "text": "Fix found: Lite L.L.M., one gateway for more than a hundred A.I. providers, with an M.I.T. licensed core."
+    }
+   ]
+  },
+  {
+   "id": "use",
+   "label": "",
+   "start": 18.188,
+   "dur": 12.273,
+   "beats": [
+    {
+     "start": 18.488,
+     "dur": 3.974,
+     "text": "Give each team its own key, with a budget and a rate limit."
+    },
+    {
+     "start": 22.522,
+     "dur": 7.59,
+     "text": "Every request is logged with its cost, so you can see who spent what. And if a provider fails, it falls back to another model."
+    }
+   ]
+  },
+  {
+   "id": "catch",
+   "label": "",
+   "start": 30.061,
+   "dur": 9.318,
+   "beats": [
+    {
+     "start": 30.361,
+     "dur": 5.602,
+     "text": "The catch: single sign-on past five users and audit logs need a paid licence."
+    },
+    {
+     "start": 36.023,
+     "dur": 3.006,
+     "text": "And keys and budgets need a Postgres database."
+    }
+   ]
+  },
+  {
+   "id": "ask",
+   "label": "",
+   "start": 38.979,
+   "dur": 4.488,
+   "beats": [
+    {
+     "start": 39.279,
+     "dur": 2.238,
+     "text": "What problem should we fix next?"
+    }
+   ]
+  }
+ ],
+ "captions": [
+  {
+   "start": 0.3,
+   "end": 2.304,
+   "text": "Who spent your AI budget?"
+  },
+  {
+   "start": 2.364,
+   "end": 5.205,
+   "text": "Three teams, three AI providers, three"
+  },
+  {
+   "start": 5.205,
+   "end": 7.843,
+   "text": "sets of keys, and one surprise bill"
+  },
+  {
+   "start": 7.843,
+   "end": 9.399,
+   "text": "nobody can explain."
+  },
+  {
+   "start": 9.649,
+   "end": 13.214,
+   "text": "Fix found: LiteLLM, one gateway for more"
+  },
+  {
+   "start": 13.214,
+   "end": 16.78,
+   "text": "than a hundred AI providers, with an MIT"
+  },
+  {
+   "start": 16.78,
+   "end": 18.238,
+   "text": "licensed core."
+  },
+  {
+   "start": 18.488,
+   "end": 20.776,
+   "text": "Give each team its own key, with a"
+  },
+  {
+   "start": 20.776,
+   "end": 22.462,
+   "text": "budget and a rate limit."
+  },
+  {
+   "start": 22.522,
+   "end": 24.815,
+   "text": "Every request is logged with its cost,"
+  },
+  {
+   "start": 24.815,
+   "end": 27.163,
+   "text": "so you can see who spent what. And if a"
+  },
+  {
+   "start": 27.163,
+   "end": 29.565,
+   "text": "provider fails, it falls back to another"
+  },
+  {
+   "start": 29.565,
+   "end": 30.111,
+   "text": "model."
+  },
+  {
+   "start": 30.361,
+   "end": 32.872,
+   "text": "The catch: single sign-on past five"
+  },
+  {
+   "start": 32.872,
+   "end": 35.19,
+   "text": "users and audit logs need a paid"
+  },
+  {
+   "start": 35.19,
+   "end": 35.963,
+   "text": "licence."
+  },
+  {
+   "start": 36.023,
+   "end": 38.292,
+   "text": "And keys and budgets need a Postgres"
+  },
+  {
+   "start": 38.292,
+   "end": 39.029,
+   "text": "database."
+  },
+  {
+   "start": 39.279,
+   "end": 41.517,
+   "text": "What problem should we fix next?"
+  }
+ ]
+}

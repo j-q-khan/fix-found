@@ -1,0 +1,37 @@
+[
+  ["problem", "", [
+    "Every morning, someone copies new form entries into a spreadsheet, then pastes a summary into Slack.",
+    "Miss one, and a customer never hears back.",
+    "What if that busywork ran by itself?"
+  ]],
+  ["fix", "01  The fix", [
+    "Fix found: Active pieces.",
+    "Building blocks for your busywork: when this happens, do that.",
+    "Its README calls it an open-source Zapier replacement, with over twenty-five thousand GitHub stars."
+  ]],
+  ["how", "02  How it works", [
+    "Each flow starts with a trigger: a schedule, a webhook, or an event in an app.",
+    "Then come the steps, each one a piece: Google Sheets, an A.I. prompt, or a little code.",
+    "Test each step, publish, and it runs by itself."
+  ]],
+  ["uses", "03  Three real uses", [
+    "One. Connect your apps: hundreds of ready-made pieces, with loops, branches, retries, and an H.T.T.P. step for the rest.",
+    "Two. Keep a human in the loop. A flow can wait, or pause until someone approves, then carry on.",
+    "Three. Let your A.I. assistant build it. The built-in M.C.P. server lets Claude or Cursor create flows from a plain request."
+  ]],
+  ["catch", "04  The catch", [
+    "Now, the catch.",
+    "The core is M.I.T. licensed, but the enterprise code is under a commercial licence. Single sign-on, roles, audit logs and git sync need a paid plan.",
+    "The one-command Docker install is for personal use on one machine. Real workloads need a database, a queue, file storage, and a worker for each running flow.",
+    "And it's still before version one, so upgrades often bring breaking changes."
+  ]],
+  ["fit", "05  Who it's for", [
+    "It's for teams who want automations on their own servers, and developers happy to write pieces in TypeScript.",
+    "If you'd rather not look after a server, it's more than you need.",
+    "Want an alternative? Take a look at n-eight-n."
+  ]],
+  ["try", "06  Try it", [
+    "To try it, run the one Docker command from their docs, open it in your browser, and create the first account.",
+    "What problem should we fix next? Tell us in the comments."
+  ]]
+]

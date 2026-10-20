@@ -1,0 +1,350 @@
+{
+ "total": 120.531,
+ "fps": 30,
+ "voice": "Ruth",
+ "scenes": [
+  {
+   "id": "problem",
+   "label": "",
+   "start": 0.0,
+   "dur": 12.264,
+   "beats": [
+    {
+     "start": 0.3,
+     "dur": 5.946,
+     "text": "Every morning, someone copies new form entries into a spreadsheet, then pastes a summary into Slack."
+    },
+    {
+     "start": 6.306,
+     "dur": 2.893,
+     "text": "Miss one, and a customer never hears back."
+    },
+    {
+     "start": 9.259,
+     "dur": 2.655,
+     "text": "What if that busywork ran by itself?"
+    }
+   ]
+  },
+  {
+   "id": "fix",
+   "label": "01  The fix",
+   "start": 11.864,
+   "dur": 14.606,
+   "beats": [
+    {
+     "start": 12.164,
+     "dur": 2.807,
+     "text": "Fix found: Active pieces."
+    },
+    {
+     "start": 15.031,
+     "dur": 4.266,
+     "text": "Building blocks for your busywork: when this happens, do that."
+    },
+    {
+     "start": 19.358,
+     "dur": 6.762,
+     "text": "Its README calls it an open-source Zapier replacement, with over twenty-five thousand GitHub stars."
+    }
+   ]
+  },
+  {
+   "id": "how",
+   "label": "02  How it works",
+   "start": 26.07,
+   "dur": 15.835,
+   "beats": [
+    {
+     "start": 26.37,
+     "dur": 5.234,
+     "text": "Each flow starts with a trigger: a schedule, a webhook, or an event in an app."
+    },
+    {
+     "start": 31.664,
+     "dur": 6.167,
+     "text": "Then come the steps, each one a piece: Google Sheets, an A.I. prompt, or a little code."
+    },
+    {
+     "start": 37.891,
+     "dur": 3.664,
+     "text": "Test each step, publish, and it runs by itself."
+    }
+   ]
+  },
+  {
+   "id": "uses",
+   "label": "03  Three real uses",
+   "start": 41.505,
+   "dur": 25.05,
+   "beats": [
+    {
+     "start": 41.805,
+     "dur": 8.726,
+     "text": "One. Connect your apps: hundreds of ready-made pieces, with loops, branches, retries, and an H.T.T.P. step for the rest."
+    },
+    {
+     "start": 50.591,
+     "dur": 6.779,
+     "text": "Two. Keep a human in the loop. A flow can wait, or pause until someone approves, then carry on."
+    },
+    {
+     "start": 57.431,
+     "dur": 8.775,
+     "text": "Three. Let your A.I. assistant build it. The built-in M.C.P. server lets Claude or Cursor create flows from a plain request."
+    }
+   ]
+  },
+  {
+   "id": "catch",
+   "label": "04  The catch",
+   "start": 66.155,
+   "dur": 28.055,
+   "beats": [
+    {
+     "start": 66.455,
+     "dur": 1.588,
+     "text": "Now, the catch."
+    },
+    {
+     "start": 68.103,
+     "dur": 10.796,
+     "text": "The core is M.I.T. licensed, but the enterprise code is under a commercial licence. Single sign-on, roles, audit logs and git sync need a paid plan."
+    },
+    {
+     "start": 78.959,
+     "dur": 10.312,
+     "text": "The one-command Docker install is for personal use on one machine. Real workloads need a database, a queue, file storage, and a worker for each running flow."
+    },
+    {
+     "start": 89.331,
+     "dur": 4.529,
+     "text": "And it's still before version one, so upgrades often bring breaking changes."
+    }
+   ]
+  },
+  {
+   "id": "fit",
+   "label": "05  Who it's for",
+   "start": 93.81,
+   "dur": 14.144,
+   "beats": [
+    {
+     "start": 94.11,
+     "dur": 6.189,
+     "text": "It's for teams who want automations on their own servers, and developers happy to write pieces in TypeScript."
+    },
+    {
+     "start": 100.359,
+     "dur": 3.352,
+     "text": "If you'd rather not look after a server, it's more than you need."
+    },
+    {
+     "start": 103.771,
+     "dur": 3.833,
+     "text": "Want an alternative? Take a look at n-eight-n."
+    }
+   ]
+  },
+  {
+   "id": "try",
+   "label": "06  Try it",
+   "start": 107.554,
+   "dur": 12.977,
+   "beats": [
+    {
+     "start": 107.854,
+     "dur": 7.038,
+     "text": "To try it, run the one Docker command from their docs, open it in your browser, and create the first account."
+    },
+    {
+     "start": 114.952,
+     "dur": 3.629,
+     "text": "What problem should we fix next? Tell us in the comments."
+    }
+   ]
+  }
+ ],
+ "captions": [
+  {
+   "start": 0.3,
+   "end": 3.468,
+   "text": "Every morning, someone copies new form entries into a"
+  },
+  {
+   "start": 3.468,
+   "end": 6.246,
+   "text": "spreadsheet, then pastes a summary into Slack."
+  },
+  {
+   "start": 6.306,
+   "end": 9.199,
+   "text": "Miss one, and a customer never hears back."
+  },
+  {
+   "start": 9.259,
+   "end": 11.914,
+   "text": "What if that busywork ran by itself?"
+  },
+  {
+   "start": 12.164,
+   "end": 14.971,
+   "text": "Fix found: Activepieces."
+  },
+  {
+   "start": 15.031,
+   "end": 19.298,
+   "text": "Building blocks for your busywork: when this happens, do that."
+  },
+  {
+   "start": 19.358,
+   "end": 23.695,
+   "text": "Its README calls it an open-source Zapier replacement, with over"
+  },
+  {
+   "start": 23.695,
+   "end": 26.12,
+   "text": "twenty-five thousand GitHub stars."
+  },
+  {
+   "start": 26.37,
+   "end": 30.372,
+   "text": "Each flow starts with a trigger: a schedule, a webhook, or an"
+  },
+  {
+   "start": 30.372,
+   "end": 31.604,
+   "text": "event in an app."
+  },
+  {
+   "start": 31.664,
+   "end": 35.887,
+   "text": "Then come the steps, each one a piece: Google Sheets, an AI"
+  },
+  {
+   "start": 35.887,
+   "end": 37.831,
+   "text": "prompt, or a little code."
+  },
+  {
+   "start": 37.891,
+   "end": 41.555,
+   "text": "Test each step, publish, and it runs by itself."
+  },
+  {
+   "start": 41.805,
+   "end": 46.275,
+   "text": "One. Connect your apps: hundreds of ready-made pieces, with"
+  },
+  {
+   "start": 46.275,
+   "end": 50.531,
+   "text": "loops, branches, retries, and an HTTP step for the rest."
+  },
+  {
+   "start": 50.591,
+   "end": 54.978,
+   "text": "Two. Keep a human in the loop. A flow can wait, or pause until"
+  },
+  {
+   "start": 54.978,
+   "end": 57.371,
+   "text": "someone approves, then carry on."
+  },
+  {
+   "start": 57.431,
+   "end": 62.027,
+   "text": "Three. Let your AI assistant build it. The built-in MCP server"
+  },
+  {
+   "start": 62.027,
+   "end": 66.205,
+   "text": "lets Claude or Cursor create flows from a plain request."
+  },
+  {
+   "start": 66.455,
+   "end": 68.043,
+   "text": "Now, the catch."
+  },
+  {
+   "start": 68.103,
+   "end": 72.561,
+   "text": "The core is MIT licensed, but the enterprise code is under a"
+  },
+  {
+   "start": 72.561,
+   "end": 77.088,
+   "text": "commercial licence. Single sign-on, roles, audit logs and git"
+  },
+  {
+   "start": 77.088,
+   "end": 78.899,
+   "text": "sync need a paid plan."
+  },
+  {
+   "start": 78.959,
+   "end": 82.725,
+   "text": "The one-command Docker install is for personal use on one"
+  },
+  {
+   "start": 82.725,
+   "end": 86.863,
+   "text": "machine. Real workloads need a database, a queue, file storage,"
+  },
+  {
+   "start": 86.863,
+   "end": 89.271,
+   "text": "and a worker for each running flow."
+  },
+  {
+   "start": 89.331,
+   "end": 92.714,
+   "text": "And it's still before version one, so upgrades often bring"
+  },
+  {
+   "start": 92.714,
+   "end": 93.86,
+   "text": "breaking changes."
+  },
+  {
+   "start": 94.11,
+   "end": 97.578,
+   "text": "It's for teams who want automations on their own servers, and"
+  },
+  {
+   "start": 97.578,
+   "end": 100.299,
+   "text": "developers happy to write pieces in TypeScript."
+  },
+  {
+   "start": 100.359,
+   "end": 103.292,
+   "text": "If you'd rather not look after a server, it's more than you"
+  },
+  {
+   "start": 103.292,
+   "end": 103.711,
+   "text": "need."
+  },
+  {
+   "start": 103.771,
+   "end": 107.604,
+   "text": "Want an alternative? Take a look at n8n."
+  },
+  {
+   "start": 107.854,
+   "end": 111.858,
+   "text": "To try it, run the one Docker command from their docs, open it"
+  },
+  {
+   "start": 111.858,
+   "end": 114.892,
+   "text": "in your browser, and create the first account."
+  },
+  {
+   "start": 114.952,
+   "end": 118.581,
+   "text": "What problem should we fix next? Tell us in the comments."
+  }
+ ]
+}

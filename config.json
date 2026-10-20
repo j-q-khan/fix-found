@@ -12,7 +12,11 @@
     "lang fuse": "Langfuse",
     "Click House": "ClickHouse",
     "M.I.T.": "MIT",
-    "Open AI": "OpenAI"
+    "Open AI": "OpenAI",
+    "Active pieces": "Activepieces",
+    "Arise Phoenix": "Arize Phoenix",
+    "Open Telemetry": "OpenTelemetry",
+    "Lite LLM": "LiteLLM"
   },
   "youtube": {
     "channel_id": "UCmxifChwsfWA4E9FhQgQ78Q",
@@ -24,6 +28,30 @@
     "playlists": {},
     "contains_synthetic_media": false,
     "signin_hint": "At Google's 'Choose your account or a brand account', pick Xambuster (the old name of the Jabran Qamar Khan brand channel; the plain account is Quran-LM).",
-    "private_upload_after_render": true
+    "private_upload_after_render": true,
+    "schedule": {
+      "times": [
+        "09:00",
+        "17:00"
+      ],
+      "timezone": "America/New_York",
+      "lead_hours": 36
+    }
+  },
+  "production": {
+    "autonomous": true,
+    "daily_target": 5,
+    "daily_max": 20,
+    "kinds": [
+      "intro",
+      "compare"
+    ],
+    "compare_every": 6,
+    "compare_min_intros": 3
+  },
+  "tiktok": {
+    "account": "@jk.20246",
+    "sign_in": "Google (same account as YouTube)",
+    "upload": "manual for now: TikTok only lets audited apps post publicly"
   }
 }

@@ -1,0 +1,340 @@
+{
+ "total": 104.697,
+ "fps": 30,
+ "voice": "Ruth",
+ "scenes": [
+  {
+   "id": "problem",
+   "label": "",
+   "start": 0.0,
+   "dur": 11.681,
+   "beats": [
+    {
+     "start": 0.3,
+     "dur": 6.257,
+     "text": "Your A.I. agent searches the help docs, calls a tool, and still gives a customer the wrong delivery date."
+    },
+    {
+     "start": 6.617,
+     "dur": 2.827,
+     "text": "Was it the search, the prompt, or the model?"
+    },
+    {
+     "start": 9.504,
+     "dur": 1.827,
+     "text": "Without a trace, you're guessing."
+    }
+   ]
+  },
+  {
+   "id": "fix",
+   "label": "01  The fix",
+   "start": 11.281,
+   "dur": 10.884,
+   "beats": [
+    {
+     "start": 11.581,
+     "dur": 2.987,
+     "text": "Fix found: Arise Phoenix."
+    },
+    {
+     "start": 14.628,
+     "dur": 2.985,
+     "text": "Think of it as an X-ray for your A.I. app."
+    },
+    {
+     "start": 17.672,
+     "dur": 4.143,
+     "text": "It's free to run yourself, with almost twelve thousand GitHub stars."
+    }
+   ]
+  },
+  {
+   "id": "how",
+   "label": "02  How it works",
+   "start": 21.765,
+   "dur": 11.021,
+   "beats": [
+    {
+     "start": 22.065,
+     "dur": 5.53,
+     "text": "Add a few lines to your app, and it sends traces over Open Telemetry, an open standard."
+    },
+    {
+     "start": 27.655,
+     "dur": 4.781,
+     "text": "Each request becomes a tree of steps, with timings and tokens for each one."
+    }
+   ]
+  },
+  {
+   "id": "uses",
+   "label": "03  Three real uses",
+   "start": 32.386,
+   "dur": 23.921,
+   "beats": [
+    {
+     "start": 32.686,
+     "dur": 6.492,
+     "text": "One. Find the broken step: which documents came back, which tool ran, and what the model was sent."
+    },
+    {
+     "start": 39.238,
+     "dur": 7.09,
+     "text": "Two. Grade the answers. Ready-made judges check for hallucination, correctness and tool choice."
+    },
+    {
+     "start": 46.389,
+     "dur": 9.568,
+     "text": "Three. Test a fix before you ship. Replay a traced call with a new prompt, or run a change over saved examples and compare it with the last run."
+    }
+   ]
+  },
+  {
+   "id": "catch",
+   "label": "04  The catch",
+   "start": 55.907,
+   "dur": 24.309,
+   "beats": [
+    {
+     "start": 56.207,
+     "dur": 1.588,
+     "text": "Now, the catch."
+    },
+    {
+     "start": 57.855,
+     "dur": 9.423,
+     "text": "Its makers call it open source, but the server is under the Elastic License: free to self-host, but you can't offer it to others as a hosted service."
+    },
+    {
+     "start": 67.338,
+     "dur": 9.244,
+     "text": "Login is off by default, so switch it on before anyone else can reach it. For real workloads, the docs recommend Postgres and a persistent volume."
+    },
+    {
+     "start": 76.643,
+     "dur": 3.223,
+     "text": "And it moves fast: eight major versions this year."
+    }
+   ]
+  },
+  {
+   "id": "fit",
+   "label": "05  Who it's for",
+   "start": 79.816,
+   "dur": 13.983,
+   "beats": [
+    {
+     "start": 80.116,
+     "dur": 5.751,
+     "text": "It's for developers building A.I. apps and agents who want tracing and testing on their own servers."
+    },
+    {
+     "start": 85.927,
+     "dur": 4.172,
+     "text": "If you need managed alerts and team dashboards, it's not built for that."
+    },
+    {
+     "start": 90.159,
+     "dur": 3.29,
+     "text": "Want an alternative? Take a look at Lang fuse."
+    }
+   ]
+  },
+  {
+   "id": "try",
+   "label": "06  Try it",
+   "start": 93.399,
+   "dur": 11.298,
+   "beats": [
+    {
+     "start": 93.699,
+     "dur": 5.358,
+     "text": "To try it, install it with pip, run phoenix serve, and open it in your browser."
+    },
+    {
+     "start": 99.117,
+     "dur": 3.629,
+     "text": "What problem should we fix next? Tell us in the comments."
+    }
+   ]
+  }
+ ],
+ "captions": [
+  {
+   "start": 0.3,
+   "end": 3.997,
+   "text": "Your AI agent searches the help docs, calls a tool, and still"
+  },
+  {
+   "start": 3.997,
+   "end": 6.557,
+   "text": "gives a customer the wrong delivery date."
+  },
+  {
+   "start": 6.617,
+   "end": 9.444,
+   "text": "Was it the search, the prompt, or the model?"
+  },
+  {
+   "start": 9.504,
+   "end": 11.331,
+   "text": "Without a trace, you're guessing."
+  },
+  {
+   "start": 11.581,
+   "end": 14.568,
+   "text": "Fix found: Arize Phoenix."
+  },
+  {
+   "start": 14.628,
+   "end": 17.612,
+   "text": "Think of it as an X-ray for your AI app."
+  },
+  {
+   "start": 17.672,
+   "end": 21.263,
+   "text": "It's free to run yourself, with almost twelve thousand GitHub"
+  },
+  {
+   "start": 21.263,
+   "end": 21.815,
+   "text": "stars."
+  },
+  {
+   "start": 22.065,
+   "end": 25.454,
+   "text": "Add a few lines to your app, and it sends traces over"
+  },
+  {
+   "start": 25.454,
+   "end": 27.595,
+   "text": "OpenTelemetry, an open standard."
+  },
+  {
+   "start": 27.655,
+   "end": 31.445,
+   "text": "Each request becomes a tree of steps, with timings and tokens"
+  },
+  {
+   "start": 31.445,
+   "end": 32.436,
+   "text": "for each one."
+  },
+  {
+   "start": 32.686,
+   "end": 36.89,
+   "text": "One. Find the broken step: which documents came back, which tool"
+  },
+  {
+   "start": 36.89,
+   "end": 39.178,
+   "text": "ran, and what the model was sent."
+  },
+  {
+   "start": 39.238,
+   "end": 43.061,
+   "text": "Two. Grade the answers. Ready-made judges check for"
+  },
+  {
+   "start": 43.061,
+   "end": 46.329,
+   "text": "hallucination, correctness and tool choice."
+  },
+  {
+   "start": 46.389,
+   "end": 50.489,
+   "text": "Three. Test a fix before you ship. Replay a traced call with a"
+  },
+  {
+   "start": 50.489,
+   "end": 54.59,
+   "text": "new prompt, or run a change over saved examples and compare it"
+  },
+  {
+   "start": 54.59,
+   "end": 55.957,
+   "text": "with the last run."
+  },
+  {
+   "start": 56.207,
+   "end": 57.795,
+   "text": "Now, the catch."
+  },
+  {
+   "start": 57.855,
+   "end": 61.589,
+   "text": "Its makers call it open source, but the server is under the"
+  },
+  {
+   "start": 61.589,
+   "end": 65.441,
+   "text": "Elastic License: free to self-host, but you can't offer it to"
+  },
+  {
+   "start": 65.441,
+   "end": 67.278,
+   "text": "others as a hosted service."
+  },
+  {
+   "start": 67.338,
+   "end": 71.309,
+   "text": "Login is off by default, so switch it on before anyone else can"
+  },
+  {
+   "start": 71.309,
+   "end": 75.279,
+   "text": "reach it. For real workloads, the docs recommend Postgres and a"
+  },
+  {
+   "start": 75.279,
+   "end": 76.583,
+   "text": "persistent volume."
+  },
+  {
+   "start": 76.643,
+   "end": 79.866,
+   "text": "And it moves fast: eight major versions this year."
+  },
+  {
+   "start": 80.116,
+   "end": 83.841,
+   "text": "It's for developers building AI apps and agents who want tracing"
+  },
+  {
+   "start": 83.841,
+   "end": 85.867,
+   "text": "and testing on their own servers."
+  },
+  {
+   "start": 85.927,
+   "end": 89.412,
+   "text": "If you need managed alerts and team dashboards, it's not built"
+  },
+  {
+   "start": 89.412,
+   "end": 90.099,
+   "text": "for that."
+  },
+  {
+   "start": 90.159,
+   "end": 93.449,
+   "text": "Want an alternative? Take a look at Langfuse."
+  },
+  {
+   "start": 93.699,
+   "end": 97.811,
+   "text": "To try it, install it with pip, run phoenix serve, and open it"
+  },
+  {
+   "start": 97.811,
+   "end": 99.057,
+   "text": "in your browser."
+  },
+  {
+   "start": 99.117,
+   "end": 102.747,
+   "text": "What problem should we fix next? Tell us in the comments."
+  }
+ ]
+}

@@ -1,0 +1,184 @@
+{
+ "total": 40.956,
+ "fps": 30,
+ "voice": "Ruth",
+ "scenes": [
+  {
+   "id": "problem",
+   "label": "",
+   "start": 0.0,
+   "dur": 8.551,
+   "beats": [
+    {
+     "start": 0.3,
+     "dur": 3.114,
+     "text": "You fixed one answer. Three others broke."
+    },
+    {
+     "start": 3.474,
+     "dur": 4.727,
+     "text": "One small prompt change, and your A.I. got worse. Would you catch it?"
+    }
+   ]
+  },
+  {
+   "id": "fix",
+   "label": "",
+   "start": 8.151,
+   "dur": 5.339,
+   "beats": [
+    {
+     "start": 8.451,
+     "dur": 4.689,
+     "text": "Fix found: prompt foo. An exam for your A.I. app."
+    }
+   ]
+  },
+  {
+   "id": "use",
+   "label": "",
+   "start": 13.09,
+   "dur": 14.365,
+   "beats": [
+    {
+     "start": 13.39,
+     "dur": 3.489,
+     "text": "You write test questions, and what a good answer must contain."
+    },
+    {
+     "start": 16.939,
+     "dur": 5.683,
+     "text": "One command runs them on every model and marks each answer pass or fail, side by side."
+    },
+    {
+     "start": 22.682,
+     "dur": 4.423,
+     "text": "Change a prompt, run it again, and you see what broke before your customers do."
+    }
+   ]
+  },
+  {
+   "id": "catch",
+   "label": "",
+   "start": 27.055,
+   "dur": 9.813,
+   "beats": [
+    {
+     "start": 27.355,
+     "dur": 5.73,
+     "text": "The catch: every test calls a real model, so big test runs cost real money."
+    },
+    {
+     "start": 33.145,
+     "dur": 3.374,
+     "text": "And the free version caps red teaming and sharing."
+    }
+   ]
+  },
+  {
+   "id": "ask",
+   "label": "",
+   "start": 36.468,
+   "dur": 4.488,
+   "beats": [
+    {
+     "start": 36.768,
+     "dur": 2.238,
+     "text": "What problem should we fix next?"
+    }
+   ]
+  }
+ ],
+ "captions": [
+  {
+   "start": 0.3,
+   "end": 2.765,
+   "text": "You fixed one answer. Three others"
+  },
+  {
+   "start": 2.765,
+   "end": 3.414,
+   "text": "broke."
+  },
+  {
+   "start": 3.474,
+   "end": 6.284,
+   "text": "One small prompt change, and your AI got"
+  },
+  {
+   "start": 6.284,
+   "end": 8.201,
+   "text": "worse. Would you catch it?"
+  },
+  {
+   "start": 8.451,
+   "end": 12.167,
+   "text": "Fix found: promptfoo. An exam for your"
+  },
+  {
+   "start": 12.167,
+   "end": 13.14,
+   "text": "AI app."
+  },
+  {
+   "start": 13.39,
+   "end": 15.412,
+   "text": "You write test questions, and what a"
+  },
+  {
+   "start": 15.412,
+   "end": 16.879,
+   "text": "good answer must contain."
+  },
+  {
+   "start": 16.939,
+   "end": 19.544,
+   "text": "One command runs them on every model and"
+  },
+  {
+   "start": 19.544,
+   "end": 22.089,
+   "text": "marks each answer pass or fail, side by"
+  },
+  {
+   "start": 22.089,
+   "end": 22.622,
+   "text": "side."
+  },
+  {
+   "start": 22.682,
+   "end": 24.842,
+   "text": "Change a prompt, run it again, and you"
+  },
+  {
+   "start": 24.842,
+   "end": 27.105,
+   "text": "see what broke before your customers do."
+  },
+  {
+   "start": 27.355,
+   "end": 30.01,
+   "text": "The catch: every test calls a real"
+  },
+  {
+   "start": 30.01,
+   "end": 33.085,
+   "text": "model, so big test runs cost real money."
+  },
+  {
+   "start": 33.145,
+   "end": 35.571,
+   "text": "And the free version caps red teaming"
+  },
+  {
+   "start": 35.571,
+   "end": 36.518,
+   "text": "and sharing."
+  },
+  {
+   "start": 36.768,
+   "end": 39.006,
+   "text": "What problem should we fix next?"
+  }
+ ]
+}

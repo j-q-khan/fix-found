@@ -1,0 +1,179 @@
+{
+ "total": 46.095,
+ "fps": 30,
+ "voice": "Ruth",
+ "scenes": [
+  {
+   "id": "problem",
+   "label": "",
+   "start": 0.0,
+   "dur": 9.967,
+   "beats": [
+    {
+     "start": 0.3,
+     "dur": 2.432,
+     "text": "Your A.I. agent got it wrong. Why?"
+    },
+    {
+     "start": 2.792,
+     "dur": 6.825,
+     "text": "It searched the docs, called a tool, and still answered badly. Was it the search, the prompt, or the model?"
+    }
+   ]
+  },
+  {
+   "id": "fix",
+   "label": "",
+   "start": 9.567,
+   "dur": 7.716,
+   "beats": [
+    {
+     "start": 9.867,
+     "dur": 7.066,
+     "text": "Fix found: Arise Phoenix. An X-ray for your A.I. app, free to run on your own machine."
+    }
+   ]
+  },
+  {
+   "id": "use",
+   "label": "",
+   "start": 16.883,
+   "dur": 15.836,
+   "beats": [
+    {
+     "start": 17.183,
+     "dur": 8.018,
+     "text": "Every request becomes a tree of steps: each search, each tool, each model call, with timings and tokens."
+    },
+    {
+     "start": 25.261,
+     "dur": 7.108,
+     "text": "Then grade the answers, with another model as the judge or simple code checks, and test a fix before you ship."
+    }
+   ]
+  },
+  {
+   "id": "catch",
+   "label": "",
+   "start": 32.319,
+   "dur": 9.688,
+   "beats": [
+    {
+     "start": 32.619,
+     "dur": 6.322,
+     "text": "The catch: the server is under the Elastic License, so you can't offer it to others as a hosted service."
+    },
+    {
+     "start": 39.001,
+     "dur": 2.655,
+     "text": "And login is off until you switch it on."
+    }
+   ]
+  },
+  {
+   "id": "ask",
+   "label": "",
+   "start": 41.607,
+   "dur": 4.488,
+   "beats": [
+    {
+     "start": 41.907,
+     "dur": 2.238,
+     "text": "What problem should we fix next?"
+    }
+   ]
+  }
+ ],
+ "captions": [
+  {
+   "start": 0.3,
+   "end": 2.732,
+   "text": "Your AI agent got it wrong. Why?"
+  },
+  {
+   "start": 2.792,
+   "end": 5.359,
+   "text": "It searched the docs, called a tool, and"
+  },
+  {
+   "start": 5.359,
+   "end": 7.925,
+   "text": "still answered badly. Was it the search,"
+  },
+  {
+   "start": 7.925,
+   "end": 9.617,
+   "text": "the prompt, or the model?"
+  },
+  {
+   "start": 9.867,
+   "end": 13.024,
+   "text": "Fix found: Arize Phoenix. An X-ray for"
+  },
+  {
+   "start": 13.024,
+   "end": 16.031,
+   "text": "your AI app, free to run on your own"
+  },
+  {
+   "start": 16.031,
+   "end": 16.933,
+   "text": "machine."
+  },
+  {
+   "start": 17.183,
+   "end": 20.137,
+   "text": "Every request becomes a tree of steps:"
+  },
+  {
+   "start": 20.137,
+   "end": 23.232,
+   "text": "each search, each tool, each model call,"
+  },
+  {
+   "start": 23.232,
+   "end": 25.201,
+   "text": "with timings and tokens."
+  },
+  {
+   "start": 25.261,
+   "end": 27.63,
+   "text": "Then grade the answers, with another"
+  },
+  {
+   "start": 27.63,
+   "end": 29.822,
+   "text": "model as the judge or simple code"
+  },
+  {
+   "start": 29.822,
+   "end": 32.369,
+   "text": "checks, and test a fix before you ship."
+  },
+  {
+   "start": 32.619,
+   "end": 34.726,
+   "text": "The catch: the server is under the"
+  },
+  {
+   "start": 34.726,
+   "end": 37.056,
+   "text": "Elastic License, so you can't offer it"
+  },
+  {
+   "start": 37.056,
+   "end": 38.941,
+   "text": "to others as a hosted service."
+  },
+  {
+   "start": 39.001,
+   "end": 41.657,
+   "text": "And login is off until you switch it on."
+  },
+  {
+   "start": 41.907,
+   "end": 44.145,
+   "text": "What problem should we fix next?"
+  }
+ ]
+}

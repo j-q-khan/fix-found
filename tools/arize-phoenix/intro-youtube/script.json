@@ -1,0 +1,36 @@
+[
+  ["problem", "", [
+    "Your A.I. agent searches the help docs, calls a tool, and still gives a customer the wrong delivery date.",
+    "Was it the search, the prompt, or the model?",
+    "Without a trace, you're guessing."
+  ]],
+  ["fix", "01  The fix", [
+    "Fix found: Arise Phoenix.",
+    "Think of it as an X-ray for your A.I. app.",
+    "It's free to run yourself, with almost twelve thousand GitHub stars."
+  ]],
+  ["how", "02  How it works", [
+    "Add a few lines to your app, and it sends traces over Open Telemetry, an open standard.",
+    "Each request becomes a tree of steps, with timings and tokens for each one."
+  ]],
+  ["uses", "03  Three real uses", [
+    "One. Find the broken step: which documents came back, which tool ran, and what the model was sent.",
+    "Two. Grade the answers. Ready-made judges check for hallucination, correctness and tool choice.",
+    "Three. Test a fix before you ship. Replay a traced call with a new prompt, or run a change over saved examples and compare it with the last run."
+  ]],
+  ["catch", "04  The catch", [
+    "Now, the catch.",
+    "Its makers call it open source, but the server is under the Elastic License: free to self-host, but you can't offer it to others as a hosted service.",
+    "Login is off by default, so switch it on before anyone else can reach it. For real workloads, the docs recommend Postgres and a persistent volume.",
+    "And it moves fast: eight major versions this year."
+  ]],
+  ["fit", "05  Who it's for", [
+    "It's for developers building A.I. apps and agents who want tracing and testing on their own servers.",
+    "If you need managed alerts and team dashboards, it's not built for that.",
+    "Want an alternative? Take a look at Lang fuse."
+  ]],
+  ["try", "06  Try it", [
+    "To try it, install it with pip, run phoenix serve, and open it in your browser.",
+    "What problem should we fix next? Tell us in the comments."
+  ]]
+]

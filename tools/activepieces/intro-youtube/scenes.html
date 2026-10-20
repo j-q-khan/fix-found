@@ -1,0 +1,192 @@
+<style>
+.code{font:500 28px Consolas,'Cascadia Mono',monospace;white-space:pre;position:absolute}
+.app{position:absolute;top:220px;width:460px;height:400px;border-radius:24px;background:#1E2F52;border:3px solid #2e4677}
+.apphead{position:absolute;top:244px;font:700 34px 'Segoe UI'}
+.line{position:absolute;width:400px;height:64px;border-radius:12px;background:#26395f;font:600 28px 'Segoe UI';display:flex;align-items:center;padding:0 20px;white-space:nowrap}
+.arrow{position:absolute;top:350px;width:120px;text-align:center;font:700 64px 'Segoe UI';color:#D9A441}
+.alab{position:absolute;top:436px;width:120px;text-align:center;font:700 24px 'Segoe UI';line-height:1.3;color:#8FA0B8;letter-spacing:2px;text-transform:uppercase}
+.ucard{position:absolute;left:210px;top:175px;width:1500px;height:620px;border-radius:28px;background:#1E2F52;border:3px solid #2e4677;box-shadow:0 30px 80px rgba(0,0,0,.55)}
+.num{font:900 84px Georgia,serif;color:#D9A441;position:absolute;left:50px;top:18px}
+.ctitle{position:absolute;left:50px;top:122px;font:700 40px 'Segoe UI'}
+.mini{position:absolute;left:50px;width:440px;height:58px;border-radius:12px;background:#26395f;font:600 26px 'Segoe UI';display:flex;align-items:center;padding:0 18px;white-space:nowrap}
+.shot{position:absolute;left:520px;top:40px;width:940px;height:540px;border-radius:16px;overflow:hidden;background:#fff}
+.shot img{width:100%;height:100%;object-fit:contain}
+.credit{position:absolute;right:12px;top:12px;padding:4px 12px;border-radius:8px;background:rgba(8,14,28,.8);color:#C9D3E0;font:600 18px 'Segoe UI'}
+.ring{position:absolute;border:5px solid #3FBF7F;border-radius:12px}
+.cbar{position:absolute;left:140px;width:1640px;height:96px;border-radius:18px;background:#1E2F52;border:3px solid #2e4677;display:flex;align-items:center;padding:0 30px;font:600 36px 'Segoe UI'}
+.tag{margin-left:auto;padding:10px 24px;border-radius:999px;font:700 30px 'Segoe UI';color:#14213D;white-space:nowrap}
+.dim{position:absolute;left:0;top:0;width:1920px;height:1080px;background:rgba(14,24,48,.96)}
+.step{position:absolute;left:200px;width:540px;height:96px;border-radius:14px;background:#fff;border:2px solid #d9dde6;display:flex;align-items:center;padding:0 22px;font:600 28px 'Segoe UI';color:#14213D}
+.step small{display:block;font:500 20px 'Segoe UI';color:#6b7590}
+.conn{position:absolute;left:468px;width:4px;background:#c3c9d6}
+.pill{position:absolute;padding:6px 16px;border-radius:999px;font:700 22px 'Segoe UI';white-space:nowrap}
+.btn{position:absolute;padding:8px 22px;border-radius:10px;font:700 24px 'Segoe UI';white-space:nowrap}
+.bubble{position:absolute;left:40px;width:860px;padding:22px 28px;border-radius:22px 22px 22px 6px;background:#F7F5F0;color:#14213D;font:600 28px 'Segoe UI';line-height:1.35}
+.lbl{position:absolute;font:700 26px 'Segoe UI';letter-spacing:4px;text-transform:uppercase;color:#D9A441}
+</style>
+
+<div class="scene" id="s-problem">
+  <div class="abs eyebrow" data-a="problem 0 0 fade" style="left:150px;top:160px">Every morning <span style="color:#8FA0B8;letter-spacing:3px">· example</span></div>
+  <div class="app" data-a="problem 0 0 pop" style="left:150px"></div>
+  <div class="apphead" data-a="problem 0 0.2 fade" style="left:182px">📝 Form entries</div>
+  <div class="line" data-a="problem 0 0.4 left" style="left:180px;top:316px">Order question</div>
+  <div class="line" data-a="problem 0 0.6 left" style="left:180px;top:396px">Refund request</div>
+  <div class="line" data-a="problem 0 0.8 left" style="left:180px;top:476px">Sizing question</div>
+  <div class="abs" data-a="problem 1 0.2 pop" style="left:174px;top:470px;width:412px;height:76px;border:5px solid #FF7A59;border-radius:16px"></div>
+
+  <div class="arrow" data-a="problem 0 1.4 left" style="left:610px">→</div>
+  <div class="alab" data-a="problem 0 1.4 fade" style="left:610px">✋<br>copy</div>
+
+  <div class="app" data-a="problem 0 1.6 pop" style="left:730px"></div>
+  <div class="apphead" data-a="problem 0 1.8 fade" style="left:762px">📊 Spreadsheet</div>
+  <div class="line code" data-a="problem 0 2.2 type 0.6" style="left:760px;top:316px;font:600 28px 'Segoe UI'">Order question</div>
+  <div class="line code" data-a="problem 0 2.8 type 0.6" style="left:760px;top:396px;font:600 28px 'Segoe UI'">Refund request</div>
+  <div class="abs" data-a="problem 1 0.4 pop" style="left:760px;top:476px;width:400px;height:64px;border:4px dashed #FF7A59;border-radius:12px"></div>
+  <div class="abs coral" data-a="problem 1 0.6 fade" style="left:790px;top:488px;font:700 28px 'Segoe UI'">❌ Missed</div>
+
+  <div class="arrow" data-a="problem 0 3.6 left" style="left:1190px">→</div>
+  <div class="alab" data-a="problem 0 3.6 fade" style="left:1190px">✋<br>paste</div>
+
+  <div class="app" data-a="problem 0 3.8 pop" style="left:1310px"></div>
+  <div class="apphead" data-a="problem 0 4.0 fade" style="left:1342px">💬 Slack</div>
+  <div class="line" data-a="problem 0 4.4 left" style="left:1340px;top:316px;height:150px;align-items:flex-start;flex-direction:column;justify-content:center;white-space:normal;font-size:26px">Daily summary<span style="font:500 22px 'Segoe UI';color:#8FA0B8;margin-top:6px">Order question · Refund request</span></div>
+  <div class="abs" data-a="problem 1 1.2 pop" style="left:1340px;top:500px;padding:10px 20px;border-radius:12px;background:#6b2d2d;font:700 26px 'Segoe UI';white-space:nowrap">😟 A customer never hears back</div>
+
+  <div class="abs serif" data-a="problem 2 0 show" style="left:150px;top:700px;width:1640px;font-size:66px;line-height:1.12">What if that busywork <span class="teal">ran by itself?</span></div>
+</div>
+
+<div class="scene" id="s-fix">
+  <div class="stamp" data-a="fix 0 0 stamp" style="left:150px;top:190px">Fix found · #{{N}}</div>
+  <div class="abs serif h1" data-a="fix 0 0.7 show" style="left:150px;top:370px">{{TOOL}}</div>
+  <div class="abs" data-a="fix 0 0.9 pop" style="left:1340px;top:170px;width:380px;height:380px;border-radius:60px;background:#fff;box-shadow:0 30px 90px rgba(0,0,0,.5)"><img src="logo.png" style="width:100%;height:100%;object-fit:contain;border-radius:60px"></div>
+  <div class="abs sub" data-a="fix 1 0 show" style="left:150px;top:540px;width:1000px">🧩 Building blocks for your <span class="gold">busywork</span></div>
+  <div class="paper" data-a="fix 1 1.6 drop" style="left:1180px;top:610px;width:600px;height:200px"></div>
+  <div class="abs" data-a="fix 1 2.0 fade" style="left:1220px;top:640px;font:700 34px 'Segoe UI';color:#14213D">⚡ When this happens</div>
+  <div class="abs" data-a="fix 1 2.8 left" style="left:1220px;top:720px;font:700 34px 'Segoe UI';color:#1f7a52">→ ✅ do that</div>
+  <div class="abs" data-a="fix 2 0.3 fade" style="left:150px;top:650px;font:600 34px 'Segoe UI';color:#C9D3E0">“An open source replacement for Zapier” <span style="color:#8FA0B8;font-size:26px">(its README)</span></div>
+  <div class="chip" data-a="fix 2 2.6 pop" style="left:150px;top:760px;background:#4FD1C5">Open-source core</div>
+  <div class="chip" data-a="fix 2 3.8 pop" style="left:150px;top:760px;background:#D9A441">⭐ <span data-count="fix 2 3.8 1.6 25000 comma">0</span>+ GitHub stars</div>
+</div>
+
+<div class="scene" id="s-how">
+  <div class="lbl" data-a="how 0 0 fade" style="left:120px;top:190px">① Trigger</div>
+  <div class="chip" data-a="how 0 2.2 pop" style="left:120px;top:240px;background:#F7F5F0;font-size:32px">⏰ Schedule</div>
+  <div class="chip" data-a="how 0 3.1 pop" style="left:120px;top:240px;background:#F7F5F0;font-size:32px">🔗 Webhook</div>
+  <div class="chip" data-a="how 0 3.9 pop" style="left:120px;top:240px;background:#F7F5F0;font-size:32px">📱 App event</div>
+  <div class="lbl" data-a="how 1 0 fade" style="left:120px;top:390px">② Steps (pieces)</div>
+  <div class="chip" data-a="how 1 2.6 pop" style="left:120px;top:440px;background:#F7F5F0;font-size:32px">📊 Google Sheets</div>
+  <div class="chip" data-a="how 1 3.7 pop" style="left:120px;top:440px;background:#F7F5F0;font-size:32px">🤖 AI prompt</div>
+  <div class="chip" data-a="how 1 4.8 pop" style="left:120px;top:440px;background:#F7F5F0;font-size:32px">⌨️ Code</div>
+  <div class="lbl" data-a="how 2 0 fade" style="left:120px;top:590px">③ Test, publish</div>
+  <div class="chip" data-a="how 2 0.3 pop" style="left:120px;top:640px;background:#3FBF7F">✅ Test each step</div>
+  <div class="chip" data-a="how 2 1.4 pop" style="left:120px;top:640px;background:#D9A441">🚀 Publish</div>
+  <div class="abs sub" data-a="how 2 2.4 show" style="left:120px;top:750px;font-size:40px">🔁 Then it runs <span class="teal">by itself</span></div>
+  <div class="paper" data-a="how 0 0.3 pop" style="left:1020px;top:190px;width:760px;height:562px;overflow:hidden;background:#fafafa"><img src="shot-flow.png" style="width:100%;display:block"><div class="credit" style="top:auto;bottom:12px">Screenshot: Activepieces docs</div>
+    <div class="ring" data-a="how 0 2.2 pop" style="left:302px;top:42px;width:298px;height:86px"></div>
+    <div class="ring" data-a="how 1 2.6 pop" style="left:302px;top:190px;width:298px;height:86px"></div>
+    <div class="ring" data-a="how 1 3.7 pop" style="left:302px;top:338px;width:298px;height:86px"></div>
+    <div class="ring" data-a="how 2 0.3 pop" style="left:496px;top:9px;width:102px;height:38px;border-width:4px"></div>
+    <div class="ring" data-a="how 2 0.5 pop" style="left:496px;top:157px;width:102px;height:38px;border-width:4px"></div>
+    <div class="ring" data-a="how 2 0.7 pop" style="left:496px;top:305px;width:102px;height:38px;border-width:4px"></div>
+  </div>
+</div>
+
+<div class="scene" id="s-uses">
+  <div class="ucard" data-a="uses 0 0 pop">
+    <div class="num">1</div><div class="ctitle">Connect your apps</div>
+    <div class="mini" data-a="uses 0 2.0 left" style="top:220px">🧩 Hundreds of pieces</div>
+    <div class="mini" data-a="uses 0 4.0 left" style="top:296px">🔀 Loops and branches</div>
+    <div class="mini" data-a="uses 0 5.2 left" style="top:372px">♻️ Automatic retries</div>
+    <div class="mini" data-a="uses 0 6.4 left" style="top:448px">🌐 An HTTP step for the rest</div>
+    <div class="shot" data-a="uses 0 0.6 fade"><img src="shot-templates.png"><div class="credit">Screenshot: Activepieces README (older version)</div></div>
+  </div>
+
+  <div class="dim" data-a="uses 1 0 fade 0.3"></div>
+  <div class="ucard" data-a="uses 1 0 pop">
+    <div class="num">2</div><div class="ctitle">A human in the loop</div>
+    <div class="mini" data-a="uses 1 2.4 left" style="top:220px">⏳ Wait a set time</div>
+    <div class="mini" data-a="uses 1 3.4 left" style="top:296px">✋ Pause for approval</div>
+    <div class="mini" data-a="uses 1 5.4 left" style="top:372px">▶️ Then carry on</div>
+    <div class="shot" data-a="uses 1 0.6 fade" style="background:#f4f5f8">
+      <div class="pill" style="left:24px;top:22px;background:#e3e6ee;color:#4a5470">Example flow</div>
+      <div class="step" style="top:60px">📝 1. New form entry<small style="margin-left:14px">trigger</small></div>
+      <div class="conn" style="top:156px;height:40px"></div>
+      <div class="step" style="top:196px;height:180px;align-items:flex-start;padding-top:22px;border-color:#D9A441;border-width:3px">✋ 2. Wait for approval</div>
+      <div class="pill" data-a="uses 1 3.4 pop" style="left:760px;top:214px;background:#fde7b8;color:#7a5200">⏸ Paused</div>
+      <div class="btn" data-a="uses 1 4.0 pop" style="left:224px;top:296px;background:#3FBF7F;color:#fff">Approve</div>
+      <div class="btn" data-a="uses 1 4.0 pop" style="left:384px;top:296px;background:#e3e6ee;color:#4a5470">Reject</div>
+      <div class="ring" data-a="uses 1 4.8 pop" style="left:212px;top:285px;width:154px;height:68px"></div>
+      <div class="pill" data-a="uses 1 4.9 pop" style="left:760px;top:214px;background:#c9f0dc;color:#1f6b45">✅ Approved</div>
+      <div class="conn" style="top:376px;height:44px"></div>
+      <div class="step" data-a="uses 1 5.4 fade" style="top:420px">💬 3. Post to Slack</div>
+    </div>
+  </div>
+
+  <div class="dim" data-a="uses 2 0 fade 0.3"></div>
+  <div class="ucard" data-a="uses 2 0 pop">
+    <div class="num">3</div><div class="ctitle">Your AI builds it</div>
+    <div class="mini" data-a="uses 2 3.2 left" style="top:220px">⚙️ Built-in MCP server</div>
+    <div class="mini" data-a="uses 2 5.2 left" style="top:296px">🤖 Claude or Cursor</div>
+    <div class="mini" data-a="uses 2 6.6 left" style="top:372px">💬 Plain request → a flow</div>
+    <div class="shot" data-a="uses 2 0.6 fade" style="background:transparent;overflow:visible">
+      <div class="term" style="left:0;top:0;width:940px;height:330px"></div>
+      <div class="code" data-a="uses 2 3.4 type 0.2" style="left:36px;top:58px;color:#d6e2f0">{</div>
+      <div class="code gold" data-a="uses 2 3.6 type 0.3" style="left:36px;top:96px">  "mcpServers": {</div>
+      <div class="code gold" data-a="uses 2 3.9 type 0.3" style="left:36px;top:134px">    "activepieces": {</div>
+      <div class="code teal" data-a="uses 2 4.2 type 0.6" style="left:36px;top:172px">      "url": "https://your-instance.com/mcp"</div>
+      <div class="code" data-a="uses 2 4.8 type 0.1" style="left:36px;top:210px;color:#d6e2f0">    }</div>
+      <div class="code" data-a="uses 2 4.9 type 0.1" style="left:36px;top:248px;color:#d6e2f0">  }</div>
+      <div class="code" data-a="uses 2 5.0 type 0.1" style="left:36px;top:286px;color:#d6e2f0">}</div>
+      <div class="bubble" data-a="uses 2 6.4 pop" style="top:370px">“Create a flow that sends a Slack message when a new row is added to Google Sheets”</div>
+      <div class="abs" data-a="uses 2 3.4 fade" style="left:600px;top:20px;font:600 20px 'Segoe UI';color:#8FA0B8">MCP client config · from the docs</div>
+      <div class="abs" data-a="uses 2 6.8 fade" style="left:40px;top:500px;font:600 20px 'Segoe UI';color:#8FA0B8">Example request from the Activepieces MCP docs</div>
+    </div>
+  </div>
+</div>
+
+<div class="scene" id="s-catch">
+  <div class="abs serif h2 coral" data-a="catch 0 0 show" style="left:140px;top:160px">The catch</div>
+  <div class="cbar" data-a="catch 1 0.2 left" style="top:290px">⚖️ Core: MIT · enterprise (ee) folders: commercial<span class="tag" data-a="catch 1 3.4 pop" style="background:#FF7A59">Paid licence</span></div>
+  <div class="cbar" data-a="catch 1 6.0 left" style="top:405px">🔐 SSO · roles · audit logs · Git Sync<span class="tag" data-a="catch 1 9.2 pop" style="background:#D9A441">Paid plan</span></div>
+  <div class="cbar" data-a="catch 2 0.2 left" style="top:520px">🐳 One-command Docker install<span class="tag" data-a="catch 2 2.4 pop" style="background:#4FD1C5">Personal use, one machine</span></div>
+
+  <div class="dim" style="background:rgba(14,24,48,.985)" data-a="catch 2 4.1 fade 0.3"></div>
+  <div class="abs" data-a="catch 2 4.1 fade" style="left:140px;top:176px;font:700 34px 'Segoe UI';color:#C9D3E0;width:250px;line-height:1.3">Real workloads need:</div>
+  <div class="paper" data-a="catch 2 4.2 pop" style="left:420px;top:165px;width:1106px;height:700px;overflow:hidden;background:#f6f7fb"><img src="shot-arch.png" style="width:100%;display:block"><div class="credit">Diagram: Activepieces docs</div>
+    <div class="ring" data-a="catch 2 5.6 pop" style="left:510px;top:296px;width:244px;height:115px"></div>
+    <div class="ring" data-a="catch 2 6.4 pop" style="left:510px;top:171px;width:244px;height:115px"></div>
+    <div class="ring" data-a="catch 2 7.2 pop" style="left:510px;top:421px;width:244px;height:115px"></div>
+    <div class="ring" data-a="catch 2 8.3 pop" style="left:826px;top:231px;width:240px;height:246px;border-color:#D9A441"></div>
+  </div>
+
+  <div class="dim" style="background:rgba(14,24,48,.985)" data-a="catch 3 0 fade 0.3"></div>
+  <div class="cbar" data-a="catch 3 0.1 left" style="top:400px">🧪 Latest release 0.92.3: still before 1.0<span class="tag" data-a="catch 3 1.2 pop" style="background:#D9A441">0.x</span></div>
+  <div class="cbar" data-a="catch 3 2.0 left" style="top:515px">⚠️ Their Breaking Changes page lists 34 versions<span class="tag" data-a="catch 3 3.0 pop" style="background:#FF7A59">Check before upgrading</span></div>
+</div>
+
+<div class="scene" id="s-fit">
+  <div class="card" data-a="fit 0 0 pop" style="left:140px;top:190px;width:760px;height:440px;border-color:#3FBF7F"></div>
+  <div class="abs" data-a="fit 0 0.2 show" style="left:190px;top:230px;font:800 48px 'Segoe UI';color:#3FBF7F">✅ Worth it</div>
+  <div class="abs sub" data-a="fit 0 0.5 show" style="left:190px;top:320px;width:660px;font-size:40px">Teams who want automations on their own servers</div>
+  <div class="abs sub" data-a="fit 0 3.4 show" style="left:190px;top:460px;width:660px;font-size:40px">Developers who'll write pieces in <span class="teal">TypeScript</span></div>
+  <div class="card" data-a="fit 1 0 pop" style="left:1020px;top:190px;width:760px;height:440px"></div>
+  <div class="abs" data-a="fit 1 0.2 show" style="left:1070px;top:230px;font:800 48px 'Segoe UI';color:#D9A441">🤔 Probably too much</div>
+  <div class="abs sub" data-a="fit 1 0.5 show" style="left:1070px;top:320px;width:660px;font-size:40px">You'd rather not<br>look after a server</div>
+  <div class="chip" data-a="fit 2 0.6 pop" style="left:140px;top:700px;background:#F7F5F0">🔁 Alternative: n8n</div>
+</div>
+
+<div class="scene" id="s-try">
+  <div class="abs eyebrow" data-a="try 0 0 fade" style="left:140px;top:170px">Try it</div>
+  <div class="term" data-a="try 0 0.1 fade" style="left:140px;top:230px;width:1120px;height:420px"></div>
+  <div class="code teal" data-a="try 0 0.8 type 0.8" style="left:176px;top:298px">$ docker run -d --name activepieces -p 8080:80 \</div>
+  <div class="code teal" data-a="try 0 1.6 type 0.5" style="left:176px;top:346px">    -v ~/.activepieces:/root/.activepieces \</div>
+  <div class="code teal" data-a="try 0 2.1 type 0.4" style="left:176px;top:394px">    -e AP_DB_TYPE=PGLITE \</div>
+  <div class="code teal" data-a="try 0 2.5 type 0.4" style="left:176px;top:442px">    -e AP_REDIS_TYPE=MEMORY \</div>
+  <div class="code teal" data-a="try 0 2.9 type 0.5" style="left:176px;top:490px">    -e AP_FRONTEND_URL="http://localhost:8080" \</div>
+  <div class="code teal" data-a="try 0 3.4 type 0.4" style="left:176px;top:538px">    activepieces/activepieces:latest</div>
+  <div class="abs" data-a="try 0 1.0 fade" style="left:140px;top:664px;font:600 24px 'Segoe UI';color:#8FA0B8">From the Activepieces docs: the hobby install, for personal use</div>
+  <div class="chip" data-a="try 0 1.2 pop" style="left:1310px;top:250px;font-size:28px;background:#F7F5F0">🐳 Needs only Docker</div>
+  <div class="chip" data-a="try 0 4.0 pop" style="left:1310px;top:350px;font-size:28px;background:#4FD1C5">🌐 Open localhost:8080</div>
+  <div class="chip" data-a="try 0 5.6 pop" style="left:1310px;top:450px;font-size:28px;background:#D9A441">👤 First account = admin</div>
+  <div class="abs serif h2 gold" data-a="try 1 0 show" style="left:140px;top:730px;width:1640px">What problem should we fix next?</div>
+</div>

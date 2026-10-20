@@ -1,0 +1,144 @@
+1
+00:00:00,300 --> 00:00:04,425
+You change one line in your AI assistant's prompt, to fix one
+
+2
+00:00:04,425 --> 00:00:05,376
+bad answer.
+
+3
+00:00:05,436 --> 00:00:09,178
+That answer gets better. Three others quietly get worse.
+
+4
+00:00:09,238 --> 00:00:11,886
+How would you know, before your customers do?
+
+5
+00:00:12,136 --> 00:00:14,473
+Fix found: promptfoo.
+
+6
+00:00:14,533 --> 00:00:17,383
+Think of it as an exam for your AI app.
+
+7
+00:00:17,443 --> 00:00:21,398
+It's open source, MIT licensed, with more than twenty-six
+
+8
+00:00:21,398 --> 00:00:23,278
+thousand stars on GitHub.
+
+9
+00:00:23,528 --> 00:00:27,621
+You write a simple config file: your prompts, the models to try,
+
+10
+00:00:27,621 --> 00:00:29,908
+and what each answer must contain.
+
+11
+00:00:29,968 --> 00:00:33,254
+One command sends every test to every model.
+
+12
+00:00:33,314 --> 00:00:37,055
+You get a grid of answers in your browser, each marked pass or
+
+13
+00:00:37,055 --> 00:00:37,565
+fail.
+
+14
+00:00:37,815 --> 00:00:42,641
+One. Compare models. Run the same tests on GPT, Claude, Gemini
+
+15
+00:00:42,641 --> 00:00:45,785
+or a local model, and see which passes.
+
+16
+00:00:45,845 --> 00:00:49,613
+Two. Attack your own app. Red-team mode writes hundreds of
+
+17
+00:00:49,613 --> 00:00:53,320
+tricky inputs, like jailbreaks and prompt injections, and
+
+18
+00:00:53,320 --> 00:00:55,083
+reports what got through.
+
+19
+00:00:55,143 --> 00:00:59,228
+Three. Guard every change. Run the tests automatically, so a
+
+20
+00:00:59,228 --> 00:01:03,185
+prompt edit that breaks things is blocked before it ships.
+
+21
+00:01:03,435 --> 00:01:05,023
+Now, the catch.
+
+22
+00:01:05,083 --> 00:01:09,557
+Every test calls a real model, so big test runs mean a real API
+
+23
+00:01:09,557 --> 00:01:10,158
+bill.
+
+24
+00:01:10,218 --> 00:01:14,298
+Red-team attacks are generated in promptfoo's cloud by default.
+
+25
+00:01:14,298 --> 00:01:18,378
+You can turn that off, but their docs say quality may drop. And
+
+26
+00:01:18,378 --> 00:01:21,423
+the free version caps red teaming and sharing.
+
+27
+00:01:21,483 --> 00:01:26,154
+promptfoo is now part of OpenAI, and the team says it stays open
+
+28
+00:01:26,154 --> 00:01:26,909
+source.
+
+29
+00:01:27,159 --> 00:01:30,658
+It's for teams shipping AI features who want to catch it when a
+
+30
+00:01:30,658 --> 00:01:32,120
+change breaks something.
+
+31
+00:01:32,180 --> 00:01:35,004
+For a one-off prompt, it's more than you need.
+
+32
+00:01:35,064 --> 00:01:38,524
+Want an alternative? Take a look at DeepEval.
+
+33
+00:01:38,774 --> 00:01:42,970
+To try it, install it, load their getting-started example, and
+
+34
+00:01:42,970 --> 00:01:47,229
+add an API key. Then run the tests and open the results in your
+
+35
+00:01:47,229 --> 00:01:47,992
+browser.
+
+36
+00:01:48,052 --> 00:01:51,682
+What problem should we fix next? Tell us in the comments.
+

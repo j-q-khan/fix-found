@@ -1,0 +1,20 @@
+[
+  ["problem", "", [
+    "Who spent your A.I. budget?",
+    "Three teams, three A.I. providers, three sets of keys, and one surprise bill nobody can explain."
+  ]],
+  ["fix", "", [
+    "Fix found: Lite L.L.M., one gateway for more than a hundred A.I. providers, with an M.I.T. licensed core."
+  ]],
+  ["use", "", [
+    "Give each team its own key, with a budget and a rate limit.",
+    "Every request is logged with its cost, so you can see who spent what. And if a provider fails, it falls back to another model."
+  ]],
+  ["catch", "", [
+    "The catch: single sign-on past five users and audit logs need a paid licence.",
+    "And keys and budgets need a Postgres database."
+  ]],
+  ["ask", "", [
+    "What problem should we fix next?"
+  ]]
+]

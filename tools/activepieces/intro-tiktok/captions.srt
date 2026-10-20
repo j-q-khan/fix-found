@@ -1,0 +1,76 @@
+1
+00:00:00,300 --> 00:00:03,317
+Still copying data between apps by hand?
+
+2
+00:00:03,377 --> 00:00:05,975
+Form to spreadsheet, spreadsheet to
+
+3
+00:00:05,975 --> 00:00:08,906
+Slack, every single day. Miss one, and a
+
+4
+00:00:08,906 --> 00:00:10,171
+customer waits.
+
+5
+00:00:10,421 --> 00:00:13,225
+Fix found: Activepieces. Building blocks
+
+6
+00:00:13,225 --> 00:00:15,902
+for your busywork, with an open-source
+
+7
+00:00:15,902 --> 00:00:16,476
+core.
+
+8
+00:00:16,726 --> 00:00:19,423
+Pick a trigger, like a schedule or a new
+
+9
+00:00:19,423 --> 00:00:20,342
+form entry.
+
+10
+00:00:20,402 --> 00:00:23,600
+Add steps from hundreds of apps: Google
+
+11
+00:00:23,600 --> 00:00:26,873
+Sheets, Slack, Gmail, even an AI prompt.
+
+12
+00:00:26,933 --> 00:00:29,581
+Test each step, publish, and it runs by
+
+13
+00:00:29,581 --> 00:00:31,490
+itself, on your own server.
+
+14
+00:00:31,740 --> 00:00:34,715
+The catch: single sign-on, roles and
+
+15
+00:00:34,715 --> 00:00:37,318
+audit logs need a paid licence.
+
+16
+00:00:37,378 --> 00:00:39,798
+And the one-command install is for
+
+17
+00:00:39,798 --> 00:00:42,282
+personal use. Real workloads need a
+
+18
+00:00:42,282 --> 00:00:44,766
+database, a queue and file storage.
+
+19
+00:00:45,016 --> 00:00:47,254
+What problem should we fix next?
+

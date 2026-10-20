@@ -1,0 +1,72 @@
+1
+00:00:00,300 --> 00:00:02,732
+Your AI agent got it wrong. Why?
+
+2
+00:00:02,792 --> 00:00:05,359
+It searched the docs, called a tool, and
+
+3
+00:00:05,359 --> 00:00:07,925
+still answered badly. Was it the search,
+
+4
+00:00:07,925 --> 00:00:09,617
+the prompt, or the model?
+
+5
+00:00:09,867 --> 00:00:13,024
+Fix found: Arize Phoenix. An X-ray for
+
+6
+00:00:13,024 --> 00:00:16,031
+your AI app, free to run on your own
+
+7
+00:00:16,031 --> 00:00:16,933
+machine.
+
+8
+00:00:17,183 --> 00:00:20,137
+Every request becomes a tree of steps:
+
+9
+00:00:20,137 --> 00:00:23,232
+each search, each tool, each model call,
+
+10
+00:00:23,232 --> 00:00:25,201
+with timings and tokens.
+
+11
+00:00:25,261 --> 00:00:27,630
+Then grade the answers, with another
+
+12
+00:00:27,630 --> 00:00:29,822
+model as the judge or simple code
+
+13
+00:00:29,822 --> 00:00:32,369
+checks, and test a fix before you ship.
+
+14
+00:00:32,619 --> 00:00:34,726
+The catch: the server is under the
+
+15
+00:00:34,726 --> 00:00:37,056
+Elastic License, so you can't offer it
+
+16
+00:00:37,056 --> 00:00:38,941
+to others as a hosted service.
+
+17
+00:00:39,001 --> 00:00:41,657
+And login is off until you switch it on.
+
+18
+00:00:41,907 --> 00:00:44,145
+What problem should we fix next?
+

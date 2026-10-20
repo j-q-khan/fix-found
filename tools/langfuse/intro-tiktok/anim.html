@@ -25,6 +25,19 @@ svg{position:absolute;left:0;top:0;overflow:visible}
 #cap{position:absolute;left:50%;transform:translateX(-50%);bottom:64px;max-width:1500px;text-align:center;pointer-events:none}
 #cap span{display:inline;padding:6px 22px;line-height:1.5;border-radius:12px;background:rgba(8,14,28,.82);color:#fff;
   font:700 44px 'Segoe UI';-webkit-box-decoration-break:clone;box-decoration-break:clone}
+/* start screen (page.py): the problem line and the tool, shown on frame 0 and faded out by common.js */
+#cover{position:absolute;inset:0;background:radial-gradient(1300px 900px at 75% 15%,#22386a 0%,#14213D 55%,#0e1830 100%)}
+.cv-wrap{position:absolute;left:150px;top:150px;width:1620px;height:730px;display:flex;flex-direction:column;justify-content:center;align-items:flex-start;gap:54px}
+.cv-problem{font:900 118px/1.04 'Segoe UI';text-transform:uppercase;letter-spacing:-1px;color:var(--cream)}
+.cv-problem.long{font-size:96px}
+.cv-tool{display:flex;align-items:center;gap:36px}
+.cv-tool img{width:150px;height:150px;border-radius:30px;background:#fff;object-fit:contain}
+.cv-tool span{font:700 96px Georgia,serif;color:var(--teal)}
+.cv-stamp{padding:12px 30px;border:7px solid var(--gold);border-radius:16px;color:var(--gold);font:900 50px 'Segoe UI';letter-spacing:6px;text-transform:uppercase;white-space:nowrap;transform:rotate(-4deg);transform-origin:left center}
+/* 9:16: TikTok's profile grid crops covers to the middle 3:4 (y 240-1680), so everything sits inside it */
+.v .cv-wrap{left:60px;top:300px;width:880px;height:1100px;gap:64px}
+.v .cv-problem{font-size:104px}.v .cv-problem.long{font-size:88px}
+.v .cv-tool img{width:170px;height:170px}
 /* 9:16 (TikTok, Shorts): keep clear of the app's bottom bar and right-hand buttons */
 .v #brand{left:60px;top:110px}.v #chapter{display:none}
 .v #cap{bottom:auto;top:1270px;max-width:880px;left:calc(50% - 50px)}
@@ -87,7 +100,7 @@ svg{position:absolute;left:0;top:0;overflow:visible}
   <div class="abs sub" data-a="ask 0 0.8 show" style="left:70px;top:900px;width:860px">👇 Tell us in the comments</div>
 </div>
 
-<div id="brand">FIX FOUND<span>#001</span></div><div id="chapter"></div><div id="cap"><span></span></div><div id="bar"></div></div>
+<div id="cover"><div class="cv-wrap"><div class="cv-problem">Is your AI lying to customers?</div><div class="cv-tool"><img src="logo.png"><span>Langfuse</span></div><div class="cv-stamp">Fix found · #001</div></div></div><div id="brand">FIX FOUND<span>#001</span></div><div id="chapter"></div><div id="cap"><span></span></div><div id="bar"></div></div>
 <script src="timeline.js"></script>
 <script></script>
 <script>// Shared engine for Fix Found videos. scenes.html marks elements declaratively:
@@ -132,6 +145,7 @@ window.render = function (t) {
     const fi = s.start === 0 ? 1 : P(t, s.start, .4), fo = s === last ? 1 : 1 - P(t, s.start + s.dur - .4, .4), o = Math.min(fi, fo);
     el.style.opacity = o; el.style.visibility = o > 0 ? 'visible' : 'hidden'; if (o > .5 && s.label) chap = s.label; }
   $('chapter').textContent = chap;
+  const cv = $('cover'); if (cv) { const o = 1 - P(t, 0.45, 0.35); cv.style.opacity = o; cv.style.visibility = o > 0 ? 'visible' : 'hidden'; }
   for (const a of ANIM) anim(a.el, P(t, B(a.s, a.b) + a.o, a.d), a.ty);
   for (const c of COUNT) { const v = Math.round(c.n * out3(P(t, B(c.s, c.b) + c.o, c.d))); c.el.textContent = c.f === 'comma' ? v.toLocaleString('en-US') : v; }
   // burned-in captions: the chunk being spoken, from timeline.json

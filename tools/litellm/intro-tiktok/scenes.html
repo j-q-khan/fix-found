@@ -1,0 +1,68 @@
+<style>
+.row{position:absolute;left:60px;width:880px;height:104px;border-radius:18px;background:#1E2F52;border:3px solid #2e4677;display:flex;align-items:center;padding:0 30px;font:700 42px 'Segoe UI';white-space:nowrap}
+.row .st{margin-left:auto;font:600 32px Consolas,monospace;color:#C9D3E0}
+.lbl{position:absolute;font:700 32px 'Segoe UI';letter-spacing:4px;text-transform:uppercase;color:#D9A441;white-space:nowrap}
+.ex{color:#8FA0B8;letter-spacing:3px}
+.cred{position:absolute;font:600 22px 'Segoe UI';color:#8FA0B8;white-space:nowrap}
+.ring{position:absolute;border:5px solid #3FBF7F;border-radius:10px}
+.ccard{position:absolute;left:60px;width:880px;border-radius:24px;background:#1E2F52;border:3px solid #2e4677;padding:30px 34px;font:700 44px 'Segoe UI';line-height:1.25}
+.dim{position:absolute;left:0;top:0;width:1080px;height:1920px;background:rgba(14,24,48,.97)}
+</style>
+
+<div class="scene" id="s-problem">
+  <div class="abs serif h2" data-a="problem 0 0 show" style="left:60px;top:250px;width:900px;font-size:80px">Who spent your<br><span class="coral">AI budget?</span></div>
+  <div class="lbl" data-a="problem 1 0 fade" style="left:60px;top:470px">Three teams <span class="ex">· example</span></div>
+  <div class="row" data-a="problem 1 0.2 left" style="top:524px">🛟 Support · OpenAI<span class="st" data-a="problem 1 2.4 pop">🔑 sk-…a91f</span></div>
+  <div class="row" data-a="problem 1 0.8 left" style="top:646px">🔎 Search · Anthropic<span class="st" data-a="problem 1 2.6 pop">🔑 sk-ant-…</span></div>
+  <div class="row" data-a="problem 1 1.4 left" style="top:768px">🛒 Checkout · Gemini<span class="st" data-a="problem 1 2.8 pop">🔑 AIza…</span></div>
+  <div class="paper" data-a="problem 1 3.8 drop" style="left:60px;top:910px;width:880px;height:190px;padding:24px 34px">
+    <div style="font:700 26px 'Segoe UI';letter-spacing:3px;text-transform:uppercase;color:#6b7590">🧾 One surprise bill · example</div>
+    <div style="font:800 64px 'Segoe UI';margin-top:10px">Total: $4,812.40</div>
+  </div>
+  <div class="chip" data-a="problem 1 5.4 pop" style="left:60px;top:1130px;background:#FF7A59">❓ Who spent what?</div>
+</div>
+
+<div class="scene" id="s-fix">
+  <div class="stamp" data-a="fix 0 0 stamp" style="left:90px;top:290px">Fix found · #{{N}}</div>
+  <div class="abs serif h1" data-a="fix 0 0.7 show" style="left:70px;top:470px">{{TOOL}}</div>
+  <div class="abs" data-a="fix 0 0.9 pop" style="left:680px;top:450px;width:240px;height:240px;border-radius:44px;background:#fff;box-shadow:0 30px 90px rgba(0,0,0,.5);overflow:hidden"><img src="logo.png" style="width:100%;height:100%;object-fit:contain"></div>
+  <div class="abs sub" data-a="fix 0 2.4 show" style="left:70px;top:760px;width:860px;font-size:54px">🚪 One gateway for<br><span class="gold">100+</span> AI providers</div>
+  <div class="chip" data-a="fix 0 6.6 pop" style="left:70px;top:1000px;background:#4FD1C5">⚖️ MIT-licensed core</div>
+  <div class="chip" data-a="fix 0 7.4 pop" style="left:70px;top:1100px;background:#D9A441">⭐ <span data-count="fix 0 7.4 1.0 61655 comma">0</span> GitHub stars</div>
+</div>
+
+<div class="scene" id="s-use">
+  <div class="lbl" data-a="use 0 0 fade" style="left:60px;top:240px">A key per team</div>
+  <div class="paper" data-a="use 0 0.2 pop" style="left:60px;top:300px;width:880px;height:299px;overflow:hidden;background:#111"><img src="shot-keys.png" style="width:880px;display:block">
+    <div class="ring" data-a="use 0 1.0 pop" style="left:2px;top:28px;width:232px;height:268px"></div>
+    <div class="ring" data-a="use 0 2.0 pop" style="left:712px;top:28px;width:166px;height:268px;border-color:#D9A441"></div>
+  </div>
+  <div class="cred" data-a="use 0 0.2 fade" style="left:60px;top:610px">Screenshot: LiteLLM docs · sample data</div>
+  <div class="chip" data-a="use 0 1.0 pop" style="left:60px;top:670px;background:#F7F5F0">🔑 Its own key</div>
+  <div class="chip" data-a="use 0 2.0 pop" style="left:60px;top:770px;background:#D9A441">💰 A budget</div>
+  <div class="chip" data-a="use 0 2.9 pop" style="left:400px;top:770px;background:#4FD1C5">⏱️ A rate limit</div>
+
+  <div class="dim" data-a="use 1 0 fade 0.3"></div>
+  <div class="lbl" data-a="use 1 0 fade" style="left:60px;top:240px">Every request, with its cost</div>
+  <div class="paper" data-a="use 1 0.1 pop" style="left:60px;top:300px;width:880px;height:558px;overflow:hidden;background:#111"><img src="shot-logs.png" style="width:880px;display:block">
+    <div class="ring" data-a="use 1 1.4 pop" style="left:2px;top:44px;width:132px;height:510px;border-color:#D9A441"></div>
+    <div class="ring" data-a="use 1 2.9 pop" style="left:397px;top:44px;width:168px;height:510px"></div>
+  </div>
+  <div class="cred" data-a="use 1 0.1 fade" style="left:60px;top:870px">Screenshot: LiteLLM docs · sample data</div>
+  <div class="row" data-a="use 1 4.6 left" style="top:930px;background:#6b2d2d;border-color:#8a3a3a">❌ A provider fails</div>
+  <div class="row" data-a="use 1 5.6 left" style="top:1056px;background:#1f5c43;border-color:#2c7a59">🛟 Falls back to another model</div>
+</div>
+
+<div class="scene" id="s-catch">
+  <div class="abs serif h2 coral" data-a="catch 0 0 show" style="left:70px;top:270px">The catch</div>
+  <div class="ccard" data-a="catch 0 0.9 left" style="top:420px">🔐 SSO past 5 users,<br>audit logs
+    <div class="coral" data-a="catch 0 3.8 fade" style="font:700 38px 'Segoe UI';margin-top:14px">need a paid licence</div></div>
+  <div class="ccard" data-a="catch 1 0 left" style="top:720px">🐘 Keys and budgets
+    <div class="teal" data-a="catch 1 1.0 fade" style="font:700 38px 'Segoe UI';margin-top:14px">need a Postgres database</div></div>
+  <div class="abs" data-a="catch 0 1.6 fade" style="left:70px;top:960px;width:860px;font:600 32px 'Segoe UI';color:#8FA0B8;line-height:1.35">Core: MIT. The <span style="font-family:Consolas,monospace">enterprise/</span> folder:<br>a commercial licence.</div>
+</div>
+
+<div class="scene" id="s-ask">
+  <div class="abs serif h2 gold" data-a="ask 0 0 show" style="left:70px;top:520px;width:860px">What problem should we fix next?</div>
+  <div class="abs sub" data-a="ask 0 0.8 show" style="left:70px;top:900px;width:860px">👇 Tell us in the comments</div>
+</div>
