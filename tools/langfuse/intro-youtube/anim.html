@@ -1,0 +1,206 @@
+<!doctype html><html><head><meta charset="utf-8"><style>:root{--W:1920px;--H:1080px}:root{--navy:#14213D;--card:#1E2F52;--cream:#F7F5F0;--gold:#D9A441;--slate:#C9D3E0;--muted:#8FA0B8;--teal:#4FD1C5;--coral:#FF7A59;--green:#3FBF7F;--violet:#9F8CFF;--term:#0B1222}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:var(--W);height:var(--H);overflow:hidden;background:var(--navy)}
+#stage{position:relative;width:var(--W);height:var(--H);overflow:hidden;font-family:'Segoe UI',Arial,sans-serif;color:var(--cream);
+  background:radial-gradient(1300px 900px at 75% 15%,#22386a 0%,#14213D 55%,#0e1830 100%)}
+#dots{position:absolute;inset:-60px;background-image:radial-gradient(rgba(201,211,224,.10) 1.6px,transparent 1.8px);background-size:44px 44px}
+.abs{position:absolute}.scene{position:absolute;inset:0;opacity:0}
+[data-a]{opacity:0}
+.serif{font-family:Georgia,serif;font-weight:700}
+.h1{font-size:124px;line-height:1.05}.h2{font-size:76px;line-height:1.12}
+.sub{font-size:46px;font-weight:600;color:var(--slate);line-height:1.3}
+.eyebrow{font-size:30px;letter-spacing:5px;text-transform:uppercase;color:var(--gold);font-weight:700}
+.chip{position:absolute;padding:14px 28px;border-radius:999px;font-size:34px;font-weight:700;white-space:nowrap;color:var(--navy)}
+.card{position:absolute;border-radius:28px;background:var(--card);border:3px solid #2e4677}
+.paper{position:absolute;border-radius:22px;background:var(--cream);color:var(--navy);box-shadow:0 26px 70px rgba(0,0,0,.45)}
+.term{position:absolute;border-radius:18px;background:var(--term);border:3px solid #2e4677;font:500 30px Consolas,'Cascadia Mono',monospace;color:#d6e2f0;padding:56px 30px 24px;white-space:pre;overflow:hidden}
+.term::before{content:'';position:absolute;left:24px;top:20px;width:14px;height:14px;border-radius:50%;background:#FF7A59;box-shadow:24px 0 #D9A441,48px 0 #3FBF7F}
+.gold{color:var(--gold)}.teal{color:var(--teal)}.coral{color:var(--coral)}.green{color:var(--green)}.violet{color:var(--violet)}
+.stamp{position:absolute;padding:16px 34px;border:7px solid var(--gold);border-radius:16px;color:var(--gold);font:900 58px 'Segoe UI';letter-spacing:6px;text-transform:uppercase;white-space:nowrap}
+svg{position:absolute;left:0;top:0;overflow:visible}
+#brand{position:absolute;left:70px;top:58px;font:800 28px 'Segoe UI';letter-spacing:6px;color:var(--gold)}
+#brand span{color:var(--muted);font-weight:700;margin-left:14px}
+#chapter{position:absolute;right:110px;top:62px;font-size:28px;letter-spacing:4px;text-transform:uppercase;color:var(--muted);font-weight:700}
+#bar{position:absolute;left:0;bottom:0;height:8px;background:linear-gradient(90deg,var(--teal),var(--gold),var(--coral))}
+#cap{position:absolute;left:50%;transform:translateX(-50%);bottom:64px;max-width:1500px;text-align:center;pointer-events:none}
+#cap span{display:inline;padding:6px 22px;line-height:1.5;border-radius:12px;background:rgba(8,14,28,.82);color:#fff;
+  font:700 44px 'Segoe UI';-webkit-box-decoration-break:clone;box-decoration-break:clone}
+/* 9:16 (TikTok, Shorts): keep clear of the app's bottom bar and right-hand buttons */
+.v #brand{left:60px;top:110px}.v #chapter{display:none}
+.v #cap{bottom:auto;top:1270px;max-width:880px;left:calc(50% - 50px)}
+.v #cap span{font-size:54px}
+</style></head>
+<body data-w="1920" class="h"><div id="stage"><div id="dots"></div>
+<style>
+.bub{position:absolute;padding:22px 30px;border-radius:26px;font:600 38px 'Segoe UI';line-height:1.3;max-width:640px}
+.row{position:absolute;left:40px;right:40px;height:78px;border-radius:16px;background:#26395f;display:flex;align-items:center;padding:0 24px;font:600 32px 'Segoe UI'}
+.row .t{margin-left:auto;font:600 26px Consolas;color:#8FA0B8}
+.col{position:absolute;top:190px;width:520px;height:600px}
+.num{font:900 84px Georgia,serif;color:#D9A441;position:absolute;left:34px;top:18px}
+.ctitle{position:absolute;left:34px;top:122px;font:700 40px 'Segoe UI'}
+.mini{position:absolute;left:34px;right:34px;height:58px;border-radius:12px;background:#26395f;font:600 26px 'Segoe UI';display:flex;align-items:center;padding:0 18px}
+.code{font:500 32px Consolas,'Cascadia Mono',monospace;white-space:pre;position:absolute}
+</style>
+
+<div class="scene" id="s-problem">
+  <div class="paper" data-a="problem 0 0 pop" style="left:150px;top:170px;width:960px;height:600px"></div>
+  <div class="abs" data-a="problem 0 0.2 fade" style="left:190px;top:200px;font:700 28px 'Segoe UI';color:#8FA0B8;letter-spacing:3px">SUPPORT CHAT</div>
+  <div class="bub" data-a="problem 0 0.5 right" style="left:440px;top:270px;background:#4FD1C5;color:#14213D">How long do I have to return my order?</div>
+  <div class="bub" data-a="problem 1 0.3 left" style="left:190px;top:480px;background:#14213D;color:#F7F5F0">🤖 You have <span style="color:#FF7A59">90 days</span> for a full refund!</div>
+  <div class="paper" data-a="problem 1 2.6 drop" style="left:1220px;top:200px;width:540px;height:300px"></div>
+  <div class="abs" data-a="problem 1 2.8 fade" style="left:1260px;top:236px;font:700 36px 'Segoe UI';color:#14213D">📄 Refund policy</div>
+  <div class="abs" data-a="problem 1 3.0 fade" style="left:1260px;top:310px;width:470px;font:600 34px 'Segoe UI';color:#14213D;line-height:1.35">Returns accepted within <span style="background:#3FBF7F;color:#fff;padding:0 10px;border-radius:8px;white-space:nowrap">30 days</span>.</div>
+  <div class="abs" data-a="problem 1 3.6 stamp" style="left:1120px;top:470px;width:130px;height:130px;border-radius:50%;background:#FF7A59;color:#fff;font:900 76px 'Segoe UI';display:flex;align-items:center;justify-content:center">≠</div>
+  <div class="abs serif h2" data-a="problem 2 0 show" style="left:1220px;top:600px;width:640px">Would you <span class="coral">even know?</span></div>
+</div>
+
+<div class="scene" id="s-fix">
+  <div class="stamp" data-a="fix 0 0 stamp" style="left:150px;top:190px">Fix found · #001</div>
+  <div class="abs serif h1" data-a="fix 0 0.7 show" style="left:150px;top:370px">Langfuse</div>
+  <div class="abs" data-a="fix 0 0.9 pop" style="left:1340px;top:190px;width:380px;height:380px;border-radius:60px;background:#fff;box-shadow:0 30px 90px rgba(0,0,0,.5)"><img src="logo.png" style="width:100%;height:100%;object-fit:contain;border-radius:60px"></div>
+  <div class="abs sub" data-a="fix 1 0 show" style="left:150px;top:540px;width:1100px">✈️ A <span class="gold">flight recorder</span> for your AI app</div>
+  <svg width="1920" height="1080"><polyline data-a="fix 1 1.0 grow 1.6" points="150,690 330,690 370,640 410,740 450,690 640,690 680,630 720,750 760,690 1100,690" fill="none" stroke="#4FD1C5" stroke-width="6" stroke-linejoin="round"/></svg>
+  <div class="chip" data-a="fix 2 0.3 pop" style="left:150px;top:790px;background:#4FD1C5">Open source</div>
+  <div class="chip" data-a="fix 2 2.0 pop" style="left:150px;top:790px;background:#D9A441">⭐ <span data-count="fix 2 2.0 1.6 36000 comma">0</span>+ GitHub stars</div>
+</div>
+
+<div class="scene" id="s-how">
+  <div class="term" data-a="how 0 0 fade" style="left:140px;top:180px;width:800px;height:300px"></div>
+  <div class="code" data-a="how 0 0.4 type 0.8" style="left:180px;top:250px;color:#9F8CFF">from langfuse import observe</div>
+  <div class="code" data-a="how 0 1.2 type 0.4" style="left:180px;top:310px;color:#D9A441">@observe()</div>
+  <div class="code" data-a="how 0 1.6 type 0.6" style="left:180px;top:370px;color:#d6e2f0">def answer(question): ...</div>
+  <div class="abs eyebrow" data-a="how 0 0.2 fade" style="left:140px;top:520px">A few lines of code</div>
+  <div class="card" data-a="how 1 0 pop" style="left:1010px;top:170px;width:780px;height:560px">
+    <div class="abs eyebrow" style="left:40px;top:28px">Trace</div>
+    <div class="row" data-a="how 1 0.9 left" style="top:90px">🧑 Question<span class="t">0.0s</span></div>
+    <div class="row" data-a="how 1 1.9 left" style="top:186px;left:80px">🔎 Look up policy<span class="t">0.4s</span></div>
+    <div class="row" data-a="how 1 2.9 left" style="top:282px;left:80px">🤖 Model call<span class="t">1.2s</span></div>
+    <div class="row" data-a="how 1 3.9 left" style="top:378px">💬 Answer<span class="t">1.9s</span></div>
+    <div class="abs" data-a="how 2 0.8 grow 0.5" style="left:30px;top:368px;width:720px;height:98px;border:6px solid #D9A441;border-radius:20px"></div>
+  </div>
+  <div class="abs sub" data-a="how 2 0.3 show" style="left:140px;top:610px;width:820px">Open any conversation. See <span class="gold">exactly what happened.</span></div>
+</div>
+
+<div class="scene" id="s-uses">
+  <div class="card col" data-a="uses 0 0 pop" style="left:120px">
+    <div class="num">1</div><div class="ctitle">Trace a complaint</div>
+    <div class="mini" data-a="uses 0 1.6 left" style="top:220px">📝 The prompt that was sent</div>
+    <div class="mini" data-a="uses 0 3.2 left" style="top:300px">🤖 Model said: <span style="color:#FF7A59;margin-left:8px">90 days</span></div>
+    <div class="mini" data-a="uses 0 4.8 left" style="top:380px;background:#1f5a45">✅ Found the exact conversation</div>
+  </div>
+  <div class="card col" data-a="uses 1 0 pop" style="left:700px">
+    <div class="num">2</div><div class="ctitle">Watch your spend</div>
+    <div class="abs" style="left:34px;top:230px;font:600 24px 'Segoe UI';color:#8FA0B8">Cost by feature (example)</div>
+    <div class="abs" data-a="uses 1 1.6 grow 0.8" style="left:34px;top:280px;width:420px;height:54px;border-radius:10px;background:#FF7A59"></div>
+    <div class="abs" data-a="uses 1 2.0 grow 0.8" style="left:34px;top:350px;width:250px;height:54px;border-radius:10px;background:#D9A441"></div>
+    <div class="abs" data-a="uses 1 2.4 grow 0.8" style="left:34px;top:420px;width:120px;height:54px;border-radius:10px;background:#4FD1C5"></div>
+    <div class="chip" data-a="uses 1 4.2 pop" style="left:34px;top:500px;font-size:26px;background:#F7F5F0">tokens · cost · model</div>
+  </div>
+  <div class="card col" data-a="uses 2 0 pop" style="left:1280px">
+    <div class="num">3</div><div class="ctitle">Score the answers</div>
+    <div class="abs" data-a="uses 2 1.8 pop" style="left:60px;top:220px;font-size:84px">👍</div>
+    <div class="abs" data-a="uses 2 2.2 pop" style="left:200px;top:220px;font-size:84px">👎</div>
+    <div class="chip" data-a="uses 2 3.6 pop" style="left:330px;top:240px;font-size:26px;background:#9F8CFF">AI judge</div>
+    <div class="mini" data-a="uses 2 6.0 left" style="top:380px;background:#6b2d2d">⚠️ Refund answer · 0.2</div>
+    <div class="mini" data-a="uses 2 6.4 left" style="top:450px">Shipping answer · 0.9</div>
+    <div class="mini" data-a="uses 2 6.8 left" style="top:520px">Sizing answer · 0.9</div>
+  </div>
+</div>
+
+<div class="scene" id="s-catch">
+  <div class="abs serif h2 coral" data-a="catch 0 0 show" style="left:140px;top:170px">The catch</div>
+  <div class="abs" data-a="catch 1 0.4 grow 1.0" style="left:140px;top:320px;width:1300px;height:90px;border-radius:16px 0 0 16px;background:#4FD1C5"></div>
+  <div class="abs" data-a="catch 1 0.9 fade" style="left:180px;top:338px;font:800 40px 'Segoe UI';color:#14213D">MIT core: free to use</div>
+  <div class="abs" data-a="catch 1 3.4 grow 0.6" style="left:1450px;top:320px;width:330px;height:90px;border-radius:0 16px 16px 0;background:#D9A441"></div>
+  <div class="abs" data-a="catch 1 3.7 fade" style="left:1478px;top:342px;font:700 32px 'Segoe UI';color:#14213D">ee/ · license key</div>
+  <div class="abs eyebrow" data-a="catch 2 0 fade" style="left:140px;top:470px">Self-hosting runs</div>
+  <div class="chip" data-a="catch 2 1.3 pop" style="left:140px;top:530px;background:#F7F5F0">🌐 Web app</div>
+  <div class="chip" data-a="catch 2 1.9 pop" style="left:140px;top:530px;background:#F7F5F0">⚙️ Worker</div>
+  <div class="chip" data-a="catch 2 2.5 pop" style="left:140px;top:530px;background:#9F8CFF">🐘 Postgres</div>
+  <div class="chip" data-a="catch 2 2.8 pop" style="left:140px;top:530px;background:#9F8CFF">📊 ClickHouse</div>
+  <div class="chip" data-a="catch 2 3.6 pop" style="left:140px;top:640px;background:#FF7A59">⚡ Redis cache</div>
+  <div class="chip" data-a="catch 2 4.4 pop" style="left:140px;top:640px;background:#D9A441">🗄️ S3 file storage</div>
+  <div class="chip" data-a="catch 2 7.0 pop" style="left:140px;top:770px;background:#4FD1C5">☁️ Or Langfuse Cloud · free tier</div>
+</div>
+
+<div class="scene" id="s-fit">
+  <div class="card" data-a="fit 0 0 pop" style="left:140px;top:190px;width:760px;height:400px;border-color:#3FBF7F"></div>
+  <div class="abs" data-a="fit 0 0.2 show" style="left:190px;top:230px;font:800 48px 'Segoe UI';color:#3FBF7F">✅ Worth it</div>
+  <div class="abs sub" data-a="fit 0 0.5 show" style="left:190px;top:330px;width:660px">Real customers talk to your AI</div>
+  <div class="card" data-a="fit 1 0 pop" style="left:1020px;top:190px;width:760px;height:400px"></div>
+  <div class="abs" data-a="fit 1 0.2 show" style="left:1070px;top:230px;font:800 48px 'Segoe UI';color:#D9A441">🤔 Probably too much</div>
+  <div class="abs sub" data-a="fit 1 0.5 show" style="left:1070px;top:330px;width:660px">A weekend prototype</div>
+  <div class="chip" data-a="fit 2 0.6 pop" style="left:140px;top:680px;background:#F7F5F0">🔁 Alternative: Arize Phoenix</div>
+</div>
+
+<div class="scene" id="s-try">
+  <div class="abs eyebrow" data-a="try 0 0 fade" style="left:140px;top:170px">Try it in about 5 minutes</div>
+  <div class="term" data-a="try 0 0.1 fade" style="left:140px;top:230px;width:1640px;height:290px"></div>
+  <div class="code" data-a="try 0 0.6 type 1.4" style="left:180px;top:300px;color:#4FD1C5">$ git clone --depth=1 https://github.com/langfuse/langfuse.git</div>
+  <div class="code" data-a="try 0 2.2 type 0.4" style="left:180px;top:360px;color:#4FD1C5">$ cd langfuse</div>
+  <div class="code" data-a="try 0 3.0 type 0.6" style="left:180px;top:420px;color:#4FD1C5">$ docker compose up</div>
+  <div class="chip" data-a="try 0 4.6 pop" style="left:140px;top:550px;font-size:26px;background:#F7F5F0">Local testing · the docs suggest Kubernetes for production</div>
+  <div class="abs serif h2 gold" data-a="try 1 0 show" style="left:140px;top:660px;width:1640px">What problem should we fix next?</div>
+</div>
+
+<div id="brand">FIX FOUND<span>#001</span></div><div id="chapter"></div><div id="cap"><span></span></div><div id="bar"></div></div>
+<script src="timeline.js"></script>
+<script></script>
+<script>// Shared engine for Fix Found videos. scenes.html marks elements declaratively:
+//   data-a="scene beat offset type [dur]"   type: show | pop | left | right | fade | grow | drop | stamp | type
+//   data-count="scene beat offset dur target [comma]"
+// "type" reveals an element's text one character at a time (for terminal lines).
+// scenes.html may define window.extra(t) for custom motion. render(t) is deterministic (driven by capture.mjs).
+const TL = window.TL, $ = id => document.getElementById(id), W = +document.body.dataset.w;
+const clamp = (x, a = 0, b = 1) => Math.min(b, Math.max(a, x)), P = (t, a, d) => clamp((t - a) / d);
+const out3 = x => 1 - Math.pow(1 - x, 3), back = x => { const c1 = 1.9, c3 = c1 + 1; return 1 + c3 * Math.pow(x - 1, 3) + c1 * Math.pow(x - 1, 2); };
+const S = Object.fromEntries(TL.scenes.map(s => [s.id, s]));
+const B = (id, i = 0) => S[id].beats[Math.min(i, S[id].beats.length - 1)].start;
+const BD = (id, i = 0) => S[id].beats[Math.min(i, S[id].beats.length - 1)].dur;
+const END = id => S[id].start + S[id].dur;
+const NS = 'http://www.w3.org/2000/svg';
+
+function anim(el, p, type) {
+  const e = out3(p);
+  switch (type) {
+    case 'pop': el.style.opacity = clamp(p * 3); el.style.transform = `scale(${p <= 0 ? 0 : back(p)})`; break;
+    case 'left': el.style.opacity = e; el.style.transform = `translateX(${(1 - e) * -160}px)`; break;
+    case 'right': el.style.opacity = e; el.style.transform = `translateX(${(1 - e) * 160}px)`; break;
+    case 'fade': el.style.opacity = e; break;
+    case 'grow': el.style.opacity = p > 0 ? 1 : 0; el.style.transformOrigin = 'left center'; el.style.transform = `scaleX(${e})`; break;
+    case 'drop': el.style.opacity = clamp(p * 3); el.style.transform = `translateY(${(1 - out3(p)) * -260}px) rotate(${(1 - e) * 12}deg)`; break;
+    case 'stamp': el.style.opacity = clamp(p * 4); el.style.transform = `scale(${p <= 0 ? 2.4 : 2.4 - 1.4 * out3(p)}) rotate(-6deg)`; break;
+    case 'type': el.style.opacity = p > 0 ? 1 : 0; el.textContent = el._full.slice(0, Math.round(el._full.length * p)); break;
+    default: el.style.opacity = e; el.style.transform = `translateY(${(1 - e) * 40}px)`;
+  }
+}
+const ANIM = [...document.querySelectorAll('[data-a]')].map(el => { const [s, b, o, ty, d] = el.dataset.a.split(' ');
+  if (ty === 'type') el._full = el.textContent;
+  return { el, s, b: +b, o: +o, ty: ty || 'show', d: +(d || (ty === 'type' ? 1.2 : 0.55)) }; });
+const COUNT = [...document.querySelectorAll('[data-count]')].map(el => { const [s, b, o, d, n, f] = el.dataset.count.split(' ');
+  return { el, s, b: +b, o: +o, d: +d, n: +n, f }; });
+
+window.render = function (t) {
+  $('dots').style.transform = `translate(${-(t * 9) % 44}px,${-(t * 5) % 44}px)`;
+  $('bar').style.width = (W * clamp(t / TL.total)) + 'px';
+  let chap = ''; const last = TL.scenes[TL.scenes.length - 1];
+  for (const s of TL.scenes) { const el = $('s-' + s.id); if (!el) continue;
+    const fi = s.start === 0 ? 1 : P(t, s.start, .4), fo = s === last ? 1 : 1 - P(t, s.start + s.dur - .4, .4), o = Math.min(fi, fo);
+    el.style.opacity = o; el.style.visibility = o > 0 ? 'visible' : 'hidden'; if (o > .5 && s.label) chap = s.label; }
+  $('chapter').textContent = chap;
+  for (const a of ANIM) anim(a.el, P(t, B(a.s, a.b) + a.o, a.d), a.ty);
+  for (const c of COUNT) { const v = Math.round(c.n * out3(P(t, B(c.s, c.b) + c.o, c.d))); c.el.textContent = c.f === 'comma' ? v.toLocaleString('en-US') : v; }
+  // burned-in captions: the chunk being spoken, from timeline.json
+  const cap = TL.captions.find(c => t >= c.start && t < c.end), span = $('cap').firstElementChild;
+  span.textContent = cap ? cap.text : ''; $('cap').style.opacity = cap ? 1 : 0;
+  if (window.extra) window.extra(t);
+};
+// keep chips on the same row from overlapping (emoji widths vary)
+document.querySelectorAll('.scene').forEach(sc => {
+  const rows = {}; [...sc.children].filter(e => e.classList.contains('chip') && e.style.left).forEach(e => (rows[e.style.top] = rows[e.style.top] || []).push(e));
+  Object.values(rows).forEach(r => { r.sort((a, b) => a.offsetLeft - b.offsetLeft);
+    for (let i = 1; i < r.length; i++) { const min = r[i - 1].offsetLeft + r[i - 1].offsetWidth + 22; if (r[i].offsetLeft < min) r[i].style.left = min + 'px'; } });
+});
+window.render(0);
+</script>
+</body></html>

@@ -1,0 +1,320 @@
+{
+ "total": 102.151,
+ "fps": 30,
+ "voice": "Ruth",
+ "scenes": [
+  {
+   "id": "problem",
+   "label": "",
+   "start": 0.0,
+   "dur": 11.177,
+   "beats": [
+    {
+     "start": 0.3,
+     "dur": 3.659,
+     "text": "A customer asks your A.I. assistant about refunds."
+    },
+    {
+     "start": 4.019,
+     "dur": 4.732,
+     "text": "It answers, confidently: ninety days. Your policy says thirty."
+    },
+    {
+     "start": 8.811,
+     "dur": 2.015,
+     "text": "Would you even know it happened?"
+    }
+   ]
+  },
+  {
+   "id": "fix",
+   "label": "01  The fix",
+   "start": 10.777,
+   "dur": 11.184,
+   "beats": [
+    {
+     "start": 11.077,
+     "dur": 2.483,
+     "text": "Fix found: Lang fuse."
+    },
+    {
+     "start": 13.62,
+     "dur": 3.573,
+     "text": "Think of it as a flight recorder for your A.I. app."
+    },
+    {
+     "start": 17.253,
+     "dur": 4.358,
+     "text": "It's open source, with more than thirty-six thousand stars on GitHub."
+    }
+   ]
+  },
+  {
+   "id": "how",
+   "label": "02  How it works",
+   "start": 21.561,
+   "dur": 13.8,
+   "beats": [
+    {
+     "start": 21.861,
+     "dur": 2.452,
+     "text": "You add a few lines of code to your app."
+    },
+    {
+     "start": 24.373,
+     "dur": 6.379,
+     "text": "From then on, every question, every answer, and every step in between is saved as a trace."
+    },
+    {
+     "start": 30.812,
+     "dur": 4.199,
+     "text": "Later, you can open any conversation and see exactly what happened."
+    }
+   ]
+  },
+  {
+   "id": "uses",
+   "label": "03  Three real uses",
+   "start": 34.961,
+   "dur": 23.927,
+   "beats": [
+    {
+     "start": 35.261,
+     "dur": 6.925,
+     "text": "One. Trace a complaint. Find the exact conversation, the prompt that was sent, and what the model said back."
+    },
+    {
+     "start": 42.246,
+     "dur": 7.149,
+     "text": "Two. Watch your spend. It tracks tokens and cost for every call, with prices built in for popular models."
+    },
+    {
+     "start": 49.455,
+     "dur": 9.083,
+     "text": "Three. Score the answers. Collect thumbs up and thumbs down from users, or let another model grade them, so the bad answers rise to the top."
+    }
+   ]
+  },
+  {
+   "id": "catch",
+   "label": "04  The catch",
+   "start": 58.488,
+   "dur": 20.718,
+   "beats": [
+    {
+     "start": 58.788,
+     "dur": 1.588,
+     "text": "Now, the catch."
+    },
+    {
+     "start": 60.436,
+     "dur": 7.214,
+     "text": "The core is M.I.T. licensed, but a few enterprise features sit in their own folder and need a license key."
+    },
+    {
+     "start": 67.71,
+     "dur": 11.146,
+     "text": "And self-hosting means running several services: a web app, a worker, two databases, a cache, and file storage. Or you pay for their cloud, which has a free tier."
+    }
+   ]
+  },
+  {
+   "id": "fit",
+   "label": "05  Who it's for",
+   "start": 78.806,
+   "dur": 11.111,
+   "beats": [
+    {
+     "start": 79.106,
+     "dur": 3.419,
+     "text": "It's worth it once real customers talk to your A.I."
+    },
+    {
+     "start": 82.585,
+     "dur": 3.27,
+     "text": "For a weekend prototype, it's probably more than you need."
+    },
+    {
+     "start": 85.915,
+     "dur": 3.652,
+     "text": "Want an alternative? Take a look at Arize Phoenix."
+    }
+   ]
+  },
+  {
+   "id": "try",
+   "label": "06  Try it",
+   "start": 89.517,
+   "dur": 12.634,
+   "beats": [
+    {
+     "start": 89.817,
+     "dur": 6.695,
+     "text": "To try it, clone the repo and run docker compose up. It's running on your own machine in about five minutes."
+    },
+    {
+     "start": 96.572,
+     "dur": 3.629,
+     "text": "What problem should we fix next? Tell us in the comments."
+    }
+   ]
+  }
+ ],
+ "captions": [
+  {
+   "start": 0.3,
+   "end": 3.959,
+   "text": "A customer asks your AI assistant about refunds."
+  },
+  {
+   "start": 4.019,
+   "end": 8.751,
+   "text": "It answers, confidently: ninety days. Your policy says thirty."
+  },
+  {
+   "start": 8.811,
+   "end": 10.827,
+   "text": "Would you even know it happened?"
+  },
+  {
+   "start": 11.077,
+   "end": 13.56,
+   "text": "Fix found: Langfuse."
+  },
+  {
+   "start": 13.62,
+   "end": 17.193,
+   "text": "Think of it as a flight recorder for your AI app."
+  },
+  {
+   "start": 17.253,
+   "end": 20.98,
+   "text": "It's open source, with more than thirty-six thousand stars on"
+  },
+  {
+   "start": 20.98,
+   "end": 21.611,
+   "text": "GitHub."
+  },
+  {
+   "start": 21.861,
+   "end": 24.313,
+   "text": "You add a few lines of code to your app."
+  },
+  {
+   "start": 24.373,
+   "end": 28.647,
+   "text": "From then on, every question, every answer, and every step in"
+  },
+  {
+   "start": 28.647,
+   "end": 30.752,
+   "text": "between is saved as a trace."
+  },
+  {
+   "start": 30.812,
+   "end": 34.273,
+   "text": "Later, you can open any conversation and see exactly what"
+  },
+  {
+   "start": 34.273,
+   "end": 35.011,
+   "text": "happened."
+  },
+  {
+   "start": 35.261,
+   "end": 39.295,
+   "text": "One. Trace a complaint. Find the exact conversation, the prompt"
+  },
+  {
+   "start": 39.295,
+   "end": 42.186,
+   "text": "that was sent, and what the model said back."
+  },
+  {
+   "start": 42.246,
+   "end": 46.586,
+   "text": "Two. Watch your spend. It tracks tokens and cost for every call,"
+  },
+  {
+   "start": 46.586,
+   "end": 49.395,
+   "text": "with prices built in for popular models."
+  },
+  {
+   "start": 49.455,
+   "end": 53.572,
+   "text": "Three. Score the answers. Collect thumbs up and thumbs down from"
+  },
+  {
+   "start": 53.572,
+   "end": 57.63,
+   "text": "users, or let another model grade them, so the bad answers rise"
+  },
+  {
+   "start": 57.63,
+   "end": 58.538,
+   "text": "to the top."
+  },
+  {
+   "start": 58.788,
+   "end": 60.376,
+   "text": "Now, the catch."
+  },
+  {
+   "start": 60.436,
+   "end": 64.765,
+   "text": "The core is MIT licensed, but a few enterprise features sit in"
+  },
+  {
+   "start": 64.765,
+   "end": 67.65,
+   "text": "their own folder and need a license key."
+  },
+  {
+   "start": 67.71,
+   "end": 71.922,
+   "text": "And self-hosting means running several services: a web app, a"
+  },
+  {
+   "start": 71.922,
+   "end": 76.329,
+   "text": "worker, two databases, a cache, and file storage. Or you pay for"
+  },
+  {
+   "start": 76.329,
+   "end": 78.856,
+   "text": "their cloud, which has a free tier."
+  },
+  {
+   "start": 79.106,
+   "end": 82.525,
+   "text": "It's worth it once real customers talk to your AI"
+  },
+  {
+   "start": 82.585,
+   "end": 85.855,
+   "text": "For a weekend prototype, it's probably more than you need."
+  },
+  {
+   "start": 85.915,
+   "end": 89.567,
+   "text": "Want an alternative? Take a look at Arize Phoenix."
+  },
+  {
+   "start": 89.817,
+   "end": 93.368,
+   "text": "To try it, clone the repo and run docker compose up. It's"
+  },
+  {
+   "start": 93.368,
+   "end": 96.512,
+   "text": "running on your own machine in about five minutes."
+  },
+  {
+   "start": 96.572,
+   "end": 100.201,
+   "text": "What problem should we fix next? Tell us in the comments."
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+[
+  ["problem", "", [
+    "A customer asks your A.I. assistant about refunds.",
+    "It answers, confidently: ninety days. Your policy says thirty.",
+    "Would you even know it happened?"
+  ]],
+  ["fix", "01  The fix", [
+    "Fix found: Lang fuse.",
+    "Think of it as a flight recorder for your A.I. app.",
+    "It's open source, with more than thirty-six thousand stars on GitHub."
+  ]],
+  ["how", "02  How it works", [
+    "You add a few lines of code to your app.",
+    "From then on, every question, every answer, and every step in between is saved as a trace.",
+    "Later, you can open any conversation and see exactly what happened."
+  ]],
+  ["uses", "03  Three real uses", [
+    "One. Trace a complaint. Find the exact conversation, the prompt that was sent, and what the model said back.",
+    "Two. Watch your spend. It tracks tokens and cost for every call, with prices built in for popular models.",
+    "Three. Score the answers. Collect thumbs up and thumbs down from users, or let another model grade them, so the bad answers rise to the top."
+  ]],
+  ["catch", "04  The catch", [
+    "Now, the catch.",
+    "The core is M.I.T. licensed, but a few enterprise features sit in their own folder and need a license key.",
+    "And self-hosting means running several services: a web app, a worker, two databases, a cache, and file storage. Or you pay for their cloud, which has a free tier."
+  ]],
+  ["fit", "05  Who it's for", [
+    "It's worth it once real customers talk to your A.I.",
+    "For a weekend prototype, it's probably more than you need.",
+    "Want an alternative? Take a look at Arize Phoenix."
+  ]],
+  ["try", "06  Try it", [
+    "To try it, clone the repo and run docker compose up. It's running on your own machine in about five minutes.",
+    "What problem should we fix next? Tell us in the comments."
+  ]]
+]

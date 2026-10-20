@@ -1,0 +1,64 @@
+1
+00:00:00,300 --> 00:00:02,975
+Your AI just told a customer refunds
+
+2
+00:00:02,975 --> 00:00:05,515
+take ninety days. Your policy says
+
+3
+00:00:05,515 --> 00:00:06,251
+thirty.
+
+4
+00:00:06,311 --> 00:00:07,772
+Would you even know?
+
+5
+00:00:08,023 --> 00:00:11,239
+Fix found: Langfuse. A flight recorder
+
+6
+00:00:11,239 --> 00:00:12,770
+for your AI app.
+
+7
+00:00:13,020 --> 00:00:15,039
+Add a few lines of code, and every
+
+8
+00:00:15,039 --> 00:00:16,792
+question and answer is saved.
+
+9
+00:00:16,852 --> 00:00:18,933
+When a customer complains, open the
+
+10
+00:00:18,933 --> 00:00:21,067
+exact conversation and see what went
+
+11
+00:00:21,067 --> 00:00:21,600
+wrong.
+
+12
+00:00:21,660 --> 00:00:24,183
+It even tracks what every call costs.
+
+13
+00:00:24,433 --> 00:00:27,140
+The catch: self-hosting means running
+
+14
+00:00:27,140 --> 00:00:29,846
+several services. Or use their cloud,
+
+15
+00:00:29,846 --> 00:00:31,563
+which has a free tier.
+
+16
+00:00:31,813 --> 00:00:34,051
+What problem should we fix next?
+

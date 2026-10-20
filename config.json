@@ -1,3 +1,29 @@
 {
-  "proposals_dir": "../AI Planning Room/proposals"
+  "proposals_dir": "../AI Planning Room/proposals",
+  "voice": "Ruth",
+  "engine": "long-form",
+  "tempo": 1.1,
+  "aws_account": "6163",
+  "caption_spellings": {
+    "n-eight-n": "n8n",
+    "sequel": "SQL",
+    "prompt foo": "promptfoo",
+    "deep eval": "DeepEval",
+    "lang fuse": "Langfuse",
+    "Click House": "ClickHouse",
+    "M.I.T.": "MIT",
+    "Open AI": "OpenAI"
+  },
+  "youtube": {
+    "channel_id": "UCmxifChwsfWA4E9FhQgQ78Q",
+    "channel_name": "Jabran Qamar Khan (@JQK-Upwork)",
+    "client_secret": ".secrets/youtube_client_secret.json",
+    "token": ".secrets/youtube_token.json",
+    "privacy": "private",
+    "category_id": "28",
+    "playlists": {},
+    "contains_synthetic_media": false,
+    "signin_hint": "At Google's 'Choose your account or a brand account', pick Xambuster (the old name of the Jabran Qamar Khan brand channel; the plain account is Quran-LM).",
+    "private_upload_after_render": true
+  }
 }

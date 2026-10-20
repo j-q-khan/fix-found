@@ -1,0 +1,31 @@
+:root{--navy:#14213D;--card:#1E2F52;--cream:#F7F5F0;--gold:#D9A441;--slate:#C9D3E0;--muted:#8FA0B8;--teal:#4FD1C5;--coral:#FF7A59;--green:#3FBF7F;--violet:#9F8CFF;--term:#0B1222}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:var(--W);height:var(--H);overflow:hidden;background:var(--navy)}
+#stage{position:relative;width:var(--W);height:var(--H);overflow:hidden;font-family:'Segoe UI',Arial,sans-serif;color:var(--cream);
+  background:radial-gradient(1300px 900px at 75% 15%,#22386a 0%,#14213D 55%,#0e1830 100%)}
+#dots{position:absolute;inset:-60px;background-image:radial-gradient(rgba(201,211,224,.10) 1.6px,transparent 1.8px);background-size:44px 44px}
+.abs{position:absolute}.scene{position:absolute;inset:0;opacity:0}
+[data-a]{opacity:0}
+.serif{font-family:Georgia,serif;font-weight:700}
+.h1{font-size:124px;line-height:1.05}.h2{font-size:76px;line-height:1.12}
+.sub{font-size:46px;font-weight:600;color:var(--slate);line-height:1.3}
+.eyebrow{font-size:30px;letter-spacing:5px;text-transform:uppercase;color:var(--gold);font-weight:700}
+.chip{position:absolute;padding:14px 28px;border-radius:999px;font-size:34px;font-weight:700;white-space:nowrap;color:var(--navy)}
+.card{position:absolute;border-radius:28px;background:var(--card);border:3px solid #2e4677}
+.paper{position:absolute;border-radius:22px;background:var(--cream);color:var(--navy);box-shadow:0 26px 70px rgba(0,0,0,.45)}
+.term{position:absolute;border-radius:18px;background:var(--term);border:3px solid #2e4677;font:500 30px Consolas,'Cascadia Mono',monospace;color:#d6e2f0;padding:56px 30px 24px;white-space:pre;overflow:hidden}
+.term::before{content:'';position:absolute;left:24px;top:20px;width:14px;height:14px;border-radius:50%;background:#FF7A59;box-shadow:24px 0 #D9A441,48px 0 #3FBF7F}
+.gold{color:var(--gold)}.teal{color:var(--teal)}.coral{color:var(--coral)}.green{color:var(--green)}.violet{color:var(--violet)}
+.stamp{position:absolute;padding:16px 34px;border:7px solid var(--gold);border-radius:16px;color:var(--gold);font:900 58px 'Segoe UI';letter-spacing:6px;text-transform:uppercase;white-space:nowrap}
+svg{position:absolute;left:0;top:0;overflow:visible}
+#brand{position:absolute;left:70px;top:58px;font:800 28px 'Segoe UI';letter-spacing:6px;color:var(--gold)}
+#brand span{color:var(--muted);font-weight:700;margin-left:14px}
+#chapter{position:absolute;right:110px;top:62px;font-size:28px;letter-spacing:4px;text-transform:uppercase;color:var(--muted);font-weight:700}
+#bar{position:absolute;left:0;bottom:0;height:8px;background:linear-gradient(90deg,var(--teal),var(--gold),var(--coral))}
+#cap{position:absolute;left:50%;transform:translateX(-50%);bottom:64px;max-width:1500px;text-align:center;pointer-events:none}
+#cap span{display:inline;padding:6px 22px;line-height:1.5;border-radius:12px;background:rgba(8,14,28,.82);color:#fff;
+  font:700 44px 'Segoe UI';-webkit-box-decoration-break:clone;box-decoration-break:clone}
+/* 9:16 (TikTok, Shorts): keep clear of the app's bottom bar and right-hand buttons */
+.v #brand{left:60px;top:110px}.v #chapter{display:none}
+.v #cap{bottom:auto;top:1270px;max-width:880px;left:calc(50% - 50px)}
+.v #cap span{font-size:54px}

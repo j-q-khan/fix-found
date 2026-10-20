@@ -1,0 +1,169 @@
+{
+ "total": 36.001,
+ "fps": 30,
+ "voice": "Ruth",
+ "scenes": [
+  {
+   "id": "problem",
+   "label": "",
+   "start": 0.0,
+   "dur": 8.123,
+   "beats": [
+    {
+     "start": 0.3,
+     "dur": 5.951,
+     "text": "Your A.I. just told a customer refunds take ninety days. Your policy says thirty."
+    },
+    {
+     "start": 6.311,
+     "dur": 1.462,
+     "text": "Would you even know?"
+    }
+   ]
+  },
+  {
+   "id": "fix",
+   "label": "",
+   "start": 7.723,
+   "dur": 5.397,
+   "beats": [
+    {
+     "start": 8.023,
+     "dur": 4.747,
+     "text": "Fix found: Lang fuse. A flight recorder for your A.I. app."
+    }
+   ]
+  },
+  {
+   "id": "use",
+   "label": "",
+   "start": 12.72,
+   "dur": 11.813,
+   "beats": [
+    {
+     "start": 13.02,
+     "dur": 3.772,
+     "text": "Add a few lines of code, and every question and answer is saved."
+    },
+    {
+     "start": 16.852,
+     "dur": 4.748,
+     "text": "When a customer complains, open the exact conversation and see what went wrong."
+    },
+    {
+     "start": 21.66,
+     "dur": 2.523,
+     "text": "It even tracks what every call costs."
+    }
+   ]
+  },
+  {
+   "id": "catch",
+   "label": "",
+   "start": 24.133,
+   "dur": 7.78,
+   "beats": [
+    {
+     "start": 24.433,
+     "dur": 7.13,
+     "text": "The catch: self-hosting means running several services. Or use their cloud, which has a free tier."
+    }
+   ]
+  },
+  {
+   "id": "ask",
+   "label": "",
+   "start": 31.513,
+   "dur": 4.488,
+   "beats": [
+    {
+     "start": 31.813,
+     "dur": 2.238,
+     "text": "What problem should we fix next?"
+    }
+   ]
+  }
+ ],
+ "captions": [
+  {
+   "start": 0.3,
+   "end": 2.975,
+   "text": "Your AI just told a customer refunds"
+  },
+  {
+   "start": 2.975,
+   "end": 5.515,
+   "text": "take ninety days. Your policy says"
+  },
+  {
+   "start": 5.515,
+   "end": 6.251,
+   "text": "thirty."
+  },
+  {
+   "start": 6.311,
+   "end": 7.772,
+   "text": "Would you even know?"
+  },
+  {
+   "start": 8.023,
+   "end": 11.239,
+   "text": "Fix found: Langfuse. A flight recorder"
+  },
+  {
+   "start": 11.239,
+   "end": 12.77,
+   "text": "for your AI app."
+  },
+  {
+   "start": 13.02,
+   "end": 15.039,
+   "text": "Add a few lines of code, and every"
+  },
+  {
+   "start": 15.039,
+   "end": 16.792,
+   "text": "question and answer is saved."
+  },
+  {
+   "start": 16.852,
+   "end": 18.933,
+   "text": "When a customer complains, open the"
+  },
+  {
+   "start": 18.933,
+   "end": 21.067,
+   "text": "exact conversation and see what went"
+  },
+  {
+   "start": 21.067,
+   "end": 21.6,
+   "text": "wrong."
+  },
+  {
+   "start": 21.66,
+   "end": 24.183,
+   "text": "It even tracks what every call costs."
+  },
+  {
+   "start": 24.433,
+   "end": 27.14,
+   "text": "The catch: self-hosting means running"
+  },
+  {
+   "start": 27.14,
+   "end": 29.846,
+   "text": "several services. Or use their cloud,"
+  },
+  {
+   "start": 29.846,
+   "end": 31.563,
+   "text": "which has a free tier."
+  },
+  {
+   "start": 31.813,
+   "end": 34.051,
+   "text": "What problem should we fix next?"
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+1
+00:00:00,300 --> 00:00:03,959
+A customer asks your AI assistant about refunds.
+
+2
+00:00:04,019 --> 00:00:08,751
+It answers, confidently: ninety days. Your policy says thirty.
+
+3
+00:00:08,811 --> 00:00:10,827
+Would you even know it happened?
+
+4
+00:00:11,077 --> 00:00:13,560
+Fix found: Langfuse.
+
+5
+00:00:13,620 --> 00:00:17,193
+Think of it as a flight recorder for your AI app.
+
+6
+00:00:17,253 --> 00:00:20,980
+It's open source, with more than thirty-six thousand stars on
+
+7
+00:00:20,980 --> 00:00:21,611
+GitHub.
+
+8
+00:00:21,861 --> 00:00:24,313
+You add a few lines of code to your app.
+
+9
+00:00:24,373 --> 00:00:28,647
+From then on, every question, every answer, and every step in
+
+10
+00:00:28,647 --> 00:00:30,752
+between is saved as a trace.
+
+11
+00:00:30,812 --> 00:00:34,273
+Later, you can open any conversation and see exactly what
+
+12
+00:00:34,273 --> 00:00:35,011
+happened.
+
+13
+00:00:35,261 --> 00:00:39,295
+One. Trace a complaint. Find the exact conversation, the prompt
+
+14
+00:00:39,295 --> 00:00:42,186
+that was sent, and what the model said back.
+
+15
+00:00:42,246 --> 00:00:46,586
+Two. Watch your spend. It tracks tokens and cost for every call,
+
+16
+00:00:46,586 --> 00:00:49,395
+with prices built in for popular models.
+
+17
+00:00:49,455 --> 00:00:53,572
+Three. Score the answers. Collect thumbs up and thumbs down from
+
+18
+00:00:53,572 --> 00:00:57,630
+users, or let another model grade them, so the bad answers rise
+
+19
+00:00:57,630 --> 00:00:58,538
+to the top.
+
+20
+00:00:58,788 --> 00:01:00,376
+Now, the catch.
+
+21
+00:01:00,436 --> 00:01:04,765
+The core is MIT licensed, but a few enterprise features sit in
+
+22
+00:01:04,765 --> 00:01:07,650
+their own folder and need a license key.
+
+23
+00:01:07,710 --> 00:01:11,922
+And self-hosting means running several services: a web app, a
+
+24
+00:01:11,922 --> 00:01:16,329
+worker, two databases, a cache, and file storage. Or you pay for
+
+25
+00:01:16,329 --> 00:01:18,856
+their cloud, which has a free tier.
+
+26
+00:01:19,106 --> 00:01:22,525
+It's worth it once real customers talk to your AI
+
+27
+00:01:22,585 --> 00:01:25,855
+For a weekend prototype, it's probably more than you need.
+
+28
+00:01:25,915 --> 00:01:29,567
+Want an alternative? Take a look at Arize Phoenix.
+
+29
+00:01:29,817 --> 00:01:33,368
+To try it, clone the repo and run docker compose up. It's
+
+30
+00:01:33,368 --> 00:01:36,512
+running on your own machine in about five minutes.
+
+31
+00:01:36,572 --> 00:01:40,201
+What problem should we fix next? Tell us in the comments.
+

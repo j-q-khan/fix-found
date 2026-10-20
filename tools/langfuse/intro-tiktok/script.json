@@ -1,0 +1,20 @@
+[
+  ["problem", "", [
+    "Your A.I. just told a customer refunds take ninety days. Your policy says thirty.",
+    "Would you even know?"
+  ]],
+  ["fix", "", [
+    "Fix found: Lang fuse. A flight recorder for your A.I. app."
+  ]],
+  ["use", "", [
+    "Add a few lines of code, and every question and answer is saved.",
+    "When a customer complains, open the exact conversation and see what went wrong.",
+    "It even tracks what every call costs."
+  ]],
+  ["catch", "", [
+    "The catch: self-hosting means running several services. Or use their cloud, which has a free tier."
+  ]],
+  ["ask", "", [
+    "What problem should we fix next?"
+  ]]
+]

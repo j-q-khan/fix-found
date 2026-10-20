@@ -5,3 +5,11 @@ renders/
 *.mp3
 __pycache__/
 .env
+.venv/
+.secrets/
+toolchain/vo/
+toolchain/chrome-profile/
+timeline.js
+still_*.jpg
+thumb.html
+logo.png
