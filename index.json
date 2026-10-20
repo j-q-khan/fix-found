@@ -20,14 +20,17 @@
     {
       "problem": "Did your prompt tweak break your AI?",
       "number": 2,
-      "intro": "new",
+      "intro": "uploaded private",
       "howto": "not planned",
       "name": "promptfoo",
       "repo": "promptfoo/promptfoo",
       "url": "https://github.com/promptfoo/promptfoo",
       "category": "Testing AI output",
       "jobs": 6,
-      "first_seen": "2026-10-16"
+      "first_seen": "2026-10-16",
+      "intro_youtube_url": "https://youtu.be/QlRhEoTuzfY",
+      "intro_uploaded_on": "2026-10-20",
+      "intro_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "problem": "",
