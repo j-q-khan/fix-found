@@ -3143,6 +3143,90 @@
       "category": "Security scanning",
       "jobs": 1,
       "first_seen": "2026-10-21"
+    },
+    {
+      "problem": "",
+      "number": null,
+      "intro": "new",
+      "howto": "not planned",
+      "name": "Betterleaks",
+      "repo": "betterleaks/betterleaks",
+      "url": "https://github.com/betterleaks/betterleaks",
+      "category": "Code quality and security checks",
+      "jobs": 0,
+      "first_seen": "2026-10-22"
+    },
+    {
+      "problem": "",
+      "number": null,
+      "intro": "new",
+      "howto": "not planned",
+      "name": "Dependabot",
+      "repo": "dependabot/dependabot-core",
+      "url": "https://github.com/dependabot/dependabot-core",
+      "category": "Code quality and security checks",
+      "jobs": 0,
+      "first_seen": "2026-10-22"
+    },
+    {
+      "problem": "",
+      "number": null,
+      "intro": "new",
+      "howto": "not planned",
+      "name": "Git LFS",
+      "repo": "git-lfs/git-lfs",
+      "url": "https://github.com/git-lfs/git-lfs",
+      "category": "Data pipelines and versioning",
+      "jobs": 0,
+      "first_seen": "2026-10-22"
+    },
+    {
+      "problem": "",
+      "number": null,
+      "intro": "new",
+      "howto": "not planned",
+      "name": "Jupyter Notebook",
+      "repo": "jupyter/notebook",
+      "url": "https://github.com/jupyter/notebook",
+      "category": "Data cleaning and analysis",
+      "jobs": 0,
+      "first_seen": "2026-10-22"
+    },
+    {
+      "problem": "",
+      "number": null,
+      "intro": "new",
+      "howto": "not planned",
+      "name": "lakeFS",
+      "repo": "treeverse/lakeFS",
+      "url": "https://github.com/treeverse/lakeFS",
+      "category": "Data pipelines and versioning",
+      "jobs": 0,
+      "first_seen": "2026-10-22"
+    },
+    {
+      "problem": "",
+      "number": null,
+      "intro": "new",
+      "howto": "not planned",
+      "name": "Syft",
+      "repo": "anchore/syft",
+      "url": "https://github.com/anchore/syft",
+      "category": "Security scanning",
+      "jobs": 0,
+      "first_seen": "2026-10-22"
+    },
+    {
+      "problem": "",
+      "number": null,
+      "intro": "new",
+      "howto": "not planned",
+      "name": "Zulip",
+      "repo": "zulip/zulip",
+      "url": "https://github.com/zulip/zulip",
+      "category": "Team chat",
+      "jobs": 0,
+      "first_seen": "2026-10-22"
     }
   ],
   "categories": [
@@ -3216,7 +3300,7 @@
       "category": "Code quality and security checks",
       "problem": "",
       "compare": "new",
-      "tools": 7
+      "tools": 9
     },
     {
       "category": "Coding agent tools",
@@ -3240,7 +3324,7 @@
       "category": "Data cleaning and analysis",
       "problem": "",
       "compare": "new",
-      "tools": 5
+      "tools": 6
     },
     {
       "category": "Data labeling",
@@ -3252,7 +3336,7 @@
       "category": "Data pipelines and versioning",
       "problem": "",
       "compare": "new",
-      "tools": 4
+      "tools": 6
     },
     {
       "category": "Data quality and deduplication",
@@ -3390,7 +3474,7 @@
       "category": "Security scanning",
       "problem": "",
       "compare": "new",
-      "tools": 8
+      "tools": 9
     },
     {
       "category": "Software testing",
@@ -3408,7 +3492,7 @@
       "category": "Team chat",
       "problem": "",
       "compare": "too few tools",
-      "tools": 1
+      "tools": 2
     },
     {
       "category": "Team wikis and knowledge bases",
@@ -3460,6 +3544,7 @@
     "agwa/git-crypt": "AGWA/git-crypt",
     "ajv-validator/ajv": "ajv-validator/ajv",
     "anchore/grype": "anchore/grype",
+    "anchore/syft": "anchore/syft",
     "anthropics/claude-code-action": "anthropics/claude-code-action",
     "apache/incubator-kie": "apache/incubator-kie",
     "apache/superset": "apache/superset",
@@ -3474,6 +3559,7 @@
     "bearer/bearer": "Bearer/bearer",
     "berriai/litellm": "BerriAI/litellm",
     "better-auth/better-auth": "better-auth/better-auth",
+    "betterleaks/betterleaks": "betterleaks/betterleaks",
     "bloopai/vibe-kanban": "BloopAI/vibe-kanban",
     "bookstackapp/bookstack": "BookStackApp/BookStack",
     "boxed/mutmut": "boxed/mutmut",
@@ -3500,6 +3586,7 @@
     "data-privacy-stack/presidio": "data-privacy-stack/presidio",
     "dedupeio/dedupe": "dedupeio/dedupe",
     "deepset-ai/haystack": "deepset-ai/haystack",
+    "dependabot/dependabot-core": "dependabot/dependabot-core",
     "dependencytrack/dependency-track": "DependencyTrack/dependency-track",
     "dimitri/pgloader": "dimitri/pgloader",
     "dlt-hub/dlt": "dlt-hub/dlt",
@@ -3523,6 +3610,7 @@
     "getsentry/self-hosted": "getsentry/self-hosted",
     "getsops/sops": "getsops/sops",
     "giskard-ai/giskard-oss": "Giskard-AI/giskard-oss",
+    "git-lfs/git-lfs": "git-lfs/git-lfs",
     "gitleaks/gitleaks": "gitleaks/gitleaks",
     "go-vikunja/vikunja": "go-vikunja/vikunja",
     "google-deepmind/streamingqa": "google-deepmind/streamingqa",
@@ -3546,6 +3634,7 @@
     "j535d165/recordlinkage": "J535D165/recordlinkage",
     "jedisct1/minisign": "jedisct1/minisign",
     "jgm/pandoc": "jgm/pandoc",
+    "jupyter/notebook": "jupyter/notebook",
     "jupyterlab/jupyterlab": "jupyterlab/jupyterlab",
     "keephq/keep": "keephq/keep",
     "kestra-io/kestra": "kestra-io/kestra",
@@ -3667,6 +3756,7 @@
     "tooljet/tooljet": "ToolJet/ToolJet",
     "traceloop/openllmetry": "traceloop/openllmetry",
     "treeverse/dvc": "treeverse/dvc",
+    "treeverse/lakefs": "treeverse/lakeFS",
     "triggerdotdev/trigger.dev": "triggerdotdev/trigger.dev",
     "trufflesecurity/trufflehog": "trufflesecurity/trufflehog",
     "trycompai/comp": "trycompai/comp",
@@ -3687,6 +3777,7 @@
     "xiaowu0162/longmemeval": "xiaowu0162/LongMemEval",
     "zaproxy/zaproxy": "zaproxy/zaproxy",
     "zizmorcore/zizmor": "zizmorcore/zizmor",
-    "zotero/zotero": "zotero/zotero"
+    "zotero/zotero": "zotero/zotero",
+    "zulip/zulip": "zulip/zulip"
   }
 }
