@@ -524,7 +524,7 @@
     {
       "problem": "Your team stopped using the project tool?",
       "number": 66,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "Leantime",
       "repo": "Leantime/leantime",
@@ -532,7 +532,11 @@
       "category": "Project management and time tracking",
       "jobs": 2,
       "first_seen": "2026-10-16",
-      "intro_claimed_on": "2026-10-21"
+      "intro_claimed_on": "2026-10-21",
+      "intro_youtube_url": "https://youtu.be/JMgJpHeOPgQ",
+      "intro_uploaded_on": "2026-10-23",
+      "intro_publish_at": "2026-11-22T22:00:00Z",
+      "intro_visibility": "private until Sun 22 Nov 2026 17:00 EST, then public automatically"
     },
     {
       "problem": "Hopping between AI apps all day?",
@@ -571,7 +575,7 @@
     {
       "problem": "Asked for a refund, got billing info?",
       "number": 73,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "OpenAI Agents SDK",
       "repo": "openai/openai-agents-python",
@@ -579,7 +583,11 @@
       "category": "AI app and agent frameworks",
       "jobs": 2,
       "first_seen": "2026-10-16",
-      "intro_claimed_on": "2026-10-21"
+      "intro_claimed_on": "2026-10-21",
+      "intro_youtube_url": "https://youtu.be/rmj1NtXRpLo",
+      "intro_uploaded_on": "2026-10-23",
+      "intro_publish_at": "2026-11-26T14:00:00Z",
+      "intro_visibility": "private until Thu 26 Nov 2026 09:00 EST, then public automatically"
     },
     {
       "problem": "One late task quietly broke your whole plan?",
@@ -1079,7 +1087,7 @@
     {
       "problem": "Five emails just to book one call?",
       "number": 56,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "Cal.com",
       "repo": "calcom/cal.diy",
@@ -1087,12 +1095,16 @@
       "category": "Scheduling and e-signatures",
       "jobs": 1,
       "first_seen": "2026-10-16",
-      "intro_claimed_on": "2026-10-21"
+      "intro_claimed_on": "2026-10-21",
+      "intro_youtube_url": "https://youtu.be/OPOWubNqR_I",
+      "intro_uploaded_on": "2026-10-23",
+      "intro_publish_at": "2026-11-17T22:00:00Z",
+      "intro_visibility": "private until Tue 17 Nov 2026 17:00 EST, then public automatically"
     },
     {
       "problem": "Can't recreate the AI image you loved?",
       "number": 57,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "ComfyUI",
       "repo": "Comfy-Org/ComfyUI",
@@ -1100,12 +1112,16 @@
       "category": "Design and creative AI",
       "jobs": 1,
       "first_seen": "2026-10-16",
-      "intro_claimed_on": "2026-10-21"
+      "intro_claimed_on": "2026-10-21",
+      "intro_youtube_url": "https://youtu.be/6s0iZEL-oHw",
+      "intro_uploaded_on": "2026-10-23",
+      "intro_publish_at": "2026-11-18T14:00:00Z",
+      "intro_visibility": "private until Wed 18 Nov 2026 09:00 EST, then public automatically"
     },
     {
       "problem": "Your AI agent stuck at each app's login?",
       "number": 58,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "Composio",
       "repo": "ComposioHQ/composio",
@@ -1113,12 +1129,16 @@
       "category": "Model gateways and SDKs",
       "jobs": 1,
       "first_seen": "2026-10-16",
-      "intro_claimed_on": "2026-10-21"
+      "intro_claimed_on": "2026-10-21",
+      "intro_youtube_url": "https://youtu.be/MUqnre5Pb_8",
+      "intro_uploaded_on": "2026-10-23",
+      "intro_publish_at": "2026-11-18T22:00:00Z",
+      "intro_visibility": "private until Wed 18 Nov 2026 17:00 EST, then public automatically"
     },
     {
       "problem": "A teammate saved over your edits?",
       "number": 59,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "Docmost",
       "repo": "docmost/docmost",
@@ -1126,12 +1146,16 @@
       "category": "Team wikis and knowledge bases",
       "jobs": 1,
       "first_seen": "2026-10-16",
-      "intro_claimed_on": "2026-10-21"
+      "intro_claimed_on": "2026-10-21",
+      "intro_youtube_url": "https://youtu.be/VMrbw6VByVU",
+      "intro_uploaded_on": "2026-10-23",
+      "intro_publish_at": "2026-11-19T14:00:00Z",
+      "intro_visibility": "private until Thu 19 Nov 2026 09:00 EST, then public automatically"
     },
     {
       "problem": "Printing a contract just to sign it?",
       "number": 60,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "Documenso",
       "repo": "documenso/documenso",
@@ -1139,12 +1163,16 @@
       "category": "Scheduling and e-signatures",
       "jobs": 1,
       "first_seen": "2026-10-16",
-      "intro_claimed_on": "2026-10-21"
+      "intro_claimed_on": "2026-10-21",
+      "intro_youtube_url": "https://youtu.be/ANhrAEq3mcc",
+      "intro_uploaded_on": "2026-10-23",
+      "intro_publish_at": "2026-11-19T22:00:00Z",
+      "intro_visibility": "private until Thu 19 Nov 2026 17:00 EST, then public automatically"
     },
     {
       "problem": "Forms filled by hand, then scanned back?",
       "number": 61,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "DocuSeal",
       "repo": "docusealco/docuseal",
@@ -1152,12 +1180,16 @@
       "category": "Scheduling and e-signatures",
       "jobs": 1,
       "first_seen": "2026-10-16",
-      "intro_claimed_on": "2026-10-21"
+      "intro_claimed_on": "2026-10-21",
+      "intro_youtube_url": "https://youtu.be/EVUch1r10g8",
+      "intro_uploaded_on": "2026-10-23",
+      "intro_publish_at": "2026-11-20T14:00:00Z",
+      "intro_visibility": "private until Fri 20 Nov 2026 09:00 EST, then public automatically"
     },
     {
       "problem": "One diagram, 20 minutes in the slide app?",
       "number": 62,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "Excalidraw",
       "repo": "excalidraw/excalidraw",
@@ -1165,7 +1197,11 @@
       "category": "Design and creative AI",
       "jobs": 1,
       "first_seen": "2026-10-16",
-      "intro_claimed_on": "2026-10-21"
+      "intro_claimed_on": "2026-10-21",
+      "intro_youtube_url": "https://youtu.be/U6ZfYN2F2VQ",
+      "intro_uploaded_on": "2026-10-23",
+      "intro_publish_at": "2026-11-20T22:00:00Z",
+      "intro_visibility": "private until Fri 20 Nov 2026 17:00 EST, then public automatically"
     },
     {
       "problem": "",
@@ -1184,7 +1220,7 @@
     {
       "problem": "Background job keeps timing out?",
       "number": 63,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "Inngest",
       "repo": "inngest/inngest",
@@ -1192,12 +1228,16 @@
       "category": "Schedules and job queues",
       "jobs": 1,
       "first_seen": "2026-10-16",
-      "intro_claimed_on": "2026-10-21"
+      "intro_claimed_on": "2026-10-21",
+      "intro_youtube_url": "https://youtu.be/gh-vj9WyVTI",
+      "intro_uploaded_on": "2026-10-23",
+      "intro_publish_at": "2026-11-21T14:00:00Z",
+      "intro_visibility": "private until Sat 21 Nov 2026 09:00 EST, then public automatically"
     },
     {
       "problem": "AI image almost right, except one part?",
       "number": 64,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "InvokeAI",
       "repo": "invoke-ai/InvokeAI",
@@ -1205,12 +1245,16 @@
       "category": "Design and creative AI",
       "jobs": 1,
       "first_seen": "2026-10-16",
-      "intro_claimed_on": "2026-10-21"
+      "intro_claimed_on": "2026-10-21",
+      "intro_youtube_url": "https://youtu.be/0wQASTPNZ9k",
+      "intro_uploaded_on": "2026-10-23",
+      "intro_publish_at": "2026-11-21T22:00:00Z",
+      "intro_visibility": "private until Sat 21 Nov 2026 17:00 EST, then public automatically"
     },
     {
       "problem": "Billing by the hour, from memory?",
       "number": 65,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "Kimai",
       "repo": "kimai/kimai",
@@ -1218,12 +1262,16 @@
       "category": "Project management and time tracking",
       "jobs": 1,
       "first_seen": "2026-10-16",
-      "intro_claimed_on": "2026-10-21"
+      "intro_claimed_on": "2026-10-21",
+      "intro_youtube_url": "https://youtu.be/IKQkpzxewDg",
+      "intro_uploaded_on": "2026-10-23",
+      "intro_publish_at": "2026-11-22T14:00:00Z",
+      "intro_visibility": "private until Sun 22 Nov 2026 09:00 EST, then public automatically"
     },
     {
       "problem": "AI agent guides in Python, your app in JS?",
       "number": 67,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "Mastra",
       "repo": "mastra-ai/mastra",
@@ -1231,12 +1279,16 @@
       "category": "AI app and agent frameworks",
       "jobs": 1,
       "first_seen": "2026-10-16",
-      "intro_claimed_on": "2026-10-21"
+      "intro_claimed_on": "2026-10-21",
+      "intro_youtube_url": "https://youtu.be/j-qALj33XT8",
+      "intro_uploaded_on": "2026-10-23",
+      "intro_publish_at": "2026-11-23T14:00:00Z",
+      "intro_visibility": "private until Mon 23 Nov 2026 09:00 EST, then public automatically"
     },
     {
       "problem": "Your team's chats on someone else's servers?",
       "number": 68,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "Mattermost",
       "repo": "mattermost/mattermost",
@@ -1244,12 +1296,16 @@
       "category": "Team chat",
       "jobs": 1,
       "first_seen": "2026-10-16",
-      "intro_claimed_on": "2026-10-21"
+      "intro_claimed_on": "2026-10-21",
+      "intro_youtube_url": "https://youtu.be/zQkEqfwm7XY",
+      "intro_uploaded_on": "2026-10-23",
+      "intro_publish_at": "2026-11-23T22:00:00Z",
+      "intro_visibility": "private until Mon 23 Nov 2026 17:00 EST, then public automatically"
     },
     {
       "problem": "A plugin for every AI app?",
       "number": 69,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "MCP TypeScript SDK",
       "repo": "modelcontextprotocol/typescript-sdk",
@@ -1257,12 +1313,16 @@
       "category": "Model gateways and SDKs",
       "jobs": 1,
       "first_seen": "2026-10-16",
-      "intro_claimed_on": "2026-10-21"
+      "intro_claimed_on": "2026-10-21",
+      "intro_youtube_url": "https://youtu.be/pfL59g_isBQ",
+      "intro_uploaded_on": "2026-10-23",
+      "intro_publish_at": "2026-11-24T14:00:00Z",
+      "intro_visibility": "private until Tue 24 Nov 2026 09:00 EST, then public automatically"
     },
     {
       "problem": "Hand-writing endpoints for every table?",
       "number": 70,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "Nhost",
       "repo": "nhost/nhost",
@@ -1270,12 +1330,16 @@
       "category": "App backends",
       "jobs": 1,
       "first_seen": "2026-10-16",
-      "intro_claimed_on": "2026-10-21"
+      "intro_claimed_on": "2026-10-21",
+      "intro_youtube_url": "https://youtu.be/g_qBwyfN4yM",
+      "intro_uploaded_on": "2026-10-23",
+      "intro_publish_at": "2026-11-24T22:00:00Z",
+      "intro_visibility": "private until Tue 24 Nov 2026 17:00 EST, then public automatically"
     },
     {
       "problem": "Sensor readings nobody ever looks at?",
       "number": 71,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "Node-RED",
       "repo": "node-red/node-red",
@@ -1283,12 +1347,16 @@
       "category": "Workflow automation",
       "jobs": 1,
       "first_seen": "2026-10-16",
-      "intro_claimed_on": "2026-10-21"
+      "intro_claimed_on": "2026-10-21",
+      "intro_youtube_url": "https://youtu.be/R7HnkqSqI6A",
+      "intro_uploaded_on": "2026-10-23",
+      "intro_publish_at": "2026-11-25T14:00:00Z",
+      "intro_visibility": "private until Wed 25 Nov 2026 09:00 EST, then public automatically"
     },
     {
       "problem": "Users muting every alert you send?",
       "number": 72,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "Novu",
       "repo": "novuhq/novu",
@@ -1296,7 +1364,11 @@
       "category": "Notifications",
       "jobs": 1,
       "first_seen": "2026-10-16",
-      "intro_claimed_on": "2026-10-21"
+      "intro_claimed_on": "2026-10-21",
+      "intro_youtube_url": "https://youtu.be/3d9d-Tay8Tg",
+      "intro_uploaded_on": "2026-10-23",
+      "intro_publish_at": "2026-11-25T22:00:00Z",
+      "intro_visibility": "private until Wed 25 Nov 2026 17:00 EST, then public automatically"
     },
     {
       "problem": "Guessing the CSS from a mockup?",
@@ -2484,9 +2556,9 @@
       "intro_claimed_on": "2026-10-23"
     },
     {
-      "problem": "",
+      "problem": "Your QuickBooks sync dies after an hour?",
       "number": 163,
-      "intro": "in progress",
+      "intro": "rendered",
       "howto": "not planned",
       "name": "Intuit OAuth client (Node)",
       "repo": "intuit/oauth-jsclient",
@@ -2512,7 +2584,7 @@
     {
       "problem": "A new password for every internal tool?",
       "number": 166,
-      "intro": "in progress",
+      "intro": "rendered",
       "howto": "not planned",
       "name": "Keycloak",
       "repo": "keycloak/keycloak",
@@ -2523,9 +2595,9 @@
       "intro_claimed_on": "2026-10-23"
     },
     {
-      "problem": "",
+      "problem": "Another API, another loader script?",
       "number": 167,
-      "intro": "in progress",
+      "intro": "rendered",
       "howto": "not planned",
       "name": "Meltano",
       "repo": "meltano/meltano",
@@ -2536,208 +2608,225 @@
       "intro_claimed_on": "2026-10-23"
     },
     {
-      "problem": "",
-      "number": null,
-      "intro": "new",
+      "problem": "Gluing QuickBooks API URLs together?",
+      "number": 173,
+      "intro": "rendered",
       "howto": "not planned",
       "name": "node-quickbooks",
       "repo": "mcohen01/node-quickbooks",
       "url": "https://github.com/mcohen01/node-quickbooks",
       "category": "Accounting and ledgers",
       "jobs": 1,
-      "first_seen": "2026-10-20"
+      "first_seen": "2026-10-20",
+      "intro_claimed_on": "2026-10-23"
     },
     {
-      "problem": "",
-      "number": null,
-      "intro": "new",
+      "problem": "One database password, every app, for years?",
+      "number": 168,
+      "intro": "rendered",
       "howto": "not planned",
       "name": "OpenBao",
       "repo": "openbao/openbao",
       "url": "https://github.com/openbao/openbao",
       "category": "Secrets and encryption",
       "jobs": 1,
-      "first_seen": "2026-10-20"
+      "first_seen": "2026-10-20",
+      "intro_claimed_on": "2026-10-23"
     },
     {
-      "problem": "",
-      "number": null,
-      "intro": "new",
+      "problem": "Hiring from a spreadsheet and an inbox?",
+      "number": 169,
+      "intro": "rendered",
       "howto": "not planned",
       "name": "OpenCATS",
       "repo": "opencats/OpenCATS",
       "url": "https://github.com/opencats/OpenCATS",
       "category": "CRM",
       "jobs": 1,
-      "first_seen": "2026-10-20"
+      "first_seen": "2026-10-20",
+      "intro_claimed_on": "2026-10-23"
     },
     {
-      "problem": "",
-      "number": null,
-      "intro": "new",
+      "problem": "Slow request, three services. Which one?",
+      "number": 170,
+      "intro": "rendered",
       "howto": "not planned",
       "name": "OpenTelemetry JS",
       "repo": "open-telemetry/opentelemetry-js",
       "url": "https://github.com/open-telemetry/opentelemetry-js",
       "category": "Logging, monitoring and alerts",
       "jobs": 1,
-      "first_seen": "2026-10-20"
+      "first_seen": "2026-10-20",
+      "intro_claimed_on": "2026-10-23"
     },
     {
-      "problem": "",
-      "number": null,
-      "intro": "new",
+      "problem": "Rebuild your whole cloud from scratch?",
+      "number": 171,
+      "intro": "rendered",
       "howto": "not planned",
       "name": "OpenTofu",
       "repo": "opentofu/opentofu",
       "url": "https://github.com/opentofu/opentofu",
       "category": "Infrastructure as code",
       "jobs": 1,
-      "first_seen": "2026-10-20"
+      "first_seen": "2026-10-20",
+      "intro_claimed_on": "2026-10-23"
     },
     {
-      "problem": "",
-      "number": null,
-      "intro": "new",
+      "problem": "Redeployed. Where did the queued emails go?",
+      "number": 172,
+      "intro": "rendered",
       "howto": "not planned",
       "name": "pg-boss",
       "repo": "timgit/pg-boss",
       "url": "https://github.com/timgit/pg-boss",
       "category": "Schedules and job queues",
       "jobs": 1,
-      "first_seen": "2026-10-20"
+      "first_seen": "2026-10-20",
+      "intro_claimed_on": "2026-10-23"
     },
     {
-      "problem": "",
-      "number": null,
-      "intro": "new",
+      "problem": "Balance off by two dollars. Since when?",
+      "number": 174,
+      "intro": "rendered",
       "howto": "not planned",
       "name": "pgledger",
       "repo": "pgr0ss/pgledger",
       "url": "https://github.com/pgr0ss/pgledger",
       "category": "Accounting and ledgers",
       "jobs": 1,
-      "first_seen": "2026-10-20"
+      "first_seen": "2026-10-20",
+      "intro_claimed_on": "2026-10-23"
     },
     {
-      "problem": "",
-      "number": null,
-      "intro": "new",
+      "problem": "Leaving MySQL? One bad date stops the load?",
+      "number": 175,
+      "intro": "rendered",
       "howto": "not planned",
       "name": "pgloader",
       "repo": "dimitri/pgloader",
       "url": "https://github.com/dimitri/pgloader",
       "category": "Data pipelines and versioning",
       "jobs": 1,
-      "first_seen": "2026-10-20"
+      "first_seen": "2026-10-20",
+      "intro_claimed_on": "2026-10-23"
     },
     {
-      "problem": "",
-      "number": null,
-      "intro": "new",
+      "problem": "Waiting until 2 a.m. to change a column?",
+      "number": 176,
+      "intro": "rendered",
       "howto": "not planned",
       "name": "pgroll",
       "repo": "xataio/pgroll",
       "url": "https://github.com/xataio/pgroll",
       "category": "Database migrations and testing",
       "jobs": 1,
-      "first_seen": "2026-10-20"
+      "first_seen": "2026-10-20",
+      "intro_claimed_on": "2026-10-23"
     },
     {
-      "problem": "",
-      "number": null,
-      "intro": "new",
+      "problem": "A migration dropped an index. Who saw it?",
+      "number": 177,
+      "intro": "rendered",
       "howto": "not planned",
       "name": "pgTAP",
       "repo": "theory/pgtap",
       "url": "https://github.com/theory/pgtap",
       "category": "Database migrations and testing",
       "jobs": 1,
-      "first_seen": "2026-10-20"
+      "first_seen": "2026-10-20",
+      "intro_claimed_on": "2026-10-23"
     },
     {
-      "problem": "",
-      "number": null,
-      "intro": "new",
+      "problem": "console.log says 'failed'. Failed what?",
+      "number": 178,
+      "intro": "rendered",
       "howto": "not planned",
       "name": "Pino",
       "repo": "pinojs/pino",
       "url": "https://github.com/pinojs/pino",
       "category": "Logging, monitoring and alerts",
       "jobs": 1,
-      "first_seen": "2026-10-20"
+      "first_seen": "2026-10-20",
+      "intro_claimed_on": "2026-10-23"
     },
     {
-      "problem": "",
-      "number": null,
-      "intro": "new",
+      "problem": "A cookie banner for a visit count?",
+      "number": 179,
+      "intro": "rendered",
       "howto": "not planned",
       "name": "Plausible",
       "repo": "plausible/analytics",
       "url": "https://github.com/plausible/analytics",
       "category": "Dashboards and analytics",
       "jobs": 1,
-      "first_seen": "2026-10-20"
+      "first_seen": "2026-10-20",
+      "intro_claimed_on": "2026-10-23"
     },
     {
-      "problem": "",
-      "number": null,
-      "intro": "new",
+      "problem": "Shipped a feature. Does anyone use it?",
+      "number": 182,
+      "intro": "in progress",
       "howto": "not planned",
       "name": "PostHog",
       "repo": "PostHog/posthog",
       "url": "https://github.com/PostHog/posthog",
       "category": "Dashboards and analytics",
       "jobs": 1,
-      "first_seen": "2026-10-20"
+      "first_seen": "2026-10-20",
+      "intro_claimed_on": "2026-10-24"
     },
     {
-      "problem": "",
-      "number": null,
-      "intro": "new",
+      "problem": "Ten environments, ten copies of one config?",
+      "number": 180,
+      "intro": "rendered",
       "howto": "not planned",
       "name": "Pulumi",
       "repo": "pulumi/pulumi",
       "url": "https://github.com/pulumi/pulumi",
       "category": "Infrastructure as code",
       "jobs": 1,
-      "first_seen": "2026-10-20"
+      "first_seen": "2026-10-20",
+      "intro_claimed_on": "2026-10-23"
     },
     {
       "problem": "",
       "number": null,
-      "intro": "new",
+      "intro": "qa failed",
       "howto": "not planned",
       "name": "Python Record Linkage Toolkit",
       "repo": "J535D165/recordlinkage",
       "url": "https://github.com/J535D165/recordlinkage",
       "category": "Data quality and deduplication",
       "jobs": 1,
-      "first_seen": "2026-10-20"
+      "first_seen": "2026-10-20",
+      "intro_note": "inactive: no commit on the default branch since 2023-07-20 (last release v0.16, 2023-07-20; GitHub commits feed, checked 2026-10-23); no video made"
     },
     {
       "problem": "",
       "number": null,
-      "intro": "new",
+      "intro": "qa failed",
       "howto": "not planned",
       "name": "reladiff",
       "repo": "erezsh/reladiff",
       "url": "https://github.com/erezsh/reladiff",
       "category": "Data quality and deduplication",
       "jobs": 1,
-      "first_seen": "2026-10-20"
+      "first_seen": "2026-10-20",
+      "intro_note": "inactive: no commit on the default branch since 2025-08-18 (last release v0.6.0, 2025-03-04; GitHub commits feed, checked 2026-10-23); no video made"
     },
     {
-      "problem": "",
-      "number": null,
-      "intro": "new",
+      "problem": "Same person in two lists, no shared ID?",
+      "number": 181,
+      "intro": "rendered",
       "howto": "not planned",
       "name": "Splink",
       "repo": "moj-analytical-services/splink",
       "url": "https://github.com/moj-analytical-services/splink",
       "category": "Data quality and deduplication",
       "jobs": 1,
-      "first_seen": "2026-10-20"
+      "first_seen": "2026-10-20",
+      "intro_claimed_on": "2026-10-23"
     },
     {
       "problem": "",
@@ -2765,15 +2854,16 @@
     },
     {
       "problem": "",
-      "number": null,
-      "intro": "new",
+      "number": 183,
+      "intro": "in progress",
       "howto": "not planned",
       "name": "Umami",
       "repo": "umami-software/umami",
       "url": "https://github.com/umami-software/umami",
       "category": "Dashboards and analytics",
       "jobs": 1,
-      "first_seen": "2026-10-20"
+      "first_seen": "2026-10-20",
+      "intro_claimed_on": "2026-10-24"
     },
     {
       "problem": "",
