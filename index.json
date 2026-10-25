@@ -324,7 +324,7 @@
     {
       "problem": "Six tabs open to see why the app is slow?",
       "number": 97,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "Grafana",
       "repo": "grafana/grafana",
@@ -332,7 +332,11 @@
       "category": "Logging, monitoring and alerts",
       "jobs": 3,
       "first_seen": "2026-10-18",
-      "intro_claimed_on": "2026-10-22"
+      "intro_claimed_on": "2026-10-22",
+      "intro_youtube_url": "https://youtu.be/9VdZd9PFuUw",
+      "intro_uploaded_on": "2026-10-25",
+      "intro_publish_at": "2026-12-07T14:00:00Z",
+      "intro_visibility": "private until Mon 07 Dec 2026 09:00 EST, then public automatically"
     },
     {
       "problem": "Who checks your AI before it hits send?",
@@ -1640,7 +1644,7 @@
     {
       "problem": "New CVE out. Which of your apps are hit?",
       "number": 93,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "Dependency-Track",
       "repo": "DependencyTrack/dependency-track",
@@ -1648,12 +1652,16 @@
       "category": "Security scanning",
       "jobs": 1,
       "first_seen": "2026-10-18",
-      "intro_claimed_on": "2026-10-22"
+      "intro_claimed_on": "2026-10-22",
+      "intro_youtube_url": "https://youtu.be/5L1BKvfdFXU",
+      "intro_uploaded_on": "2026-10-25",
+      "intro_publish_at": "2026-12-05T22:00:00Z",
+      "intro_visibility": "private until Sat 05 Dec 2026 17:00 EST, then public automatically"
     },
     {
       "problem": "Spreadsheet choking on a giant CSV?",
       "number": 94,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "DuckDB",
       "repo": "duckdb/duckdb",
@@ -1661,7 +1669,11 @@
       "category": "Data cleaning and analysis",
       "jobs": 1,
       "first_seen": "2026-10-18",
-      "intro_claimed_on": "2026-10-22"
+      "intro_claimed_on": "2026-10-22",
+      "intro_youtube_url": "https://youtu.be/7vpybGGSvjc",
+      "intro_uploaded_on": "2026-10-25",
+      "intro_publish_at": "2026-12-06T14:00:00Z",
+      "intro_visibility": "private until Sun 06 Dec 2026 09:00 EST, then public automatically"
     },
     {
       "problem": "Which data trained this model?",
@@ -1707,7 +1719,7 @@
     {
       "problem": "Is your container image safe to ship?",
       "number": 96,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "Grype",
       "repo": "anchore/grype",
@@ -1715,12 +1727,16 @@
       "category": "Security scanning",
       "jobs": 1,
       "first_seen": "2026-10-18",
-      "intro_claimed_on": "2026-10-22"
+      "intro_claimed_on": "2026-10-22",
+      "intro_youtube_url": "https://youtu.be/oFLy8ONoMY4",
+      "intro_uploaded_on": "2026-10-25",
+      "intro_publish_at": "2026-12-06T22:00:00Z",
+      "intro_visibility": "private until Sun 06 Dec 2026 17:00 EST, then public automatically"
     },
     {
       "problem": "Lookalike letters fooling your filter?",
       "number": 98,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "homoglyph",
       "repo": "codebox/homoglyph",
@@ -1728,12 +1744,16 @@
       "category": "Text cleanup and matching",
       "jobs": 1,
       "first_seen": "2026-10-18",
-      "intro_claimed_on": "2026-10-22"
+      "intro_claimed_on": "2026-10-22",
+      "intro_youtube_url": "https://youtu.be/ApU2hrYzjug",
+      "intro_uploaded_on": "2026-10-25",
+      "intro_publish_at": "2026-12-07T22:00:00Z",
+      "intro_visibility": "private until Mon 07 Dec 2026 17:00 EST, then public automatically"
     },
     {
       "problem": "Which input did your tests never try?",
       "number": 99,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "Hypothesis",
       "repo": "HypothesisWorks/hypothesis",
@@ -1741,12 +1761,16 @@
       "category": "Software testing",
       "jobs": 1,
       "first_seen": "2026-10-18",
-      "intro_claimed_on": "2026-10-22"
+      "intro_claimed_on": "2026-10-22",
+      "intro_youtube_url": "https://youtu.be/uw0r8eSaYzI",
+      "intro_uploaded_on": "2026-10-25",
+      "intro_publish_at": "2026-12-08T14:00:00Z",
+      "intro_visibility": "private until Tue 08 Dec 2026 09:00 EST, then public automatically"
     },
     {
       "problem": "Did one merge double your cloud bill?",
       "number": 100,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "Infracost",
       "repo": "infracost/infracost",
@@ -1754,12 +1778,16 @@
       "category": "Infrastructure as code",
       "jobs": 1,
       "first_seen": "2026-10-18",
-      "intro_claimed_on": "2026-10-22"
+      "intro_claimed_on": "2026-10-22",
+      "intro_youtube_url": "https://youtu.be/7CYWv4m-KIQ",
+      "intro_uploaded_on": "2026-10-25",
+      "intro_publish_at": "2026-12-08T22:00:00Z",
+      "intro_visibility": "private until Tue 08 Dec 2026 17:00 EST, then public automatically"
     },
     {
       "problem": "The chart's in the report. Where's the code?",
       "number": 101,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "JupyterLab",
       "repo": "jupyterlab/jupyterlab",
@@ -1767,12 +1795,16 @@
       "category": "Data cleaning and analysis",
       "jobs": 1,
       "first_seen": "2026-10-18",
-      "intro_claimed_on": "2026-10-22"
+      "intro_claimed_on": "2026-10-22",
+      "intro_youtube_url": "https://youtu.be/Ok40WT4A7NQ",
+      "intro_uploaded_on": "2026-10-25",
+      "intro_publish_at": "2026-12-09T14:00:00Z",
+      "intro_visibility": "private until Wed 09 Dec 2026 09:00 EST, then public automatically"
     },
     {
       "problem": "Hundreds of alerts. Which ones matter?",
       "number": 102,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "Keep",
       "repo": "keephq/keep",
@@ -1780,12 +1812,16 @@
       "category": "Logging, monitoring and alerts",
       "jobs": 1,
       "first_seen": "2026-10-18",
-      "intro_claimed_on": "2026-10-22"
+      "intro_claimed_on": "2026-10-22",
+      "intro_youtube_url": "https://youtu.be/3n1hAV90a3g",
+      "intro_uploaded_on": "2026-10-25",
+      "intro_publish_at": "2026-12-09T22:00:00Z",
+      "intro_visibility": "private until Wed 09 Dec 2026 17:00 EST, then public automatically"
     },
     {
       "problem": "Your AI prototype never made it to the app?",
       "number": 103,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "Langflow",
       "repo": "langflow-ai/langflow",
@@ -1793,7 +1829,11 @@
       "category": "Visual AI app builders",
       "jobs": 1,
       "first_seen": "2026-10-18",
-      "intro_claimed_on": "2026-10-22"
+      "intro_claimed_on": "2026-10-22",
+      "intro_youtube_url": "https://youtu.be/nGmPNtvNB7U",
+      "intro_uploaded_on": "2026-10-25",
+      "intro_publish_at": "2026-12-10T14:00:00Z",
+      "intro_visibility": "private until Thu 10 Dec 2026 09:00 EST, then public automatically"
     },
     {
       "problem": "",
@@ -1811,7 +1851,7 @@
     {
       "problem": "Your AI forgot what users said weeks ago?",
       "number": 104,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "LongMemEval",
       "repo": "xiaowu0162/LongMemEval",
@@ -1819,12 +1859,16 @@
       "category": "AI memory benchmarks",
       "jobs": 1,
       "first_seen": "2026-10-18",
-      "intro_claimed_on": "2026-10-22"
+      "intro_claimed_on": "2026-10-22",
+      "intro_youtube_url": "https://youtu.be/-aGtVmd7rg4",
+      "intro_uploaded_on": "2026-10-25",
+      "intro_publish_at": "2026-12-10T22:00:00Z",
+      "intro_visibility": "private until Thu 10 Dec 2026 17:00 EST, then public automatically"
     },
     {
       "problem": "Can your AI agent learn as it goes?",
       "number": 105,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "MemoryAgentBench",
       "repo": "HUST-AI-HYZ/MemoryAgentBench",
@@ -1832,12 +1876,16 @@
       "category": "AI memory benchmarks",
       "jobs": 1,
       "first_seen": "2026-10-18",
-      "intro_claimed_on": "2026-10-22"
+      "intro_claimed_on": "2026-10-22",
+      "intro_youtube_url": "https://youtu.be/yp7qFNbBZLU",
+      "intro_uploaded_on": "2026-10-25",
+      "intro_publish_at": "2026-12-11T14:00:00Z",
+      "intro_visibility": "private until Fri 11 Dec 2026 09:00 EST, then public automatically"
     },
     {
       "problem": "Is that download really from you?",
       "number": 106,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "minisign",
       "repo": "jedisct1/minisign",
@@ -1845,7 +1893,11 @@
       "category": "Secrets and encryption",
       "jobs": 1,
       "first_seen": "2026-10-18",
-      "intro_claimed_on": "2026-10-22"
+      "intro_claimed_on": "2026-10-22",
+      "intro_youtube_url": "https://youtu.be/gpVIqqeXsRw",
+      "intro_uploaded_on": "2026-10-25",
+      "intro_publish_at": "2026-12-11T22:00:00Z",
+      "intro_visibility": "private until Fri 11 Dec 2026 17:00 EST, then public automatically"
     },
     {
       "problem": "Accuracy jumped. What did you change?",
@@ -2903,7 +2955,7 @@
     {
       "problem": "Half a payment went through. Now what?",
       "number": 184,
-      "intro": "in progress",
+      "intro": "rendered",
       "howto": "not planned",
       "name": "TigerBeetle",
       "repo": "tigerbeetle/tigerbeetle",
@@ -2916,7 +2968,7 @@
     {
       "problem": "Found a leaked key. Does it still work?",
       "number": 185,
-      "intro": "in progress",
+      "intro": "rendered",
       "howto": "not planned",
       "name": "TruffleHog",
       "repo": "trufflesecurity/trufflehog",
@@ -2941,15 +2993,16 @@
     },
     {
       "problem": "",
-      "number": null,
-      "intro": "new",
+      "number": 187,
+      "intro": "in progress",
       "howto": "not planned",
       "name": "act",
       "repo": "nektos/act",
       "url": "https://github.com/nektos/act",
       "category": "CI/CD and deployment",
       "jobs": 1,
-      "first_seen": "2026-10-21"
+      "first_seen": "2026-10-21",
+      "intro_claimed_on": "2026-10-25"
     },
     {
       "problem": "",
@@ -2965,15 +3018,16 @@
     },
     {
       "problem": "",
-      "number": null,
-      "intro": "new",
+      "number": 188,
+      "intro": "in progress",
       "howto": "not planned",
       "name": "Appsmith",
       "repo": "appsmithorg/appsmith",
       "url": "https://github.com/appsmithorg/appsmith",
       "category": "Internal tool builders",
       "jobs": 1,
-      "first_seen": "2026-10-21"
+      "first_seen": "2026-10-21",
+      "intro_claimed_on": "2026-10-25"
     },
     {
       "problem": "",
@@ -3660,16 +3714,17 @@
       "first_seen": "2026-10-22"
     },
     {
-      "problem": "",
-      "number": null,
-      "intro": "new",
+      "problem": "Your AI writes the app but can't tap it?",
+      "number": 186,
+      "intro": "rendered",
       "howto": "not planned",
       "name": "ARTEMIS",
       "repo": "google/artemis",
       "url": "https://github.com/google/artemis",
       "category": "Coding agent tools",
       "jobs": 0,
-      "first_seen": "2026-10-24"
+      "first_seen": "2026-10-24",
+      "intro_claimed_on": "2026-10-24"
     }
   ],
   "categories": [
