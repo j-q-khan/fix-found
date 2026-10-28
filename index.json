@@ -2252,7 +2252,7 @@
     {
       "problem": "Plan passed. So why did the apply fail?",
       "number": 129,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "TFLint",
       "repo": "terraform-linters/tflint",
@@ -2260,7 +2260,11 @@
       "category": "Infrastructure as code",
       "jobs": 1,
       "first_seen": "2026-10-18",
-      "intro_claimed_on": "2026-10-22"
+      "intro_claimed_on": "2026-10-22",
+      "intro_youtube_url": "https://youtu.be/9QR_XPb5wts",
+      "intro_uploaded_on": "2026-10-27",
+      "intro_publish_at": "2026-11-06T02:00:00Z",
+      "intro_visibility": "private until Thu 05 Nov 2026 21:00 EST, then public automatically"
     },
     {
       "problem": "",
@@ -2278,7 +2282,7 @@
     {
       "problem": "Would your login form survive a real attack?",
       "number": 130,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "ZAP",
       "repo": "zaproxy/zaproxy",
@@ -2286,7 +2290,11 @@
       "category": "Security scanning",
       "jobs": 1,
       "first_seen": "2026-10-18",
-      "intro_claimed_on": "2026-10-22"
+      "intro_claimed_on": "2026-10-22",
+      "intro_youtube_url": "https://youtu.be/TMhexiPbcp0",
+      "intro_uploaded_on": "2026-10-27",
+      "intro_publish_at": "2026-11-06T18:00:00Z",
+      "intro_visibility": "private until Fri 06 Nov 2026 13:00 EST, then public automatically"
     },
     {
       "problem": "Your app trusts whatever JSON shows up?",
@@ -2304,7 +2312,7 @@
     {
       "problem": "How many tokens did your coding agent burn?",
       "number": 132,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "ccusage",
       "repo": "ccusage/ccusage",
@@ -2312,7 +2320,11 @@
       "category": "Coding agent tools",
       "jobs": 1,
       "first_seen": "2026-10-19",
-      "intro_claimed_on": "2026-10-22"
+      "intro_claimed_on": "2026-10-22",
+      "intro_youtube_url": "https://youtu.be/JwrDXN3KjUk",
+      "intro_uploaded_on": "2026-10-27",
+      "intro_publish_at": "2026-11-07T02:00:00Z",
+      "intro_visibility": "private until Fri 06 Nov 2026 21:00 EST, then public automatically"
     },
     {
       "problem": "Your search misses what users mean?",
@@ -2330,7 +2342,7 @@
     {
       "problem": "Waiting on one coding agent at a time?",
       "number": 134,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "Claude Squad",
       "repo": "smtg-ai/claude-squad",
@@ -2338,7 +2350,11 @@
       "category": "Coding agent tools",
       "jobs": 1,
       "first_seen": "2026-10-19",
-      "intro_claimed_on": "2026-10-22"
+      "intro_claimed_on": "2026-10-22",
+      "intro_youtube_url": "https://youtu.be/1hFyAhrAAyY",
+      "intro_uploaded_on": "2026-10-27",
+      "intro_publish_at": "2026-11-07T18:00:00Z",
+      "intro_visibility": "private until Sat 07 Nov 2026 13:00 EST, then public automatically"
     },
     {
       "problem": "Your AI ran what on your laptop?",
@@ -2356,7 +2372,7 @@
     {
       "problem": "Web pages for your AI: cluttered or empty?",
       "number": 136,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "Crawl4AI",
       "repo": "unclecode/crawl4ai",
@@ -2364,7 +2380,11 @@
       "category": "Web scraping and research",
       "jobs": 1,
       "first_seen": "2026-10-19",
-      "intro_claimed_on": "2026-10-22"
+      "intro_claimed_on": "2026-10-22",
+      "intro_youtube_url": "https://youtu.be/DeSPE4PyNp0",
+      "intro_uploaded_on": "2026-10-27",
+      "intro_publish_at": "2026-11-08T02:00:00Z",
+      "intro_visibility": "private until Sat 07 Nov 2026 21:00 EST, then public automatically"
     },
     {
       "problem": "",
@@ -2382,7 +2402,7 @@
     {
       "problem": "Sharing data as a file, not a link?",
       "number": 137,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "Datasette",
       "repo": "simonw/datasette",
@@ -2390,12 +2410,16 @@
       "category": "No-code databases",
       "jobs": 1,
       "first_seen": "2026-10-19",
-      "intro_claimed_on": "2026-10-22"
+      "intro_claimed_on": "2026-10-22",
+      "intro_youtube_url": "https://youtu.be/3-CL9p5dT_I",
+      "intro_uploaded_on": "2026-10-27",
+      "intro_publish_at": "2026-11-08T18:00:00Z",
+      "intro_visibility": "private until Sun 08 Nov 2026 13:00 EST, then public automatically"
     },
     {
       "problem": "Rewording the same prompt all week?",
       "number": 138,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "DSPy",
       "repo": "stanfordnlp/dspy",
@@ -2403,12 +2427,16 @@
       "category": "AI app and agent frameworks",
       "jobs": 1,
       "first_seen": "2026-10-19",
-      "intro_claimed_on": "2026-10-22"
+      "intro_claimed_on": "2026-10-22",
+      "intro_youtube_url": "https://youtu.be/BgHJqkj_dek",
+      "intro_uploaded_on": "2026-10-27",
+      "intro_publish_at": "2026-11-09T02:00:00Z",
+      "intro_visibility": "private until Sun 08 Nov 2026 21:00 EST, then public automatically"
     },
     {
       "problem": "Built a scraper just to feed your AI agent?",
       "number": 141,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "Firecrawl",
       "repo": "firecrawl/firecrawl",
@@ -2416,12 +2444,16 @@
       "category": "Web scraping and research",
       "jobs": 1,
       "first_seen": "2026-10-19",
-      "intro_claimed_on": "2026-10-22"
+      "intro_claimed_on": "2026-10-22",
+      "intro_youtube_url": "https://youtu.be/YjJIMiQkAwE",
+      "intro_uploaded_on": "2026-10-27",
+      "intro_publish_at": "2026-11-10T18:00:00Z",
+      "intro_visibility": "private until Tue 10 Nov 2026 13:00 EST, then public automatically"
     },
     {
       "problem": "Only tested your chatbot with nice questions?",
       "number": 139,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "Giskard",
       "repo": "Giskard-AI/giskard-oss",
@@ -2429,12 +2461,16 @@
       "category": "Testing AI output",
       "jobs": 1,
       "first_seen": "2026-10-19",
-      "intro_claimed_on": "2026-10-22"
+      "intro_claimed_on": "2026-10-22",
+      "intro_youtube_url": "https://youtu.be/PGQoblVHyxo",
+      "intro_uploaded_on": "2026-10-27",
+      "intro_publish_at": "2026-11-09T18:00:00Z",
+      "intro_visibility": "private until Mon 09 Nov 2026 13:00 EST, then public automatically"
     },
     {
       "problem": "Making PDFs means Chrome on every server?",
       "number": 140,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "Gotenberg",
       "repo": "gotenberg/gotenberg",
@@ -2442,12 +2478,16 @@
       "category": "Documents and reports",
       "jobs": 1,
       "first_seen": "2026-10-19",
-      "intro_claimed_on": "2026-10-22"
+      "intro_claimed_on": "2026-10-22",
+      "intro_youtube_url": "https://youtu.be/YVSyncRAB_c",
+      "intro_uploaded_on": "2026-10-27",
+      "intro_publish_at": "2026-11-10T02:00:00Z",
+      "intro_visibility": "private until Mon 09 Nov 2026 21:00 EST, then public automatically"
     },
     {
       "problem": "Added a column. Now VLOOKUPs are wrong?",
       "number": 142,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "Grist",
       "repo": "gristlabs/grist-core",
@@ -2455,12 +2495,16 @@
       "category": "No-code databases",
       "jobs": 1,
       "first_seen": "2026-10-19",
-      "intro_claimed_on": "2026-10-22"
+      "intro_claimed_on": "2026-10-22",
+      "intro_youtube_url": "https://youtu.be/2M6Fg4V56F4",
+      "intro_uploaded_on": "2026-10-27",
+      "intro_publish_at": "2026-11-11T02:00:00Z",
+      "intro_visibility": "private until Tue 10 Nov 2026 21:00 EST, then public automatically"
     },
     {
       "problem": "People give up halfway through your form?",
       "number": 143,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "HeyForm",
       "repo": "heyform/heyform",
@@ -2468,7 +2512,11 @@
       "category": "Forms and surveys",
       "jobs": 1,
       "first_seen": "2026-10-19",
-      "intro_claimed_on": "2026-10-22"
+      "intro_claimed_on": "2026-10-22",
+      "intro_youtube_url": "https://youtu.be/TAsqH_KXtM4",
+      "intro_uploaded_on": "2026-10-27",
+      "intro_publish_at": "2026-11-11T18:00:00Z",
+      "intro_visibility": "private until Wed 11 Nov 2026 13:00 EST, then public automatically"
     },
     {
       "problem": "",
@@ -3905,124 +3953,134 @@
       "intro_claimed_on": "2026-10-27"
     },
     {
-      "problem": "",
-      "number": null,
-      "intro": "new",
+      "problem": "Users keep asking what your docs say?",
+      "number": 246,
+      "intro": "rendered",
       "howto": "not planned",
       "name": "Algolia DocSearch",
       "repo": "algolia/docsearch",
       "url": "https://github.com/algolia/docsearch",
       "category": "Team wikis and knowledge bases",
       "jobs": 0,
-      "first_seen": "2026-10-26"
+      "first_seen": "2026-10-26",
+      "intro_claimed_on": "2026-10-27"
     },
     {
-      "problem": "",
-      "number": null,
-      "intro": "new",
+      "problem": "Config rules nobody ever wrote down?",
+      "number": 247,
+      "intro": "rendered",
       "howto": "not planned",
       "name": "Conftest",
       "repo": "open-policy-agent/conftest",
       "url": "https://github.com/open-policy-agent/conftest",
       "category": "Code quality and security checks",
       "jobs": 0,
-      "first_seen": "2026-10-26"
+      "first_seen": "2026-10-26",
+      "intro_claimed_on": "2026-10-27"
     },
     {
-      "problem": "",
-      "number": null,
-      "intro": "new",
+      "problem": "Drawing the same box on every video frame?",
+      "number": 248,
+      "intro": "rendered",
       "howto": "not planned",
       "name": "CVAT",
       "repo": "cvat-ai/cvat",
       "url": "https://github.com/cvat-ai/cvat",
       "category": "Data labeling",
       "jobs": 0,
-      "first_seen": "2026-10-26"
+      "first_seen": "2026-10-26",
+      "intro_claimed_on": "2026-10-27"
     },
     {
-      "problem": "",
-      "number": null,
-      "intro": "new",
+      "problem": "Checking your Java code with println?",
+      "number": 249,
+      "intro": "rendered",
       "howto": "not planned",
       "name": "JUnit",
       "repo": "junit-team/junit-framework",
       "url": "https://github.com/junit-team/junit-framework",
       "category": "Software testing",
       "jobs": 0,
-      "first_seen": "2026-10-26"
+      "first_seen": "2026-10-26",
+      "intro_claimed_on": "2026-10-27"
     },
     {
-      "problem": "",
-      "number": null,
-      "intro": "new",
+      "problem": "The wiki says no root. The cluster said yes?",
+      "number": 250,
+      "intro": "rendered",
       "howto": "not planned",
       "name": "Kyverno",
       "repo": "kyverno/kyverno",
       "url": "https://github.com/kyverno/kyverno",
       "category": "Security scanning",
       "jobs": 0,
-      "first_seen": "2026-10-26"
+      "first_seen": "2026-10-26",
+      "intro_claimed_on": "2026-10-27"
     },
     {
-      "problem": "",
-      "number": null,
-      "intro": "new",
+      "problem": "Ten years of scanned PDFs, and no matches?",
+      "number": 251,
+      "intro": "rendered",
       "howto": "not planned",
       "name": "OCRmyPDF",
       "repo": "ocrmypdf/OCRmyPDF",
       "url": "https://github.com/ocrmypdf/OCRmyPDF",
       "category": "Reading documents (OCR)",
       "jobs": 0,
-      "first_seen": "2026-10-26"
+      "first_seen": "2026-10-26",
+      "intro_claimed_on": "2026-10-27"
     },
     {
-      "problem": "",
-      "number": null,
-      "intro": "new",
+      "problem": "Your new rule: what's already breaking it?",
+      "number": 253,
+      "intro": "rendered",
       "howto": "not planned",
       "name": "OPA Gatekeeper",
       "repo": "open-policy-agent/gatekeeper",
       "url": "https://github.com/open-policy-agent/gatekeeper",
       "category": "Security scanning",
       "jobs": 0,
-      "first_seen": "2026-10-26"
+      "first_seen": "2026-10-26",
+      "intro_claimed_on": "2026-10-27"
     },
     {
-      "problem": "",
-      "number": null,
-      "intro": "new",
+      "problem": "Flaky Robot tests padded with Sleep?",
+      "number": 254,
+      "intro": "rendered",
       "howto": "not planned",
       "name": "Robot Framework Browser Library",
       "repo": "MarketSquare/robotframework-browser",
       "url": "https://github.com/MarketSquare/robotframework-browser",
       "category": "Browser automation",
       "jobs": 0,
-      "first_seen": "2026-10-26"
+      "first_seen": "2026-10-26",
+      "intro_claimed_on": "2026-10-27"
     },
     {
-      "problem": "",
-      "number": null,
-      "intro": "new",
+      "problem": "Robot tests stuck on one laptop browser?",
+      "number": 255,
+      "intro": "rendered",
       "howto": "not planned",
       "name": "SeleniumLibrary",
       "repo": "robotframework/SeleniumLibrary",
       "url": "https://github.com/robotframework/SeleniumLibrary",
       "category": "Browser automation",
       "jobs": 0,
-      "first_seen": "2026-10-26"
+      "first_seen": "2026-10-26",
+      "intro_claimed_on": "2026-10-27"
     },
     {
-      "problem": "",
-      "number": null,
-      "intro": "new",
+      "problem": "Fifty users on one GPU server?",
+      "number": 252,
+      "intro": "rendered",
       "howto": "not planned",
       "name": "vLLM",
       "repo": "vllm-project/vllm",
       "url": "https://github.com/vllm-project/vllm",
       "category": "Running AI models locally",
       "jobs": 0,
-      "first_seen": "2026-10-26"
+      "first_seen": "2026-10-26",
+      "intro_claimed_on": "2026-10-27"
     }
   ],
   "categories": [
@@ -4168,7 +4226,7 @@
     {
       "category": "Design and creative AI",
       "problem": "Art, a diagram and an app screen by Friday?",
-      "compare": "in progress",
+      "compare": "rendered",
       "tools": 4,
       "compare_claimed_on": "2026-10-27"
     },
@@ -4186,8 +4244,8 @@
     },
     {
       "category": "Infrastructure as code",
-      "problem": "",
-      "compare": "in progress",
+      "problem": "New rule: every cloud change goes in code.",
+      "compare": "rendered",
       "tools": 6,
       "compare_claimed_on": "2026-10-27"
     },
@@ -4199,9 +4257,10 @@
     },
     {
       "category": "Logging, monitoring and alerts",
-      "problem": "",
-      "compare": "new",
-      "tools": 8
+      "problem": "Back online. So what broke it?",
+      "compare": "rendered",
+      "tools": 8,
+      "compare_claimed_on": "2026-10-27"
     },
     {
       "category": "Logins and single sign-on",
@@ -4211,15 +4270,17 @@
     },
     {
       "category": "Model gateways and SDKs",
-      "problem": "",
-      "compare": "new",
-      "tools": 5
+      "problem": "Any model, any app. Which SDK does what?",
+      "compare": "rendered",
+      "tools": 5,
+      "compare_claimed_on": "2026-10-27"
     },
     {
       "category": "No-code databases",
-      "problem": "",
-      "compare": "new",
-      "tools": 5
+      "problem": "Bookings, members, gear: all in one sheet?",
+      "compare": "rendered",
+      "tools": 5,
+      "compare_claimed_on": "2026-10-27"
     },
     {
       "category": "Notifications",
@@ -4235,9 +4296,10 @@
     },
     {
       "category": "Project management and time tracking",
-      "problem": "",
-      "compare": "new",
-      "tools": 7
+      "problem": "Plans on a whiteboard, hours on a napkin?",
+      "compare": "rendered",
+      "tools": 7,
+      "compare_claimed_on": "2026-10-27"
     },
     {
       "category": "Protecting personal data",
@@ -4259,15 +4321,17 @@
     },
     {
       "category": "Schedules and job queues",
-      "problem": "",
-      "compare": "new",
-      "tools": 7
+      "problem": "Not now, but later. Who makes sure it runs?",
+      "compare": "rendered",
+      "tools": 7,
+      "compare_claimed_on": "2026-10-27"
     },
     {
       "category": "Scheduling and e-signatures",
-      "problem": "",
-      "compare": "new",
-      "tools": 3
+      "problem": "Got the yes. Now a time and a signature?",
+      "compare": "rendered",
+      "tools": 3,
+      "compare_claimed_on": "2026-10-27"
     },
     {
       "category": "Search over documents (RAG)",
@@ -4277,27 +4341,31 @@
     },
     {
       "category": "Secrets and encryption",
-      "problem": "",
-      "compare": "new",
-      "tools": 7
+      "problem": "Secrets scattered, releases unsigned?",
+      "compare": "rendered",
+      "tools": 7,
+      "compare_claimed_on": "2026-10-27"
     },
     {
       "category": "Security scanning",
-      "problem": "",
-      "compare": "new",
-      "tools": 12
+      "problem": "Security review: what do you actually scan?",
+      "compare": "rendered",
+      "tools": 12,
+      "compare_claimed_on": "2026-10-27"
     },
     {
       "category": "Software testing",
-      "problem": "",
-      "compare": "new",
-      "tools": 7
+      "problem": "Fixed one bug. Shipped two more?",
+      "compare": "rendered",
+      "tools": 7,
+      "compare_claimed_on": "2026-10-27"
     },
     {
       "category": "Team AI chat assistants",
-      "problem": "",
-      "compare": "new",
-      "tools": 3
+      "problem": "Every teammate paying for their own AI?",
+      "compare": "rendered",
+      "tools": 3,
+      "compare_claimed_on": "2026-10-27"
     },
     {
       "category": "Team chat",
@@ -4307,39 +4375,45 @@
     },
     {
       "category": "Team wikis and knowledge bases",
-      "problem": "",
-      "compare": "new",
-      "tools": 8
+      "problem": "It's written down somewhere. But where?",
+      "compare": "rendered",
+      "tools": 8,
+      "compare_claimed_on": "2026-10-27"
     },
     {
       "category": "Testing AI output",
-      "problem": "",
-      "compare": "new",
-      "tools": 8
+      "problem": "Tried your AI a few times. Ship it?",
+      "compare": "rendered",
+      "tools": 8,
+      "compare_claimed_on": "2026-10-27"
     },
     {
       "category": "Text cleanup and matching",
-      "problem": "",
-      "compare": "new",
-      "tools": 5
+      "problem": "Sign-ups typed every which way?",
+      "compare": "rendered",
+      "tools": 5,
+      "compare_claimed_on": "2026-10-27"
     },
     {
       "category": "Visual AI app builders",
-      "problem": "",
-      "compare": "new",
-      "tools": 4
+      "problem": "Your team wants an AI helper. Who builds it?",
+      "compare": "rendered",
+      "tools": 4,
+      "compare_claimed_on": "2026-10-27"
     },
     {
       "category": "Web scraping and research",
-      "problem": "",
-      "compare": "new",
-      "tools": 5
+      "problem": "Fifty links, ten PDFs, one report to write?",
+      "compare": "rendered",
+      "tools": 5,
+      "compare_claimed_on": "2026-10-27"
     },
     {
       "category": "Workflow automation",
-      "problem": "",
-      "compare": "new",
-      "tools": 8
+      "problem": "New hire on Monday. Who sets it all up?",
+      "compare": "rendered",
+      "tools": 8,
+      "compare_claimed_on": "2026-10-27"
     },
     {
       "category": "Writing quality checks",
