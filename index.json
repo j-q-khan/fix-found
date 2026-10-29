@@ -4810,24 +4810,36 @@
       "url": "https://elevenlabs.io",
       "repo": null,
       "search": "what is elevenlabs",
-      "whatis": "in progress",
-      "whatis_claimed_on": "2026-10-29"
+      "whatis": "scheduled",
+      "whatis_claimed_on": "2026-10-29",
+      "whatis_youtube_url": "https://youtu.be/v--ptht9CLs",
+      "whatis_uploaded_on": "2026-10-29",
+      "whatis_publish_at": "2026-10-30T23:00:00Z",
+      "whatis_visibility": "private until Fri 30 Oct 2026 19:00 EDT, then public automatically"
     },
     {
       "name": "ComfyUI",
       "url": "https://www.comfy.org",
       "repo": "Comfy-Org/ComfyUI",
       "search": "what is comfyui",
-      "whatis": "in progress",
-      "whatis_claimed_on": "2026-10-29"
+      "whatis": "scheduled",
+      "whatis_claimed_on": "2026-10-29",
+      "whatis_youtube_url": "https://youtu.be/Rj_8XQIPpww",
+      "whatis_uploaded_on": "2026-10-29",
+      "whatis_publish_at": "2026-10-31T15:00:00Z",
+      "whatis_visibility": "private until Sat 31 Oct 2026 11:00 EDT, then public automatically"
     },
     {
       "name": "Perplexity",
       "url": "https://www.perplexity.ai",
       "repo": null,
       "search": "what is perplexity",
-      "whatis": "in progress",
-      "whatis_claimed_on": "2026-10-29"
+      "whatis": "scheduled",
+      "whatis_claimed_on": "2026-10-29",
+      "whatis_youtube_url": "https://youtu.be/Ac0fKc4WsOU",
+      "whatis_uploaded_on": "2026-10-29",
+      "whatis_publish_at": "2026-10-31T23:00:00Z",
+      "whatis_visibility": "private until Sat 31 Oct 2026 19:00 EDT, then public automatically"
     },
     {
       "name": "n8n",
