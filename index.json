@@ -2855,7 +2855,7 @@
     {
       "problem": "Where's the last email to this client?",
       "number": 162,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "EspoCRM",
       "repo": "espocrm/espocrm",
@@ -2863,7 +2863,11 @@
       "category": "CRM",
       "jobs": 1,
       "first_seen": "2026-10-20",
-      "intro_claimed_on": "2026-10-23"
+      "intro_claimed_on": "2026-10-23",
+      "intro_youtube_url": "https://youtu.be/HYaw7lwnSx0",
+      "intro_uploaded_on": "2026-10-29",
+      "intro_publish_at": "2026-11-20T02:00:00Z",
+      "intro_visibility": "private until Thu 19 Nov 2026 21:00 EST, then public automatically"
     },
     {
       "problem": "A new migration file for every tiny tweak?",
@@ -2881,7 +2885,7 @@
     {
       "problem": "Your QuickBooks sync dies after an hour?",
       "number": 163,
-      "intro": "rendered",
+      "intro": "scheduled",
       "howto": "not planned",
       "name": "Intuit OAuth client (Node)",
       "repo": "intuit/oauth-jsclient",
@@ -2889,7 +2893,11 @@
       "category": "Accounting and ledgers",
       "jobs": 1,
       "first_seen": "2026-10-20",
-      "intro_claimed_on": "2026-10-23"
+      "intro_claimed_on": "2026-10-23",
+      "intro_youtube_url": "https://youtu.be/bQFxoIy7OgA",
+      "intro_uploaded_on": "2026-10-29",
+      "intro_publish_at": "2026-11-20T18:00:00Z",
+      "intro_visibility": "private until Fri 20 Nov 2026 13:00 EST, then public automatically"
     },
     {
       "problem": "Is your pipeline just cron jobs and hope?",
@@ -4759,5 +4767,102 @@
     "zizmorcore/zizmor": "zizmorcore/zizmor",
     "zotero/zotero": "zotero/zotero",
     "zulip/zulip": "zulip/zulip"
-  }
+  },
+  "whatis": [
+    {
+      "name": "Hermes Agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "repo": "NousResearch/hermes-agent",
+      "search": "what is hermes agent",
+      "whatis": "scheduled",
+      "whatis_claimed_on": "2026-10-28",
+      "whatis_youtube_url": "https://youtu.be/-Rvy6P5ICfA",
+      "whatis_uploaded_on": "2026-10-29",
+      "whatis_publish_at": "2026-10-29T23:00:00Z",
+      "whatis_visibility": "private until Thu 29 Oct 2026 19:00 EDT, then public automatically"
+    },
+    {
+      "name": "Ollama",
+      "url": "https://ollama.com",
+      "repo": "ollama/ollama",
+      "search": "what is ollama",
+      "whatis": "scheduled",
+      "whatis_claimed_on": "2026-10-28",
+      "whatis_youtube_url": "https://youtu.be/0nWGCIrA5EU",
+      "whatis_uploaded_on": "2026-10-29",
+      "whatis_publish_at": "2026-10-30T15:00:00Z",
+      "whatis_visibility": "private until Fri 30 Oct 2026 11:00 EDT, then public automatically"
+    },
+    {
+      "name": "Google Flow",
+      "url": "https://labs.google/fx/tools/flow",
+      "repo": null,
+      "search": "what is google flow",
+      "whatis": "scheduled",
+      "whatis_claimed_on": "2026-10-28",
+      "whatis_youtube_url": "https://youtu.be/Qhw9lVSrhMc",
+      "whatis_uploaded_on": "2026-10-29",
+      "whatis_publish_at": "2026-10-29T15:00:00Z",
+      "whatis_visibility": "private until Thu 29 Oct 2026 11:00 EDT, then public automatically"
+    },
+    {
+      "name": "ElevenLabs",
+      "url": "https://elevenlabs.io",
+      "repo": null,
+      "search": "what is elevenlabs",
+      "whatis": "in progress",
+      "whatis_claimed_on": "2026-10-29"
+    },
+    {
+      "name": "ComfyUI",
+      "url": "https://www.comfy.org",
+      "repo": "Comfy-Org/ComfyUI",
+      "search": "what is comfyui",
+      "whatis": "in progress",
+      "whatis_claimed_on": "2026-10-29"
+    },
+    {
+      "name": "Perplexity",
+      "url": "https://www.perplexity.ai",
+      "repo": null,
+      "search": "what is perplexity",
+      "whatis": "in progress",
+      "whatis_claimed_on": "2026-10-29"
+    },
+    {
+      "name": "n8n",
+      "url": "https://n8n.io",
+      "repo": "n8n-io/n8n",
+      "search": "what is n8n",
+      "whatis": "new"
+    },
+    {
+      "name": "OpenClaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "repo": "openclaw/openclaw",
+      "search": "what is openclaw",
+      "whatis": "new"
+    },
+    {
+      "name": "Midjourney",
+      "url": "https://www.midjourney.com",
+      "repo": null,
+      "search": "what is midjourney",
+      "whatis": "new"
+    },
+    {
+      "name": "Meta AI",
+      "url": "https://www.meta.ai",
+      "repo": null,
+      "search": "what is meta ai",
+      "whatis": "new"
+    },
+    {
+      "name": "Kling",
+      "url": "https://klingai.com",
+      "repo": null,
+      "search": "what is kling",
+      "whatis": "new"
+    }
+  ]
 }
