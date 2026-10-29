@@ -4879,14 +4879,22 @@
       "url": "https://www.meta.ai",
       "repo": null,
       "search": "what is meta ai",
-      "whatis": "new"
+      "whatis": "posted",
+      "whatis_claimed_on": "2026-10-29",
+      "whatis_youtube_url": "https://youtu.be/x8bMlNTfXPU",
+      "whatis_uploaded_on": "2026-10-29",
+      "whatis_visibility": "public"
     },
     {
       "name": "Kling",
       "url": "https://klingai.com",
       "repo": null,
       "search": "what is kling",
-      "whatis": "new"
+      "whatis": "posted",
+      "whatis_claimed_on": "2026-10-29",
+      "whatis_youtube_url": "https://youtu.be/OlcwrgdwEsM",
+      "whatis_uploaded_on": "2026-10-29",
+      "whatis_visibility": "public"
     }
   ]
 }
