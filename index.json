@@ -4846,21 +4846,33 @@
       "url": "https://n8n.io",
       "repo": "n8n-io/n8n",
       "search": "what is n8n",
-      "whatis": "new"
+      "whatis": "posted",
+      "whatis_claimed_on": "2026-10-29",
+      "whatis_youtube_url": "https://youtu.be/Rq5IK9PoyJA",
+      "whatis_uploaded_on": "2026-10-29",
+      "whatis_visibility": "public"
     },
     {
       "name": "OpenClaw",
       "url": "https://github.com/openclaw/openclaw",
       "repo": "openclaw/openclaw",
       "search": "what is openclaw",
-      "whatis": "new"
+      "whatis": "posted",
+      "whatis_claimed_on": "2026-10-29",
+      "whatis_youtube_url": "https://youtu.be/nQzOVUA0jzg",
+      "whatis_uploaded_on": "2026-10-29",
+      "whatis_visibility": "public"
     },
     {
       "name": "Midjourney",
       "url": "https://www.midjourney.com",
       "repo": null,
       "search": "what is midjourney",
-      "whatis": "new"
+      "whatis": "posted",
+      "whatis_claimed_on": "2026-10-29",
+      "whatis_youtube_url": "https://youtu.be/1h5svl_owYw",
+      "whatis_uploaded_on": "2026-10-29",
+      "whatis_visibility": "public"
     },
     {
       "name": "Meta AI",
