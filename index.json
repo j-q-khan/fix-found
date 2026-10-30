@@ -2902,7 +2902,7 @@
     {
       "problem": "Is your pipeline just cron jobs and hope?",
       "number": 165,
-      "intro": "rendered",
+      "intro": "posted",
       "howto": "not planned",
       "name": "Kestra",
       "repo": "kestra-io/kestra",
@@ -2910,12 +2910,15 @@
       "category": "Workflow automation",
       "jobs": 1,
       "first_seen": "2026-10-20",
-      "intro_claimed_on": "2026-10-23"
+      "intro_claimed_on": "2026-10-23",
+      "intro_youtube_url": "https://youtu.be/Sij1lhnrvmo",
+      "intro_uploaded_on": "2026-10-30",
+      "intro_visibility": "public"
     },
     {
       "problem": "A new password for every internal tool?",
       "number": 166,
-      "intro": "rendered",
+      "intro": "posted",
       "howto": "not planned",
       "name": "Keycloak",
       "repo": "keycloak/keycloak",
@@ -2923,12 +2926,15 @@
       "category": "Logins and single sign-on",
       "jobs": 1,
       "first_seen": "2026-10-20",
-      "intro_claimed_on": "2026-10-23"
+      "intro_claimed_on": "2026-10-23",
+      "intro_youtube_url": "https://youtu.be/7ZGqpluOyrw",
+      "intro_uploaded_on": "2026-10-30",
+      "intro_visibility": "public"
     },
     {
       "problem": "Another API, another loader script?",
       "number": 167,
-      "intro": "rendered",
+      "intro": "posted",
       "howto": "not planned",
       "name": "Meltano",
       "repo": "meltano/meltano",
@@ -2936,7 +2942,10 @@
       "category": "Data pipelines and versioning",
       "jobs": 1,
       "first_seen": "2026-10-20",
-      "intro_claimed_on": "2026-10-23"
+      "intro_claimed_on": "2026-10-23",
+      "intro_youtube_url": "https://youtu.be/LaotAo0Y7WE",
+      "intro_uploaded_on": "2026-10-30",
+      "intro_visibility": "public"
     },
     {
       "problem": "Gluing QuickBooks API URLs together?",
@@ -2954,7 +2963,7 @@
     {
       "problem": "One database password, every app, for years?",
       "number": 168,
-      "intro": "rendered",
+      "intro": "posted",
       "howto": "not planned",
       "name": "OpenBao",
       "repo": "openbao/openbao",
@@ -2962,12 +2971,15 @@
       "category": "Secrets and encryption",
       "jobs": 1,
       "first_seen": "2026-10-20",
-      "intro_claimed_on": "2026-10-23"
+      "intro_claimed_on": "2026-10-23",
+      "intro_youtube_url": "https://youtu.be/saQsYgQt700",
+      "intro_uploaded_on": "2026-10-30",
+      "intro_visibility": "public"
     },
     {
       "problem": "Hiring from a spreadsheet and an inbox?",
       "number": 169,
-      "intro": "rendered",
+      "intro": "posted",
       "howto": "not planned",
       "name": "OpenCATS",
       "repo": "opencats/OpenCATS",
@@ -2975,12 +2987,15 @@
       "category": "CRM",
       "jobs": 1,
       "first_seen": "2026-10-20",
-      "intro_claimed_on": "2026-10-23"
+      "intro_claimed_on": "2026-10-23",
+      "intro_youtube_url": "https://youtu.be/hIgx6RSkKmI",
+      "intro_uploaded_on": "2026-10-30",
+      "intro_visibility": "public"
     },
     {
       "problem": "Slow request, three services. Which one?",
       "number": 170,
-      "intro": "rendered",
+      "intro": "posted",
       "howto": "not planned",
       "name": "OpenTelemetry JS",
       "repo": "open-telemetry/opentelemetry-js",
@@ -2988,12 +3003,15 @@
       "category": "Logging, monitoring and alerts",
       "jobs": 1,
       "first_seen": "2026-10-20",
-      "intro_claimed_on": "2026-10-23"
+      "intro_claimed_on": "2026-10-23",
+      "intro_youtube_url": "https://youtu.be/T18BqHemHDI",
+      "intro_uploaded_on": "2026-10-30",
+      "intro_visibility": "public"
     },
     {
       "problem": "Rebuild your whole cloud from scratch?",
       "number": 171,
-      "intro": "rendered",
+      "intro": "posted",
       "howto": "not planned",
       "name": "OpenTofu",
       "repo": "opentofu/opentofu",
@@ -3001,12 +3019,15 @@
       "category": "Infrastructure as code",
       "jobs": 1,
       "first_seen": "2026-10-20",
-      "intro_claimed_on": "2026-10-23"
+      "intro_claimed_on": "2026-10-23",
+      "intro_youtube_url": "https://youtu.be/kk_2DEsSiNQ",
+      "intro_uploaded_on": "2026-10-30",
+      "intro_visibility": "public"
     },
     {
       "problem": "Redeployed. Where did the queued emails go?",
       "number": 172,
-      "intro": "rendered",
+      "intro": "posted",
       "howto": "not planned",
       "name": "pg-boss",
       "repo": "timgit/pg-boss",
@@ -3014,7 +3035,10 @@
       "category": "Schedules and job queues",
       "jobs": 1,
       "first_seen": "2026-10-20",
-      "intro_claimed_on": "2026-10-23"
+      "intro_claimed_on": "2026-10-23",
+      "intro_youtube_url": "https://youtu.be/lFZKkYVIrZE",
+      "intro_uploaded_on": "2026-10-30",
+      "intro_visibility": "public"
     },
     {
       "problem": "Balance off by two dollars. Since when?",
@@ -3071,7 +3095,7 @@
     {
       "problem": "console.log says 'failed'. Failed what?",
       "number": 178,
-      "intro": "rendered",
+      "intro": "posted",
       "howto": "not planned",
       "name": "Pino",
       "repo": "pinojs/pino",
@@ -3079,12 +3103,15 @@
       "category": "Logging, monitoring and alerts",
       "jobs": 1,
       "first_seen": "2026-10-20",
-      "intro_claimed_on": "2026-10-23"
+      "intro_claimed_on": "2026-10-23",
+      "intro_youtube_url": "https://youtu.be/G-y3--I5kU0",
+      "intro_uploaded_on": "2026-10-30",
+      "intro_visibility": "public"
     },
     {
       "problem": "A cookie banner for a visit count?",
       "number": 179,
-      "intro": "rendered",
+      "intro": "posted",
       "howto": "not planned",
       "name": "Plausible",
       "repo": "plausible/analytics",
@@ -3092,12 +3119,15 @@
       "category": "Dashboards and analytics",
       "jobs": 1,
       "first_seen": "2026-10-20",
-      "intro_claimed_on": "2026-10-23"
+      "intro_claimed_on": "2026-10-23",
+      "intro_youtube_url": "https://youtu.be/ySYW8ItJIFE",
+      "intro_uploaded_on": "2026-10-30",
+      "intro_visibility": "public"
     },
     {
       "problem": "Shipped a feature. Does anyone use it?",
       "number": 182,
-      "intro": "rendered",
+      "intro": "posted",
       "howto": "not planned",
       "name": "PostHog",
       "repo": "PostHog/posthog",
@@ -3105,12 +3135,15 @@
       "category": "Dashboards and analytics",
       "jobs": 1,
       "first_seen": "2026-10-20",
-      "intro_claimed_on": "2026-10-24"
+      "intro_claimed_on": "2026-10-24",
+      "intro_youtube_url": "https://youtu.be/kjrGJo9fcJQ",
+      "intro_uploaded_on": "2026-10-30",
+      "intro_visibility": "public"
     },
     {
       "problem": "Ten environments, ten copies of one config?",
       "number": 180,
-      "intro": "rendered",
+      "intro": "posted",
       "howto": "not planned",
       "name": "Pulumi",
       "repo": "pulumi/pulumi",
@@ -3118,7 +3151,10 @@
       "category": "Infrastructure as code",
       "jobs": 1,
       "first_seen": "2026-10-20",
-      "intro_claimed_on": "2026-10-23"
+      "intro_claimed_on": "2026-10-23",
+      "intro_youtube_url": "https://youtu.be/8rBolVGaOOM",
+      "intro_uploaded_on": "2026-10-30",
+      "intro_visibility": "public"
     },
     {
       "problem": "",
@@ -3149,7 +3185,7 @@
     {
       "problem": "Same person in two lists, no shared ID?",
       "number": 181,
-      "intro": "rendered",
+      "intro": "posted",
       "howto": "not planned",
       "name": "Splink",
       "repo": "moj-analytical-services/splink",
@@ -3157,7 +3193,10 @@
       "category": "Data quality and deduplication",
       "jobs": 1,
       "first_seen": "2026-10-20",
-      "intro_claimed_on": "2026-10-23"
+      "intro_claimed_on": "2026-10-23",
+      "intro_youtube_url": "https://youtu.be/XzvKXVS50o0",
+      "intro_uploaded_on": "2026-10-30",
+      "intro_visibility": "public"
     },
     {
       "problem": "Half a payment went through. Now what?",
@@ -3175,7 +3214,7 @@
     {
       "problem": "Found a leaked key. Does it still work?",
       "number": 185,
-      "intro": "rendered",
+      "intro": "posted",
       "howto": "not planned",
       "name": "TruffleHog",
       "repo": "trufflesecurity/trufflehog",
@@ -3183,12 +3222,15 @@
       "category": "Code quality and security checks",
       "jobs": 1,
       "first_seen": "2026-10-20",
-      "intro_claimed_on": "2026-10-24"
+      "intro_claimed_on": "2026-10-24",
+      "intro_youtube_url": "https://youtu.be/N8cjIhJSIKc",
+      "intro_uploaded_on": "2026-10-30",
+      "intro_visibility": "public"
     },
     {
       "problem": "Stats, funnels and replays in three tools?",
       "number": 183,
-      "intro": "rendered",
+      "intro": "posted",
       "howto": "not planned",
       "name": "Umami",
       "repo": "umami-software/umami",
@@ -3196,7 +3238,10 @@
       "category": "Dashboards and analytics",
       "jobs": 1,
       "first_seen": "2026-10-20",
-      "intro_claimed_on": "2026-10-24"
+      "intro_claimed_on": "2026-10-24",
+      "intro_youtube_url": "https://youtu.be/swzTeaDX4FQ",
+      "intro_uploaded_on": "2026-10-30",
+      "intro_visibility": "public"
     },
     {
       "problem": "Seven 'fix CI' commits and still failing?",
@@ -3227,7 +3272,7 @@
     {
       "problem": "Admin panel still stuck on the backlog?",
       "number": 188,
-      "intro": "rendered",
+      "intro": "posted",
       "howto": "not planned",
       "name": "Appsmith",
       "repo": "appsmithorg/appsmith",
@@ -3235,12 +3280,15 @@
       "category": "Internal tool builders",
       "jobs": 1,
       "first_seen": "2026-10-21",
-      "intro_claimed_on": "2026-10-25"
+      "intro_claimed_on": "2026-10-25",
+      "intro_youtube_url": "https://youtu.be/TyGLvlxAOPU",
+      "intro_uploaded_on": "2026-10-30",
+      "intro_visibility": "public"
     },
     {
       "problem": "The portal has no API. Who types it in?",
       "number": 189,
-      "intro": "rendered",
+      "intro": "posted",
       "howto": "not planned",
       "name": "Browser Use",
       "repo": "browser-use/browser-use",
@@ -3248,12 +3296,15 @@
       "category": "Browser automation",
       "jobs": 1,
       "first_seen": "2026-10-21",
-      "intro_claimed_on": "2026-10-25"
+      "intro_claimed_on": "2026-10-25",
+      "intro_youtube_url": "https://youtu.be/OZwfjjW3oec",
+      "intro_uploaded_on": "2026-10-30",
+      "intro_visibility": "public"
     },
     {
       "problem": "Approval requests lost in reply-all?",
       "number": 191,
-      "intro": "rendered",
+      "intro": "posted",
       "howto": "not planned",
       "name": "Budibase",
       "repo": "Budibase/budibase",
@@ -3261,7 +3312,10 @@
       "category": "Internal tool builders",
       "jobs": 1,
       "first_seen": "2026-10-21",
-      "intro_claimed_on": "2026-10-25"
+      "intro_claimed_on": "2026-10-25",
+      "intro_youtube_url": "https://youtu.be/fOiSwnMf51A",
+      "intro_uploaded_on": "2026-10-30",
+      "intro_visibility": "public"
     },
     {
       "problem": "Approved, all green, still not merged?",
