@@ -5701,28 +5701,28 @@
       "series": "AI for Real Estate Agents",
       "part": 2,
       "brand": "AI FOR REAL ESTATE AGENTS",
-      "guide": "new"
+      "guide": "render check"
     },
     {
       "name": "Real Estate AI 3 - ChatGPT Prompts for Real Estate Agents",
       "series": "AI for Real Estate Agents",
       "part": 3,
       "brand": "AI FOR REAL ESTATE AGENTS",
-      "guide": "new"
+      "guide": "render check"
     },
     {
       "name": "Real Estate AI 4 - How to Use Claude for Real Estate",
       "series": "AI for Real Estate Agents",
       "part": 4,
       "brand": "AI FOR REAL ESTATE AGENTS",
-      "guide": "new"
+      "guide": "render check"
     },
     {
       "name": "Real Estate AI 5 - How to Write Real Estate Listings with AI",
       "series": "AI for Real Estate Agents",
       "part": 5,
       "brand": "AI FOR REAL ESTATE AGENTS",
-      "guide": "new"
+      "guide": "render check"
     },
     {
       "name": "Real Estate AI 6 - AI Virtual Staging for Real Estate",
@@ -5736,104 +5736,207 @@
       "series": "AI for Real Estate Agents",
       "part": 7,
       "brand": "AI FOR REAL ESTATE AGENTS",
-      "guide": "new"
+      "guide": "render check"
     },
     {
       "name": "Real Estate AI 8 - How to Make Real Estate Videos with AI",
       "series": "AI for Real Estate Agents",
       "part": 8,
       "brand": "AI FOR REAL ESTATE AGENTS",
-      "guide": "new"
+      "guide": "render check"
     },
     {
       "name": "Real Estate AI 9 - Real Estate Lead Generation with AI",
       "series": "AI for Real Estate Agents",
       "part": 9,
       "brand": "AI FOR REAL ESTATE AGENTS",
-      "guide": "new"
+      "guide": "render check"
     },
     {
       "name": "Real Estate AI 10 - Will AI Replace Real Estate Agents",
       "series": "AI for Real Estate Agents",
       "part": 10,
       "brand": "AI FOR REAL ESTATE AGENTS",
-      "guide": "new"
+      "guide": "render check"
     },
     {
       "name": "Shopify AI 1 - How to Use AI for Shopify",
       "series": "AI for Shopify Sellers",
       "part": 1,
       "brand": "AI FOR SHOPIFY SELLERS",
-      "guide": "render check"
+      "guide": "uploaded private",
+      "guide_youtube_url": "https://youtu.be/EJhRh_bGpgg",
+      "guide_uploaded_on": "2026-11-04",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Shopify AI 2 - How to Connect Claude to Shopify with MCP",
       "series": "AI for Shopify Sellers",
       "part": 2,
       "brand": "AI FOR SHOPIFY SELLERS",
-      "guide": "new"
+      "guide": "uploaded private",
+      "guide_youtube_url": "https://youtu.be/h7opDek-thk",
+      "guide_uploaded_on": "2026-11-04",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Shopify AI 3 - Shopify Fraud Prevention: Stop Fake Orders and Bots",
       "series": "AI for Shopify Sellers",
       "part": 3,
       "brand": "AI FOR SHOPIFY SELLERS",
-      "guide": "new"
+      "guide": "uploaded private",
+      "guide_youtube_url": "https://youtu.be/JymJnni2Xy8",
+      "guide_uploaded_on": "2026-11-04",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Shopify AI 4 - Shopify AI Product Descriptions at Scale",
       "series": "AI for Shopify Sellers",
       "part": 4,
       "brand": "AI FOR SHOPIFY SELLERS",
-      "guide": "new"
+      "guide": "uploaded private",
+      "guide_youtube_url": "https://youtu.be/GPfhUEQFofw",
+      "guide_uploaded_on": "2026-11-04",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Shopify AI 5 - Shopify Traffic but No Sales",
       "series": "AI for Shopify Sellers",
       "part": 5,
       "brand": "AI FOR SHOPIFY SELLERS",
-      "guide": "render check"
+      "guide": "uploaded private",
+      "guide_youtube_url": "https://youtu.be/Qx9sKZ09lr0",
+      "guide_uploaded_on": "2026-11-04",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Shopify AI 6 - Meta Pixel Not Working on Shopify",
       "series": "AI for Shopify Sellers",
       "part": 6,
       "brand": "AI FOR SHOPIFY SELLERS",
-      "guide": "new"
+      "guide": "uploaded private",
+      "guide_youtube_url": "https://youtu.be/X2cnzQL06T4",
+      "guide_uploaded_on": "2026-11-04",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Shopify AI 7 - How to Win Shopify Chargebacks",
       "series": "AI for Shopify Sellers",
       "part": 7,
       "brand": "AI FOR SHOPIFY SELLERS",
-      "guide": "new"
+      "guide": "uploaded private",
+      "guide_youtube_url": "https://youtu.be/76NqZsXXE_c",
+      "guide_uploaded_on": "2026-11-04",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Shopify AI 8 - Shopify Order Tracking with an AI Chatbot",
       "series": "AI for Shopify Sellers",
       "part": 8,
       "brand": "AI FOR SHOPIFY SELLERS",
-      "guide": "new"
+      "guide": "uploaded private",
+      "guide_youtube_url": "https://youtu.be/I15jbtVT5aI",
+      "guide_uploaded_on": "2026-11-04",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Shopify AI 9 - Shopify Tariffs Explained",
       "series": "AI for Shopify Sellers",
       "part": 9,
       "brand": "AI FOR SHOPIFY SELLERS",
-      "guide": "render check"
+      "guide": "uploaded private",
+      "guide_youtube_url": "https://youtu.be/T_mvRldeya4",
+      "guide_uploaded_on": "2026-11-04",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Shopify AI 10 - Shopify Inventory Sync with Amazon and Etsy",
       "series": "AI for Shopify Sellers",
       "part": 10,
       "brand": "AI FOR SHOPIFY SELLERS",
-      "guide": "new"
+      "guide": "uploaded private",
+      "guide_youtube_url": "https://youtu.be/hLometX-HTQ",
+      "guide_uploaded_on": "2026-11-04",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Shopify AI 11 - Replace Shopify Apps with Claude Code",
       "series": "AI for Shopify Sellers",
       "part": 11,
       "brand": "AI FOR SHOPIFY SELLERS",
+      "guide": "uploaded private",
+      "guide_youtube_url": "https://youtu.be/OgubvMvCf4M",
+      "guide_uploaded_on": "2026-11-04",
+      "guide_visibility": "private (Jabran publishes from Studio)"
+    },
+    {
+      "name": "ComfyUI 1 - How to Install ComfyUI (Windows and Mac)",
+      "series": "ComfyUI",
+      "part": 1,
+      "brand": "COMFYUI",
+      "guide": "render check"
+    },
+    {
+      "name": "ComfyUI 2 - ComfyUI Manager: How to Fix Missing Nodes",
+      "series": "ComfyUI",
+      "part": 2,
+      "brand": "COMFYUI",
+      "guide": "render check"
+    },
+    {
+      "name": "ComfyUI 3 - ComfyUI Workflow Explained",
+      "series": "ComfyUI",
+      "part": 3,
+      "brand": "COMFYUI",
+      "guide": "render check"
+    },
+    {
+      "name": "ComfyUI 4 - ComfyUI Flux Workflow: Full Setup with LoRAs",
+      "series": "ComfyUI",
+      "part": 4,
+      "brand": "COMFYUI",
+      "guide": "new"
+    },
+    {
+      "name": "ComfyUI 5 - ComfyUI Low VRAM: Run Big Models on a Small GPU",
+      "series": "ComfyUI",
+      "part": 5,
+      "brand": "COMFYUI",
+      "guide": "new"
+    },
+    {
+      "name": "ComfyUI 6 - ComfyUI Upscale Workflow: Sharper Images and Faces",
+      "series": "ComfyUI",
+      "part": 6,
+      "brand": "COMFYUI",
+      "guide": "new"
+    },
+    {
+      "name": "ComfyUI 7 - ComfyUI ControlNet and Inpainting Tutorial",
+      "series": "ComfyUI",
+      "part": 7,
+      "brand": "COMFYUI",
+      "guide": "new"
+    },
+    {
+      "name": "ComfyUI 8 - ComfyUI Image to Video Workflow",
+      "series": "ComfyUI",
+      "part": 8,
+      "brand": "COMFYUI",
+      "guide": "new"
+    },
+    {
+      "name": "ComfyUI 9 - ComfyUI API Tutorial: Run Workflows from Python",
+      "series": "ComfyUI",
+      "part": 9,
+      "brand": "COMFYUI",
+      "guide": "new"
+    },
+    {
+      "name": "ComfyUI 10 - ComfyUI Custom Nodes and Subgraphs",
+      "series": "ComfyUI",
+      "part": 10,
+      "brand": "COMFYUI",
       "guide": "new"
     }
   ]
