@@ -5584,69 +5584,256 @@
       "series": "TypeScript AI Tutorials",
       "part": 1,
       "brand": "THE AI TOOLBOX",
-      "guide": "rendered"
+      "guide": "uploaded private",
+      "guide_youtube_url": "https://youtu.be/M2e3pODkiWg",
+      "guide_uploaded_on": "2026-11-04",
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_playlist": "PLOsT7Q9gqkBE"
     },
     {
       "name": "TypeScript AI 2 - How to Build an MCP Server with TypeScript",
       "series": "TypeScript AI Tutorials",
       "part": 2,
       "brand": "THE AI TOOLBOX",
-      "guide": "new"
+      "guide": "uploaded private",
+      "guide_youtube_url": "https://youtu.be/9O08zD0HSR4",
+      "guide_uploaded_on": "2026-11-04",
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_playlist": "PLOsT7Q9gqkBE"
     },
     {
       "name": "TypeScript AI 3 - How to Use the OpenAI SDK with TypeScript",
       "series": "TypeScript AI Tutorials",
       "part": 3,
       "brand": "THE AI TOOLBOX",
-      "guide": "new"
+      "guide": "uploaded private",
+      "guide_youtube_url": "https://youtu.be/hHkL84598Jw",
+      "guide_uploaded_on": "2026-11-04",
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_playlist": "PLOsT7Q9gqkBE"
     },
     {
       "name": "TypeScript AI 4 - How to Use the Claude Agent SDK with TypeScript",
       "series": "TypeScript AI Tutorials",
       "part": 4,
       "brand": "THE AI TOOLBOX",
-      "guide": "new"
+      "guide": "uploaded private",
+      "guide_youtube_url": "https://youtu.be/j619F1Yasfs",
+      "guide_uploaded_on": "2026-11-04",
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_playlist": "PLOsT7Q9gqkBE"
     },
     {
       "name": "TypeScript AI 5 - How to Build an AI Agent with TypeScript",
       "series": "TypeScript AI Tutorials",
       "part": 5,
       "brand": "THE AI TOOLBOX",
-      "guide": "new"
+      "guide": "uploaded private",
+      "guide_youtube_url": "https://youtu.be/nPzyxd10vPI",
+      "guide_uploaded_on": "2026-11-04",
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_playlist": "PLOsT7Q9gqkBE"
     },
     {
       "name": "TypeScript AI 6 - How to Build a Next.js AI Chatbot",
       "series": "TypeScript AI Tutorials",
       "part": 6,
       "brand": "THE AI TOOLBOX",
-      "guide": "new"
+      "guide": "uploaded private",
+      "guide_youtube_url": "https://youtu.be/tlRYA1sdmik",
+      "guide_uploaded_on": "2026-11-04",
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_playlist": "PLOsT7Q9gqkBE"
     },
     {
       "name": "TypeScript AI 7 - How Does AI Tool Calling Work in TypeScript",
       "series": "TypeScript AI Tutorials",
       "part": 7,
       "brand": "THE AI TOOLBOX",
-      "guide": "new"
+      "guide": "uploaded private",
+      "guide_youtube_url": "https://youtu.be/b55p14O9p4o",
+      "guide_uploaded_on": "2026-11-04",
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_playlist": "PLOsT7Q9gqkBE"
     },
     {
       "name": "TypeScript AI 8 - LangChain TypeScript Tutorial for Beginners",
       "series": "TypeScript AI Tutorials",
       "part": 8,
       "brand": "THE AI TOOLBOX",
-      "guide": "new"
+      "guide": "uploaded private",
+      "guide_youtube_url": "https://youtu.be/beb2WOYS2ns",
+      "guide_uploaded_on": "2026-11-04",
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_playlist": "PLOsT7Q9gqkBE"
     },
     {
       "name": "TypeScript AI 9 - How to Get Structured Output from AI in TypeScript",
       "series": "TypeScript AI Tutorials",
       "part": 9,
       "brand": "THE AI TOOLBOX",
-      "guide": "new"
+      "guide": "uploaded private",
+      "guide_youtube_url": "https://youtu.be/YDstXb4mJ1E",
+      "guide_uploaded_on": "2026-11-04",
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_playlist": "PLOsT7Q9gqkBE"
     },
     {
       "name": "TypeScript AI 10 - AI SDK Streaming Tutorial for Beginners",
       "series": "TypeScript AI Tutorials",
       "part": 10,
       "brand": "THE AI TOOLBOX",
+      "guide": "uploaded private",
+      "guide_youtube_url": "https://youtu.be/x18UFYFa1pk",
+      "guide_uploaded_on": "2026-11-04",
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_playlist": "PLOsT7Q9gqkBE"
+    },
+    {
+      "name": "Real Estate AI 1 - How to Use AI for Real Estate Agents",
+      "series": "AI for Real Estate Agents",
+      "part": 1,
+      "brand": "AI FOR REAL ESTATE AGENTS",
+      "guide": "render check"
+    },
+    {
+      "name": "Real Estate AI 2 - Best AI Tools for Real Estate Agents",
+      "series": "AI for Real Estate Agents",
+      "part": 2,
+      "brand": "AI FOR REAL ESTATE AGENTS",
+      "guide": "new"
+    },
+    {
+      "name": "Real Estate AI 3 - ChatGPT Prompts for Real Estate Agents",
+      "series": "AI for Real Estate Agents",
+      "part": 3,
+      "brand": "AI FOR REAL ESTATE AGENTS",
+      "guide": "new"
+    },
+    {
+      "name": "Real Estate AI 4 - How to Use Claude for Real Estate",
+      "series": "AI for Real Estate Agents",
+      "part": 4,
+      "brand": "AI FOR REAL ESTATE AGENTS",
+      "guide": "new"
+    },
+    {
+      "name": "Real Estate AI 5 - How to Write Real Estate Listings with AI",
+      "series": "AI for Real Estate Agents",
+      "part": 5,
+      "brand": "AI FOR REAL ESTATE AGENTS",
+      "guide": "new"
+    },
+    {
+      "name": "Real Estate AI 6 - AI Virtual Staging for Real Estate",
+      "series": "AI for Real Estate Agents",
+      "part": 6,
+      "brand": "AI FOR REAL ESTATE AGENTS",
+      "guide": "render check"
+    },
+    {
+      "name": "Real Estate AI 7 - AI Tools for Real Estate Photography",
+      "series": "AI for Real Estate Agents",
+      "part": 7,
+      "brand": "AI FOR REAL ESTATE AGENTS",
+      "guide": "new"
+    },
+    {
+      "name": "Real Estate AI 8 - How to Make Real Estate Videos with AI",
+      "series": "AI for Real Estate Agents",
+      "part": 8,
+      "brand": "AI FOR REAL ESTATE AGENTS",
+      "guide": "new"
+    },
+    {
+      "name": "Real Estate AI 9 - Real Estate Lead Generation with AI",
+      "series": "AI for Real Estate Agents",
+      "part": 9,
+      "brand": "AI FOR REAL ESTATE AGENTS",
+      "guide": "new"
+    },
+    {
+      "name": "Real Estate AI 10 - Will AI Replace Real Estate Agents",
+      "series": "AI for Real Estate Agents",
+      "part": 10,
+      "brand": "AI FOR REAL ESTATE AGENTS",
+      "guide": "new"
+    },
+    {
+      "name": "Shopify AI 1 - How to Use AI for Shopify",
+      "series": "AI for Shopify Sellers",
+      "part": 1,
+      "brand": "AI FOR SHOPIFY SELLERS",
+      "guide": "render check"
+    },
+    {
+      "name": "Shopify AI 2 - How to Connect Claude to Shopify with MCP",
+      "series": "AI for Shopify Sellers",
+      "part": 2,
+      "brand": "AI FOR SHOPIFY SELLERS",
+      "guide": "new"
+    },
+    {
+      "name": "Shopify AI 3 - Shopify Fraud Prevention: Stop Fake Orders and Bots",
+      "series": "AI for Shopify Sellers",
+      "part": 3,
+      "brand": "AI FOR SHOPIFY SELLERS",
+      "guide": "new"
+    },
+    {
+      "name": "Shopify AI 4 - Shopify AI Product Descriptions at Scale",
+      "series": "AI for Shopify Sellers",
+      "part": 4,
+      "brand": "AI FOR SHOPIFY SELLERS",
+      "guide": "new"
+    },
+    {
+      "name": "Shopify AI 5 - Shopify Traffic but No Sales",
+      "series": "AI for Shopify Sellers",
+      "part": 5,
+      "brand": "AI FOR SHOPIFY SELLERS",
+      "guide": "render check"
+    },
+    {
+      "name": "Shopify AI 6 - Meta Pixel Not Working on Shopify",
+      "series": "AI for Shopify Sellers",
+      "part": 6,
+      "brand": "AI FOR SHOPIFY SELLERS",
+      "guide": "new"
+    },
+    {
+      "name": "Shopify AI 7 - How to Win Shopify Chargebacks",
+      "series": "AI for Shopify Sellers",
+      "part": 7,
+      "brand": "AI FOR SHOPIFY SELLERS",
+      "guide": "new"
+    },
+    {
+      "name": "Shopify AI 8 - Shopify Order Tracking with an AI Chatbot",
+      "series": "AI for Shopify Sellers",
+      "part": 8,
+      "brand": "AI FOR SHOPIFY SELLERS",
+      "guide": "new"
+    },
+    {
+      "name": "Shopify AI 9 - Shopify Tariffs Explained",
+      "series": "AI for Shopify Sellers",
+      "part": 9,
+      "brand": "AI FOR SHOPIFY SELLERS",
+      "guide": "render check"
+    },
+    {
+      "name": "Shopify AI 10 - Shopify Inventory Sync with Amazon and Etsy",
+      "series": "AI for Shopify Sellers",
+      "part": 10,
+      "brand": "AI FOR SHOPIFY SELLERS",
+      "guide": "new"
+    },
+    {
+      "name": "Shopify AI 11 - Replace Shopify Apps with Claude Code",
+      "series": "AI for Shopify Sellers",
+      "part": 11,
+      "brand": "AI FOR SHOPIFY SELLERS",
       "guide": "new"
     }
   ]
