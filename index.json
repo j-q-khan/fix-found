@@ -5694,70 +5694,110 @@
       "series": "AI for Real Estate Agents",
       "part": 1,
       "brand": "AI FOR REAL ESTATE AGENTS",
-      "guide": "render check"
+      "guide": "posted",
+      "guide_youtube_url": "https://youtu.be/T3EAvVvs6yY",
+      "guide_visibility": "public (uploaded by Jabran in Studio)",
+      "guide_uploaded_on": "2026-11-04 (manual)",
+      "guide_playlist": "PLKEN94s1bcQo"
     },
     {
       "name": "Real Estate AI 2 - Best AI Tools for Real Estate Agents",
       "series": "AI for Real Estate Agents",
       "part": 2,
       "brand": "AI FOR REAL ESTATE AGENTS",
-      "guide": "render check"
+      "guide": "posted",
+      "guide_youtube_url": "https://youtu.be/j2Ci08WwXtA",
+      "guide_visibility": "public (uploaded by Jabran in Studio)",
+      "guide_uploaded_on": "2026-11-04 (manual)",
+      "guide_playlist": "PLKEN94s1bcQo"
     },
     {
       "name": "Real Estate AI 3 - ChatGPT Prompts for Real Estate Agents",
       "series": "AI for Real Estate Agents",
       "part": 3,
       "brand": "AI FOR REAL ESTATE AGENTS",
-      "guide": "render check"
+      "guide": "posted",
+      "guide_youtube_url": "https://youtu.be/_YYJKhjfT-Q",
+      "guide_visibility": "public (uploaded by Jabran in Studio)",
+      "guide_uploaded_on": "2026-11-04 (manual)",
+      "guide_playlist": "PLKEN94s1bcQo"
     },
     {
       "name": "Real Estate AI 4 - How to Use Claude for Real Estate",
       "series": "AI for Real Estate Agents",
       "part": 4,
       "brand": "AI FOR REAL ESTATE AGENTS",
-      "guide": "render check"
+      "guide": "posted",
+      "guide_youtube_url": "https://youtu.be/A3aYmB9EoK0",
+      "guide_visibility": "public (uploaded by Jabran in Studio)",
+      "guide_uploaded_on": "2026-11-04 (manual)",
+      "guide_playlist": "PLKEN94s1bcQo"
     },
     {
       "name": "Real Estate AI 5 - How to Write Real Estate Listings with AI",
       "series": "AI for Real Estate Agents",
       "part": 5,
       "brand": "AI FOR REAL ESTATE AGENTS",
-      "guide": "render check"
+      "guide": "posted",
+      "guide_youtube_url": "https://youtu.be/fZ8tp98WWAo",
+      "guide_visibility": "public (uploaded by Jabran in Studio)",
+      "guide_uploaded_on": "2026-11-04 (manual)",
+      "guide_playlist": "PLKEN94s1bcQo"
     },
     {
       "name": "Real Estate AI 6 - AI Virtual Staging for Real Estate",
       "series": "AI for Real Estate Agents",
       "part": 6,
       "brand": "AI FOR REAL ESTATE AGENTS",
-      "guide": "render check"
+      "guide": "posted",
+      "guide_youtube_url": "https://youtu.be/BGItH3nx_K4",
+      "guide_visibility": "public (uploaded by Jabran in Studio)",
+      "guide_uploaded_on": "2026-11-04 (manual)",
+      "guide_playlist": "PLKEN94s1bcQo"
     },
     {
       "name": "Real Estate AI 7 - AI Tools for Real Estate Photography",
       "series": "AI for Real Estate Agents",
       "part": 7,
       "brand": "AI FOR REAL ESTATE AGENTS",
-      "guide": "render check"
+      "guide": "posted",
+      "guide_youtube_url": "https://youtu.be/w5s1iI0-HXQ",
+      "guide_visibility": "public (uploaded by Jabran in Studio)",
+      "guide_uploaded_on": "2026-11-04 (manual)",
+      "guide_playlist": "PLKEN94s1bcQo"
     },
     {
       "name": "Real Estate AI 8 - How to Make Real Estate Videos with AI",
       "series": "AI for Real Estate Agents",
       "part": 8,
       "brand": "AI FOR REAL ESTATE AGENTS",
-      "guide": "render check"
+      "guide": "posted",
+      "guide_youtube_url": "https://youtu.be/heo5z3GAANE",
+      "guide_visibility": "public (uploaded by Jabran in Studio)",
+      "guide_uploaded_on": "2026-11-04 (manual)",
+      "guide_playlist": "PLKEN94s1bcQo"
     },
     {
       "name": "Real Estate AI 9 - Real Estate Lead Generation with AI",
       "series": "AI for Real Estate Agents",
       "part": 9,
       "brand": "AI FOR REAL ESTATE AGENTS",
-      "guide": "render check"
+      "guide": "posted",
+      "guide_youtube_url": "https://youtu.be/xDj0weYcKQE",
+      "guide_visibility": "public (uploaded by Jabran in Studio)",
+      "guide_uploaded_on": "2026-11-04 (manual)",
+      "guide_playlist": "PLKEN94s1bcQo"
     },
     {
       "name": "Real Estate AI 10 - Will AI Replace Real Estate Agents",
       "series": "AI for Real Estate Agents",
       "part": 10,
       "brand": "AI FOR REAL ESTATE AGENTS",
-      "guide": "render check"
+      "guide": "posted",
+      "guide_youtube_url": "https://youtu.be/IBcLGYewwDo",
+      "guide_visibility": "public (uploaded by Jabran in Studio)",
+      "guide_uploaded_on": "2026-11-04 (manual)",
+      "guide_playlist": "PLKEN94s1bcQo"
     },
     {
       "name": "Shopify AI 1 - How to Use AI for Shopify",
@@ -5767,7 +5807,8 @@
       "guide": "uploaded private",
       "guide_youtube_url": "https://youtu.be/EJhRh_bGpgg",
       "guide_uploaded_on": "2026-11-04",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_playlist": "PLRc1Qa6UqXcs"
     },
     {
       "name": "Shopify AI 2 - How to Connect Claude to Shopify with MCP",
@@ -5777,7 +5818,8 @@
       "guide": "uploaded private",
       "guide_youtube_url": "https://youtu.be/h7opDek-thk",
       "guide_uploaded_on": "2026-11-04",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_playlist": "PLRc1Qa6UqXcs"
     },
     {
       "name": "Shopify AI 3 - Shopify Fraud Prevention: Stop Fake Orders and Bots",
@@ -5787,7 +5829,8 @@
       "guide": "uploaded private",
       "guide_youtube_url": "https://youtu.be/JymJnni2Xy8",
       "guide_uploaded_on": "2026-11-04",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_playlist": "PLRc1Qa6UqXcs"
     },
     {
       "name": "Shopify AI 4 - Shopify AI Product Descriptions at Scale",
@@ -5797,7 +5840,8 @@
       "guide": "uploaded private",
       "guide_youtube_url": "https://youtu.be/GPfhUEQFofw",
       "guide_uploaded_on": "2026-11-04",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_playlist": "PLRc1Qa6UqXcs"
     },
     {
       "name": "Shopify AI 5 - Shopify Traffic but No Sales",
@@ -5807,7 +5851,8 @@
       "guide": "uploaded private",
       "guide_youtube_url": "https://youtu.be/Qx9sKZ09lr0",
       "guide_uploaded_on": "2026-11-04",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_playlist": "PLRc1Qa6UqXcs"
     },
     {
       "name": "Shopify AI 6 - Meta Pixel Not Working on Shopify",
@@ -5817,7 +5862,8 @@
       "guide": "uploaded private",
       "guide_youtube_url": "https://youtu.be/X2cnzQL06T4",
       "guide_uploaded_on": "2026-11-04",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_playlist": "PLRc1Qa6UqXcs"
     },
     {
       "name": "Shopify AI 7 - How to Win Shopify Chargebacks",
@@ -5827,7 +5873,8 @@
       "guide": "uploaded private",
       "guide_youtube_url": "https://youtu.be/76NqZsXXE_c",
       "guide_uploaded_on": "2026-11-04",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_playlist": "PLRc1Qa6UqXcs"
     },
     {
       "name": "Shopify AI 8 - Shopify Order Tracking with an AI Chatbot",
@@ -5837,7 +5884,8 @@
       "guide": "uploaded private",
       "guide_youtube_url": "https://youtu.be/I15jbtVT5aI",
       "guide_uploaded_on": "2026-11-04",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_playlist": "PLRc1Qa6UqXcs"
     },
     {
       "name": "Shopify AI 9 - Shopify Tariffs Explained",
@@ -5847,7 +5895,8 @@
       "guide": "uploaded private",
       "guide_youtube_url": "https://youtu.be/T_mvRldeya4",
       "guide_uploaded_on": "2026-11-04",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_playlist": "PLRc1Qa6UqXcs"
     },
     {
       "name": "Shopify AI 10 - Shopify Inventory Sync with Amazon and Etsy",
@@ -5857,7 +5906,8 @@
       "guide": "uploaded private",
       "guide_youtube_url": "https://youtu.be/hLometX-HTQ",
       "guide_uploaded_on": "2026-11-04",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_playlist": "PLRc1Qa6UqXcs"
     },
     {
       "name": "Shopify AI 11 - Replace Shopify Apps with Claude Code",
@@ -5867,77 +5917,329 @@
       "guide": "uploaded private",
       "guide_youtube_url": "https://youtu.be/OgubvMvCf4M",
       "guide_uploaded_on": "2026-11-04",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_playlist": "PLRc1Qa6UqXcs"
     },
     {
       "name": "ComfyUI 1 - How to Install ComfyUI (Windows and Mac)",
       "series": "ComfyUI",
       "part": 1,
       "brand": "COMFYUI",
-      "guide": "render check"
+      "guide": "scheduled",
+      "guide_trial": "autonomy trial 2026-11-04: no render check by Jabran, private + scheduled",
+      "guide_youtube_url": "https://youtu.be/vTqtcfUD_Mk",
+      "guide_uploaded_on": "2026-11-05",
+      "guide_publish_at": "2026-11-09T00:00:00Z",
+      "guide_visibility": "private until Sun 08 Nov 2026 19:00 EST, then public automatically",
+      "guide_playlist": "PLX-gsb53eN0o"
     },
     {
       "name": "ComfyUI 2 - ComfyUI Manager: How to Fix Missing Nodes",
       "series": "ComfyUI",
       "part": 2,
       "brand": "COMFYUI",
-      "guide": "render check"
+      "guide": "scheduled",
+      "guide_trial": "autonomy trial 2026-11-04: no render check by Jabran, private + scheduled",
+      "guide_youtube_url": "https://youtu.be/gKKp0Igbrus",
+      "guide_uploaded_on": "2026-11-05",
+      "guide_publish_at": "2026-11-09T16:00:00Z",
+      "guide_visibility": "private until Mon 09 Nov 2026 11:00 EST, then public automatically",
+      "guide_playlist": "PLX-gsb53eN0o"
     },
     {
       "name": "ComfyUI 3 - ComfyUI Workflow Explained",
       "series": "ComfyUI",
       "part": 3,
       "brand": "COMFYUI",
-      "guide": "render check"
+      "guide": "scheduled",
+      "guide_trial": "autonomy trial 2026-11-04: no render check by Jabran, private + scheduled",
+      "guide_youtube_url": "https://youtu.be/s8Ywp6EHu4w",
+      "guide_uploaded_on": "2026-11-05",
+      "guide_publish_at": "2026-11-10T00:00:00Z",
+      "guide_visibility": "private until Mon 09 Nov 2026 19:00 EST, then public automatically",
+      "guide_playlist": "PLX-gsb53eN0o",
+      "guide_note": "2026-11-06: the copy Jabran kept after deleting duplicates"
     },
     {
       "name": "ComfyUI 4 - ComfyUI Flux Workflow: Full Setup with LoRAs",
       "series": "ComfyUI",
       "part": 4,
       "brand": "COMFYUI",
-      "guide": "new"
+      "guide": "scheduled",
+      "guide_trial": "Jabran 2026-11-04 \"yes complete comfyui\": whole series without his render check, private + scheduled",
+      "guide_youtube_url": "https://youtu.be/gIusJj9GdLU",
+      "guide_uploaded_on": "2026-11-05",
+      "guide_publish_at": "2026-11-10T16:00:00Z",
+      "guide_visibility": "private until Tue 10 Nov 2026 11:00 EST, then public automatically",
+      "guide_playlist": "PLX-gsb53eN0o",
+      "guide_note": "2026-11-06: the copy Jabran kept after deleting duplicates"
     },
     {
       "name": "ComfyUI 5 - ComfyUI Low VRAM: Run Big Models on a Small GPU",
       "series": "ComfyUI",
       "part": 5,
       "brand": "COMFYUI",
-      "guide": "new"
+      "guide": "scheduled",
+      "guide_trial": "Jabran 2026-11-04 \"yes complete comfyui\": whole series without his render check, private + scheduled",
+      "guide_youtube_url": "https://youtu.be/mGE-uGCpYZ8",
+      "guide_uploaded_on": "2026-11-05",
+      "guide_publish_at": "2026-11-11T00:00:00Z",
+      "guide_visibility": "private until Tue 10 Nov 2026 19:00 EST, then public automatically",
+      "guide_playlist": "PLX-gsb53eN0o"
     },
     {
       "name": "ComfyUI 6 - ComfyUI Upscale Workflow: Sharper Images and Faces",
       "series": "ComfyUI",
       "part": 6,
       "brand": "COMFYUI",
-      "guide": "new"
+      "guide": "scheduled",
+      "guide_trial": "Jabran 2026-11-04 \"yes complete comfyui\": whole series without his render check, private + scheduled",
+      "guide_youtube_url": "https://youtu.be/QFgb4uem1zM",
+      "guide_uploaded_on": "2026-11-05",
+      "guide_publish_at": "2026-11-11T16:00:00Z",
+      "guide_visibility": "private until Wed 11 Nov 2026 11:00 EST, then public automatically",
+      "guide_playlist": "PLX-gsb53eN0o"
     },
     {
       "name": "ComfyUI 7 - ComfyUI ControlNet and Inpainting Tutorial",
       "series": "ComfyUI",
       "part": 7,
       "brand": "COMFYUI",
-      "guide": "new"
+      "guide": "scheduled",
+      "guide_trial": "Jabran 2026-11-04 \"yes complete comfyui\": whole series without his render check, private + scheduled",
+      "guide_youtube_url": "https://youtu.be/duvu1qi1CH4",
+      "guide_uploaded_on": "2026-11-05",
+      "guide_publish_at": "2026-11-12T00:00:00Z",
+      "guide_visibility": "private until Wed 11 Nov 2026 19:00 EST, then public automatically",
+      "guide_playlist": "PLX-gsb53eN0o"
     },
     {
       "name": "ComfyUI 8 - ComfyUI Image to Video Workflow",
       "series": "ComfyUI",
       "part": 8,
       "brand": "COMFYUI",
-      "guide": "new"
+      "guide": "scheduled",
+      "guide_trial": "Jabran 2026-11-04 \"yes complete comfyui\": whole series without his render check, private + scheduled",
+      "guide_youtube_url": "https://youtu.be/Zngw8hP3h4c",
+      "guide_uploaded_on": "2026-11-05",
+      "guide_publish_at": "2026-11-12T16:00:00Z",
+      "guide_visibility": "private until Thu 12 Nov 2026 11:00 EST, then public automatically",
+      "guide_playlist": "PLX-gsb53eN0o"
     },
     {
       "name": "ComfyUI 9 - ComfyUI API Tutorial: Run Workflows from Python",
       "series": "ComfyUI",
       "part": 9,
       "brand": "COMFYUI",
-      "guide": "new"
+      "guide": "scheduled",
+      "guide_trial": "Jabran 2026-11-04 \"yes complete comfyui\": whole series without his render check, private + scheduled",
+      "guide_youtube_url": "https://youtu.be/xoZWrs1Ep64",
+      "guide_uploaded_on": "2026-11-05",
+      "guide_publish_at": "2026-11-13T00:00:00Z",
+      "guide_visibility": "private until Thu 12 Nov 2026 19:00 EST, then public automatically",
+      "guide_playlist": "PLX-gsb53eN0o"
     },
     {
       "name": "ComfyUI 10 - ComfyUI Custom Nodes and Subgraphs",
       "series": "ComfyUI",
       "part": 10,
       "brand": "COMFYUI",
-      "guide": "new"
+      "guide": "scheduled",
+      "guide_trial": "Jabran 2026-11-04 \"yes complete comfyui\": whole series without his render check, private + scheduled",
+      "guide_youtube_url": "https://youtu.be/APAIw4c0frs",
+      "guide_uploaded_on": "2026-11-05",
+      "guide_publish_at": "2026-11-13T16:00:00Z",
+      "guide_visibility": "private until Fri 13 Nov 2026 11:00 EST, then public automatically",
+      "guide_playlist": "PLX-gsb53eN0o"
+    },
+    {
+      "name": "Vikunja 1 - Vikunja Review: A Self-Hosted Todoist Alternative",
+      "series": "Vikunja",
+      "part": 1,
+      "brand": "VIKUNJA",
+      "guide": "posted",
+      "guide_note": "2026-11-05 Jabran: \"Make all Vikunja videos again\" (new pipeline: boards in script, real screenshots, plain code, viewer pass)",
+      "guide_approved": "2026-11-06 Jabran: \"I love Vikunja Part one. Leave it as is\" (straight public)",
+      "guide_youtube_url": "https://youtu.be/FSyS1QQvzVs",
+      "guide_uploaded_on": "2026-11-06",
+      "guide_visibility": "public",
+      "guide_playlist": "PLa7rpf4F98EE"
+    },
+    {
+      "name": "Vikunja 2 - How to Install Vikunja with Docker Compose",
+      "series": "Vikunja",
+      "part": 2,
+      "brand": "VIKUNJA",
+      "guide": "posted",
+      "guide_note": "2026-11-05 Jabran: \"Make all Vikunja videos again\" (new pipeline: boards in script, real screenshots, plain code, viewer pass)",
+      "guide_playlist": "PLa7rpf4F98EE",
+      "guide_youtube_url": "https://youtu.be/BqwVZ8nUWm0",
+      "guide_uploaded_on": "2026-11-06",
+      "guide_visibility": "public"
+    },
+    {
+      "name": "Vikunja 3 - Vikunja Tutorial: Projects, Kanban and Gantt",
+      "series": "Vikunja",
+      "part": 3,
+      "brand": "VIKUNJA",
+      "guide": "redo",
+      "guide_note": "2026-11-05 Jabran: \"Make all Vikunja videos again\" (new pipeline: boards in script, real screenshots, plain code, viewer pass)",
+      "guide_playlist": "PLa7rpf4F98EE"
+    },
+    {
+      "name": "Vikunja 4 - Vikunja vs Todoist vs Plane",
+      "series": "Vikunja",
+      "part": 4,
+      "brand": "VIKUNJA",
+      "guide": "redo",
+      "guide_note": "2026-11-05 Jabran: \"Make all Vikunja videos again\" (new pipeline: boards in script, real screenshots, plain code, viewer pass)",
+      "guide_playlist": "PLa7rpf4F98EE"
+    },
+    {
+      "name": "Vikunja 5 - Vikunja API Tutorial: Automate Your Tasks",
+      "series": "Vikunja",
+      "part": 5,
+      "brand": "VIKUNJA",
+      "guide": "redo",
+      "guide_note": "2026-11-05 Jabran: \"Make all Vikunja videos again\" (new pipeline: boards in script, real screenshots, plain code, viewer pass)",
+      "guide_playlist": "PLa7rpf4F98EE"
+    },
+    {
+      "name": "Vikunja 6 - Connect Claude to Vikunja with MCP",
+      "series": "Vikunja",
+      "part": 6,
+      "brand": "VIKUNJA",
+      "guide": "redo",
+      "guide_note": "2026-11-05 Jabran: \"Make all Vikunja videos again\" (new pipeline: boards in script, real screenshots, plain code, viewer pass)",
+      "guide_playlist": "PLa7rpf4F98EE"
+    },
+    {
+      "name": "OpenBao 1 - OpenBao vs HashiCorp Vault: What's the Difference?",
+      "series": "OpenBao",
+      "part": 1,
+      "brand": "OPENBAO",
+      "guide": "redo",
+      "guide_note": "2026-11-05 Jabran: \"Redo Vikunja and openBao\" (watch-the-best pass, then re-render)"
+    },
+    {
+      "name": "OpenBao 2 - OpenBao Tutorial: Install with Docker Compose",
+      "series": "OpenBao",
+      "part": 2,
+      "brand": "OPENBAO",
+      "guide": "redo",
+      "guide_note": "2026-11-05 Jabran: \"Redo Vikunja and openBao\" (watch-the-best pass, then re-render)"
+    },
+    {
+      "name": "OpenBao 3 - OpenBao Unseal and Secrets Explained",
+      "series": "OpenBao",
+      "part": 3,
+      "brand": "OPENBAO",
+      "guide": "redo",
+      "guide_note": "2026-11-05 Jabran: \"Redo Vikunja and openBao\" (watch-the-best pass, then re-render)"
+    },
+    {
+      "name": "OpenBao 4 - OpenBao Kubernetes Secrets Tutorial",
+      "series": "OpenBao",
+      "part": 4,
+      "brand": "OPENBAO",
+      "guide": "redo",
+      "guide_note": "2026-11-05 Jabran: \"Redo Vikunja and openBao\" (watch-the-best pass, then re-render)"
+    },
+    {
+      "name": "OpenBao 5 - OpenBao Dynamic Secrets for Databases",
+      "series": "OpenBao",
+      "part": 5,
+      "brand": "OPENBAO",
+      "guide": "redo",
+      "guide_note": "2026-11-05 Jabran: \"Redo Vikunja and openBao\" (watch-the-best pass, then re-render)"
+    },
+    {
+      "name": "OpenBao 6 - OpenBao PKI: Run Your Own Certificate Authority",
+      "series": "OpenBao",
+      "part": 6,
+      "brand": "OPENBAO",
+      "guide": "redo",
+      "guide_note": "2026-11-05 Jabran: \"Redo Vikunja and openBao\" (watch-the-best pass, then re-render)"
+    },
+    {
+      "name": "OpenBao 7 - OpenBao Transit: Encryption as a Service",
+      "series": "OpenBao",
+      "part": 7,
+      "brand": "OPENBAO",
+      "guide": "redo",
+      "guide_note": "2026-11-05 Jabran: \"Redo Vikunja and openBao\" (watch-the-best pass, then re-render)"
+    },
+    {
+      "name": "OpenBao 8 - OpenBao vs Infisical",
+      "series": "OpenBao",
+      "part": 8,
+      "brand": "OPENBAO",
+      "guide": "redo",
+      "guide_note": "2026-11-05 Jabran: \"Redo Vikunja and openBao\" (watch-the-best pass, then re-render)"
+    },
+    {
+      "name": "openHAB 1 - openHAB vs Home Assistant: Which Should You Use?",
+      "series": "openHAB",
+      "part": 1,
+      "brand": "OPENHAB",
+      "guide": "new",
+      "guide_note": "2026-11-05 Jabran: \"yes straight public\" (guide/openhab-plan.md): after the critic and the independent quality check pass, mark render approved, upload, playlist in part order, make public"
+    },
+    {
+      "name": "openHAB 2 - How to Install openHAB on a Raspberry Pi",
+      "series": "openHAB",
+      "part": 2,
+      "brand": "OPENHAB",
+      "guide": "new",
+      "guide_note": "2026-11-05 Jabran: \"yes straight public\" (guide/openhab-plan.md): after the critic and the independent quality check pass, mark render approved, upload, playlist in part order, make public"
+    },
+    {
+      "name": "openHAB 3 - How to Run openHAB in Docker",
+      "series": "openHAB",
+      "part": 3,
+      "brand": "OPENHAB",
+      "guide": "new",
+      "guide_note": "2026-11-05 Jabran: \"yes straight public\" (guide/openhab-plan.md): after the critic and the independent quality check pass, mark render approved, upload, playlist in part order, make public"
+    },
+    {
+      "name": "openHAB 4 - openHAB 5 Tutorial: Things, Items and Pages",
+      "series": "openHAB",
+      "part": 4,
+      "brand": "OPENHAB",
+      "guide": "new",
+      "guide_note": "2026-11-05 Jabran: \"yes straight public\" (guide/openhab-plan.md): after the critic and the independent quality check pass, mark render approved, upload, playlist in part order, make public"
+    },
+    {
+      "name": "openHAB 5 - openHAB Rules with Blockly",
+      "series": "openHAB",
+      "part": 5,
+      "brand": "OPENHAB",
+      "guide": "redo",
+      "guide_note": "2026-11-06: old pre-voice render (Polly dropped \"eleven at night\"); rebuild under the new pipeline"
+    },
+    {
+      "name": "openHAB 6 - openHAB MQTT and Zigbee2MQTT",
+      "series": "openHAB",
+      "part": 6,
+      "brand": "OPENHAB",
+      "guide": "new",
+      "guide_note": "2026-11-05 Jabran: \"yes straight public\" (guide/openhab-plan.md): after the critic and the independent quality check pass, mark render approved, upload, playlist in part order, make public"
+    },
+    {
+      "name": "openHAB 7 - openHAB Matter Bridge",
+      "series": "openHAB",
+      "part": 7,
+      "brand": "OPENHAB",
+      "guide": "new",
+      "guide_note": "2026-11-05 Jabran: \"yes straight public\" (guide/openhab-plan.md): after the critic and the independent quality check pass, mark render approved, upload, playlist in part order, make public"
+    },
+    {
+      "name": "openHAB 8 - openHAB Grafana Dashboard",
+      "series": "openHAB",
+      "part": 8,
+      "brand": "OPENHAB",
+      "guide": "new",
+      "guide_note": "2026-11-05 Jabran: \"yes straight public\" (guide/openhab-plan.md): after the critic and the independent quality check pass, mark render approved, upload, playlist in part order, make public"
     }
   ]
 }
