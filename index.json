@@ -6082,16 +6082,19 @@
       "series": "Vikunja",
       "part": 3,
       "brand": "VIKUNJA",
-      "guide": "redo",
+      "guide": "posted",
       "guide_note": "2026-11-05 Jabran: \"Make all Vikunja videos again\" (new pipeline: boards in script, real screenshots, plain code, viewer pass)",
-      "guide_playlist": "PLa7rpf4F98EE"
+      "guide_playlist": "PLa7rpf4F98EE",
+      "guide_youtube_url": "https://youtu.be/QnjBgic91Vc",
+      "guide_uploaded_on": "2026-11-06",
+      "guide_visibility": "public"
     },
     {
       "name": "Vikunja 4 - Vikunja vs Todoist vs Plane",
       "series": "Vikunja",
       "part": 4,
       "brand": "VIKUNJA",
-      "guide": "redo",
+      "guide": "render check",
       "guide_note": "2026-11-05 Jabran: \"Make all Vikunja videos again\" (new pipeline: boards in script, real screenshots, plain code, viewer pass)",
       "guide_playlist": "PLa7rpf4F98EE"
     },
