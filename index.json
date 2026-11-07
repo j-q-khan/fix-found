@@ -6285,7 +6285,7 @@
       "series": "AI CAD with Claude",
       "part": 2,
       "brand": "AI CAD",
-      "guide": "new",
+      "guide": "render check",
       "title": "OpenSCAD Tutorial for Beginners: Code Your First 3D Print",
       "guide_note": "2026-11-07: titles approved (\"Now we are talking! DO THIS SERIES!!!!\", guide/ai-cad-plan.md); kit guide/ai-cad-kit, thumbnails guide/creator-thumbnails/ai-cad; the normal gates apply (critic, viewer passes, render check by the channel owner)",
       "guide_playlist": "PLOJa0A8kpOHA"
@@ -6295,7 +6295,7 @@
       "series": "AI CAD with Claude",
       "part": 3,
       "brand": "AI CAD",
-      "guide": "new",
+      "guide": "render check",
       "title": "OpenSCAD MCP Server: Let Claude Render and Check Your Model",
       "guide_note": "2026-11-07: titles approved (\"Now we are talking! DO THIS SERIES!!!!\", guide/ai-cad-plan.md); kit guide/ai-cad-kit, thumbnails guide/creator-thumbnails/ai-cad; the normal gates apply (critic, viewer passes, render check by the channel owner)",
       "guide_playlist": "PLOJa0A8kpOHA"
@@ -6349,6 +6349,78 @@
       "title": "OpenSCAD vs FreeCAD vs Fusion 360: Which for 3D Printing with AI?",
       "guide_note": "2026-11-07: titles approved (\"Now we are talking! DO THIS SERIES!!!!\", guide/ai-cad-plan.md); kit guide/ai-cad-kit, thumbnails guide/creator-thumbnails/ai-cad; the normal gates apply (critic, viewer passes, render check by the channel owner)",
       "guide_playlist": "PLOJa0A8kpOHA"
+    },
+    {
+      "name": "Meshy AI 1 - Photo to 3D Model",
+      "series": "Meshy AI",
+      "part": 1,
+      "brand": "MESHY AI",
+      "guide": "new",
+      "title": "Meshy AI Tutorial for Beginners: Photo to 3D Model with Meshy 7.1",
+      "guide_note": "2026-11-07: titles approved per the lead's setup brief (guide/meshy-ai-plan.md); kit guide/meshy-ai-kit, thumbnails guide/creator-thumbnails/meshy-ai; the normal gates apply (critic, viewer passes, render check by the channel owner)"
+    },
+    {
+      "name": "Meshy AI 2 - Free vs Paid and Who Owns It",
+      "series": "Meshy AI",
+      "part": 2,
+      "brand": "MESHY AI",
+      "guide": "new",
+      "title": "Meshy AI Free vs Paid: Pricing, Credits and Who Owns Your 3D Models",
+      "guide_note": "2026-11-07: titles approved per the lead's setup brief (guide/meshy-ai-plan.md); kit guide/meshy-ai-kit, thumbnails guide/creator-thumbnails/meshy-ai; the normal gates apply (critic, viewer passes, render check by the channel owner)"
+    },
+    {
+      "name": "Meshy AI 3 - From Image to an STL That Prints",
+      "series": "Meshy AI",
+      "part": 3,
+      "brand": "MESHY AI",
+      "guide": "new",
+      "title": "Meshy AI for 3D Printing: From Image to an STL That Actually Prints",
+      "guide_note": "2026-11-07: titles approved per the lead's setup brief (guide/meshy-ai-plan.md); kit guide/meshy-ai-kit, thumbnails guide/creator-thumbnails/meshy-ai; the normal gates apply (critic, viewer passes, render check by the channel owner)"
+    },
+    {
+      "name": "Meshy AI 4 - Multicolor 3D Printing",
+      "series": "Meshy AI",
+      "part": 4,
+      "brand": "MESHY AI",
+      "guide": "new",
+      "title": "Meshy AI Multicolor 3D Printing: Split Parts and Send to Bambu Studio",
+      "guide_note": "2026-11-07: titles approved per the lead's setup brief (guide/meshy-ai-plan.md); kit guide/meshy-ai-kit, thumbnails guide/creator-thumbnails/meshy-ai; the normal gates apply (critic, viewer passes, render check by the channel owner)"
+    },
+    {
+      "name": "Meshy AI 5 - Blender Clean Up and Fix",
+      "series": "Meshy AI",
+      "part": 5,
+      "brand": "MESHY AI",
+      "guide": "new",
+      "title": "Meshy AI to Blender: Clean Up and Fix an AI 3D Model",
+      "guide_note": "2026-11-07: titles approved per the lead's setup brief (guide/meshy-ai-plan.md); kit guide/meshy-ai-kit, thumbnails guide/creator-thumbnails/meshy-ai; the normal gates apply (critic, viewer passes, render check by the channel owner)"
+    },
+    {
+      "name": "Meshy AI 6 - Rigging and Animation",
+      "series": "Meshy AI",
+      "part": 6,
+      "brand": "MESHY AI",
+      "guide": "new",
+      "title": "Meshy AI Rigging and Animation: Texture, Rig and Export a Character",
+      "guide_note": "2026-11-07: titles approved per the lead's setup brief (guide/meshy-ai-plan.md); kit guide/meshy-ai-kit, thumbnails guide/creator-thumbnails/meshy-ai; the normal gates apply (critic, viewer passes, render check by the channel owner)"
+    },
+    {
+      "name": "Meshy AI 7 - Meshy MCP Server with Claude Code",
+      "series": "Meshy AI",
+      "part": 7,
+      "brand": "MESHY AI",
+      "guide": "new",
+      "title": "Meshy MCP Server: Make 3D Models from Claude Code",
+      "guide_note": "2026-11-07: titles approved per the lead's setup brief (guide/meshy-ai-plan.md); kit guide/meshy-ai-kit, thumbnails guide/creator-thumbnails/meshy-ai; the normal gates apply (critic, viewer passes, render check by the channel owner)"
+    },
+    {
+      "name": "Meshy AI 8 - Meshy vs Tripo vs Hunyuan3D",
+      "series": "Meshy AI",
+      "part": 8,
+      "brand": "MESHY AI",
+      "guide": "new",
+      "title": "Meshy vs Tripo vs Hunyuan3D: Best AI 3D Generator for 3D Printing?",
+      "guide_note": "2026-11-07: titles approved per the lead's setup brief (guide/meshy-ai-plan.md); kit guide/meshy-ai-kit, thumbnails guide/creator-thumbnails/meshy-ai; the normal gates apply (critic, viewer passes, render check by the channel owner)"
     }
   ]
 }
