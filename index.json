@@ -6106,25 +6106,31 @@
       "series": "Vikunja",
       "part": 5,
       "brand": "VIKUNJA",
-      "guide": "redo",
+      "guide": "posted",
       "guide_note": "2026-11-05 Jabran: \"Make all Vikunja videos again\" (new pipeline: boards in script, real screenshots, plain code, viewer pass)",
-      "guide_playlist": "PLa7rpf4F98EE"
+      "guide_playlist": "PLa7rpf4F98EE",
+      "guide_youtube_url": "https://youtu.be/koQ2NW8Asuk",
+      "guide_uploaded_on": "2026-11-07",
+      "guide_visibility": "public"
     },
     {
       "name": "Vikunja 6 - Connect Claude to Vikunja with MCP",
       "series": "Vikunja",
       "part": 6,
       "brand": "VIKUNJA",
-      "guide": "redo",
+      "guide": "posted",
       "guide_note": "2026-11-05 Jabran: \"Make all Vikunja videos again\" (new pipeline: boards in script, real screenshots, plain code, viewer pass)",
-      "guide_playlist": "PLa7rpf4F98EE"
+      "guide_playlist": "PLa7rpf4F98EE",
+      "guide_youtube_url": "https://youtu.be/l9_Gs8h07RI",
+      "guide_uploaded_on": "2026-11-07",
+      "guide_visibility": "public"
     },
     {
       "name": "OpenBao 1 - OpenBao vs HashiCorp Vault: What's the Difference?",
       "series": "OpenBao",
       "part": 1,
       "brand": "OPENBAO",
-      "guide": "redo",
+      "guide": "render check",
       "guide_note": "2026-11-05 Jabran: \"Redo Vikunja and openBao\" (watch-the-best pass, then re-render)"
     },
     {
