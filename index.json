@@ -6285,20 +6285,26 @@
       "series": "AI CAD with Claude",
       "part": 2,
       "brand": "AI CAD",
-      "guide": "render check",
+      "guide": "posted",
       "title": "OpenSCAD Tutorial for Beginners: Code Your First 3D Print",
       "guide_note": "2026-11-07: titles approved (\"Now we are talking! DO THIS SERIES!!!!\", guide/ai-cad-plan.md); kit guide/ai-cad-kit, thumbnails guide/creator-thumbnails/ai-cad; the normal gates apply (critic, viewer passes, render check by the channel owner)",
-      "guide_playlist": "PLOJa0A8kpOHA"
+      "guide_playlist": "PLOJa0A8kpOHA",
+      "guide_youtube_url": "https://youtu.be/jOEZVtABMso",
+      "guide_uploaded_on": "2026-11-07",
+      "guide_visibility": "public"
     },
     {
       "name": "AI CAD 3 - OpenSCAD MCP Server",
       "series": "AI CAD with Claude",
       "part": 3,
       "brand": "AI CAD",
-      "guide": "render check",
+      "guide": "posted",
       "title": "OpenSCAD MCP Server: Let Claude Render and Check Your Model",
       "guide_note": "2026-11-07: titles approved (\"Now we are talking! DO THIS SERIES!!!!\", guide/ai-cad-plan.md); kit guide/ai-cad-kit, thumbnails guide/creator-thumbnails/ai-cad; the normal gates apply (critic, viewer passes, render check by the channel owner)",
-      "guide_playlist": "PLOJa0A8kpOHA"
+      "guide_playlist": "PLOJa0A8kpOHA",
+      "guide_youtube_url": "https://youtu.be/ZQSWE0r3z64",
+      "guide_uploaded_on": "2026-11-07",
+      "guide_visibility": "public"
     },
     {
       "name": "AI CAD 4 - OpenSCAD BOSL2 and Customizer",
