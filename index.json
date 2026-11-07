@@ -6130,8 +6130,12 @@
       "series": "OpenBao",
       "part": 1,
       "brand": "OPENBAO",
-      "guide": "render check",
-      "guide_note": "2026-11-05 Jabran: \"Redo Vikunja and openBao\" (watch-the-best pass, then re-render)"
+      "guide": "posted",
+      "guide_note": "2026-11-05 Jabran: \"Redo Vikunja and openBao\" (watch-the-best pass, then re-render)",
+      "guide_youtube_url": "https://youtu.be/Nar0hptXoYw",
+      "guide_uploaded_on": "2026-11-07",
+      "guide_visibility": "public",
+      "guide_playlist": "PLFsq8_ReJxgE"
     },
     {
       "name": "OpenBao 2 - OpenBao Tutorial: Install with Docker Compose",
@@ -6139,7 +6143,8 @@
       "part": 2,
       "brand": "OPENBAO",
       "guide": "redo",
-      "guide_note": "2026-11-05 Jabran: \"Redo Vikunja and openBao\" (watch-the-best pass, then re-render)"
+      "guide_note": "2026-11-05 Jabran: \"Redo Vikunja and openBao\" (watch-the-best pass, then re-render)",
+      "guide_playlist": "PLFsq8_ReJxgE"
     },
     {
       "name": "OpenBao 3 - OpenBao Unseal and Secrets Explained",
@@ -6147,7 +6152,8 @@
       "part": 3,
       "brand": "OPENBAO",
       "guide": "redo",
-      "guide_note": "2026-11-05 Jabran: \"Redo Vikunja and openBao\" (watch-the-best pass, then re-render)"
+      "guide_note": "2026-11-05 Jabran: \"Redo Vikunja and openBao\" (watch-the-best pass, then re-render)",
+      "guide_playlist": "PLFsq8_ReJxgE"
     },
     {
       "name": "OpenBao 4 - OpenBao Kubernetes Secrets Tutorial",
@@ -6155,7 +6161,8 @@
       "part": 4,
       "brand": "OPENBAO",
       "guide": "redo",
-      "guide_note": "2026-11-05 Jabran: \"Redo Vikunja and openBao\" (watch-the-best pass, then re-render)"
+      "guide_note": "2026-11-05 Jabran: \"Redo Vikunja and openBao\" (watch-the-best pass, then re-render)",
+      "guide_playlist": "PLFsq8_ReJxgE"
     },
     {
       "name": "OpenBao 5 - OpenBao Dynamic Secrets for Databases",
@@ -6163,7 +6170,8 @@
       "part": 5,
       "brand": "OPENBAO",
       "guide": "redo",
-      "guide_note": "2026-11-05 Jabran: \"Redo Vikunja and openBao\" (watch-the-best pass, then re-render)"
+      "guide_note": "2026-11-05 Jabran: \"Redo Vikunja and openBao\" (watch-the-best pass, then re-render)",
+      "guide_playlist": "PLFsq8_ReJxgE"
     },
     {
       "name": "OpenBao 6 - OpenBao PKI: Run Your Own Certificate Authority",
@@ -6171,7 +6179,8 @@
       "part": 6,
       "brand": "OPENBAO",
       "guide": "redo",
-      "guide_note": "2026-11-05 Jabran: \"Redo Vikunja and openBao\" (watch-the-best pass, then re-render)"
+      "guide_note": "2026-11-05 Jabran: \"Redo Vikunja and openBao\" (watch-the-best pass, then re-render)",
+      "guide_playlist": "PLFsq8_ReJxgE"
     },
     {
       "name": "OpenBao 7 - OpenBao Transit: Encryption as a Service",
@@ -6179,7 +6188,8 @@
       "part": 7,
       "brand": "OPENBAO",
       "guide": "redo",
-      "guide_note": "2026-11-05 Jabran: \"Redo Vikunja and openBao\" (watch-the-best pass, then re-render)"
+      "guide_note": "2026-11-05 Jabran: \"Redo Vikunja and openBao\" (watch-the-best pass, then re-render)",
+      "guide_playlist": "PLFsq8_ReJxgE"
     },
     {
       "name": "OpenBao 8 - OpenBao vs Infisical",
@@ -6187,7 +6197,8 @@
       "part": 8,
       "brand": "OPENBAO",
       "guide": "redo",
-      "guide_note": "2026-11-05 Jabran: \"Redo Vikunja and openBao\" (watch-the-best pass, then re-render)"
+      "guide_note": "2026-11-05 Jabran: \"Redo Vikunja and openBao\" (watch-the-best pass, then re-render)",
+      "guide_playlist": "PLFsq8_ReJxgE"
     },
     {
       "name": "openHAB 1 - openHAB vs Home Assistant: Which Should You Use?",
