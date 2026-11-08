@@ -6396,10 +6396,13 @@
       "series": "Meshy AI",
       "part": 3,
       "brand": "MESHY AI",
-      "guide": "new",
+      "guide": "posted",
       "title": "Meshy AI for 3D Printing: From Image to an STL That Actually Prints",
       "guide_note": "2026-11-07: titles approved per the lead's setup brief (guide/meshy-ai-plan.md); kit guide/meshy-ai-kit, thumbnails guide/creator-thumbnails/meshy-ai; the normal gates apply (critic, viewer passes, render check by the channel owner)",
-      "guide_playlist": "PLTLqiMzNRCEE"
+      "guide_playlist": "PLTLqiMzNRCEE",
+      "guide_youtube_url": "https://youtu.be/sm4qgh9ZdXc",
+      "guide_uploaded_on": "2026-11-08",
+      "guide_visibility": "public"
     },
     {
       "name": "Meshy AI 4 - Multicolor 3D Printing",
