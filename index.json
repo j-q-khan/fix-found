@@ -6488,10 +6488,13 @@
       "series": "Blender MCP with Claude",
       "part": 3,
       "brand": "Blender MCP",
-      "guide": "new",
+      "guide": "posted",
       "title": "Blender AI Modeling with Claude: Build a Model by Describing It",
-      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp",
-      "guide_playlist": "PLTWxinT6Tbag"
+      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp; Part 3 final MP4 pass 2026-11-10: picture and sound PASS, one metadata no (description room) fixed by the lead (4,461 bytes with chapters); render approved under the posting rule",
+      "guide_playlist": "PLTWxinT6Tbag",
+      "guide_youtube_url": "https://youtu.be/33BhDSoyndw",
+      "guide_uploaded_on": "2026-11-10",
+      "guide_visibility": "public"
     },
     {
       "name": "Blender MCP 4 - For 3D Printing",
