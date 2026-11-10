@@ -5,7 +5,7 @@
     {
       "problem": "Is your AI lying to customers?",
       "number": 1,
-      "intro": "uploaded private",
+      "intro": "posted",
       "howto": "not planned",
       "name": "Langfuse",
       "repo": "langfuse/langfuse",
@@ -15,12 +15,12 @@
       "first_seen": "2026-10-16",
       "intro_note": "Jabran, 2026-10-20: \"upload to the channel and not make it public, I can take it from there\"",
       "intro_youtube_url": "https://youtu.be/q7ZDsAuv_D0",
-      "intro_visibility": "private (Jabran publishes from Studio)"
+      "intro_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
     },
     {
       "problem": "Did your prompt tweak break your AI?",
       "number": 2,
-      "intro": "uploaded private",
+      "intro": "posted",
       "howto": "not planned",
       "name": "promptfoo",
       "repo": "promptfoo/promptfoo",
@@ -30,7 +30,7 @@
       "first_seen": "2026-10-16",
       "intro_youtube_url": "https://youtu.be/QlRhEoTuzfY",
       "intro_uploaded_on": "2026-10-20",
-      "intro_visibility": "private (Jabran publishes from Studio)"
+      "intro_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
     },
     {
       "problem": "Can you unit test your AI's answers?",
@@ -5323,271 +5323,271 @@
       "series": "3D Printing with AI",
       "part": 1,
       "brand": "3D PRINTING WITH AI",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_claimed_on": "2026-11-01",
       "guide_youtube_url": "https://youtu.be/JMIOcMlt4SA",
       "guide_uploaded_on": "2026-11-02",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
     },
     {
       "name": "3D Printing with AI 2 - What You Can Make",
       "series": "3D Printing with AI",
       "part": 2,
       "brand": "3D PRINTING WITH AI",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/CzRfjmHwaHU",
       "guide_uploaded_on": "2026-11-02",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
     },
     {
       "name": "3D Printing with AI 3 - Choosing a Method",
       "series": "3D Printing with AI",
       "part": 3,
       "brand": "3D PRINTING WITH AI",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/4hOZ3moyiUg",
       "guide_uploaded_on": "2026-11-02",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
     },
     {
       "name": "3D Printing with AI 4 - What File You Need",
       "series": "3D Printing with AI",
       "part": 4,
       "brand": "3D PRINTING WITH AI",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/uvQ-V83rr0Q",
       "guide_uploaded_on": "2026-11-02",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
     },
     {
       "name": "3D Printing with AI 5 - Measuring a Part",
       "series": "3D Printing with AI",
       "part": 5,
       "brand": "3D PRINTING WITH AI",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/yithU8hg5jc",
       "guide_uploaded_on": "2026-11-02",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
     },
     {
       "name": "3D Printing with AI 6 - What Is Claude",
       "series": "3D Printing with AI",
       "part": 6,
       "brand": "3D PRINTING WITH AI",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/xbJNQ8G0Fgs",
       "guide_uploaded_on": "2026-11-02",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
     },
     {
       "name": "3D Printing with AI 7 - What Is OpenSCAD",
       "series": "3D Printing with AI",
       "part": 7,
       "brand": "3D PRINTING WITH AI",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/wCY_c-JJPMM",
       "guide_uploaded_on": "2026-11-02",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
     },
     {
       "name": "3D Printing with AI 8 - Designing a Print",
       "series": "3D Printing with AI",
       "part": 8,
       "brand": "3D PRINTING WITH AI",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/JOAjgVapIkM",
       "guide_uploaded_on": "2026-11-02",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
     },
     {
       "name": "3D Printing with AI 9 - Your First 3D Model",
       "series": "3D Printing with AI",
       "part": 9,
       "brand": "3D PRINTING WITH AI",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/JHSHBMchoBg",
       "guide_uploaded_on": "2026-11-02",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
     },
     {
       "name": "3D Printing with AI 10 - Changing a 3D Model",
       "series": "3D Printing with AI",
       "part": 10,
       "brand": "3D PRINTING WITH AI",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/NkDSifSWZuY",
       "guide_uploaded_on": "2026-11-02",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
     },
     {
       "name": "3D Printing with AI 11 - Making an STL File",
       "series": "3D Printing with AI",
       "part": 11,
       "brand": "3D PRINTING WITH AI",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/IMN0RxEd2gA",
       "guide_uploaded_on": "2026-11-02",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
     },
     {
       "name": "3D Printing with AI 12 - What Is PrusaSlicer",
       "series": "3D Printing with AI",
       "part": 12,
       "brand": "3D PRINTING WITH AI",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/qSbUjoGC9Xs",
       "guide_uploaded_on": "2026-11-02",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
     },
     {
       "name": "3D Printing with AI 13 - Checking a 3D Model",
       "series": "3D Printing with AI",
       "part": 13,
       "brand": "3D PRINTING WITH AI",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/dzBl7AVevFg",
       "guide_uploaded_on": "2026-11-02",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
     },
     {
       "name": "3D Printing with AI 14 - Finding Thin Walls",
       "series": "3D Printing with AI",
       "part": 14,
       "brand": "3D PRINTING WITH AI",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/z2_4AIPEXH0",
       "guide_uploaded_on": "2026-11-02",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
     },
     {
       "name": "3D Printing with AI 15 - Fixing Overhangs",
       "series": "3D Printing with AI",
       "part": 15,
       "brand": "3D PRINTING WITH AI",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/I0EKtkuWK-A",
       "guide_uploaded_on": "2026-11-02",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
     },
     {
       "name": "3D Printing with AI 16 - What Is FreeCAD",
       "series": "3D Printing with AI",
       "part": 16,
       "brand": "3D PRINTING WITH AI",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/cSa8ZVZ2IsY",
       "guide_uploaded_on": "2026-11-02",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
     },
     {
       "name": "3D Printing with AI 17 - Parts That Fit Together",
       "series": "3D Printing with AI",
       "part": 17,
       "brand": "3D PRINTING WITH AI",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/ysVpw6iHm5A",
       "guide_uploaded_on": "2026-11-03",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
     },
     {
       "name": "3D Printing with AI 18 - Fixing a Part That Doesn't Fit",
       "series": "3D Printing with AI",
       "part": 18,
       "brand": "3D PRINTING WITH AI",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/tvmjt-fwsWw",
       "guide_uploaded_on": "2026-11-03",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
     },
     {
       "name": "3D Printing with AI 19 - What Is Blender",
       "series": "3D Printing with AI",
       "part": 19,
       "brand": "3D PRINTING WITH AI",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/S9EihHZYEmc",
       "guide_uploaded_on": "2026-11-03",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
     },
     {
       "name": "3D Printing with AI 20 - Curved 3D Models",
       "series": "3D Printing with AI",
       "part": 20,
       "brand": "3D PRINTING WITH AI",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/nNlkF2a47Lw",
       "guide_uploaded_on": "2026-11-03",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
     },
     {
       "name": "3D Printing with AI 21 - Checking a Curved Model",
       "series": "3D Printing with AI",
       "part": 21,
       "brand": "3D PRINTING WITH AI",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/g63wL-uIgT4",
       "guide_uploaded_on": "2026-11-03",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
     },
     {
       "name": "3D Printing with AI 22 - Choosing a Material",
       "series": "3D Printing with AI",
       "part": 22,
       "brand": "3D PRINTING WITH AI",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/TEny4J80rDY",
       "guide_uploaded_on": "2026-11-03",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
     },
     {
       "name": "3D Printing with AI 23 - What Is Craftcloud",
       "series": "3D Printing with AI",
       "part": 23,
       "brand": "3D PRINTING WITH AI",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/UBLBj018nT4",
       "guide_uploaded_on": "2026-11-03",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
     },
     {
       "name": "3D Printing with AI 24 - Ordering a Print",
       "series": "3D Printing with AI",
       "part": 24,
       "brand": "3D PRINTING WITH AI",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/PKlu_P4x1Fk",
       "guide_uploaded_on": "2026-11-03",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
     },
     {
       "name": "3D Printing with AI 25 - Checking a Quote",
       "series": "3D Printing with AI",
       "part": 25,
       "brand": "3D PRINTING WITH AI",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/gsDeYXQS4KY",
       "guide_uploaded_on": "2026-11-03",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
     },
     {
       "name": "3D Printing with AI 26 - From One Print to a Product",
       "series": "3D Printing with AI",
       "part": 26,
       "brand": "3D PRINTING WITH AI",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/yOLvySo8f-E",
       "guide_uploaded_on": "2026-11-03",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
     },
     {
       "name": "TypeScript AI 1 - How to Use the Vercel AI SDK",
       "series": "TypeScript AI Tutorials",
       "part": 1,
       "brand": "THE AI TOOLBOX",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/M2e3pODkiWg",
       "guide_uploaded_on": "2026-11-04",
-      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
       "guide_playlist": "PLOsT7Q9gqkBE"
     },
     {
@@ -5595,10 +5595,10 @@
       "series": "TypeScript AI Tutorials",
       "part": 2,
       "brand": "THE AI TOOLBOX",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/9O08zD0HSR4",
       "guide_uploaded_on": "2026-11-04",
-      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
       "guide_playlist": "PLOsT7Q9gqkBE"
     },
     {
@@ -5606,10 +5606,10 @@
       "series": "TypeScript AI Tutorials",
       "part": 3,
       "brand": "THE AI TOOLBOX",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/hHkL84598Jw",
       "guide_uploaded_on": "2026-11-04",
-      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
       "guide_playlist": "PLOsT7Q9gqkBE"
     },
     {
@@ -5617,10 +5617,10 @@
       "series": "TypeScript AI Tutorials",
       "part": 4,
       "brand": "THE AI TOOLBOX",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/j619F1Yasfs",
       "guide_uploaded_on": "2026-11-04",
-      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
       "guide_playlist": "PLOsT7Q9gqkBE"
     },
     {
@@ -5628,10 +5628,10 @@
       "series": "TypeScript AI Tutorials",
       "part": 5,
       "brand": "THE AI TOOLBOX",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/nPzyxd10vPI",
       "guide_uploaded_on": "2026-11-04",
-      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
       "guide_playlist": "PLOsT7Q9gqkBE"
     },
     {
@@ -5639,10 +5639,10 @@
       "series": "TypeScript AI Tutorials",
       "part": 6,
       "brand": "THE AI TOOLBOX",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/tlRYA1sdmik",
       "guide_uploaded_on": "2026-11-04",
-      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
       "guide_playlist": "PLOsT7Q9gqkBE"
     },
     {
@@ -5650,10 +5650,10 @@
       "series": "TypeScript AI Tutorials",
       "part": 7,
       "brand": "THE AI TOOLBOX",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/b55p14O9p4o",
       "guide_uploaded_on": "2026-11-04",
-      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
       "guide_playlist": "PLOsT7Q9gqkBE"
     },
     {
@@ -5661,10 +5661,10 @@
       "series": "TypeScript AI Tutorials",
       "part": 8,
       "brand": "THE AI TOOLBOX",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/beb2WOYS2ns",
       "guide_uploaded_on": "2026-11-04",
-      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
       "guide_playlist": "PLOsT7Q9gqkBE"
     },
     {
@@ -5672,10 +5672,10 @@
       "series": "TypeScript AI Tutorials",
       "part": 9,
       "brand": "THE AI TOOLBOX",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/YDstXb4mJ1E",
       "guide_uploaded_on": "2026-11-04",
-      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
       "guide_playlist": "PLOsT7Q9gqkBE"
     },
     {
@@ -5683,10 +5683,10 @@
       "series": "TypeScript AI Tutorials",
       "part": 10,
       "brand": "THE AI TOOLBOX",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/x18UFYFa1pk",
       "guide_uploaded_on": "2026-11-04",
-      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
       "guide_playlist": "PLOsT7Q9gqkBE"
     },
     {
@@ -5804,10 +5804,10 @@
       "series": "AI for Shopify Sellers",
       "part": 1,
       "brand": "AI FOR SHOPIFY SELLERS",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/EJhRh_bGpgg",
       "guide_uploaded_on": "2026-11-04",
-      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
       "guide_playlist": "PLRc1Qa6UqXcs"
     },
     {
@@ -5815,10 +5815,10 @@
       "series": "AI for Shopify Sellers",
       "part": 2,
       "brand": "AI FOR SHOPIFY SELLERS",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/h7opDek-thk",
       "guide_uploaded_on": "2026-11-04",
-      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
       "guide_playlist": "PLRc1Qa6UqXcs"
     },
     {
@@ -5826,10 +5826,10 @@
       "series": "AI for Shopify Sellers",
       "part": 3,
       "brand": "AI FOR SHOPIFY SELLERS",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/JymJnni2Xy8",
       "guide_uploaded_on": "2026-11-04",
-      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
       "guide_playlist": "PLRc1Qa6UqXcs"
     },
     {
@@ -5837,10 +5837,10 @@
       "series": "AI for Shopify Sellers",
       "part": 4,
       "brand": "AI FOR SHOPIFY SELLERS",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/GPfhUEQFofw",
       "guide_uploaded_on": "2026-11-04",
-      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
       "guide_playlist": "PLRc1Qa6UqXcs"
     },
     {
@@ -5848,10 +5848,10 @@
       "series": "AI for Shopify Sellers",
       "part": 5,
       "brand": "AI FOR SHOPIFY SELLERS",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/Qx9sKZ09lr0",
       "guide_uploaded_on": "2026-11-04",
-      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
       "guide_playlist": "PLRc1Qa6UqXcs"
     },
     {
@@ -5859,10 +5859,10 @@
       "series": "AI for Shopify Sellers",
       "part": 6,
       "brand": "AI FOR SHOPIFY SELLERS",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/X2cnzQL06T4",
       "guide_uploaded_on": "2026-11-04",
-      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
       "guide_playlist": "PLRc1Qa6UqXcs"
     },
     {
@@ -5870,10 +5870,10 @@
       "series": "AI for Shopify Sellers",
       "part": 7,
       "brand": "AI FOR SHOPIFY SELLERS",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/76NqZsXXE_c",
       "guide_uploaded_on": "2026-11-04",
-      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
       "guide_playlist": "PLRc1Qa6UqXcs"
     },
     {
@@ -5881,10 +5881,10 @@
       "series": "AI for Shopify Sellers",
       "part": 8,
       "brand": "AI FOR SHOPIFY SELLERS",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/I15jbtVT5aI",
       "guide_uploaded_on": "2026-11-04",
-      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
       "guide_playlist": "PLRc1Qa6UqXcs"
     },
     {
@@ -5892,10 +5892,10 @@
       "series": "AI for Shopify Sellers",
       "part": 9,
       "brand": "AI FOR SHOPIFY SELLERS",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/T_mvRldeya4",
       "guide_uploaded_on": "2026-11-04",
-      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
       "guide_playlist": "PLRc1Qa6UqXcs"
     },
     {
@@ -5903,10 +5903,10 @@
       "series": "AI for Shopify Sellers",
       "part": 10,
       "brand": "AI FOR SHOPIFY SELLERS",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/hLometX-HTQ",
       "guide_uploaded_on": "2026-11-04",
-      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
       "guide_playlist": "PLRc1Qa6UqXcs"
     },
     {
@@ -5914,10 +5914,10 @@
       "series": "AI for Shopify Sellers",
       "part": 11,
       "brand": "AI FOR SHOPIFY SELLERS",
-      "guide": "uploaded private",
+      "guide": "posted",
       "guide_youtube_url": "https://youtu.be/OgubvMvCf4M",
       "guide_uploaded_on": "2026-11-04",
-      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
       "guide_playlist": "PLRc1Qa6UqXcs"
     },
     {
