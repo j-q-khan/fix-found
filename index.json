@@ -6462,9 +6462,13 @@
       "series": "Blender MCP with Claude",
       "part": 1,
       "brand": "Blender MCP",
-      "guide": "new",
+      "guide": "posted",
       "title": "Blender MCP Explained: What Claude Can Do in Blender 5.2",
-      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp"
+      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp; Part 1 final MP4 pass PASS 2026-11-10 (sheets/p01-final-pass.md), render approved under the posting rule",
+      "guide_youtube_url": "https://youtu.be/iwI7xyEV2zo",
+      "guide_uploaded_on": "2026-11-10",
+      "guide_visibility": "public",
+      "guide_playlist": "PLTWxinT6Tbag"
     },
     {
       "name": "Blender MCP 2 - Setup with Claude Code",
@@ -6473,7 +6477,8 @@
       "brand": "Blender MCP",
       "guide": "new",
       "title": "Blender MCP Setup with Claude Code: The Official Add-on, Safely",
-      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp"
+      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp",
+      "guide_playlist": "PLTWxinT6Tbag"
     },
     {
       "name": "Blender MCP 3 - AI Modeling with Claude",
@@ -6482,7 +6487,8 @@
       "brand": "Blender MCP",
       "guide": "new",
       "title": "Blender AI Modeling with Claude: Build a Model by Describing It",
-      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp"
+      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp",
+      "guide_playlist": "PLTWxinT6Tbag"
     },
     {
       "name": "Blender MCP 4 - For 3D Printing",
@@ -6491,7 +6497,8 @@
       "brand": "Blender MCP",
       "guide": "new",
       "title": "Blender MCP for 3D Printing: From a Prompt to a Printable STL",
-      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp"
+      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp",
+      "guide_playlist": "PLTWxinT6Tbag"
     },
     {
       "name": "Blender MCP 5 - 3D Print Toolbox",
@@ -6500,7 +6507,8 @@
       "brand": "Blender MCP",
       "guide": "new",
       "title": "Blender 3D Print Toolbox with Claude: Fix Non-Manifold Edges and Thin Walls",
-      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp"
+      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp",
+      "guide_playlist": "PLTWxinT6Tbag"
     },
     {
       "name": "Blender MCP 6 - Hunyuan 3D and Tripo Clean Up",
@@ -6509,7 +6517,8 @@
       "brand": "Blender MCP",
       "guide": "new",
       "title": "Hunyuan 3D and Tripo AI Models in Blender: Clean Them Up with Claude",
-      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp"
+      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp",
+      "guide_playlist": "PLTWxinT6Tbag"
     },
     {
       "name": "Blender MCP 7 - Codex Gemini Cursor Local",
@@ -6518,7 +6527,8 @@
       "brand": "Blender MCP",
       "guide": "new",
       "title": "Blender MCP with Codex, Gemini CLI, Cursor or a Local Model",
-      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp"
+      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp",
+      "guide_playlist": "PLTWxinT6Tbag"
     },
     {
       "name": "Blender MCP 8 - Official vs Community vs Headless",
@@ -6527,7 +6537,8 @@
       "brand": "Blender MCP",
       "guide": "new",
       "title": "Official Blender MCP vs MCP for Blender vs Headless: Which to Use?",
-      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp"
+      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp",
+      "guide_playlist": "PLTWxinT6Tbag"
     }
   ]
 }
