@@ -6475,10 +6475,13 @@
       "series": "Blender MCP with Claude",
       "part": 2,
       "brand": "Blender MCP",
-      "guide": "new",
+      "guide": "posted",
       "title": "Blender MCP Setup with Claude Code: The Official Add-on, Safely",
-      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp",
-      "guide_playlist": "PLTWxinT6Tbag"
+      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp; Part 2 final MP4 pass PASS 2026-11-10 (sheets/p02-final-pass.md), render approved under the posting rule",
+      "guide_playlist": "PLTWxinT6Tbag",
+      "guide_youtube_url": "https://youtu.be/IiHGkgl6VZg",
+      "guide_uploaded_on": "2026-11-10",
+      "guide_visibility": "public"
     },
     {
       "name": "Blender MCP 3 - AI Modeling with Claude",
