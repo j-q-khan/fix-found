@@ -6456,6 +6456,78 @@
       "title": "Meshy vs Tripo vs Hunyuan3D: Best AI 3D Generator for 3D Printing?",
       "guide_note": "2026-11-07: titles approved per the lead's setup brief (guide/meshy-ai-plan.md); kit guide/meshy-ai-kit, thumbnails guide/creator-thumbnails/meshy-ai; the normal gates apply (critic, viewer passes, render check by the channel owner)",
       "guide_playlist": "PLTLqiMzNRCEE"
+    },
+    {
+      "name": "Blender MCP 1 - Explained",
+      "series": "Blender MCP with Claude",
+      "part": 1,
+      "brand": "Blender MCP",
+      "guide": "new",
+      "title": "Blender MCP Explained: What Claude Can Do in Blender 5.2",
+      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp"
+    },
+    {
+      "name": "Blender MCP 2 - Setup with Claude Code",
+      "series": "Blender MCP with Claude",
+      "part": 2,
+      "brand": "Blender MCP",
+      "guide": "new",
+      "title": "Blender MCP Setup with Claude Code: The Official Add-on, Safely",
+      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp"
+    },
+    {
+      "name": "Blender MCP 3 - AI Modeling with Claude",
+      "series": "Blender MCP with Claude",
+      "part": 3,
+      "brand": "Blender MCP",
+      "guide": "new",
+      "title": "Blender AI Modeling with Claude: Build a Model by Describing It",
+      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp"
+    },
+    {
+      "name": "Blender MCP 4 - For 3D Printing",
+      "series": "Blender MCP with Claude",
+      "part": 4,
+      "brand": "Blender MCP",
+      "guide": "new",
+      "title": "Blender MCP for 3D Printing: From a Prompt to a Printable STL",
+      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp"
+    },
+    {
+      "name": "Blender MCP 5 - 3D Print Toolbox",
+      "series": "Blender MCP with Claude",
+      "part": 5,
+      "brand": "Blender MCP",
+      "guide": "new",
+      "title": "Blender 3D Print Toolbox with Claude: Fix Non-Manifold Edges and Thin Walls",
+      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp"
+    },
+    {
+      "name": "Blender MCP 6 - Hunyuan 3D and Tripo Clean Up",
+      "series": "Blender MCP with Claude",
+      "part": 6,
+      "brand": "Blender MCP",
+      "guide": "new",
+      "title": "Hunyuan 3D and Tripo AI Models in Blender: Clean Them Up with Claude",
+      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp"
+    },
+    {
+      "name": "Blender MCP 7 - Codex Gemini Cursor Local",
+      "series": "Blender MCP with Claude",
+      "part": 7,
+      "brand": "Blender MCP",
+      "guide": "new",
+      "title": "Blender MCP with Codex, Gemini CLI, Cursor or a Local Model",
+      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp"
+    },
+    {
+      "name": "Blender MCP 8 - Official vs Community vs Headless",
+      "series": "Blender MCP with Claude",
+      "part": 8,
+      "brand": "Blender MCP",
+      "guide": "new",
+      "title": "Official Blender MCP vs MCP for Blender vs Headless: Which to Use?",
+      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp"
     }
   ]
 }
