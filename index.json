@@ -6514,7 +6514,7 @@
       "series": "Blender MCP with Claude",
       "part": 5,
       "brand": "Blender MCP",
-      "guide": "new",
+      "guide": "render check",
       "title": "Blender 3D Print Toolbox with Claude: Fix Non-Manifold Edges and Thin Walls",
       "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp",
       "guide_playlist": "PLTWxinT6Tbag"
@@ -6548,6 +6548,60 @@
       "title": "Official Blender MCP vs MCP for Blender vs Headless: Which to Use?",
       "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp",
       "guide_playlist": "PLTWxinT6Tbag"
+    },
+    {
+      "name": "Claude Skills 1 - Explained",
+      "series": "Claude Skills",
+      "part": 1,
+      "brand": "CLAUDE SKILLS",
+      "guide": "new",
+      "title": "Claude Skills Explained: What a Skill Is and When to Use One",
+      "guide_note": "2026-11-11: approved, 6 parts (\"as long as heavy search volume exists\"; guide/claude-skills-plan.md, \"Approved, 6 parts\"); posting: each part posts public automatically when every gate passes, one video at a time (\"Yes, one video at a time\"); kit guide/claude-skills-kit, thumbnails guide/creator-thumbnails/claude-skills, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeskills.md"
+    },
+    {
+      "name": "Claude Skills 2 - Skills vs Agents vs MCP",
+      "series": "Claude Skills",
+      "part": 2,
+      "brand": "CLAUDE SKILLS",
+      "guide": "new",
+      "title": "Claude Skills vs Agents vs MCP vs CLAUDE.md: Which Do You Need?",
+      "guide_note": "2026-11-11: approved, 6 parts (\"as long as heavy search volume exists\"; guide/claude-skills-plan.md, \"Approved, 6 parts\"); posting: each part posts public automatically when every gate passes, one video at a time (\"Yes, one video at a time\"); kit guide/claude-skills-kit, thumbnails guide/creator-thumbnails/claude-skills, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeskills.md"
+    },
+    {
+      "name": "Claude Skills 3 - Make Your First Skill",
+      "series": "Claude Skills",
+      "part": 3,
+      "brand": "CLAUDE SKILLS",
+      "guide": "new",
+      "title": "Claude Code Skills Tutorial: Make Your First Skill",
+      "guide_note": "2026-11-11: approved, 6 parts (\"as long as heavy search volume exists\"; guide/claude-skills-plan.md, \"Approved, 6 parts\"); posting: each part posts public automatically when every gate passes, one video at a time (\"Yes, one video at a time\"); kit guide/claude-skills-kit, thumbnails guide/creator-thumbnails/claude-skills, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeskills.md"
+    },
+    {
+      "name": "Claude Skills 4 - Brand Voice Skill for Marketing",
+      "series": "Claude Skills",
+      "part": 4,
+      "brand": "CLAUDE SKILLS",
+      "guide": "new",
+      "title": "Claude Skills for Marketing: Build a Brand Voice Skill",
+      "guide_note": "2026-11-11: approved, 6 parts (\"as long as heavy search volume exists\"; guide/claude-skills-plan.md, \"Approved, 6 parts\"); posting: each part posts public automatically when every gate passes, one video at a time (\"Yes, one video at a time\"); kit guide/claude-skills-kit, thumbnails guide/creator-thumbnails/claude-skills, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeskills.md"
+    },
+    {
+      "name": "Claude Skills 5 - Is Superpowers Safe",
+      "series": "Claude Skills",
+      "part": 5,
+      "brand": "CLAUDE SKILLS",
+      "guide": "new",
+      "title": "Claude Skills from GitHub: Is Superpowers Safe to Install?",
+      "guide_note": "2026-11-11: approved, 6 parts (\"as long as heavy search volume exists\"; guide/claude-skills-plan.md, \"Approved, 6 parts\"); posting: each part posts public automatically when every gate passes, one video at a time (\"Yes, one video at a time\"); kit guide/claude-skills-kit, thumbnails guide/creator-thumbnails/claude-skills, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeskills.md"
+    },
+    {
+      "name": "Claude Skills 6 - Skill with MCP",
+      "series": "Claude Skills",
+      "part": 6,
+      "brand": "CLAUDE SKILLS",
+      "guide": "new",
+      "title": "Claude Skills with MCP: A Skill That Checks Your 3D Model",
+      "guide_note": "2026-11-11: approved, 6 parts (\"as long as heavy search volume exists\"; guide/claude-skills-plan.md, \"Approved, 6 parts\"); posting: each part posts public automatically when every gate passes, one video at a time (\"Yes, one video at a time\"); kit guide/claude-skills-kit, thumbnails guide/creator-thumbnails/claude-skills, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeskills.md"
     }
   ]
 }
