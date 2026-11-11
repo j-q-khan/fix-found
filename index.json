@@ -6514,10 +6514,13 @@
       "series": "Blender MCP with Claude",
       "part": 5,
       "brand": "Blender MCP",
-      "guide": "render check",
+      "guide": "posted",
       "title": "Blender 3D Print Toolbox with Claude: Fix Non-Manifold Edges and Thin Walls",
-      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp",
-      "guide_playlist": "PLTWxinT6Tbag"
+      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp; Part 5 final MP4 pass 2026-11-11 FAIL on 1 no (0.28 s pause inside \"Check All\" at 4:33); Jabran 2026-11-11: \"post\"",
+      "guide_playlist": "PLTWxinT6Tbag",
+      "guide_youtube_url": "https://youtu.be/3r7xHuBG6zs",
+      "guide_uploaded_on": "2026-11-11",
+      "guide_visibility": "public"
     },
     {
       "name": "Blender MCP 6 - Hunyuan 3D and Tripo Clean Up",
