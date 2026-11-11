@@ -6501,10 +6501,13 @@
       "series": "Blender MCP with Claude",
       "part": 4,
       "brand": "Blender MCP",
-      "guide": "new",
+      "guide": "posted",
       "title": "Blender MCP for 3D Printing: From a Prompt to a Printable STL",
-      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp",
-      "guide_playlist": "PLTWxinT6Tbag"
+      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp; Part 4 final MP4 pass 2026-11-10 FAIL on 3 nos (press A heard as press it at 2:43; 02f Drawn label under chip; 04d boxes touch); Jabran 2026-11-11: \"post as is\"",
+      "guide_playlist": "PLTWxinT6Tbag",
+      "guide_youtube_url": "https://youtu.be/rm1nOwMYN2s",
+      "guide_uploaded_on": "2026-11-11",
+      "guide_visibility": "public"
     },
     {
       "name": "Blender MCP 5 - 3D Print Toolbox",
