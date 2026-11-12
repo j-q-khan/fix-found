@@ -6609,10 +6609,13 @@
       "series": "Claude Skills",
       "part": 5,
       "brand": "CLAUDE SKILLS",
-      "guide": "new",
+      "guide": "posted",
       "title": "Claude Skills from GitHub: Is Superpowers Safe to Install?",
       "guide_note": "2026-11-11: approved, 6 parts (\"as long as heavy search volume exists\"; guide/claude-skills-plan.md, \"Approved, 6 parts\"); posting: each part posts public automatically when every gate passes, one video at a time (\"Yes, one video at a time\"); kit guide/claude-skills-kit, thumbnails guide/creator-thumbnails/claude-skills, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeskills.md",
-      "guide_playlist": "PLMZdUdTyL7f0"
+      "guide_playlist": "PLMZdUdTyL7f0",
+      "guide_youtube_url": "https://youtu.be/1TPjAuNcSp0",
+      "guide_uploaded_on": "2026-11-12",
+      "guide_visibility": "public"
     },
     {
       "name": "Claude Skills 6 - Skill with MCP",
