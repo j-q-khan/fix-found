@@ -6695,6 +6695,60 @@
       "title": "Browser MCP and Your Real Chrome: Is It Safe to Let Claude Log In?",
       "guide_note": "2026-11-12: approved, 6 parts (\"proceed, automatically\"; guide/playwright-mcp-plan.md, \"APPROVED 2026-11-12, 6 parts\"); posting: each part posts public automatically when every gate passes, one video at a time; kit guide/playwright-mcp-kit, thumbnails guide/creator-thumbnails/playwright-mcp, images guide/playwright-mcp-images",
       "guide_playlist": "PLEBTMVtVFViE"
+    },
+    {
+      "name": "AI Coding Agents 1 - Which Agent",
+      "series": "AI Coding Agents",
+      "part": 1,
+      "brand": "AI CODING AGENTS",
+      "guide": "new",
+      "title": "Claude Code vs Codex vs OpenCode vs Gemini CLI: Which AI Coding Agent in 2026?",
+      "guide_note": "2026-11-12: approved, 6 parts (guide/ai-coding-agents-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/ai-coding-agents-kit, thumbnails guide/creator-thumbnails/ai-coding-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-aicodingagents.md"
+    },
+    {
+      "name": "AI Coding Agents 2 - Gemini vs Antigravity",
+      "series": "AI Coding Agents",
+      "part": 2,
+      "brand": "AI CODING AGENTS",
+      "guide": "new",
+      "title": "Gemini CLI vs Antigravity CLI: Which One Can You Still Use for Free?",
+      "guide_note": "2026-11-12: approved, 6 parts (guide/ai-coding-agents-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/ai-coding-agents-kit, thumbnails guide/creator-thumbnails/ai-coding-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-aicodingagents.md"
+    },
+    {
+      "name": "AI Coding Agents 3 - Codex CLI",
+      "series": "AI Coding Agents",
+      "part": 3,
+      "brand": "AI CODING AGENTS",
+      "guide": "new",
+      "title": "Codex CLI Install on Windows and Mac: Setup and Your First Task",
+      "guide_note": "2026-11-12: approved, 6 parts (guide/ai-coding-agents-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/ai-coding-agents-kit, thumbnails guide/creator-thumbnails/ai-coding-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-aicodingagents.md"
+    },
+    {
+      "name": "AI Coding Agents 4 - OpenCode",
+      "series": "AI Coding Agents",
+      "part": 4,
+      "brand": "AI CODING AGENTS",
+      "guide": "new",
+      "title": "OpenCode Tutorial: Install OpenCode 2 and Make It Ask First",
+      "guide_note": "2026-11-12: approved, 6 parts (guide/ai-coding-agents-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/ai-coding-agents-kit, thumbnails guide/creator-thumbnails/ai-coding-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-aicodingagents.md"
+    },
+    {
+      "name": "AI Coding Agents 5 - Ollama",
+      "series": "AI Coding Agents",
+      "part": 5,
+      "brand": "AI CODING AGENTS",
+      "guide": "new",
+      "title": "Claude Code with Ollama? Free Local Coding Agents That Support It",
+      "guide_note": "2026-11-12: approved, 6 parts (guide/ai-coding-agents-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/ai-coding-agents-kit, thumbnails guide/creator-thumbnails/ai-coding-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-aicodingagents.md"
+    },
+    {
+      "name": "AI Coding Agents 6 - Docker Sandbox",
+      "series": "AI Coding Agents",
+      "part": 6,
+      "brand": "AI CODING AGENTS",
+      "guide": "new",
+      "title": "Run Claude Code, Codex and OpenCode in a Docker Sandbox",
+      "guide_note": "2026-11-12: approved, 6 parts (guide/ai-coding-agents-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/ai-coding-agents-kit, thumbnails guide/creator-thumbnails/ai-coding-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-aicodingagents.md"
     }
   ]
 }
