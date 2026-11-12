@@ -6667,10 +6667,13 @@
       "series": "Playwright MCP",
       "part": 3,
       "brand": "PLAYWRIGHT MCP",
-      "guide": "new",
+      "guide": "posted",
       "title": "How to Install Playwright MCP in Claude Code (Safely)",
       "guide_note": "2026-11-12: approved, 6 parts (\"proceed, automatically\"; guide/playwright-mcp-plan.md, \"APPROVED 2026-11-12, 6 parts\"); posting: each part posts public automatically when every gate passes, one video at a time; kit guide/playwright-mcp-kit, thumbnails guide/creator-thumbnails/playwright-mcp, images guide/playwright-mcp-images",
-      "guide_playlist": "PLEBTMVtVFViE"
+      "guide_playlist": "PLEBTMVtVFViE",
+      "guide_youtube_url": "https://youtu.be/-yQyz7SYjI0",
+      "guide_uploaded_on": "2026-11-12",
+      "guide_visibility": "public"
     },
     {
       "name": "Playwright MCP 4 - Test Your Web App",
