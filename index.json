@@ -6583,10 +6583,13 @@
       "series": "Claude Skills",
       "part": 3,
       "brand": "CLAUDE SKILLS",
-      "guide": "new",
+      "guide": "posted",
       "title": "Claude Code Skills Tutorial: Make Your First Skill",
       "guide_note": "2026-11-11: approved, 6 parts (\"as long as heavy search volume exists\"; guide/claude-skills-plan.md, \"Approved, 6 parts\"); posting: each part posts public automatically when every gate passes, one video at a time (\"Yes, one video at a time\"); kit guide/claude-skills-kit, thumbnails guide/creator-thumbnails/claude-skills, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeskills.md",
-      "guide_playlist": "PLMZdUdTyL7f0"
+      "guide_playlist": "PLMZdUdTyL7f0",
+      "guide_youtube_url": "https://youtu.be/LIcW4sI2kZY",
+      "guide_uploaded_on": "2026-11-11",
+      "guide_visibility": "public"
     },
     {
       "name": "Claude Skills 4 - Brand Voice Skill for Marketing",
