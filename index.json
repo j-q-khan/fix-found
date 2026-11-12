@@ -6540,10 +6540,13 @@
       "series": "Blender MCP with Claude",
       "part": 7,
       "brand": "Blender MCP",
-      "guide": "new",
+      "guide": "posted",
       "title": "Blender MCP with Codex, Gemini CLI, Cursor or a Local Model",
-      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp",
-      "guide_playlist": "PLTWxinT6Tbag"
+      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp; Part 7 final MP4 pass 2026-11-12 PASS; autopost at the gates (Jabran: \"No need to wait for my OK\")",
+      "guide_playlist": "PLTWxinT6Tbag",
+      "guide_youtube_url": "https://youtu.be/L9OGfZ1aUgk",
+      "guide_uploaded_on": "2026-11-12",
+      "guide_visibility": "public"
     },
     {
       "name": "Blender MCP 8 - Official vs Community vs Headless",
