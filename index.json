@@ -6770,6 +6770,78 @@
       "title": "Run Claude Code, Codex and OpenCode in a Docker Sandbox",
       "guide_note": "2026-11-12: approved, 6 parts (guide/ai-coding-agents-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/ai-coding-agents-kit, thumbnails guide/creator-thumbnails/ai-coding-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-aicodingagents.md",
       "guide_playlist": "PLC_ZPnKjVJ3k"
+    },
+    {
+      "name": "Hermes Agent 1 - What Is Hermes Agent",
+      "series": "Hermes Agent",
+      "part": 1,
+      "brand": "HERMES AGENT",
+      "guide": "new",
+      "title": "What Is Hermes Agent? The Open-Source AI Agent That Learns, Explained",
+      "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent"
+    },
+    {
+      "name": "Hermes Agent 2 - Safe Setup",
+      "series": "Hermes Agent",
+      "part": 2,
+      "brand": "HERMES AGENT",
+      "guide": "new",
+      "title": "Hermes Agent Setup: Install It on Windows and Mac the Safe Way",
+      "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent"
+    },
+    {
+      "name": "Hermes Agent 3 - vs OpenClaw",
+      "series": "Hermes Agent",
+      "part": 3,
+      "brand": "HERMES AGENT",
+      "guide": "new",
+      "title": "Hermes Agent vs OpenClaw: Which AI Agent Should You Use?",
+      "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent"
+    },
+    {
+      "name": "Hermes Agent 4 - Desktop and Dashboard",
+      "series": "Hermes Agent",
+      "part": 4,
+      "brand": "HERMES AGENT",
+      "guide": "new",
+      "title": "Hermes Agent Desktop App and Dashboard: Setup and Full Tour",
+      "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent"
+    },
+    {
+      "name": "Hermes Agent 5 - Ollama",
+      "series": "Hermes Agent",
+      "part": 5,
+      "brand": "HERMES AGENT",
+      "guide": "new",
+      "title": "Hermes Agent with Ollama: Run It Free on Local Models",
+      "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent"
+    },
+    {
+      "name": "Hermes Agent 6 - Skills",
+      "series": "Hermes Agent",
+      "part": 6,
+      "brand": "HERMES AGENT",
+      "guide": "new",
+      "title": "Hermes Agent Skills: Install, Create and Check Them Safely",
+      "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent"
+    },
+    {
+      "name": "Hermes Agent 7 - Docker Compose",
+      "series": "Hermes Agent",
+      "part": 7,
+      "brand": "HERMES AGENT",
+      "guide": "new",
+      "title": "Hermes Agent Docker Setup: Docker Compose Step by Step",
+      "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent"
+    },
+    {
+      "name": "Hermes Agent 8 - Claude",
+      "series": "Hermes Agent",
+      "part": 8,
+      "brand": "HERMES AGENT",
+      "guide": "new",
+      "title": "Hermes Agent with Claude: API Key or Claude Subscription?",
+      "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent"
     }
   ]
 }
