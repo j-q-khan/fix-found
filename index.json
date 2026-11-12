@@ -6527,10 +6527,13 @@
       "series": "Blender MCP with Claude",
       "part": 6,
       "brand": "Blender MCP",
-      "guide": "render check",
+      "guide": "posted",
       "title": "Hunyuan 3D and Tripo AI Models in Blender: Clean Them Up with Claude",
-      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp",
-      "guide_playlist": "PLTWxinT6Tbag"
+      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp; Part 6 final MP4 pass 2026-11-12 FAIL on 1 no (0.37 s pause inside \"Check All\" at 7:03); Jabran 2026-11-12: \"yes, post\"",
+      "guide_playlist": "PLTWxinT6Tbag",
+      "guide_youtube_url": "https://youtu.be/SHdyfQpyhos",
+      "guide_uploaded_on": "2026-11-12",
+      "guide_visibility": "public"
     },
     {
       "name": "Blender MCP 7 - Codex Gemini Cursor Local",
