@@ -6626,6 +6626,60 @@
       "title": "Claude Skills with MCP: A Skill That Checks Your 3D Model",
       "guide_note": "2026-11-11: approved, 6 parts (\"as long as heavy search volume exists\"; guide/claude-skills-plan.md, \"Approved, 6 parts\"); posting: each part posts public automatically when every gate passes, one video at a time (\"Yes, one video at a time\"); kit guide/claude-skills-kit, thumbnails guide/creator-thumbnails/claude-skills, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeskills.md",
       "guide_playlist": "PLMZdUdTyL7f0"
+    },
+    {
+      "name": "Playwright MCP 1 - Explained",
+      "series": "Playwright MCP",
+      "part": 1,
+      "brand": "PLAYWRIGHT MCP",
+      "guide": "new",
+      "title": "Playwright MCP Explained: What It Does and When to Use It",
+      "guide_note": "2026-11-12: approved, 6 parts (\"proceed, automatically\"; guide/playwright-mcp-plan.md, \"APPROVED 2026-11-12, 6 parts\"); posting: each part posts public automatically when every gate passes, one video at a time; kit guide/playwright-mcp-kit, thumbnails guide/creator-thumbnails/playwright-mcp, images guide/playwright-mcp-images"
+    },
+    {
+      "name": "Playwright MCP 2 - DevTools vs Playwright",
+      "series": "Playwright MCP",
+      "part": 2,
+      "brand": "PLAYWRIGHT MCP",
+      "guide": "new",
+      "title": "Chrome DevTools MCP vs Playwright MCP: Which Should You Use?",
+      "guide_note": "2026-11-12: approved, 6 parts (\"proceed, automatically\"; guide/playwright-mcp-plan.md, \"APPROVED 2026-11-12, 6 parts\"); posting: each part posts public automatically when every gate passes, one video at a time; kit guide/playwright-mcp-kit, thumbnails guide/creator-thumbnails/playwright-mcp, images guide/playwright-mcp-images"
+    },
+    {
+      "name": "Playwright MCP 3 - Install Safely",
+      "series": "Playwright MCP",
+      "part": 3,
+      "brand": "PLAYWRIGHT MCP",
+      "guide": "new",
+      "title": "How to Install Playwright MCP in Claude Code (Safely)",
+      "guide_note": "2026-11-12: approved, 6 parts (\"proceed, automatically\"; guide/playwright-mcp-plan.md, \"APPROVED 2026-11-12, 6 parts\"); posting: each part posts public automatically when every gate passes, one video at a time; kit guide/playwright-mcp-kit, thumbnails guide/creator-thumbnails/playwright-mcp, images guide/playwright-mcp-images"
+    },
+    {
+      "name": "Playwright MCP 4 - Test Your Web App",
+      "series": "Playwright MCP",
+      "part": 4,
+      "brand": "PLAYWRIGHT MCP",
+      "guide": "new",
+      "title": "Playwright MCP Server: Test Your Web App with Claude Code",
+      "guide_note": "2026-11-12: approved, 6 parts (\"proceed, automatically\"; guide/playwright-mcp-plan.md, \"APPROVED 2026-11-12, 6 parts\"); posting: each part posts public automatically when every gate passes, one video at a time; kit guide/playwright-mcp-kit, thumbnails guide/creator-thumbnails/playwright-mcp, images guide/playwright-mcp-images"
+    },
+    {
+      "name": "Playwright MCP 5 - Find a Slow Page",
+      "series": "Playwright MCP",
+      "part": 5,
+      "brand": "PLAYWRIGHT MCP",
+      "guide": "new",
+      "title": "Chrome DevTools MCP with Claude Code: Find Why a Page Is Slow",
+      "guide_note": "2026-11-12: approved, 6 parts (\"proceed, automatically\"; guide/playwright-mcp-plan.md, \"APPROVED 2026-11-12, 6 parts\"); posting: each part posts public automatically when every gate passes, one video at a time; kit guide/playwright-mcp-kit, thumbnails guide/creator-thumbnails/playwright-mcp, images guide/playwright-mcp-images"
+    },
+    {
+      "name": "Playwright MCP 6 - Real Chrome Log In",
+      "series": "Playwright MCP",
+      "part": 6,
+      "brand": "PLAYWRIGHT MCP",
+      "guide": "new",
+      "title": "Browser MCP and Your Real Chrome: Is It Safe to Let Claude Log In?",
+      "guide_note": "2026-11-12: approved, 6 parts (\"proceed, automatically\"; guide/playwright-mcp-plan.md, \"APPROVED 2026-11-12, 6 parts\"); posting: each part posts public automatically when every gate passes, one video at a time; kit guide/playwright-mcp-kit, thumbnails guide/creator-thumbnails/playwright-mcp, images guide/playwright-mcp-images"
     }
   ]
 }
