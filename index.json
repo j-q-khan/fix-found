@@ -6651,10 +6651,13 @@
       "series": "Playwright MCP",
       "part": 2,
       "brand": "PLAYWRIGHT MCP",
-      "guide": "new",
+      "guide": "posted",
       "title": "Chrome DevTools MCP vs Playwright MCP: Which Should You Use?",
       "guide_note": "2026-11-12: approved, 6 parts (\"proceed, automatically\"; guide/playwright-mcp-plan.md, \"APPROVED 2026-11-12, 6 parts\"); posting: each part posts public automatically when every gate passes, one video at a time; kit guide/playwright-mcp-kit, thumbnails guide/creator-thumbnails/playwright-mcp, images guide/playwright-mcp-images",
-      "guide_playlist": "PLEBTMVtVFViE"
+      "guide_playlist": "PLEBTMVtVFViE",
+      "guide_youtube_url": "https://youtu.be/xMq573eWHK0",
+      "guide_uploaded_on": "2026-11-12",
+      "guide_visibility": "public"
     },
     {
       "name": "Playwright MCP 3 - Install Safely",
