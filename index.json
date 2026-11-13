@@ -6781,7 +6781,7 @@
       "series": "AI Coding Agents",
       "part": 6,
       "brand": "AI CODING AGENTS",
-      "guide": "new",
+      "guide": "render check",
       "title": "Run Claude Code, Codex and OpenCode in a Docker Sandbox",
       "guide_note": "2026-11-12: approved, 6 parts (guide/ai-coding-agents-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/ai-coding-agents-kit, thumbnails guide/creator-thumbnails/ai-coding-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-aicodingagents.md",
       "guide_playlist": "PLC_ZPnKjVJ3k"
