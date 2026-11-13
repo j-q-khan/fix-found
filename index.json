@@ -6896,10 +6896,13 @@
       "series": "Claude Code for Beginners",
       "part": 2,
       "brand": "CLAUDE CODE FOR BEGINNERS",
-      "guide": "new",
+      "guide": "posted",
       "title": "How to Install Claude Code on Windows and Mac (Safe Setup for Beginners)",
       "guide_note": "2026-11-13: GO (\"no need to wait, post away!\"), 7 parts (guide/claude-code-beginners-plan.md §4a); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-beginners-kit, thumbnails guide/creator-thumbnails/claude-code-beginners, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodebeginners.md",
-      "guide_playlist": "PLHGdih6OUQLg"
+      "guide_playlist": "PLHGdih6OUQLg",
+      "guide_youtube_url": "https://youtu.be/5yBX_yAKP7o",
+      "guide_uploaded_on": "2026-11-13",
+      "guide_visibility": "public"
     },
     {
       "name": "Claude Code for Beginners 3 - VS Code",
