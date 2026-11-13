@@ -6972,10 +6972,13 @@
       "series": "Claude Code vs",
       "part": 2,
       "brand": "CLAUDE CODE VS",
-      "guide": "new",
+      "guide": "posted",
       "title": "Claude vs ChatGPT for Coding: Claude Pro or ChatGPT Plus in 2026?",
       "guide_note": "2026-11-13: approved, 6 parts (guide/claude-code-vs-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-vs-kit, thumbnails guide/creator-thumbnails/claude-code-vs, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodevs.md",
-      "guide_playlist": "PLXgU5buZ-J8I"
+      "guide_playlist": "PLXgU5buZ-J8I",
+      "guide_youtube_url": "https://youtu.be/ASVmN6pfs8I",
+      "guide_uploaded_on": "2026-11-13",
+      "guide_visibility": "public"
     },
     {
       "name": "Claude Code vs 3 - VS Code vs Terminal",
@@ -7038,7 +7041,8 @@
       "guide": "new",
       "title": "Claude for Finance: Budget vs Actual and Variance Analysis",
       "guide_note": "2026-11-13: approved, 7 parts (guide/claude-for-work-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-for-work-kit, thumbnails guide/creator-thumbnails/claude-for-work, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeforwork.md",
-      "guide_playlist": "PLXhqAnoFIWwQ"
+      "guide_playlist": "PLXhqAnoFIWwQ",
+      "watermark": true
     },
     {
       "name": "Claude for Work 3 - Accounting",
@@ -7048,7 +7052,8 @@
       "guide": "new",
       "title": "Claude for Accounting: Reconciliations and Month-End Close",
       "guide_note": "2026-11-13: approved, 7 parts (guide/claude-for-work-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-for-work-kit, thumbnails guide/creator-thumbnails/claude-for-work, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeforwork.md",
-      "guide_playlist": "PLXhqAnoFIWwQ"
+      "guide_playlist": "PLXhqAnoFIWwQ",
+      "watermark": true
     },
     {
       "name": "Claude for Work 4 - Marketing",
@@ -7058,7 +7063,8 @@
       "guide": "new",
       "title": "Claude for Marketing: Campaign Plans, SEO Audits and Reports",
       "guide_note": "2026-11-13: approved, 7 parts (guide/claude-for-work-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-for-work-kit, thumbnails guide/creator-thumbnails/claude-for-work, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeforwork.md",
-      "guide_playlist": "PLXhqAnoFIWwQ"
+      "guide_playlist": "PLXhqAnoFIWwQ",
+      "watermark": true
     },
     {
       "name": "Claude for Work 5 - Sales",
@@ -7068,7 +7074,8 @@
       "guide": "new",
       "title": "Claude for Sales: Prospecting, Call Prep and Outreach",
       "guide_note": "2026-11-13: approved, 7 parts (guide/claude-for-work-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-for-work-kit, thumbnails guide/creator-thumbnails/claude-for-work, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeforwork.md",
-      "guide_playlist": "PLXhqAnoFIWwQ"
+      "guide_playlist": "PLXhqAnoFIWwQ",
+      "watermark": true
     },
     {
       "name": "Claude for Work 6 - Data Analysis",
@@ -7078,7 +7085,8 @@
       "guide": "new",
       "title": "Claude for Data Analysis: Chat, Cowork or Claude Code?",
       "guide_note": "2026-11-13: approved, 7 parts (guide/claude-for-work-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-for-work-kit, thumbnails guide/creator-thumbnails/claude-for-work, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeforwork.md",
-      "guide_playlist": "PLXhqAnoFIWwQ"
+      "guide_playlist": "PLXhqAnoFIWwQ",
+      "watermark": true
     },
     {
       "name": "Claude for Work 7 - Legal",
@@ -7088,7 +7096,8 @@
       "guide": "new",
       "title": "Claude for Legal: Install the Legal Plugin and Review a Contract",
       "guide_note": "2026-11-13: approved, 7 parts (guide/claude-for-work-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-for-work-kit, thumbnails guide/creator-thumbnails/claude-for-work, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeforwork.md",
-      "guide_playlist": "PLXhqAnoFIWwQ"
+      "guide_playlist": "PLXhqAnoFIWwQ",
+      "watermark": true
     }
   ]
 }
