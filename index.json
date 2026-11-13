@@ -7183,10 +7183,14 @@
       "series": "Google AI Studio",
       "part": 1,
       "brand": "GOOGLE AI STUDIO",
-      "guide": "new",
+      "guide": "posted",
       "title": "Google AI Studio Tutorial for Beginners (2026): Your First Prompt",
       "guide_note": "2026-11-13: approved, 6 parts (guide/google-ai-studio-plan.md); docs only, no hands-on test; posting: nothing uploads until the channel owner answers the posting question; kit guide/google-ai-studio-kit, thumbnails guide/creator-thumbnails/google-ai-studio, writer brief guide/creator-series-kit/WRITER-BRIEF-googleaistudio.md",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/jD98sBQTtU4",
+      "guide_uploaded_on": "2026-11-13",
+      "guide_visibility": "public",
+      "guide_playlist": "PLa0rI9R8V3p8"
     },
     {
       "name": "Google AI Studio 2 - Is It Free",
@@ -7196,7 +7200,8 @@
       "guide": "new",
       "title": "Is Google AI Studio Free? Limits, Costs and What Google Does With Your Prompts",
       "guide_note": "2026-11-13: approved, 6 parts (guide/google-ai-studio-plan.md); docs only, no hands-on test; posting: nothing uploads until the channel owner answers the posting question; kit guide/google-ai-studio-kit, thumbnails guide/creator-thumbnails/google-ai-studio, writer brief guide/creator-series-kit/WRITER-BRIEF-googleaistudio.md",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLa0rI9R8V3p8"
     },
     {
       "name": "Google AI Studio 3 - vs Gemini App",
@@ -7206,7 +7211,8 @@
       "guide": "new",
       "title": "Google AI Studio vs the Gemini App: Which One Do You Need?",
       "guide_note": "2026-11-13: approved, 6 parts (guide/google-ai-studio-plan.md); docs only, no hands-on test; posting: nothing uploads until the channel owner answers the posting question; kit guide/google-ai-studio-kit, thumbnails guide/creator-thumbnails/google-ai-studio, writer brief guide/creator-series-kit/WRITER-BRIEF-googleaistudio.md",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLa0rI9R8V3p8"
     },
     {
       "name": "Google AI Studio 4 - API Key",
@@ -7216,7 +7222,8 @@
       "guide": "new",
       "title": "How to Get a Gemini API Key in Google AI Studio (and Keep It Safe)",
       "guide_note": "2026-11-13: approved, 6 parts (guide/google-ai-studio-plan.md); docs only, no hands-on test; posting: nothing uploads until the channel owner answers the posting question; kit guide/google-ai-studio-kit, thumbnails guide/creator-thumbnails/google-ai-studio, writer brief guide/creator-series-kit/WRITER-BRIEF-googleaistudio.md",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLa0rI9R8V3p8"
     },
     {
       "name": "Google AI Studio 5 - Nano Banana Pro",
@@ -7226,7 +7233,8 @@
       "guide": "new",
       "title": "How to Use Nano Banana Pro in Google AI Studio: Make and Edit Images",
       "guide_note": "2026-11-13: approved, 6 parts (guide/google-ai-studio-plan.md); docs only, no hands-on test; posting: nothing uploads until the channel owner answers the posting question; kit guide/google-ai-studio-kit, thumbnails guide/creator-thumbnails/google-ai-studio, writer brief guide/creator-series-kit/WRITER-BRIEF-googleaistudio.md",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLa0rI9R8V3p8"
     },
     {
       "name": "Google AI Studio 6 - Build Mode",
@@ -7236,7 +7244,8 @@
       "guide": "new",
       "title": "Google AI Studio Build Mode: Make a Web App With Vibe Coding",
       "guide_note": "2026-11-13: approved, 6 parts (guide/google-ai-studio-plan.md); docs only, no hands-on test; posting: nothing uploads until the channel owner answers the posting question; kit guide/google-ai-studio-kit, thumbnails guide/creator-thumbnails/google-ai-studio, writer brief guide/creator-series-kit/WRITER-BRIEF-googleaistudio.md",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLa0rI9R8V3p8"
     }
   ]
 }
