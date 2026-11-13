@@ -6761,20 +6761,26 @@
       "series": "AI Coding Agents",
       "part": 4,
       "brand": "AI CODING AGENTS",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "OpenCode Tutorial: Install OpenCode 2 and Make It Ask First",
       "guide_note": "2026-11-12: approved, 6 parts (guide/ai-coding-agents-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/ai-coding-agents-kit, thumbnails guide/creator-thumbnails/ai-coding-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-aicodingagents.md",
-      "guide_playlist": "PLC_ZPnKjVJ3k"
+      "guide_playlist": "PLC_ZPnKjVJ3k",
+      "guide_youtube_url": "https://youtu.be/LJAgoGePsPk",
+      "guide_uploaded_on": "2026-11-13",
+      "guide_visibility": "public"
     },
     {
       "name": "AI Coding Agents 5 - Ollama",
       "series": "AI Coding Agents",
       "part": 5,
       "brand": "AI CODING AGENTS",
-      "guide": "render check",
+      "guide": "posted",
       "title": "Claude Code with Ollama? Free Local Coding Agents That Support It",
       "guide_note": "2026-11-12: approved, 6 parts (guide/ai-coding-agents-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/ai-coding-agents-kit, thumbnails guide/creator-thumbnails/ai-coding-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-aicodingagents.md",
-      "guide_playlist": "PLC_ZPnKjVJ3k"
+      "guide_playlist": "PLC_ZPnKjVJ3k",
+      "guide_youtube_url": "https://youtu.be/Lv9T3V12oI4",
+      "guide_uploaded_on": "2026-11-13",
+      "guide_visibility": "public"
     },
     {
       "name": "AI Coding Agents 6 - Docker Sandbox",
