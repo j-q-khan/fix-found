@@ -6709,10 +6709,13 @@
       "series": "Playwright MCP",
       "part": 6,
       "brand": "PLAYWRIGHT MCP",
-      "guide": "new",
+      "guide": "uploaded private",
       "title": "Browser MCP and Your Real Chrome: Is It Safe to Let Claude Log In?",
       "guide_note": "2026-11-12: approved, 6 parts (\"proceed, automatically\"; guide/playwright-mcp-plan.md, \"APPROVED 2026-11-12, 6 parts\"); posting: each part posts public automatically when every gate passes, one video at a time; kit guide/playwright-mcp-kit, thumbnails guide/creator-thumbnails/playwright-mcp, images guide/playwright-mcp-images",
-      "guide_playlist": "PLEBTMVtVFViE"
+      "guide_playlist": "PLEBTMVtVFViE",
+      "guide_youtube_url": "https://youtu.be/TRiEGt9rYsI",
+      "guide_uploaded_on": "2026-11-12",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "AI Coding Agents 1 - Which Agent",
@@ -6758,7 +6761,7 @@
       "series": "AI Coding Agents",
       "part": 4,
       "brand": "AI CODING AGENTS",
-      "guide": "new",
+      "guide": "render approved",
       "title": "OpenCode Tutorial: Install OpenCode 2 and Make It Ask First",
       "guide_note": "2026-11-12: approved, 6 parts (guide/ai-coding-agents-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/ai-coding-agents-kit, thumbnails guide/creator-thumbnails/ai-coding-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-aicodingagents.md",
       "guide_playlist": "PLC_ZPnKjVJ3k"
@@ -6768,7 +6771,7 @@
       "series": "AI Coding Agents",
       "part": 5,
       "brand": "AI CODING AGENTS",
-      "guide": "new",
+      "guide": "render check",
       "title": "Claude Code with Ollama? Free Local Coding Agents That Support It",
       "guide_note": "2026-11-12: approved, 6 parts (guide/ai-coding-agents-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/ai-coding-agents-kit, thumbnails guide/creator-thumbnails/ai-coding-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-aicodingagents.md",
       "guide_playlist": "PLC_ZPnKjVJ3k"
@@ -6865,6 +6868,69 @@
       "title": "Hermes Agent with Claude: API Key or Claude Subscription?",
       "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent",
       "guide_playlist": "PLSYTkVYd1XrI"
+    },
+    {
+      "name": "Claude Code for Beginners 1 - What and Cost",
+      "series": "Claude Code for Beginners",
+      "part": 1,
+      "brand": "CLAUDE CODE FOR BEGINNERS",
+      "guide": "new",
+      "title": "How to Use Claude Code: What It Is, What It Costs, and Where to Start (2026)",
+      "guide_note": "2026-11-13: GO (\"no need to wait, post away!\"), 7 parts (guide/claude-code-beginners-plan.md §4a); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-beginners-kit, thumbnails guide/creator-thumbnails/claude-code-beginners, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodebeginners.md"
+    },
+    {
+      "name": "Claude Code for Beginners 2 - Install",
+      "series": "Claude Code for Beginners",
+      "part": 2,
+      "brand": "CLAUDE CODE FOR BEGINNERS",
+      "guide": "new",
+      "title": "How to Install Claude Code on Windows and Mac (Safe Setup for Beginners)",
+      "guide_note": "2026-11-13: GO (\"no need to wait, post away!\"), 7 parts (guide/claude-code-beginners-plan.md §4a); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-beginners-kit, thumbnails guide/creator-thumbnails/claude-code-beginners, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodebeginners.md"
+    },
+    {
+      "name": "Claude Code for Beginners 3 - VS Code",
+      "series": "Claude Code for Beginners",
+      "part": 3,
+      "brand": "CLAUDE CODE FOR BEGINNERS",
+      "guide": "new",
+      "title": "Claude Code in VS Code: Beginner Tutorial for the Extension",
+      "guide_note": "2026-11-13: GO (\"no need to wait, post away!\"), 7 parts (guide/claude-code-beginners-plan.md §4a); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-beginners-kit, thumbnails guide/creator-thumbnails/claude-code-beginners, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodebeginners.md"
+    },
+    {
+      "name": "Claude Code for Beginners 4 - Desktop App",
+      "series": "Claude Code for Beginners",
+      "part": 4,
+      "brand": "CLAUDE CODE FOR BEGINNERS",
+      "guide": "new",
+      "title": "Claude Code Desktop App: Use Claude Code Without the Terminal",
+      "guide_note": "2026-11-13: GO (\"no need to wait, post away!\"), 7 parts (guide/claude-code-beginners-plan.md §4a); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-beginners-kit, thumbnails guide/creator-thumbnails/claude-code-beginners, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodebeginners.md"
+    },
+    {
+      "name": "Claude Code for Beginners 5 - First Website",
+      "series": "Claude Code for Beginners",
+      "part": 5,
+      "brand": "CLAUDE CODE FOR BEGINNERS",
+      "guide": "new",
+      "title": "Claude Code Tutorial: Build Your First Website, No Coding Needed",
+      "guide_note": "2026-11-13: GO (\"no need to wait, post away!\"), 7 parts (guide/claude-code-beginners-plan.md §4a); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-beginners-kit, thumbnails guide/creator-thumbnails/claude-code-beginners, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodebeginners.md"
+    },
+    {
+      "name": "Claude Code for Beginners 6 - First App",
+      "series": "Claude Code for Beginners",
+      "part": 6,
+      "brand": "CLAUDE CODE FOR BEGINNERS",
+      "guide": "new",
+      "title": "Claude Code for Beginners: Build Your First App From Scratch",
+      "guide_note": "2026-11-13: GO (\"no need to wait, post away!\"), 7 parts (guide/claude-code-beginners-plan.md §4a); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-beginners-kit, thumbnails guide/creator-thumbnails/claude-code-beginners, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodebeginners.md"
+    },
+    {
+      "name": "Claude Code for Beginners 7 - Settings First",
+      "series": "Claude Code for Beginners",
+      "part": 7,
+      "brand": "CLAUDE CODE FOR BEGINNERS",
+      "guide": "new",
+      "title": "Claude Code Setup: Permissions, Undo and CLAUDE.md, the Settings to Change First",
+      "guide_note": "2026-11-13: GO (\"no need to wait, post away!\"), 7 parts (guide/claude-code-beginners-plan.md §4a); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-beginners-kit, thumbnails guide/creator-thumbnails/claude-code-beginners, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodebeginners.md"
     }
   ]
 }
