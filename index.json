@@ -7038,11 +7038,14 @@
       "series": "Claude for Work",
       "part": 2,
       "brand": "CLAUDE FOR WORK",
-      "guide": "new",
+      "guide": "posted",
       "title": "Claude for Finance: Budget vs Actual and Variance Analysis",
       "guide_note": "2026-11-13: approved, 7 parts (guide/claude-for-work-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-for-work-kit, thumbnails guide/creator-thumbnails/claude-for-work, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeforwork.md",
       "guide_playlist": "PLXhqAnoFIWwQ",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/9UGbHMB7WQo",
+      "guide_uploaded_on": "2026-11-13",
+      "guide_visibility": "public"
     },
     {
       "name": "Claude for Work 3 - Accounting",
