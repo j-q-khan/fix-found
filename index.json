@@ -6553,10 +6553,13 @@
       "series": "Blender MCP with Claude",
       "part": 8,
       "brand": "Blender MCP",
-      "guide": "render check",
+      "guide": "posted",
       "title": "Official Blender MCP vs MCP for Blender vs Headless: Which to Use?",
-      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp",
-      "guide_playlist": "PLTWxinT6Tbag"
+      "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp; Part 8 final MP4 pass 2026-11-12 PASS; autopost at the gates (Jabran: \"No need to wait for my OK\")",
+      "guide_playlist": "PLTWxinT6Tbag",
+      "guide_youtube_url": "https://youtu.be/DFoZn8FfNrI",
+      "guide_uploaded_on": "2026-11-12",
+      "guide_visibility": "public"
     },
     {
       "name": "Claude Skills 1 - Explained",
