@@ -6988,10 +6988,13 @@
       "series": "Claude Code vs",
       "part": 3,
       "brand": "CLAUDE CODE VS",
-      "guide": "new",
+      "guide": "posted",
       "title": "Claude Code in VS Code vs Terminal vs Desktop App: Which Should You Use?",
       "guide_note": "2026-11-13: approved, 6 parts (guide/claude-code-vs-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-vs-kit, thumbnails guide/creator-thumbnails/claude-code-vs, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodevs.md",
-      "guide_playlist": "PLXgU5buZ-J8I"
+      "guide_playlist": "PLXgU5buZ-J8I",
+      "guide_youtube_url": "https://youtu.be/wBQ7uBv71Bk",
+      "guide_uploaded_on": "2026-11-13",
+      "guide_visibility": "public"
     },
     {
       "name": "Claude Code vs 4 - vs Cursor",
