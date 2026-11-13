@@ -7168,6 +7168,66 @@
       "title": "Build Your Own MCP Server in Python (MCP SDK v2)",
       "guide_note": "2026-11-13: approved, 7 parts (guide/mcp-servers-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/mcp-servers-kit, thumbnails guide/creator-thumbnails/mcp-servers, writer brief guide/creator-series-kit/WRITER-BRIEF-mcpservers.md",
       "watermark": true
+    },
+    {
+      "name": "Google AI Studio 1 - Tutorial",
+      "series": "Google AI Studio",
+      "part": 1,
+      "brand": "GOOGLE AI STUDIO",
+      "guide": "new",
+      "title": "Google AI Studio Tutorial for Beginners (2026): Your First Prompt",
+      "guide_note": "2026-11-13: approved, 6 parts (guide/google-ai-studio-plan.md); docs only, no hands-on test; posting: nothing uploads until the channel owner answers the posting question; kit guide/google-ai-studio-kit, thumbnails guide/creator-thumbnails/google-ai-studio, writer brief guide/creator-series-kit/WRITER-BRIEF-googleaistudio.md",
+      "watermark": true
+    },
+    {
+      "name": "Google AI Studio 2 - Is It Free",
+      "series": "Google AI Studio",
+      "part": 2,
+      "brand": "GOOGLE AI STUDIO",
+      "guide": "new",
+      "title": "Is Google AI Studio Free? Limits, Costs and What Google Does With Your Prompts",
+      "guide_note": "2026-11-13: approved, 6 parts (guide/google-ai-studio-plan.md); docs only, no hands-on test; posting: nothing uploads until the channel owner answers the posting question; kit guide/google-ai-studio-kit, thumbnails guide/creator-thumbnails/google-ai-studio, writer brief guide/creator-series-kit/WRITER-BRIEF-googleaistudio.md",
+      "watermark": true
+    },
+    {
+      "name": "Google AI Studio 3 - vs Gemini App",
+      "series": "Google AI Studio",
+      "part": 3,
+      "brand": "GOOGLE AI STUDIO",
+      "guide": "new",
+      "title": "Google AI Studio vs the Gemini App: Which One Do You Need?",
+      "guide_note": "2026-11-13: approved, 6 parts (guide/google-ai-studio-plan.md); docs only, no hands-on test; posting: nothing uploads until the channel owner answers the posting question; kit guide/google-ai-studio-kit, thumbnails guide/creator-thumbnails/google-ai-studio, writer brief guide/creator-series-kit/WRITER-BRIEF-googleaistudio.md",
+      "watermark": true
+    },
+    {
+      "name": "Google AI Studio 4 - API Key",
+      "series": "Google AI Studio",
+      "part": 4,
+      "brand": "GOOGLE AI STUDIO",
+      "guide": "new",
+      "title": "How to Get a Gemini API Key in Google AI Studio (and Keep It Safe)",
+      "guide_note": "2026-11-13: approved, 6 parts (guide/google-ai-studio-plan.md); docs only, no hands-on test; posting: nothing uploads until the channel owner answers the posting question; kit guide/google-ai-studio-kit, thumbnails guide/creator-thumbnails/google-ai-studio, writer brief guide/creator-series-kit/WRITER-BRIEF-googleaistudio.md",
+      "watermark": true
+    },
+    {
+      "name": "Google AI Studio 5 - Nano Banana Pro",
+      "series": "Google AI Studio",
+      "part": 5,
+      "brand": "GOOGLE AI STUDIO",
+      "guide": "new",
+      "title": "How to Use Nano Banana Pro in Google AI Studio: Make and Edit Images",
+      "guide_note": "2026-11-13: approved, 6 parts (guide/google-ai-studio-plan.md); docs only, no hands-on test; posting: nothing uploads until the channel owner answers the posting question; kit guide/google-ai-studio-kit, thumbnails guide/creator-thumbnails/google-ai-studio, writer brief guide/creator-series-kit/WRITER-BRIEF-googleaistudio.md",
+      "watermark": true
+    },
+    {
+      "name": "Google AI Studio 6 - Build Mode",
+      "series": "Google AI Studio",
+      "part": 6,
+      "brand": "GOOGLE AI STUDIO",
+      "guide": "new",
+      "title": "Google AI Studio Build Mode: Make a Web App With Vibe Coding",
+      "guide_note": "2026-11-13: approved, 6 parts (guide/google-ai-studio-plan.md); docs only, no hands-on test; posting: nothing uploads until the channel owner answers the posting question; kit guide/google-ai-studio-kit, thumbnails guide/creator-thumbnails/google-ai-studio, writer brief guide/creator-series-kit/WRITER-BRIEF-googleaistudio.md",
+      "watermark": true
     }
   ]
 }
