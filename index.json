@@ -6553,7 +6553,7 @@
       "series": "Blender MCP with Claude",
       "part": 8,
       "brand": "Blender MCP",
-      "guide": "new",
+      "guide": "render check",
       "title": "Official Blender MCP vs MCP for Blender vs Headless: Which to Use?",
       "guide_note": "2026-11-10: approved (\"You can make the first video\", \"No need to wait for my OK\": post public when every gate passes); plan guide/blender-mcp-plan.md, kit guide/blender-mcp-kit, thumbnails guide/creator-thumbnails/blender-mcp",
       "guide_playlist": "PLTWxinT6Tbag"
@@ -6693,7 +6693,7 @@
       "series": "Playwright MCP",
       "part": 5,
       "brand": "PLAYWRIGHT MCP",
-      "guide": "new",
+      "guide": "render check",
       "title": "Chrome DevTools MCP with Claude Code: Find Why a Page Is Slow",
       "guide_note": "2026-11-12: approved, 6 parts (\"proceed, automatically\"; guide/playwright-mcp-plan.md, \"APPROVED 2026-11-12, 6 parts\"); posting: each part posts public automatically when every gate passes, one video at a time; kit guide/playwright-mcp-kit, thumbnails guide/creator-thumbnails/playwright-mcp, images guide/playwright-mcp-images",
       "guide_playlist": "PLEBTMVtVFViE"
@@ -6782,9 +6782,13 @@
       "series": "Hermes Agent",
       "part": 1,
       "brand": "HERMES AGENT",
-      "guide": "new",
+      "guide": "posted",
       "title": "What Is Hermes Agent? The Open-Source AI Agent That Learns, Explained",
-      "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent"
+      "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent",
+      "guide_youtube_url": "https://youtu.be/TsC5J9Qbwi4",
+      "guide_uploaded_on": "2026-11-12",
+      "guide_visibility": "public",
+      "guide_playlist": "PLSYTkVYd1XrI"
     },
     {
       "name": "Hermes Agent 2 - Safe Setup",
@@ -6793,7 +6797,8 @@
       "brand": "HERMES AGENT",
       "guide": "new",
       "title": "Hermes Agent Setup: Install It on Windows and Mac the Safe Way",
-      "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent"
+      "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent",
+      "guide_playlist": "PLSYTkVYd1XrI"
     },
     {
       "name": "Hermes Agent 3 - vs OpenClaw",
@@ -6802,7 +6807,8 @@
       "brand": "HERMES AGENT",
       "guide": "new",
       "title": "Hermes Agent vs OpenClaw: Which AI Agent Should You Use?",
-      "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent"
+      "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent",
+      "guide_playlist": "PLSYTkVYd1XrI"
     },
     {
       "name": "Hermes Agent 4 - Desktop and Dashboard",
@@ -6811,7 +6817,8 @@
       "brand": "HERMES AGENT",
       "guide": "new",
       "title": "Hermes Agent Desktop App and Dashboard: Setup and Full Tour",
-      "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent"
+      "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent",
+      "guide_playlist": "PLSYTkVYd1XrI"
     },
     {
       "name": "Hermes Agent 5 - Ollama",
@@ -6820,7 +6827,8 @@
       "brand": "HERMES AGENT",
       "guide": "new",
       "title": "Hermes Agent with Ollama: Run It Free on Local Models",
-      "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent"
+      "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent",
+      "guide_playlist": "PLSYTkVYd1XrI"
     },
     {
       "name": "Hermes Agent 6 - Skills",
@@ -6829,7 +6837,8 @@
       "brand": "HERMES AGENT",
       "guide": "new",
       "title": "Hermes Agent Skills: Install, Create and Check Them Safely",
-      "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent"
+      "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent",
+      "guide_playlist": "PLSYTkVYd1XrI"
     },
     {
       "name": "Hermes Agent 7 - Docker Compose",
@@ -6838,7 +6847,8 @@
       "brand": "HERMES AGENT",
       "guide": "new",
       "title": "Hermes Agent Docker Setup: Docker Compose Step by Step",
-      "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent"
+      "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent",
+      "guide_playlist": "PLSYTkVYd1XrI"
     },
     {
       "name": "Hermes Agent 8 - Claude",
@@ -6847,7 +6857,8 @@
       "brand": "HERMES AGENT",
       "guide": "new",
       "title": "Hermes Agent with Claude: API Key or Claude Subscription?",
-      "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent"
+      "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent",
+      "guide_playlist": "PLSYTkVYd1XrI"
     }
   ]
 }
