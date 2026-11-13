@@ -6931,6 +6931,60 @@
       "guide": "new",
       "title": "Claude Code Setup: Permissions, Undo and CLAUDE.md, the Settings to Change First",
       "guide_note": "2026-11-13: GO (\"no need to wait, post away!\"), 7 parts (guide/claude-code-beginners-plan.md §4a); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-beginners-kit, thumbnails guide/creator-thumbnails/claude-code-beginners, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodebeginners.md"
+    },
+    {
+      "name": "Claude Code vs 1 - Claude vs Code vs Cowork",
+      "series": "Claude Code vs",
+      "part": 1,
+      "brand": "CLAUDE CODE VS",
+      "guide": "new",
+      "title": "Claude vs Claude Code vs Cowork: Which One Do You Actually Need?",
+      "guide_note": "2026-11-13: approved, 6 parts (guide/claude-code-vs-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-vs-kit, thumbnails guide/creator-thumbnails/claude-code-vs, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodevs.md"
+    },
+    {
+      "name": "Claude Code vs 2 - Claude vs ChatGPT",
+      "series": "Claude Code vs",
+      "part": 2,
+      "brand": "CLAUDE CODE VS",
+      "guide": "new",
+      "title": "Claude vs ChatGPT for Coding: Claude Pro or ChatGPT Plus in 2026?",
+      "guide_note": "2026-11-13: approved, 6 parts (guide/claude-code-vs-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-vs-kit, thumbnails guide/creator-thumbnails/claude-code-vs, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodevs.md"
+    },
+    {
+      "name": "Claude Code vs 3 - VS Code vs Terminal",
+      "series": "Claude Code vs",
+      "part": 3,
+      "brand": "CLAUDE CODE VS",
+      "guide": "new",
+      "title": "Claude Code in VS Code vs Terminal vs Desktop App: Which Should You Use?",
+      "guide_note": "2026-11-13: approved, 6 parts (guide/claude-code-vs-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-vs-kit, thumbnails guide/creator-thumbnails/claude-code-vs, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodevs.md"
+    },
+    {
+      "name": "Claude Code vs 4 - vs Cursor",
+      "series": "Claude Code vs",
+      "part": 4,
+      "brand": "CLAUDE CODE VS",
+      "guide": "new",
+      "title": "Claude Code vs Cursor in 2026: Pricing, Claude Models and Who Should Pick Which",
+      "guide_note": "2026-11-13: approved, 6 parts (guide/claude-code-vs-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-vs-kit, thumbnails guide/creator-thumbnails/claude-code-vs, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodevs.md"
+    },
+    {
+      "name": "Claude Code vs 5 - vs GitHub Copilot",
+      "series": "Claude Code vs",
+      "part": 5,
+      "brand": "CLAUDE CODE VS",
+      "guide": "new",
+      "title": "Claude Code vs GitHub Copilot: Copilot CLI, Agent and Pricing Compared",
+      "guide_note": "2026-11-13: approved, 6 parts (guide/claude-code-vs-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-vs-kit, thumbnails guide/creator-thumbnails/claude-code-vs, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodevs.md"
+    },
+    {
+      "name": "Claude Code vs 6 - vs Antigravity 2.0",
+      "series": "Claude Code vs",
+      "part": 6,
+      "brand": "CLAUDE CODE VS",
+      "guide": "new",
+      "title": "Claude Code vs Google Antigravity 2.0: Which Coding Agent Fits You?",
+      "guide_note": "2026-11-13: approved, 6 parts (guide/claude-code-vs-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-vs-kit, thumbnails guide/creator-thumbnails/claude-code-vs, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodevs.md"
     }
   ]
 }
