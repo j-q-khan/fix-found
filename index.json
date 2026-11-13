@@ -6883,9 +6883,12 @@
       "series": "Claude Code for Beginners",
       "part": 1,
       "brand": "CLAUDE CODE FOR BEGINNERS",
-      "guide": "new",
+      "guide": "uploaded private",
       "title": "How to Use Claude Code: What It Is, What It Costs, and Where to Start (2026)",
-      "guide_note": "2026-11-13: GO (\"no need to wait, post away!\"), 7 parts (guide/claude-code-beginners-plan.md §4a); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-beginners-kit, thumbnails guide/creator-thumbnails/claude-code-beginners, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodebeginners.md"
+      "guide_note": "2026-11-13: GO (\"no need to wait, post away!\"), 7 parts (guide/claude-code-beginners-plan.md §4a); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-beginners-kit, thumbnails guide/creator-thumbnails/claude-code-beginners, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodebeginners.md",
+      "guide_youtube_url": "https://youtu.be/w3s56HTHDUk",
+      "guide_uploaded_on": "2026-11-13",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Claude Code for Beginners 2 - Install",
@@ -6946,9 +6949,13 @@
       "series": "Claude Code vs",
       "part": 1,
       "brand": "CLAUDE CODE VS",
-      "guide": "new",
+      "guide": "posted",
       "title": "Claude vs Claude Code vs Cowork: Which One Do You Actually Need?",
-      "guide_note": "2026-11-13: approved, 6 parts (guide/claude-code-vs-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-vs-kit, thumbnails guide/creator-thumbnails/claude-code-vs, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodevs.md"
+      "guide_note": "2026-11-13: approved, 6 parts (guide/claude-code-vs-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-vs-kit, thumbnails guide/creator-thumbnails/claude-code-vs, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodevs.md",
+      "guide_youtube_url": "https://youtu.be/YUh0DbS-dwg",
+      "guide_uploaded_on": "2026-11-13",
+      "guide_visibility": "public",
+      "guide_playlist": "PLXgU5buZ-J8I"
     },
     {
       "name": "Claude Code vs 2 - Claude vs ChatGPT",
@@ -6957,7 +6964,8 @@
       "brand": "CLAUDE CODE VS",
       "guide": "new",
       "title": "Claude vs ChatGPT for Coding: Claude Pro or ChatGPT Plus in 2026?",
-      "guide_note": "2026-11-13: approved, 6 parts (guide/claude-code-vs-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-vs-kit, thumbnails guide/creator-thumbnails/claude-code-vs, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodevs.md"
+      "guide_note": "2026-11-13: approved, 6 parts (guide/claude-code-vs-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-vs-kit, thumbnails guide/creator-thumbnails/claude-code-vs, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodevs.md",
+      "guide_playlist": "PLXgU5buZ-J8I"
     },
     {
       "name": "Claude Code vs 3 - VS Code vs Terminal",
@@ -6966,7 +6974,8 @@
       "brand": "CLAUDE CODE VS",
       "guide": "new",
       "title": "Claude Code in VS Code vs Terminal vs Desktop App: Which Should You Use?",
-      "guide_note": "2026-11-13: approved, 6 parts (guide/claude-code-vs-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-vs-kit, thumbnails guide/creator-thumbnails/claude-code-vs, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodevs.md"
+      "guide_note": "2026-11-13: approved, 6 parts (guide/claude-code-vs-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-vs-kit, thumbnails guide/creator-thumbnails/claude-code-vs, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodevs.md",
+      "guide_playlist": "PLXgU5buZ-J8I"
     },
     {
       "name": "Claude Code vs 4 - vs Cursor",
@@ -6975,7 +6984,8 @@
       "brand": "CLAUDE CODE VS",
       "guide": "new",
       "title": "Claude Code vs Cursor in 2026: Pricing, Claude Models and Who Should Pick Which",
-      "guide_note": "2026-11-13: approved, 6 parts (guide/claude-code-vs-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-vs-kit, thumbnails guide/creator-thumbnails/claude-code-vs, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodevs.md"
+      "guide_note": "2026-11-13: approved, 6 parts (guide/claude-code-vs-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-vs-kit, thumbnails guide/creator-thumbnails/claude-code-vs, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodevs.md",
+      "guide_playlist": "PLXgU5buZ-J8I"
     },
     {
       "name": "Claude Code vs 5 - vs GitHub Copilot",
@@ -6984,7 +6994,8 @@
       "brand": "CLAUDE CODE VS",
       "guide": "new",
       "title": "Claude Code vs GitHub Copilot: Copilot CLI, Agent and Pricing Compared",
-      "guide_note": "2026-11-13: approved, 6 parts (guide/claude-code-vs-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-vs-kit, thumbnails guide/creator-thumbnails/claude-code-vs, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodevs.md"
+      "guide_note": "2026-11-13: approved, 6 parts (guide/claude-code-vs-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-vs-kit, thumbnails guide/creator-thumbnails/claude-code-vs, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodevs.md",
+      "guide_playlist": "PLXgU5buZ-J8I"
     },
     {
       "name": "Claude Code vs 6 - vs Antigravity 2.0",
@@ -6993,7 +7004,8 @@
       "brand": "CLAUDE CODE VS",
       "guide": "new",
       "title": "Claude Code vs Google Antigravity 2.0: Which Coding Agent Fits You?",
-      "guide_note": "2026-11-13: approved, 6 parts (guide/claude-code-vs-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-vs-kit, thumbnails guide/creator-thumbnails/claude-code-vs, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodevs.md"
+      "guide_note": "2026-11-13: approved, 6 parts (guide/claude-code-vs-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-vs-kit, thumbnails guide/creator-thumbnails/claude-code-vs, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodevs.md",
+      "guide_playlist": "PLXgU5buZ-J8I"
     },
     {
       "name": "Claude for Work 1 - Excel",
