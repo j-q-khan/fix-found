@@ -6739,10 +6739,13 @@
       "series": "AI Coding Agents",
       "part": 3,
       "brand": "AI CODING AGENTS",
-      "guide": "new",
+      "guide": "posted",
       "title": "Codex CLI Install on Windows and Mac: Setup and Your First Task",
       "guide_note": "2026-11-12: approved, 6 parts (guide/ai-coding-agents-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/ai-coding-agents-kit, thumbnails guide/creator-thumbnails/ai-coding-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-aicodingagents.md",
-      "guide_playlist": "PLC_ZPnKjVJ3k"
+      "guide_playlist": "PLC_ZPnKjVJ3k",
+      "guide_youtube_url": "https://youtu.be/GypwUYmLOsI",
+      "guide_uploaded_on": "2026-11-12",
+      "guide_visibility": "public"
     },
     {
       "name": "AI Coding Agents 4 - OpenCode",
