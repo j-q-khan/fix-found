@@ -7098,6 +7098,76 @@
       "guide_note": "2026-11-13: approved, 7 parts (guide/claude-for-work-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-for-work-kit, thumbnails guide/creator-thumbnails/claude-for-work, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeforwork.md",
       "guide_playlist": "PLXhqAnoFIWwQ",
       "watermark": true
+    },
+    {
+      "name": "MCP Servers 1 - What Is MCP",
+      "series": "MCP Servers",
+      "part": 1,
+      "brand": "MCP SERVERS",
+      "guide": "new",
+      "title": "What Is MCP? Model Context Protocol Explained for Beginners (2026)",
+      "guide_note": "2026-11-13: approved, 7 parts (guide/mcp-servers-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/mcp-servers-kit, thumbnails guide/creator-thumbnails/mcp-servers, writer brief guide/creator-series-kit/WRITER-BRIEF-mcpservers.md",
+      "watermark": true
+    },
+    {
+      "name": "MCP Servers 2 - Best MCP Servers",
+      "series": "MCP Servers",
+      "part": 2,
+      "brand": "MCP SERVERS",
+      "guide": "new",
+      "title": "Best MCP Servers for Claude Code, and How to Check One Is Safe",
+      "guide_note": "2026-11-13: approved, 7 parts (guide/mcp-servers-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/mcp-servers-kit, thumbnails guide/creator-thumbnails/mcp-servers, writer brief guide/creator-series-kit/WRITER-BRIEF-mcpservers.md",
+      "watermark": true
+    },
+    {
+      "name": "MCP Servers 3 - Add an MCP Server",
+      "series": "MCP Servers",
+      "part": 3,
+      "brand": "MCP SERVERS",
+      "guide": "new",
+      "title": "How to Add an MCP Server to Claude Code, Claude Desktop and VS Code",
+      "guide_note": "2026-11-13: approved, 7 parts (guide/mcp-servers-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/mcp-servers-kit, thumbnails guide/creator-thumbnails/mcp-servers, writer brief guide/creator-series-kit/WRITER-BRIEF-mcpservers.md",
+      "watermark": true
+    },
+    {
+      "name": "MCP Servers 4 - GitHub MCP Server",
+      "series": "MCP Servers",
+      "part": 4,
+      "brand": "MCP SERVERS",
+      "guide": "new",
+      "title": "GitHub MCP Server with Claude Code and VS Code: Read-Only First",
+      "guide_note": "2026-11-13: approved, 7 parts (guide/mcp-servers-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/mcp-servers-kit, thumbnails guide/creator-thumbnails/mcp-servers, writer brief guide/creator-series-kit/WRITER-BRIEF-mcpservers.md",
+      "watermark": true
+    },
+    {
+      "name": "MCP Servers 5 - Figma MCP Server",
+      "series": "MCP Servers",
+      "part": 5,
+      "brand": "MCP SERVERS",
+      "guide": "new",
+      "title": "Figma MCP Server with Claude Code: Turn a Design into Code",
+      "guide_note": "2026-11-13: approved, 7 parts (guide/mcp-servers-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/mcp-servers-kit, thumbnails guide/creator-thumbnails/mcp-servers, writer brief guide/creator-series-kit/WRITER-BRIEF-mcpservers.md",
+      "watermark": true
+    },
+    {
+      "name": "MCP Servers 6 - Power BI MCP Server",
+      "series": "MCP Servers",
+      "part": 6,
+      "brand": "MCP SERVERS",
+      "guide": "new",
+      "title": "Power BI MCP Server with Claude: Connect Your Model Safely",
+      "guide_note": "2026-11-13: approved, 7 parts (guide/mcp-servers-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/mcp-servers-kit, thumbnails guide/creator-thumbnails/mcp-servers, writer brief guide/creator-series-kit/WRITER-BRIEF-mcpservers.md",
+      "watermark": true
+    },
+    {
+      "name": "MCP Servers 7 - Build an MCP Server in Python",
+      "series": "MCP Servers",
+      "part": 7,
+      "brand": "MCP SERVERS",
+      "guide": "new",
+      "title": "Build Your Own MCP Server in Python (MCP SDK v2)",
+      "guide_note": "2026-11-13: approved, 7 parts (guide/mcp-servers-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/mcp-servers-kit, thumbnails guide/creator-thumbnails/mcp-servers, writer brief guide/creator-series-kit/WRITER-BRIEF-mcpservers.md",
+      "watermark": true
     }
   ]
 }
