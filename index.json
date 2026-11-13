@@ -6985,6 +6985,69 @@
       "guide": "new",
       "title": "Claude Code vs Google Antigravity 2.0: Which Coding Agent Fits You?",
       "guide_note": "2026-11-13: approved, 6 parts (guide/claude-code-vs-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-vs-kit, thumbnails guide/creator-thumbnails/claude-code-vs, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodevs.md"
+    },
+    {
+      "name": "Claude for Work 1 - Excel",
+      "series": "Claude for Work",
+      "part": 1,
+      "brand": "CLAUDE FOR WORK",
+      "guide": "new",
+      "title": "Claude for Excel: Install the Add-in and Your First Real Task",
+      "guide_note": "2026-11-13: approved, 7 parts (guide/claude-for-work-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-for-work-kit, thumbnails guide/creator-thumbnails/claude-for-work, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeforwork.md"
+    },
+    {
+      "name": "Claude for Work 2 - Finance",
+      "series": "Claude for Work",
+      "part": 2,
+      "brand": "CLAUDE FOR WORK",
+      "guide": "new",
+      "title": "Claude for Finance: Budget vs Actual and Variance Analysis",
+      "guide_note": "2026-11-13: approved, 7 parts (guide/claude-for-work-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-for-work-kit, thumbnails guide/creator-thumbnails/claude-for-work, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeforwork.md"
+    },
+    {
+      "name": "Claude for Work 3 - Accounting",
+      "series": "Claude for Work",
+      "part": 3,
+      "brand": "CLAUDE FOR WORK",
+      "guide": "new",
+      "title": "Claude for Accounting: Reconciliations and Month-End Close",
+      "guide_note": "2026-11-13: approved, 7 parts (guide/claude-for-work-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-for-work-kit, thumbnails guide/creator-thumbnails/claude-for-work, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeforwork.md"
+    },
+    {
+      "name": "Claude for Work 4 - Marketing",
+      "series": "Claude for Work",
+      "part": 4,
+      "brand": "CLAUDE FOR WORK",
+      "guide": "new",
+      "title": "Claude for Marketing: Campaign Plans, SEO Audits and Reports",
+      "guide_note": "2026-11-13: approved, 7 parts (guide/claude-for-work-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-for-work-kit, thumbnails guide/creator-thumbnails/claude-for-work, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeforwork.md"
+    },
+    {
+      "name": "Claude for Work 5 - Sales",
+      "series": "Claude for Work",
+      "part": 5,
+      "brand": "CLAUDE FOR WORK",
+      "guide": "new",
+      "title": "Claude for Sales: Prospecting, Call Prep and Outreach",
+      "guide_note": "2026-11-13: approved, 7 parts (guide/claude-for-work-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-for-work-kit, thumbnails guide/creator-thumbnails/claude-for-work, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeforwork.md"
+    },
+    {
+      "name": "Claude for Work 6 - Data Analysis",
+      "series": "Claude for Work",
+      "part": 6,
+      "brand": "CLAUDE FOR WORK",
+      "guide": "new",
+      "title": "Claude for Data Analysis: Chat, Cowork or Claude Code?",
+      "guide_note": "2026-11-13: approved, 7 parts (guide/claude-for-work-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-for-work-kit, thumbnails guide/creator-thumbnails/claude-for-work, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeforwork.md"
+    },
+    {
+      "name": "Claude for Work 7 - Legal",
+      "series": "Claude for Work",
+      "part": 7,
+      "brand": "CLAUDE FOR WORK",
+      "guide": "new",
+      "title": "Claude for Legal: Install the Legal Plugin and Review a Contract",
+      "guide_note": "2026-11-13: approved, 7 parts (guide/claude-for-work-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-for-work-kit, thumbnails guide/creator-thumbnails/claude-for-work, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeforwork.md"
     }
   ]
 }
