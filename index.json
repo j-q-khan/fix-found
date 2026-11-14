@@ -6813,7 +6813,7 @@
       "series": "Hermes Agent",
       "part": 2,
       "brand": "HERMES AGENT",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Hermes Agent Setup: Install It on Windows and Mac the Safe Way",
       "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent",
       "guide_playlist": "PLSYTkVYd1XrI",
@@ -7185,21 +7185,21 @@
       "series": "MCP Servers",
       "part": 3,
       "brand": "MCP SERVERS",
-      "guide": "uploaded private",
+      "guide": "posted",
       "title": "How to Add an MCP Server to Claude Code, Claude Desktop and VS Code",
       "guide_note": "2026-11-13: approved, 7 parts (guide/mcp-servers-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/mcp-servers-kit, thumbnails guide/creator-thumbnails/mcp-servers, writer brief guide/creator-series-kit/WRITER-BRIEF-mcpservers.md",
       "watermark": true,
       "guide_playlist": "PLcnK26WPsihE",
       "guide_youtube_url": "https://youtu.be/xUrppAMXBnQ",
       "guide_uploaded_on": "2026-11-14",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public"
     },
     {
       "name": "MCP Servers 4 - GitHub MCP Server",
       "series": "MCP Servers",
       "part": 4,
       "brand": "MCP SERVERS",
-      "guide": "new",
+      "guide": "render approved",
       "title": "GitHub MCP Server with Claude Code and VS Code: Read-Only First",
       "guide_note": "2026-11-13: approved, 7 parts (guide/mcp-servers-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/mcp-servers-kit, thumbnails guide/creator-thumbnails/mcp-servers, writer brief guide/creator-series-kit/WRITER-BRIEF-mcpservers.md",
       "watermark": true,
@@ -7221,7 +7221,7 @@
       "series": "MCP Servers",
       "part": 6,
       "brand": "MCP SERVERS",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Power BI MCP Server with Claude: Connect Your Model Safely",
       "guide_note": "2026-11-13: approved, 7 parts (guide/mcp-servers-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/mcp-servers-kit, thumbnails guide/creator-thumbnails/mcp-servers, writer brief guide/creator-series-kit/WRITER-BRIEF-mcpservers.md",
       "watermark": true,
@@ -7232,7 +7232,7 @@
       "series": "MCP Servers",
       "part": 7,
       "brand": "MCP SERVERS",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Build Your Own MCP Server in Python (MCP SDK v2)",
       "guide_note": "2026-11-13: approved, 7 parts (guide/mcp-servers-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/mcp-servers-kit, thumbnails guide/creator-thumbnails/mcp-servers, writer brief guide/creator-series-kit/WRITER-BRIEF-mcpservers.md",
       "watermark": true,
@@ -7299,18 +7299,21 @@
       "series": "Google AI Studio",
       "part": 5,
       "brand": "GOOGLE AI STUDIO",
-      "guide": "new",
+      "guide": "uploaded private",
       "title": "How to Use Nano Banana Pro in Google AI Studio: Make and Edit Images",
       "guide_note": "2026-11-13: approved, 6 parts (guide/google-ai-studio-plan.md); docs only, no hands-on test; posting: nothing uploads until the channel owner answers the posting question; kit guide/google-ai-studio-kit, thumbnails guide/creator-thumbnails/google-ai-studio, writer brief guide/creator-series-kit/WRITER-BRIEF-googleaistudio.md",
       "watermark": true,
-      "guide_playlist": "PLa0rI9R8V3p8"
+      "guide_playlist": "PLa0rI9R8V3p8",
+      "guide_youtube_url": "https://youtu.be/eF2-o66ds2A",
+      "guide_uploaded_on": "2026-11-14",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Google AI Studio 6 - Build Mode",
       "series": "Google AI Studio",
       "part": 6,
       "brand": "GOOGLE AI STUDIO",
-      "guide": "new",
+      "guide": "render check",
       "title": "Google AI Studio Build Mode: Make a Web App With Vibe Coding",
       "guide_note": "2026-11-13: approved, 6 parts (guide/google-ai-studio-plan.md); docs only, no hands-on test; posting: nothing uploads until the channel owner answers the posting question; kit guide/google-ai-studio-kit, thumbnails guide/creator-thumbnails/google-ai-studio, writer brief guide/creator-series-kit/WRITER-BRIEF-googleaistudio.md",
       "watermark": true,
@@ -7323,7 +7326,7 @@
       "brand": "CLAUDE DESIGN",
       "guide": "new",
       "title": "Claude Design Tutorial for Beginners: Your First Design in Claude (2026)",
-      "guide_note": "2026-11-14: approved, 6 parts (guide/claude-design-plan.md); docs only, no hands-on test; posting NOT decided, so nothing uploads until Jabran answers; kit guide/claude-design-kit, thumbnails guide/creator-thumbnails/claude-design, writer brief guide/creator-series-kit/WRITER-BRIEF-claudedesign.md",
+      "guide_note": "2026-11-14: approved, 6 parts (guide/claude-design-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time (Jabran 2026-11-14); Figma read as written; kit guide/claude-design-kit, thumbnails guide/creator-thumbnails/claude-design, writer brief guide/creator-series-kit/WRITER-BRIEF-claudedesign.md",
       "watermark": true
     },
     {
@@ -7333,7 +7336,7 @@
       "brand": "CLAUDE DESIGN",
       "guide": "new",
       "title": "Claude Design Slides: Make a Deck in Claude Slides and Export It to PowerPoint",
-      "guide_note": "2026-11-14: approved, 6 parts (guide/claude-design-plan.md); docs only, no hands-on test; posting NOT decided, so nothing uploads until Jabran answers; kit guide/claude-design-kit, thumbnails guide/creator-thumbnails/claude-design, writer brief guide/creator-series-kit/WRITER-BRIEF-claudedesign.md",
+      "guide_note": "2026-11-14: approved, 6 parts (guide/claude-design-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time (Jabran 2026-11-14); Figma read as written; kit guide/claude-design-kit, thumbnails guide/creator-thumbnails/claude-design, writer brief guide/creator-series-kit/WRITER-BRIEF-claudedesign.md",
       "watermark": true
     },
     {
@@ -7343,7 +7346,7 @@
       "brand": "CLAUDE DESIGN",
       "guide": "new",
       "title": "Claude Design for Websites: Mock Up a Landing Page, Then Hand It to Claude Code",
-      "guide_note": "2026-11-14: approved, 6 parts (guide/claude-design-plan.md); docs only, no hands-on test; posting NOT decided, so nothing uploads until Jabran answers; kit guide/claude-design-kit, thumbnails guide/creator-thumbnails/claude-design, writer brief guide/creator-series-kit/WRITER-BRIEF-claudedesign.md",
+      "guide_note": "2026-11-14: approved, 6 parts (guide/claude-design-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time (Jabran 2026-11-14); Figma read as written; kit guide/claude-design-kit, thumbnails guide/creator-thumbnails/claude-design, writer brief guide/creator-series-kit/WRITER-BRIEF-claudedesign.md",
       "watermark": true
     },
     {
@@ -7353,7 +7356,7 @@
       "brand": "CLAUDE DESIGN",
       "guide": "new",
       "title": "Claude Design Logo and Brand Kit: What It Makes, and What You May Not Own",
-      "guide_note": "2026-11-14: approved, 6 parts (guide/claude-design-plan.md); docs only, no hands-on test; posting NOT decided, so nothing uploads until Jabran answers; kit guide/claude-design-kit, thumbnails guide/creator-thumbnails/claude-design, writer brief guide/creator-series-kit/WRITER-BRIEF-claudedesign.md",
+      "guide_note": "2026-11-14: approved, 6 parts (guide/claude-design-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time (Jabran 2026-11-14); Figma read as written; kit guide/claude-design-kit, thumbnails guide/creator-thumbnails/claude-design, writer brief guide/creator-series-kit/WRITER-BRIEF-claudedesign.md",
       "watermark": true
     },
     {
@@ -7363,7 +7366,7 @@
       "brand": "CLAUDE DESIGN",
       "guide": "new",
       "title": "Claude Design System Tutorial: Make Every Design Match Your Brand",
-      "guide_note": "2026-11-14: approved, 6 parts (guide/claude-design-plan.md); docs only, no hands-on test; posting NOT decided, so nothing uploads until Jabran answers; kit guide/claude-design-kit, thumbnails guide/creator-thumbnails/claude-design, writer brief guide/creator-series-kit/WRITER-BRIEF-claudedesign.md",
+      "guide_note": "2026-11-14: approved, 6 parts (guide/claude-design-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time (Jabran 2026-11-14); Figma read as written; kit guide/claude-design-kit, thumbnails guide/creator-thumbnails/claude-design, writer brief guide/creator-series-kit/WRITER-BRIEF-claudedesign.md",
       "watermark": true
     },
     {
@@ -7373,7 +7376,7 @@
       "brand": "CLAUDE DESIGN",
       "guide": "new",
       "title": "Claude Design and Figma: What Works Today, and When to Use Which",
-      "guide_note": "2026-11-14: approved, 6 parts (guide/claude-design-plan.md); docs only, no hands-on test; posting NOT decided, so nothing uploads until Jabran answers; kit guide/claude-design-kit, thumbnails guide/creator-thumbnails/claude-design, writer brief guide/creator-series-kit/WRITER-BRIEF-claudedesign.md",
+      "guide_note": "2026-11-14: approved, 6 parts (guide/claude-design-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time (Jabran 2026-11-14); Figma read as written; kit guide/claude-design-kit, thumbnails guide/creator-thumbnails/claude-design, writer brief guide/creator-series-kit/WRITER-BRIEF-claudedesign.md",
       "watermark": true
     },
     {
@@ -7381,9 +7384,9 @@
       "series": "How to Use Claude",
       "part": 1,
       "brand": "HOW TO USE CLAUDE",
-      "guide": "new",
+      "guide": "render approved",
       "title": "How to Use Claude: Your First Day With the App (2026 Beginner Guide)",
-      "guide_note": "2026-11-14: approved, 7 parts (guide/how-to-use-claude-plan.md); docs only, no hands-on test; posting NOT decided, so nothing uploads until Jabran answers; kit guide/how-to-use-claude-kit, thumbnails guide/creator-thumbnails/how-to-use-claude, writer brief guide/creator-series-kit/WRITER-BRIEF-howtouseclaude.md",
+      "guide_note": "2026-11-14: approved, 7 parts (guide/how-to-use-claude-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); Projects spoken as written (P1); kit guide/how-to-use-claude-kit, thumbnails guide/creator-thumbnails/how-to-use-claude, writer brief guide/creator-series-kit/WRITER-BRIEF-howtouseclaude.md",
       "watermark": true
     },
     {
@@ -7393,7 +7396,7 @@
       "brand": "HOW TO USE CLAUDE",
       "guide": "new",
       "title": "Claude Desktop App for Windows and Mac: Download, Setup and What It Adds",
-      "guide_note": "2026-11-14: approved, 7 parts (guide/how-to-use-claude-plan.md); docs only, no hands-on test; posting NOT decided, so nothing uploads until Jabran answers; kit guide/how-to-use-claude-kit, thumbnails guide/creator-thumbnails/how-to-use-claude, writer brief guide/creator-series-kit/WRITER-BRIEF-howtouseclaude.md",
+      "guide_note": "2026-11-14: approved, 7 parts (guide/how-to-use-claude-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); Projects spoken as written (P1); kit guide/how-to-use-claude-kit, thumbnails guide/creator-thumbnails/how-to-use-claude, writer brief guide/creator-series-kit/WRITER-BRIEF-howtouseclaude.md",
       "watermark": true
     },
     {
@@ -7403,7 +7406,7 @@
       "brand": "HOW TO USE CLAUDE",
       "guide": "new",
       "title": "Claude Projects Explained: Set Up Your First Project the Right Way",
-      "guide_note": "2026-11-14: approved, 7 parts (guide/how-to-use-claude-plan.md); docs only, no hands-on test; posting NOT decided, so nothing uploads until Jabran answers; kit guide/how-to-use-claude-kit, thumbnails guide/creator-thumbnails/how-to-use-claude, writer brief guide/creator-series-kit/WRITER-BRIEF-howtouseclaude.md",
+      "guide_note": "2026-11-14: approved, 7 parts (guide/how-to-use-claude-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); Projects spoken as written (P1); kit guide/how-to-use-claude-kit, thumbnails guide/creator-thumbnails/how-to-use-claude, writer brief guide/creator-series-kit/WRITER-BRIEF-howtouseclaude.md",
       "watermark": true
     },
     {
@@ -7413,7 +7416,7 @@
       "brand": "HOW TO USE CLAUDE",
       "guide": "new",
       "title": "Claude Artifacts Tutorial: Build a Dashboard or Tool From One Prompt",
-      "guide_note": "2026-11-14: approved, 7 parts (guide/how-to-use-claude-plan.md); docs only, no hands-on test; posting NOT decided, so nothing uploads until Jabran answers; kit guide/how-to-use-claude-kit, thumbnails guide/creator-thumbnails/how-to-use-claude, writer brief guide/creator-series-kit/WRITER-BRIEF-howtouseclaude.md",
+      "guide_note": "2026-11-14: approved, 7 parts (guide/how-to-use-claude-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); Projects spoken as written (P1); kit guide/how-to-use-claude-kit, thumbnails guide/creator-thumbnails/how-to-use-claude, writer brief guide/creator-series-kit/WRITER-BRIEF-howtouseclaude.md",
       "watermark": true
     },
     {
@@ -7423,7 +7426,7 @@
       "brand": "HOW TO USE CLAUDE",
       "guide": "new",
       "title": "Claude Research Mode: When to Use It and How to Get a Good Report",
-      "guide_note": "2026-11-14: approved, 7 parts (guide/how-to-use-claude-plan.md); docs only, no hands-on test; posting NOT decided, so nothing uploads until Jabran answers; kit guide/how-to-use-claude-kit, thumbnails guide/creator-thumbnails/how-to-use-claude, writer brief guide/creator-series-kit/WRITER-BRIEF-howtouseclaude.md",
+      "guide_note": "2026-11-14: approved, 7 parts (guide/how-to-use-claude-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); Projects spoken as written (P1); kit guide/how-to-use-claude-kit, thumbnails guide/creator-thumbnails/how-to-use-claude, writer brief guide/creator-series-kit/WRITER-BRIEF-howtouseclaude.md",
       "watermark": true
     },
     {
@@ -7433,7 +7436,7 @@
       "brand": "HOW TO USE CLAUDE",
       "guide": "new",
       "title": "Claude Usage Limits Explained: Why You Hit Them and How to Make Them Last",
-      "guide_note": "2026-11-14: approved, 7 parts (guide/how-to-use-claude-plan.md); docs only, no hands-on test; posting NOT decided, so nothing uploads until Jabran answers; kit guide/how-to-use-claude-kit, thumbnails guide/creator-thumbnails/how-to-use-claude, writer brief guide/creator-series-kit/WRITER-BRIEF-howtouseclaude.md",
+      "guide_note": "2026-11-14: approved, 7 parts (guide/how-to-use-claude-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); Projects spoken as written (P1); kit guide/how-to-use-claude-kit, thumbnails guide/creator-thumbnails/how-to-use-claude, writer brief guide/creator-series-kit/WRITER-BRIEF-howtouseclaude.md",
       "watermark": true
     },
     {
@@ -7443,7 +7446,7 @@
       "brand": "HOW TO USE CLAUDE",
       "guide": "new",
       "title": "Claude Free vs Pro vs Max: Is Paying Worth It in 2026?",
-      "guide_note": "2026-11-14: approved, 7 parts (guide/how-to-use-claude-plan.md); docs only, no hands-on test; posting NOT decided, so nothing uploads until Jabran answers; kit guide/how-to-use-claude-kit, thumbnails guide/creator-thumbnails/how-to-use-claude, writer brief guide/creator-series-kit/WRITER-BRIEF-howtouseclaude.md",
+      "guide_note": "2026-11-14: approved, 7 parts (guide/how-to-use-claude-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); Projects spoken as written (P1); kit guide/how-to-use-claude-kit, thumbnails guide/creator-thumbnails/how-to-use-claude, writer brief guide/creator-series-kit/WRITER-BRIEF-howtouseclaude.md",
       "watermark": true
     }
   ]
