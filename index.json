@@ -7152,11 +7152,14 @@
       "series": "MCP Servers",
       "part": 2,
       "brand": "MCP SERVERS",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Best MCP Servers for Claude Code, and How to Check One Is Safe",
       "guide_note": "2026-11-13: approved, 7 parts (guide/mcp-servers-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/mcp-servers-kit, thumbnails guide/creator-thumbnails/mcp-servers, writer brief guide/creator-series-kit/WRITER-BRIEF-mcpservers.md",
       "watermark": true,
-      "guide_playlist": "PLcnK26WPsihE"
+      "guide_playlist": "PLcnK26WPsihE",
+      "guide_youtube_url": "https://youtu.be/tUQETAjM1p8",
+      "guide_uploaded_on": "2026-11-14",
+      "guide_visibility": "public"
     },
     {
       "name": "MCP Servers 3 - Add an MCP Server",
@@ -7232,33 +7235,42 @@
       "series": "Google AI Studio",
       "part": 2,
       "brand": "GOOGLE AI STUDIO",
-      "guide": "render check",
+      "guide": "posted",
       "title": "Is Google AI Studio Free? Limits, Costs and What Google Does With Your Prompts",
       "guide_note": "2026-11-13: approved, 6 parts (guide/google-ai-studio-plan.md); docs only, no hands-on test; posting: nothing uploads until the channel owner answers the posting question; kit guide/google-ai-studio-kit, thumbnails guide/creator-thumbnails/google-ai-studio, writer brief guide/creator-series-kit/WRITER-BRIEF-googleaistudio.md",
       "watermark": true,
-      "guide_playlist": "PLa0rI9R8V3p8"
+      "guide_playlist": "PLa0rI9R8V3p8",
+      "guide_youtube_url": "https://youtu.be/yp8r3B7ZnYM",
+      "guide_uploaded_on": "2026-11-14",
+      "guide_visibility": "public"
     },
     {
       "name": "Google AI Studio 3 - vs Gemini App",
       "series": "Google AI Studio",
       "part": 3,
       "brand": "GOOGLE AI STUDIO",
-      "guide": "render check",
+      "guide": "posted",
       "title": "Google AI Studio vs the Gemini App: Which One Do You Need?",
       "guide_note": "2026-11-13: approved, 6 parts (guide/google-ai-studio-plan.md); docs only, no hands-on test; posting: nothing uploads until the channel owner answers the posting question; kit guide/google-ai-studio-kit, thumbnails guide/creator-thumbnails/google-ai-studio, writer brief guide/creator-series-kit/WRITER-BRIEF-googleaistudio.md",
       "watermark": true,
-      "guide_playlist": "PLa0rI9R8V3p8"
+      "guide_playlist": "PLa0rI9R8V3p8",
+      "guide_youtube_url": "https://youtu.be/bdCwJ08p33k",
+      "guide_uploaded_on": "2026-11-14",
+      "guide_visibility": "public"
     },
     {
       "name": "Google AI Studio 4 - API Key",
       "series": "Google AI Studio",
       "part": 4,
       "brand": "GOOGLE AI STUDIO",
-      "guide": "render check",
+      "guide": "posted",
       "title": "How to Get a Gemini API Key in Google AI Studio (and Keep It Safe)",
       "guide_note": "2026-11-13: approved, 6 parts (guide/google-ai-studio-plan.md); docs only, no hands-on test; posting: nothing uploads until the channel owner answers the posting question; kit guide/google-ai-studio-kit, thumbnails guide/creator-thumbnails/google-ai-studio, writer brief guide/creator-series-kit/WRITER-BRIEF-googleaistudio.md",
       "watermark": true,
-      "guide_playlist": "PLa0rI9R8V3p8"
+      "guide_playlist": "PLa0rI9R8V3p8",
+      "guide_youtube_url": "https://youtu.be/_YwxXkY8FN8",
+      "guide_uploaded_on": "2026-11-14",
+      "guide_visibility": "public"
     },
     {
       "name": "Google AI Studio 5 - Nano Banana Pro",
