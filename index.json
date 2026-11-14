@@ -7130,11 +7130,14 @@
       "series": "Claude for Work",
       "part": 7,
       "brand": "CLAUDE FOR WORK",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Claude for Legal: Install the Legal Plugin and Review a Contract",
       "guide_note": "2026-11-13: approved, 7 parts (guide/claude-for-work-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-for-work-kit, thumbnails guide/creator-thumbnails/claude-for-work, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeforwork.md",
       "guide_playlist": "PLXhqAnoFIWwQ",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/BKoIRAUbQDs",
+      "guide_uploaded_on": "2026-11-14",
+      "guide_visibility": "public"
     },
     {
       "name": "MCP Servers 1 - What Is MCP",
