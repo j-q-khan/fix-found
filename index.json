@@ -7210,7 +7210,7 @@
       "series": "MCP Servers",
       "part": 5,
       "brand": "MCP SERVERS",
-      "guide": "render check",
+      "guide": "render approved",
       "title": "Figma MCP Server with Claude Code: Turn a Design into Code",
       "guide_note": "2026-11-13: approved, 7 parts (guide/mcp-servers-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/mcp-servers-kit, thumbnails guide/creator-thumbnails/mcp-servers, writer brief guide/creator-series-kit/WRITER-BRIEF-mcpservers.md",
       "watermark": true,
@@ -7374,6 +7374,76 @@
       "guide": "new",
       "title": "Claude Design and Figma: What Works Today, and When to Use Which",
       "guide_note": "2026-11-14: approved, 6 parts (guide/claude-design-plan.md); docs only, no hands-on test; posting NOT decided, so nothing uploads until Jabran answers; kit guide/claude-design-kit, thumbnails guide/creator-thumbnails/claude-design, writer brief guide/creator-series-kit/WRITER-BRIEF-claudedesign.md",
+      "watermark": true
+    },
+    {
+      "name": "How to Use Claude 1 - First Day",
+      "series": "How to Use Claude",
+      "part": 1,
+      "brand": "HOW TO USE CLAUDE",
+      "guide": "new",
+      "title": "How to Use Claude: Your First Day With the App (2026 Beginner Guide)",
+      "guide_note": "2026-11-14: approved, 7 parts (guide/how-to-use-claude-plan.md); docs only, no hands-on test; posting NOT decided, so nothing uploads until Jabran answers; kit guide/how-to-use-claude-kit, thumbnails guide/creator-thumbnails/how-to-use-claude, writer brief guide/creator-series-kit/WRITER-BRIEF-howtouseclaude.md",
+      "watermark": true
+    },
+    {
+      "name": "How to Use Claude 2 - Desktop App",
+      "series": "How to Use Claude",
+      "part": 2,
+      "brand": "HOW TO USE CLAUDE",
+      "guide": "new",
+      "title": "Claude Desktop App for Windows and Mac: Download, Setup and What It Adds",
+      "guide_note": "2026-11-14: approved, 7 parts (guide/how-to-use-claude-plan.md); docs only, no hands-on test; posting NOT decided, so nothing uploads until Jabran answers; kit guide/how-to-use-claude-kit, thumbnails guide/creator-thumbnails/how-to-use-claude, writer brief guide/creator-series-kit/WRITER-BRIEF-howtouseclaude.md",
+      "watermark": true
+    },
+    {
+      "name": "How to Use Claude 3 - Projects",
+      "series": "How to Use Claude",
+      "part": 3,
+      "brand": "HOW TO USE CLAUDE",
+      "guide": "new",
+      "title": "Claude Projects Explained: Set Up Your First Project the Right Way",
+      "guide_note": "2026-11-14: approved, 7 parts (guide/how-to-use-claude-plan.md); docs only, no hands-on test; posting NOT decided, so nothing uploads until Jabran answers; kit guide/how-to-use-claude-kit, thumbnails guide/creator-thumbnails/how-to-use-claude, writer brief guide/creator-series-kit/WRITER-BRIEF-howtouseclaude.md",
+      "watermark": true
+    },
+    {
+      "name": "How to Use Claude 4 - Artifacts",
+      "series": "How to Use Claude",
+      "part": 4,
+      "brand": "HOW TO USE CLAUDE",
+      "guide": "new",
+      "title": "Claude Artifacts Tutorial: Build a Dashboard or Tool From One Prompt",
+      "guide_note": "2026-11-14: approved, 7 parts (guide/how-to-use-claude-plan.md); docs only, no hands-on test; posting NOT decided, so nothing uploads until Jabran answers; kit guide/how-to-use-claude-kit, thumbnails guide/creator-thumbnails/how-to-use-claude, writer brief guide/creator-series-kit/WRITER-BRIEF-howtouseclaude.md",
+      "watermark": true
+    },
+    {
+      "name": "How to Use Claude 5 - Research",
+      "series": "How to Use Claude",
+      "part": 5,
+      "brand": "HOW TO USE CLAUDE",
+      "guide": "new",
+      "title": "Claude Research Mode: When to Use It and How to Get a Good Report",
+      "guide_note": "2026-11-14: approved, 7 parts (guide/how-to-use-claude-plan.md); docs only, no hands-on test; posting NOT decided, so nothing uploads until Jabran answers; kit guide/how-to-use-claude-kit, thumbnails guide/creator-thumbnails/how-to-use-claude, writer brief guide/creator-series-kit/WRITER-BRIEF-howtouseclaude.md",
+      "watermark": true
+    },
+    {
+      "name": "How to Use Claude 6 - Usage Limits",
+      "series": "How to Use Claude",
+      "part": 6,
+      "brand": "HOW TO USE CLAUDE",
+      "guide": "new",
+      "title": "Claude Usage Limits Explained: Why You Hit Them and How to Make Them Last",
+      "guide_note": "2026-11-14: approved, 7 parts (guide/how-to-use-claude-plan.md); docs only, no hands-on test; posting NOT decided, so nothing uploads until Jabran answers; kit guide/how-to-use-claude-kit, thumbnails guide/creator-thumbnails/how-to-use-claude, writer brief guide/creator-series-kit/WRITER-BRIEF-howtouseclaude.md",
+      "watermark": true
+    },
+    {
+      "name": "How to Use Claude 7 - Free vs Pro vs Max",
+      "series": "How to Use Claude",
+      "part": 7,
+      "brand": "HOW TO USE CLAUDE",
+      "guide": "new",
+      "title": "Claude Free vs Pro vs Max: Is Paying Worth It in 2026?",
+      "guide_note": "2026-11-14: approved, 7 parts (guide/how-to-use-claude-plan.md); docs only, no hands-on test; posting NOT decided, so nothing uploads until Jabran answers; kit guide/how-to-use-claude-kit, thumbnails guide/creator-thumbnails/how-to-use-claude, writer brief guide/creator-series-kit/WRITER-BRIEF-howtouseclaude.md",
       "watermark": true
     }
   ]
