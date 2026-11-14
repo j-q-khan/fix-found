@@ -7008,22 +7008,28 @@
       "series": "Claude Code vs",
       "part": 4,
       "brand": "CLAUDE CODE VS",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Claude Code vs Cursor in 2026: Pricing, Claude Models and Who Should Pick Which",
       "guide_note": "2026-11-13: approved, 6 parts (guide/claude-code-vs-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-vs-kit, thumbnails guide/creator-thumbnails/claude-code-vs, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodevs.md",
       "guide_playlist": "PLXgU5buZ-J8I",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/D9SydMKdjGs",
+      "guide_uploaded_on": "2026-11-14",
+      "guide_visibility": "public"
     },
     {
       "name": "Claude Code vs 5 - vs GitHub Copilot",
       "series": "Claude Code vs",
       "part": 5,
       "brand": "CLAUDE CODE VS",
-      "guide": "render check",
+      "guide": "posted",
       "title": "Claude Code vs GitHub Copilot: Copilot CLI, Agent and Pricing Compared",
       "guide_note": "2026-11-13: approved, 6 parts (guide/claude-code-vs-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-vs-kit, thumbnails guide/creator-thumbnails/claude-code-vs, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodevs.md",
       "guide_playlist": "PLXgU5buZ-J8I",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/9bDMNXg_F8Q",
+      "guide_uploaded_on": "2026-11-14",
+      "guide_visibility": "public"
     },
     {
       "name": "Claude Code vs 6 - vs Antigravity 2.0",
