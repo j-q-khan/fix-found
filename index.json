@@ -6922,18 +6922,21 @@
       "series": "Claude Code for Beginners",
       "part": 4,
       "brand": "CLAUDE CODE FOR BEGINNERS",
-      "guide": "new",
+      "guide": "posted",
       "title": "Claude Code Desktop App: Use Claude Code Without the Terminal",
       "guide_note": "2026-11-13: GO (\"no need to wait, post away!\"), 7 parts (guide/claude-code-beginners-plan.md §4a); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-beginners-kit, thumbnails guide/creator-thumbnails/claude-code-beginners, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodebeginners.md",
       "guide_playlist": "PLHGdih6OUQLg",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/e_WH87YnVvM",
+      "guide_uploaded_on": "2026-11-13",
+      "guide_visibility": "public"
     },
     {
       "name": "Claude Code for Beginners 5 - First Website",
       "series": "Claude Code for Beginners",
       "part": 5,
       "brand": "CLAUDE CODE FOR BEGINNERS",
-      "guide": "new",
+      "guide": "render check",
       "title": "Claude Code Tutorial: Build Your First Website, No Coding Needed",
       "guide_note": "2026-11-13: GO (\"no need to wait, post away!\"), 7 parts (guide/claude-code-beginners-plan.md §4a); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-beginners-kit, thumbnails guide/creator-thumbnails/claude-code-beginners, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodebeginners.md",
       "guide_playlist": "PLHGdih6OUQLg",
@@ -6944,7 +6947,7 @@
       "series": "Claude Code for Beginners",
       "part": 6,
       "brand": "CLAUDE CODE FOR BEGINNERS",
-      "guide": "new",
+      "guide": "render check",
       "title": "Claude Code for Beginners: Build Your First App From Scratch",
       "guide_note": "2026-11-13: GO (\"no need to wait, post away!\"), 7 parts (guide/claude-code-beginners-plan.md §4a); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-beginners-kit, thumbnails guide/creator-thumbnails/claude-code-beginners, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodebeginners.md",
       "guide_playlist": "PLHGdih6OUQLg",
@@ -6955,7 +6958,7 @@
       "series": "Claude Code for Beginners",
       "part": 7,
       "brand": "CLAUDE CODE FOR BEGINNERS",
-      "guide": "new",
+      "guide": "render check",
       "title": "Claude Code Setup: Permissions, Undo and CLAUDE.md, the Settings to Change First",
       "guide_note": "2026-11-13: GO (\"no need to wait, post away!\"), 7 parts (guide/claude-code-beginners-plan.md §4a); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-beginners-kit, thumbnails guide/creator-thumbnails/claude-code-beginners, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodebeginners.md",
       "guide_playlist": "PLHGdih6OUQLg",
@@ -7005,20 +7008,22 @@
       "series": "Claude Code vs",
       "part": 4,
       "brand": "CLAUDE CODE VS",
-      "guide": "new",
+      "guide": "render check",
       "title": "Claude Code vs Cursor in 2026: Pricing, Claude Models and Who Should Pick Which",
       "guide_note": "2026-11-13: approved, 6 parts (guide/claude-code-vs-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-vs-kit, thumbnails guide/creator-thumbnails/claude-code-vs, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodevs.md",
-      "guide_playlist": "PLXgU5buZ-J8I"
+      "guide_playlist": "PLXgU5buZ-J8I",
+      "watermark": true
     },
     {
       "name": "Claude Code vs 5 - vs GitHub Copilot",
       "series": "Claude Code vs",
       "part": 5,
       "brand": "CLAUDE CODE VS",
-      "guide": "new",
+      "guide": "render check",
       "title": "Claude Code vs GitHub Copilot: Copilot CLI, Agent and Pricing Compared",
       "guide_note": "2026-11-13: approved, 6 parts (guide/claude-code-vs-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-vs-kit, thumbnails guide/creator-thumbnails/claude-code-vs, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodevs.md",
-      "guide_playlist": "PLXgU5buZ-J8I"
+      "guide_playlist": "PLXgU5buZ-J8I",
+      "watermark": true
     },
     {
       "name": "Claude Code vs 6 - vs Antigravity 2.0",
@@ -7028,7 +7033,8 @@
       "guide": "new",
       "title": "Claude Code vs Google Antigravity 2.0: Which Coding Agent Fits You?",
       "guide_note": "2026-11-13: approved, 6 parts (guide/claude-code-vs-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-vs-kit, thumbnails guide/creator-thumbnails/claude-code-vs, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodevs.md",
-      "guide_playlist": "PLXgU5buZ-J8I"
+      "guide_playlist": "PLXgU5buZ-J8I",
+      "watermark": true
     },
     {
       "name": "Claude for Work 1 - Excel",
@@ -7076,7 +7082,7 @@
       "series": "Claude for Work",
       "part": 4,
       "brand": "CLAUDE FOR WORK",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Claude for Marketing: Campaign Plans, SEO Audits and Reports",
       "guide_note": "2026-11-13: approved, 7 parts (guide/claude-for-work-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-for-work-kit, thumbnails guide/creator-thumbnails/claude-for-work, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeforwork.md",
       "guide_playlist": "PLXhqAnoFIWwQ",
@@ -7087,7 +7093,7 @@
       "series": "Claude for Work",
       "part": 5,
       "brand": "CLAUDE FOR WORK",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Claude for Sales: Prospecting, Call Prep and Outreach",
       "guide_note": "2026-11-13: approved, 7 parts (guide/claude-for-work-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-for-work-kit, thumbnails guide/creator-thumbnails/claude-for-work, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeforwork.md",
       "guide_playlist": "PLXhqAnoFIWwQ",
@@ -7098,7 +7104,7 @@
       "series": "Claude for Work",
       "part": 6,
       "brand": "CLAUDE FOR WORK",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Claude for Data Analysis: Chat, Cowork or Claude Code?",
       "guide_note": "2026-11-13: approved, 7 parts (guide/claude-for-work-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-for-work-kit, thumbnails guide/creator-thumbnails/claude-for-work, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeforwork.md",
       "guide_playlist": "PLXhqAnoFIWwQ",
@@ -7109,7 +7115,7 @@
       "series": "Claude for Work",
       "part": 7,
       "brand": "CLAUDE FOR WORK",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Claude for Legal: Install the Legal Plugin and Review a Contract",
       "guide_note": "2026-11-13: approved, 7 parts (guide/claude-for-work-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-for-work-kit, thumbnails guide/creator-thumbnails/claude-for-work, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeforwork.md",
       "guide_playlist": "PLXhqAnoFIWwQ",
@@ -7120,20 +7126,25 @@
       "series": "MCP Servers",
       "part": 1,
       "brand": "MCP SERVERS",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "What Is MCP? Model Context Protocol Explained for Beginners (2026)",
       "guide_note": "2026-11-13: approved, 7 parts (guide/mcp-servers-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/mcp-servers-kit, thumbnails guide/creator-thumbnails/mcp-servers, writer brief guide/creator-series-kit/WRITER-BRIEF-mcpservers.md",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/r4YtyIINoD8",
+      "guide_uploaded_on": "2026-11-13",
+      "guide_visibility": "public",
+      "guide_playlist": "PLcnK26WPsihE"
     },
     {
       "name": "MCP Servers 2 - Best MCP Servers",
       "series": "MCP Servers",
       "part": 2,
       "brand": "MCP SERVERS",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Best MCP Servers for Claude Code, and How to Check One Is Safe",
       "guide_note": "2026-11-13: approved, 7 parts (guide/mcp-servers-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/mcp-servers-kit, thumbnails guide/creator-thumbnails/mcp-servers, writer brief guide/creator-series-kit/WRITER-BRIEF-mcpservers.md",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLcnK26WPsihE"
     },
     {
       "name": "MCP Servers 3 - Add an MCP Server",
@@ -7143,7 +7154,8 @@
       "guide": "new",
       "title": "How to Add an MCP Server to Claude Code, Claude Desktop and VS Code",
       "guide_note": "2026-11-13: approved, 7 parts (guide/mcp-servers-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/mcp-servers-kit, thumbnails guide/creator-thumbnails/mcp-servers, writer brief guide/creator-series-kit/WRITER-BRIEF-mcpservers.md",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLcnK26WPsihE"
     },
     {
       "name": "MCP Servers 4 - GitHub MCP Server",
@@ -7153,7 +7165,8 @@
       "guide": "new",
       "title": "GitHub MCP Server with Claude Code and VS Code: Read-Only First",
       "guide_note": "2026-11-13: approved, 7 parts (guide/mcp-servers-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/mcp-servers-kit, thumbnails guide/creator-thumbnails/mcp-servers, writer brief guide/creator-series-kit/WRITER-BRIEF-mcpservers.md",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLcnK26WPsihE"
     },
     {
       "name": "MCP Servers 5 - Figma MCP Server",
@@ -7163,7 +7176,8 @@
       "guide": "new",
       "title": "Figma MCP Server with Claude Code: Turn a Design into Code",
       "guide_note": "2026-11-13: approved, 7 parts (guide/mcp-servers-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/mcp-servers-kit, thumbnails guide/creator-thumbnails/mcp-servers, writer brief guide/creator-series-kit/WRITER-BRIEF-mcpservers.md",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLcnK26WPsihE"
     },
     {
       "name": "MCP Servers 6 - Power BI MCP Server",
@@ -7173,7 +7187,8 @@
       "guide": "new",
       "title": "Power BI MCP Server with Claude: Connect Your Model Safely",
       "guide_note": "2026-11-13: approved, 7 parts (guide/mcp-servers-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/mcp-servers-kit, thumbnails guide/creator-thumbnails/mcp-servers, writer brief guide/creator-series-kit/WRITER-BRIEF-mcpservers.md",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLcnK26WPsihE"
     },
     {
       "name": "MCP Servers 7 - Build an MCP Server in Python",
@@ -7183,7 +7198,8 @@
       "guide": "new",
       "title": "Build Your Own MCP Server in Python (MCP SDK v2)",
       "guide_note": "2026-11-13: approved, 7 parts (guide/mcp-servers-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/mcp-servers-kit, thumbnails guide/creator-thumbnails/mcp-servers, writer brief guide/creator-series-kit/WRITER-BRIEF-mcpservers.md",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLcnK26WPsihE"
     },
     {
       "name": "Google AI Studio 1 - Tutorial",
@@ -7204,7 +7220,7 @@
       "series": "Google AI Studio",
       "part": 2,
       "brand": "GOOGLE AI STUDIO",
-      "guide": "new",
+      "guide": "render check",
       "title": "Is Google AI Studio Free? Limits, Costs and What Google Does With Your Prompts",
       "guide_note": "2026-11-13: approved, 6 parts (guide/google-ai-studio-plan.md); docs only, no hands-on test; posting: nothing uploads until the channel owner answers the posting question; kit guide/google-ai-studio-kit, thumbnails guide/creator-thumbnails/google-ai-studio, writer brief guide/creator-series-kit/WRITER-BRIEF-googleaistudio.md",
       "watermark": true,
@@ -7215,7 +7231,7 @@
       "series": "Google AI Studio",
       "part": 3,
       "brand": "GOOGLE AI STUDIO",
-      "guide": "new",
+      "guide": "render check",
       "title": "Google AI Studio vs the Gemini App: Which One Do You Need?",
       "guide_note": "2026-11-13: approved, 6 parts (guide/google-ai-studio-plan.md); docs only, no hands-on test; posting: nothing uploads until the channel owner answers the posting question; kit guide/google-ai-studio-kit, thumbnails guide/creator-thumbnails/google-ai-studio, writer brief guide/creator-series-kit/WRITER-BRIEF-googleaistudio.md",
       "watermark": true,
@@ -7226,7 +7242,7 @@
       "series": "Google AI Studio",
       "part": 4,
       "brand": "GOOGLE AI STUDIO",
-      "guide": "new",
+      "guide": "render check",
       "title": "How to Get a Gemini API Key in Google AI Studio (and Keep It Safe)",
       "guide_note": "2026-11-13: approved, 6 parts (guide/google-ai-studio-plan.md); docs only, no hands-on test; posting: nothing uploads until the channel owner answers the posting question; kit guide/google-ai-studio-kit, thumbnails guide/creator-thumbnails/google-ai-studio, writer brief guide/creator-series-kit/WRITER-BRIEF-googleaistudio.md",
       "watermark": true,
