@@ -6936,11 +6936,14 @@
       "series": "Claude Code for Beginners",
       "part": 5,
       "brand": "CLAUDE CODE FOR BEGINNERS",
-      "guide": "render check",
+      "guide": "posted",
       "title": "Claude Code Tutorial: Build Your First Website, No Coding Needed",
       "guide_note": "2026-11-13: GO (\"no need to wait, post away!\"), 7 parts (guide/claude-code-beginners-plan.md §4a); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-beginners-kit, thumbnails guide/creator-thumbnails/claude-code-beginners, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodebeginners.md",
       "guide_playlist": "PLHGdih6OUQLg",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/dd4U3gSAl4s",
+      "guide_uploaded_on": "2026-11-14",
+      "guide_visibility": "public"
     },
     {
       "name": "Claude Code for Beginners 6 - First App",
