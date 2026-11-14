@@ -7045,11 +7045,14 @@
       "series": "Claude Code vs",
       "part": 6,
       "brand": "CLAUDE CODE VS",
-      "guide": "new",
+      "guide": "posted",
       "title": "Claude Code vs Google Antigravity 2.0: Which Coding Agent Fits You?",
       "guide_note": "2026-11-13: approved, 6 parts (guide/claude-code-vs-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-vs-kit, thumbnails guide/creator-thumbnails/claude-code-vs, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodevs.md",
       "guide_playlist": "PLXgU5buZ-J8I",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/hTQNoR6_TlM",
+      "guide_uploaded_on": "2026-11-14",
+      "guide_visibility": "public"
     },
     {
       "name": "Claude for Work 1 - Excel",
