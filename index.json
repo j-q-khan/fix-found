@@ -6816,7 +6816,8 @@
       "guide": "new",
       "title": "Hermes Agent Setup: Install It on Windows and Mac the Safe Way",
       "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent",
-      "guide_playlist": "PLSYTkVYd1XrI"
+      "guide_playlist": "PLSYTkVYd1XrI",
+      "watermark": true
     },
     {
       "name": "Hermes Agent 3 - vs OpenClaw",
@@ -7184,11 +7185,14 @@
       "series": "MCP Servers",
       "part": 3,
       "brand": "MCP SERVERS",
-      "guide": "new",
+      "guide": "uploaded private",
       "title": "How to Add an MCP Server to Claude Code, Claude Desktop and VS Code",
       "guide_note": "2026-11-13: approved, 7 parts (guide/mcp-servers-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/mcp-servers-kit, thumbnails guide/creator-thumbnails/mcp-servers, writer brief guide/creator-series-kit/WRITER-BRIEF-mcpservers.md",
       "watermark": true,
-      "guide_playlist": "PLcnK26WPsihE"
+      "guide_playlist": "PLcnK26WPsihE",
+      "guide_youtube_url": "https://youtu.be/xUrppAMXBnQ",
+      "guide_uploaded_on": "2026-11-14",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "MCP Servers 4 - GitHub MCP Server",
@@ -7206,7 +7210,7 @@
       "series": "MCP Servers",
       "part": 5,
       "brand": "MCP SERVERS",
-      "guide": "new",
+      "guide": "render check",
       "title": "Figma MCP Server with Claude Code: Turn a Design into Code",
       "guide_note": "2026-11-13: approved, 7 parts (guide/mcp-servers-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/mcp-servers-kit, thumbnails guide/creator-thumbnails/mcp-servers, writer brief guide/creator-series-kit/WRITER-BRIEF-mcpservers.md",
       "watermark": true,
@@ -7311,6 +7315,66 @@
       "guide_note": "2026-11-13: approved, 6 parts (guide/google-ai-studio-plan.md); docs only, no hands-on test; posting: nothing uploads until the channel owner answers the posting question; kit guide/google-ai-studio-kit, thumbnails guide/creator-thumbnails/google-ai-studio, writer brief guide/creator-series-kit/WRITER-BRIEF-googleaistudio.md",
       "watermark": true,
       "guide_playlist": "PLa0rI9R8V3p8"
+    },
+    {
+      "name": "Claude Design 1 - First Design",
+      "series": "Claude Design",
+      "part": 1,
+      "brand": "CLAUDE DESIGN",
+      "guide": "new",
+      "title": "Claude Design Tutorial for Beginners: Your First Design in Claude (2026)",
+      "guide_note": "2026-11-14: approved, 6 parts (guide/claude-design-plan.md); docs only, no hands-on test; posting NOT decided, so nothing uploads until Jabran answers; kit guide/claude-design-kit, thumbnails guide/creator-thumbnails/claude-design, writer brief guide/creator-series-kit/WRITER-BRIEF-claudedesign.md",
+      "watermark": true
+    },
+    {
+      "name": "Claude Design 2 - Slides",
+      "series": "Claude Design",
+      "part": 2,
+      "brand": "CLAUDE DESIGN",
+      "guide": "new",
+      "title": "Claude Design Slides: Make a Deck in Claude Slides and Export It to PowerPoint",
+      "guide_note": "2026-11-14: approved, 6 parts (guide/claude-design-plan.md); docs only, no hands-on test; posting NOT decided, so nothing uploads until Jabran answers; kit guide/claude-design-kit, thumbnails guide/creator-thumbnails/claude-design, writer brief guide/creator-series-kit/WRITER-BRIEF-claudedesign.md",
+      "watermark": true
+    },
+    {
+      "name": "Claude Design 3 - Websites",
+      "series": "Claude Design",
+      "part": 3,
+      "brand": "CLAUDE DESIGN",
+      "guide": "new",
+      "title": "Claude Design for Websites: Mock Up a Landing Page, Then Hand It to Claude Code",
+      "guide_note": "2026-11-14: approved, 6 parts (guide/claude-design-plan.md); docs only, no hands-on test; posting NOT decided, so nothing uploads until Jabran answers; kit guide/claude-design-kit, thumbnails guide/creator-thumbnails/claude-design, writer brief guide/creator-series-kit/WRITER-BRIEF-claudedesign.md",
+      "watermark": true
+    },
+    {
+      "name": "Claude Design 4 - Logo and Brand Kit",
+      "series": "Claude Design",
+      "part": 4,
+      "brand": "CLAUDE DESIGN",
+      "guide": "new",
+      "title": "Claude Design Logo and Brand Kit: What It Makes, and What You May Not Own",
+      "guide_note": "2026-11-14: approved, 6 parts (guide/claude-design-plan.md); docs only, no hands-on test; posting NOT decided, so nothing uploads until Jabran answers; kit guide/claude-design-kit, thumbnails guide/creator-thumbnails/claude-design, writer brief guide/creator-series-kit/WRITER-BRIEF-claudedesign.md",
+      "watermark": true
+    },
+    {
+      "name": "Claude Design 5 - Design System",
+      "series": "Claude Design",
+      "part": 5,
+      "brand": "CLAUDE DESIGN",
+      "guide": "new",
+      "title": "Claude Design System Tutorial: Make Every Design Match Your Brand",
+      "guide_note": "2026-11-14: approved, 6 parts (guide/claude-design-plan.md); docs only, no hands-on test; posting NOT decided, so nothing uploads until Jabran answers; kit guide/claude-design-kit, thumbnails guide/creator-thumbnails/claude-design, writer brief guide/creator-series-kit/WRITER-BRIEF-claudedesign.md",
+      "watermark": true
+    },
+    {
+      "name": "Claude Design 6 - Figma",
+      "series": "Claude Design",
+      "part": 6,
+      "brand": "CLAUDE DESIGN",
+      "guide": "new",
+      "title": "Claude Design and Figma: What Works Today, and When to Use Which",
+      "guide_note": "2026-11-14: approved, 6 parts (guide/claude-design-plan.md); docs only, no hands-on test; posting NOT decided, so nothing uploads until Jabran answers; kit guide/claude-design-kit, thumbnails guide/creator-thumbnails/claude-design, writer brief guide/creator-series-kit/WRITER-BRIEF-claudedesign.md",
+      "watermark": true
     }
   ]
 }
