@@ -6964,11 +6964,14 @@
       "series": "Claude Code for Beginners",
       "part": 7,
       "brand": "CLAUDE CODE FOR BEGINNERS",
-      "guide": "render check",
+      "guide": "posted",
       "title": "Claude Code Setup: Permissions, Undo and CLAUDE.md, the Settings to Change First",
       "guide_note": "2026-11-13: GO (\"no need to wait, post away!\"), 7 parts (guide/claude-code-beginners-plan.md §4a); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/claude-code-beginners-kit, thumbnails guide/creator-thumbnails/claude-code-beginners, writer brief guide/creator-series-kit/WRITER-BRIEF-claudecodebeginners.md",
       "guide_playlist": "PLHGdih6OUQLg",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/BLfgMUHZwb8",
+      "guide_uploaded_on": "2026-11-14",
+      "guide_visibility": "public"
     },
     {
       "name": "Claude Code vs 1 - Claude vs Code vs Cowork",
