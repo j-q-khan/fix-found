@@ -7450,10 +7450,13 @@
       "series": "How to Use Claude",
       "part": 4,
       "brand": "HOW TO USE CLAUDE",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Claude Artifacts Tutorial: Build a Dashboard or Tool From One Prompt",
       "guide_note": "2026-11-14: approved, 7 parts (guide/how-to-use-claude-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); Projects spoken as written (P1); kit guide/how-to-use-claude-kit, thumbnails guide/creator-thumbnails/how-to-use-claude, writer brief guide/creator-series-kit/WRITER-BRIEF-howtouseclaude.md",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/bsEIxD8ifjU",
+      "guide_uploaded_on": "2026-11-15",
+      "guide_visibility": "public"
     },
     {
       "name": "How to Use Claude 5 - Research",
