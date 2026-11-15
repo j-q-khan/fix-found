@@ -7394,7 +7394,7 @@
       "series": "How to Use Claude",
       "part": 2,
       "brand": "HOW TO USE CLAUDE",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Claude Desktop App for Windows and Mac: Download, Setup and What It Adds",
       "guide_note": "2026-11-14: approved, 7 parts (guide/how-to-use-claude-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); Projects spoken as written (P1); kit guide/how-to-use-claude-kit, thumbnails guide/creator-thumbnails/how-to-use-claude, writer brief guide/creator-series-kit/WRITER-BRIEF-howtouseclaude.md",
       "watermark": true
@@ -7404,7 +7404,7 @@
       "series": "How to Use Claude",
       "part": 3,
       "brand": "HOW TO USE CLAUDE",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Claude Projects Explained: Set Up Your First Project the Right Way",
       "guide_note": "2026-11-14: approved, 7 parts (guide/how-to-use-claude-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); Projects spoken as written (P1); kit guide/how-to-use-claude-kit, thumbnails guide/creator-thumbnails/how-to-use-claude, writer brief guide/creator-series-kit/WRITER-BRIEF-howtouseclaude.md",
       "watermark": true
@@ -7414,7 +7414,7 @@
       "series": "How to Use Claude",
       "part": 4,
       "brand": "HOW TO USE CLAUDE",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Claude Artifacts Tutorial: Build a Dashboard or Tool From One Prompt",
       "guide_note": "2026-11-14: approved, 7 parts (guide/how-to-use-claude-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); Projects spoken as written (P1); kit guide/how-to-use-claude-kit, thumbnails guide/creator-thumbnails/how-to-use-claude, writer brief guide/creator-series-kit/WRITER-BRIEF-howtouseclaude.md",
       "watermark": true
@@ -7424,7 +7424,7 @@
       "series": "How to Use Claude",
       "part": 5,
       "brand": "HOW TO USE CLAUDE",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Claude Research Mode: When to Use It and How to Get a Good Report",
       "guide_note": "2026-11-14: approved, 7 parts (guide/how-to-use-claude-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); Projects spoken as written (P1); kit guide/how-to-use-claude-kit, thumbnails guide/creator-thumbnails/how-to-use-claude, writer brief guide/creator-series-kit/WRITER-BRIEF-howtouseclaude.md",
       "watermark": true
@@ -7434,7 +7434,7 @@
       "series": "How to Use Claude",
       "part": 6,
       "brand": "HOW TO USE CLAUDE",
-      "guide": "new",
+      "guide": "render check",
       "title": "Claude Usage Limits Explained: Why You Hit Them and How to Make Them Last",
       "guide_note": "2026-11-14: approved, 7 parts (guide/how-to-use-claude-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); Projects spoken as written (P1); kit guide/how-to-use-claude-kit, thumbnails guide/creator-thumbnails/how-to-use-claude, writer brief guide/creator-series-kit/WRITER-BRIEF-howtouseclaude.md",
       "watermark": true
@@ -7444,9 +7444,69 @@
       "series": "How to Use Claude",
       "part": 7,
       "brand": "HOW TO USE CLAUDE",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Claude Free vs Pro vs Max: Is Paying Worth It in 2026?",
       "guide_note": "2026-11-14: approved, 7 parts (guide/how-to-use-claude-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); Projects spoken as written (P1); kit guide/how-to-use-claude-kit, thumbnails guide/creator-thumbnails/how-to-use-claude, writer brief guide/creator-series-kit/WRITER-BRIEF-howtouseclaude.md",
+      "watermark": true
+    },
+    {
+      "name": "Fix Claude Code 1 - Usage Limit",
+      "series": "Fix Claude Code",
+      "part": 1,
+      "brand": "FIX CLAUDE CODE",
+      "guide": "new",
+      "title": "Claude Code Usage Limit Reached? What It Means and How to Keep Working",
+      "guide_note": "2026-11-14: approved, 6 Fix parts (guide/fix-claude-code-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); kit guide/fix-claude-code-kit, thumbnails guide/creator-thumbnails/fix-claude-code, writer brief guide/creator-series-kit/WRITER-BRIEF-fixclaudecode.md",
+      "watermark": true
+    },
+    {
+      "name": "Fix Claude Code 2 - Error 529",
+      "series": "Fix Claude Code",
+      "part": 2,
+      "brand": "FIX CLAUDE CODE",
+      "guide": "new",
+      "title": "Claude Code API Error 529 Overloaded and Rate Limits: Is It You or Anthropic?",
+      "guide_note": "2026-11-14: approved, 6 Fix parts (guide/fix-claude-code-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); kit guide/fix-claude-code-kit, thumbnails guide/creator-thumbnails/fix-claude-code, writer brief guide/creator-series-kit/WRITER-BRIEF-fixclaudecode.md",
+      "watermark": true
+    },
+    {
+      "name": "Fix Claude Code 3 - Sign-In",
+      "series": "Fix Claude Code",
+      "part": 3,
+      "brand": "FIX CLAUDE CODE",
+      "guide": "new",
+      "title": "Claude Code Login Expired or Error 401/403? Fix Sign-In Problems",
+      "guide_note": "2026-11-14: approved, 6 Fix parts (guide/fix-claude-code-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); kit guide/fix-claude-code-kit, thumbnails guide/creator-thumbnails/fix-claude-code, writer brief guide/creator-series-kit/WRITER-BRIEF-fixclaudecode.md",
+      "watermark": true
+    },
+    {
+      "name": "Fix Claude Code 4 - Command Not Found",
+      "series": "Fix Claude Code",
+      "part": 4,
+      "brand": "FIX CLAUDE CODE",
+      "guide": "new",
+      "title": "Claude Code Command Not Found After Install: Fix It on Mac and Windows",
+      "guide_note": "2026-11-14: approved, 6 Fix parts (guide/fix-claude-code-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); kit guide/fix-claude-code-kit, thumbnails guide/creator-thumbnails/fix-claude-code, writer brief guide/creator-series-kit/WRITER-BRIEF-fixclaudecode.md",
+      "watermark": true
+    },
+    {
+      "name": "Fix Claude Code 5 - Windows Git Bash",
+      "series": "Fix Claude Code",
+      "part": 5,
+      "brand": "FIX CLAUDE CODE",
+      "guide": "new",
+      "title": "Claude Code on Windows Requires Git Bash? The Error, Fixed (PowerShell Works Too)",
+      "guide_note": "2026-11-14: approved, 6 Fix parts (guide/fix-claude-code-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); kit guide/fix-claude-code-kit, thumbnails guide/creator-thumbnails/fix-claude-code, writer brief guide/creator-series-kit/WRITER-BRIEF-fixclaudecode.md",
+      "watermark": true
+    },
+    {
+      "name": "Fix Claude Code 6 - Context Limit",
+      "series": "Fix Claude Code",
+      "part": 6,
+      "brand": "FIX CLAUDE CODE",
+      "guide": "new",
+      "title": "Claude Code Context Limit Reached: Compact, Clear and Fix Slow Long Sessions",
+      "guide_note": "2026-11-14: approved, 6 Fix parts (guide/fix-claude-code-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); kit guide/fix-claude-code-kit, thumbnails guide/creator-thumbnails/fix-claude-code, writer brief guide/creator-series-kit/WRITER-BRIEF-fixclaudecode.md",
       "watermark": true
     }
   ]
