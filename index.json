@@ -6824,10 +6824,11 @@
       "series": "Hermes Agent",
       "part": 3,
       "brand": "HERMES AGENT",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Hermes Agent vs OpenClaw: Which AI Agent Should You Use?",
       "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent",
-      "guide_playlist": "PLSYTkVYd1XrI"
+      "guide_playlist": "PLSYTkVYd1XrI",
+      "watermark": true
     },
     {
       "name": "Hermes Agent 4 - Desktop and Dashboard",
@@ -6837,7 +6838,8 @@
       "guide": "new",
       "title": "Hermes Agent Desktop App and Dashboard: Setup and Full Tour",
       "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent",
-      "guide_playlist": "PLSYTkVYd1XrI"
+      "guide_playlist": "PLSYTkVYd1XrI",
+      "watermark": true
     },
     {
       "name": "Hermes Agent 5 - Ollama",
@@ -6847,7 +6849,8 @@
       "guide": "new",
       "title": "Hermes Agent with Ollama: Run It Free on Local Models",
       "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent",
-      "guide_playlist": "PLSYTkVYd1XrI"
+      "guide_playlist": "PLSYTkVYd1XrI",
+      "watermark": true
     },
     {
       "name": "Hermes Agent 6 - Skills",
@@ -6857,7 +6860,8 @@
       "guide": "new",
       "title": "Hermes Agent Skills: Install, Create and Check Them Safely",
       "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent",
-      "guide_playlist": "PLSYTkVYd1XrI"
+      "guide_playlist": "PLSYTkVYd1XrI",
+      "watermark": true
     },
     {
       "name": "Hermes Agent 7 - Docker Compose",
@@ -6867,7 +6871,8 @@
       "guide": "new",
       "title": "Hermes Agent Docker Setup: Docker Compose Step by Step",
       "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent",
-      "guide_playlist": "PLSYTkVYd1XrI"
+      "guide_playlist": "PLSYTkVYd1XrI",
+      "watermark": true
     },
     {
       "name": "Hermes Agent 8 - Claude",
@@ -6877,7 +6882,8 @@
       "guide": "new",
       "title": "Hermes Agent with Claude: API Key or Claude Subscription?",
       "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent",
-      "guide_playlist": "PLSYTkVYd1XrI"
+      "guide_playlist": "PLSYTkVYd1XrI",
+      "watermark": true
     },
     {
       "name": "Claude Code for Beginners 1 - What and Cost",
@@ -7434,7 +7440,7 @@
       "series": "How to Use Claude",
       "part": 6,
       "brand": "HOW TO USE CLAUDE",
-      "guide": "render check",
+      "guide": "render approved",
       "title": "Claude Usage Limits Explained: Why You Hit Them and How to Make Them Last",
       "guide_note": "2026-11-14: approved, 7 parts (guide/how-to-use-claude-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); Projects spoken as written (P1); kit guide/how-to-use-claude-kit, thumbnails guide/creator-thumbnails/how-to-use-claude, writer brief guide/creator-series-kit/WRITER-BRIEF-howtouseclaude.md",
       "watermark": true
@@ -7454,7 +7460,7 @@
       "series": "Fix Claude Code",
       "part": 1,
       "brand": "FIX CLAUDE CODE",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Claude Code Usage Limit Reached? What It Means and How to Keep Working",
       "guide_note": "2026-11-14: approved, 6 Fix parts (guide/fix-claude-code-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); kit guide/fix-claude-code-kit, thumbnails guide/creator-thumbnails/fix-claude-code, writer brief guide/creator-series-kit/WRITER-BRIEF-fixclaudecode.md",
       "watermark": true
@@ -7464,7 +7470,7 @@
       "series": "Fix Claude Code",
       "part": 2,
       "brand": "FIX CLAUDE CODE",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Claude Code API Error 529 Overloaded and Rate Limits: Is It You or Anthropic?",
       "guide_note": "2026-11-14: approved, 6 Fix parts (guide/fix-claude-code-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); kit guide/fix-claude-code-kit, thumbnails guide/creator-thumbnails/fix-claude-code, writer brief guide/creator-series-kit/WRITER-BRIEF-fixclaudecode.md",
       "watermark": true
@@ -7474,7 +7480,7 @@
       "series": "Fix Claude Code",
       "part": 3,
       "brand": "FIX CLAUDE CODE",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Claude Code Login Expired or Error 401/403? Fix Sign-In Problems",
       "guide_note": "2026-11-14: approved, 6 Fix parts (guide/fix-claude-code-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); kit guide/fix-claude-code-kit, thumbnails guide/creator-thumbnails/fix-claude-code, writer brief guide/creator-series-kit/WRITER-BRIEF-fixclaudecode.md",
       "watermark": true
