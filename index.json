@@ -6827,11 +6827,14 @@
       "series": "Hermes Agent",
       "part": 3,
       "brand": "HERMES AGENT",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Hermes Agent vs OpenClaw: Which AI Agent Should You Use?",
       "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent",
       "guide_playlist": "PLSYTkVYd1XrI",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/lqV1fYmr-2I",
+      "guide_uploaded_on": "2026-11-15",
+      "guide_visibility": "public"
     },
     {
       "name": "Hermes Agent 4 - Desktop and Dashboard",
