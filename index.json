@@ -6813,11 +6813,14 @@
       "series": "Hermes Agent",
       "part": 2,
       "brand": "HERMES AGENT",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Hermes Agent Setup: Install It on Windows and Mac the Safe Way",
       "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent",
       "guide_playlist": "PLSYTkVYd1XrI",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/gdebKsAZ-ts",
+      "guide_uploaded_on": "2026-11-15",
+      "guide_visibility": "public"
     },
     {
       "name": "Hermes Agent 3 - vs OpenClaw",
@@ -7233,22 +7236,28 @@
       "series": "MCP Servers",
       "part": 6,
       "brand": "MCP SERVERS",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Power BI MCP Server with Claude: Connect Your Model Safely",
       "guide_note": "2026-11-13: approved, 7 parts (guide/mcp-servers-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/mcp-servers-kit, thumbnails guide/creator-thumbnails/mcp-servers, writer brief guide/creator-series-kit/WRITER-BRIEF-mcpservers.md",
       "watermark": true,
-      "guide_playlist": "PLcnK26WPsihE"
+      "guide_playlist": "PLcnK26WPsihE",
+      "guide_youtube_url": "https://youtu.be/P6bnTLgp9po",
+      "guide_uploaded_on": "2026-11-15",
+      "guide_visibility": "public"
     },
     {
       "name": "MCP Servers 7 - Build an MCP Server in Python",
       "series": "MCP Servers",
       "part": 7,
       "brand": "MCP SERVERS",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Build Your Own MCP Server in Python (MCP SDK v2)",
       "guide_note": "2026-11-13: approved, 7 parts (guide/mcp-servers-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/mcp-servers-kit, thumbnails guide/creator-thumbnails/mcp-servers, writer brief guide/creator-series-kit/WRITER-BRIEF-mcpservers.md",
       "watermark": true,
-      "guide_playlist": "PLcnK26WPsihE"
+      "guide_playlist": "PLcnK26WPsihE",
+      "guide_youtube_url": "https://youtu.be/3DzGDGUXJBI",
+      "guide_uploaded_on": "2026-11-15",
+      "guide_visibility": "public"
     },
     {
       "name": "Google AI Studio 1 - Tutorial",
@@ -7486,7 +7495,7 @@
       "series": "Fix Claude Code",
       "part": 2,
       "brand": "FIX CLAUDE CODE",
-      "guide": "render approved",
+      "guide": "render check",
       "title": "Claude Code API Error 529 Overloaded and Rate Limits: Is It You or Anthropic?",
       "guide_note": "2026-11-14: approved, 6 Fix parts (guide/fix-claude-code-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); kit guide/fix-claude-code-kit, thumbnails guide/creator-thumbnails/fix-claude-code, writer brief guide/creator-series-kit/WRITER-BRIEF-fixclaudecode.md",
       "watermark": true,
@@ -7497,7 +7506,7 @@
       "series": "Fix Claude Code",
       "part": 3,
       "brand": "FIX CLAUDE CODE",
-      "guide": "render approved",
+      "guide": "render check",
       "title": "Claude Code Login Expired or Error 401/403? Fix Sign-In Problems",
       "guide_note": "2026-11-14: approved, 6 Fix parts (guide/fix-claude-code-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); kit guide/fix-claude-code-kit, thumbnails guide/creator-thumbnails/fix-claude-code, writer brief guide/creator-series-kit/WRITER-BRIEF-fixclaudecode.md",
       "watermark": true,
