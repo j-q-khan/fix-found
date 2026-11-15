@@ -7205,22 +7205,28 @@
       "series": "MCP Servers",
       "part": 4,
       "brand": "MCP SERVERS",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "GitHub MCP Server with Claude Code and VS Code: Read-Only First",
       "guide_note": "2026-11-13: approved, 7 parts (guide/mcp-servers-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/mcp-servers-kit, thumbnails guide/creator-thumbnails/mcp-servers, writer brief guide/creator-series-kit/WRITER-BRIEF-mcpservers.md",
       "watermark": true,
-      "guide_playlist": "PLcnK26WPsihE"
+      "guide_playlist": "PLcnK26WPsihE",
+      "guide_youtube_url": "https://youtu.be/QRdg5dCWUt0",
+      "guide_uploaded_on": "2026-11-15",
+      "guide_visibility": "public"
     },
     {
       "name": "MCP Servers 5 - Figma MCP Server",
       "series": "MCP Servers",
       "part": 5,
       "brand": "MCP SERVERS",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Figma MCP Server with Claude Code: Turn a Design into Code",
       "guide_note": "2026-11-13: approved, 7 parts (guide/mcp-servers-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time; kit guide/mcp-servers-kit, thumbnails guide/creator-thumbnails/mcp-servers, writer brief guide/creator-series-kit/WRITER-BRIEF-mcpservers.md",
       "watermark": true,
-      "guide_playlist": "PLcnK26WPsihE"
+      "guide_playlist": "PLcnK26WPsihE",
+      "guide_youtube_url": "https://youtu.be/ah5iCrbRZcE",
+      "guide_uploaded_on": "2026-11-15",
+      "guide_visibility": "public"
     },
     {
       "name": "MCP Servers 6 - Power BI MCP Server",
@@ -7319,11 +7325,14 @@
       "series": "Google AI Studio",
       "part": 6,
       "brand": "GOOGLE AI STUDIO",
-      "guide": "render check",
+      "guide": "posted",
       "title": "Google AI Studio Build Mode: Make a Web App With Vibe Coding",
       "guide_note": "2026-11-13: approved, 6 parts (guide/google-ai-studio-plan.md); docs only, no hands-on test; posting: nothing uploads until the channel owner answers the posting question; kit guide/google-ai-studio-kit, thumbnails guide/creator-thumbnails/google-ai-studio, writer brief guide/creator-series-kit/WRITER-BRIEF-googleaistudio.md",
       "watermark": true,
-      "guide_playlist": "PLa0rI9R8V3p8"
+      "guide_playlist": "PLa0rI9R8V3p8",
+      "guide_youtube_url": "https://youtu.be/95oyasVAW-4",
+      "guide_uploaded_on": "2026-11-15",
+      "guide_visibility": "public"
     },
     {
       "name": "Claude Design 1 - First Design",
