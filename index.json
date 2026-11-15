@@ -7469,10 +7469,14 @@
       "series": "Fix Claude Code",
       "part": 1,
       "brand": "FIX CLAUDE CODE",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Claude Code Usage Limit Reached? What It Means and How to Keep Working",
       "guide_note": "2026-11-14: approved, 6 Fix parts (guide/fix-claude-code-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); kit guide/fix-claude-code-kit, thumbnails guide/creator-thumbnails/fix-claude-code, writer brief guide/creator-series-kit/WRITER-BRIEF-fixclaudecode.md",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/8-3t30cGe_o",
+      "guide_uploaded_on": "2026-11-15",
+      "guide_visibility": "public",
+      "guide_playlist": "PLbFYdjJzzNbs"
     },
     {
       "name": "Fix Claude Code 2 - Error 529",
@@ -7482,7 +7486,8 @@
       "guide": "render approved",
       "title": "Claude Code API Error 529 Overloaded and Rate Limits: Is It You or Anthropic?",
       "guide_note": "2026-11-14: approved, 6 Fix parts (guide/fix-claude-code-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); kit guide/fix-claude-code-kit, thumbnails guide/creator-thumbnails/fix-claude-code, writer brief guide/creator-series-kit/WRITER-BRIEF-fixclaudecode.md",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLbFYdjJzzNbs"
     },
     {
       "name": "Fix Claude Code 3 - Sign-In",
@@ -7492,7 +7497,8 @@
       "guide": "render approved",
       "title": "Claude Code Login Expired or Error 401/403? Fix Sign-In Problems",
       "guide_note": "2026-11-14: approved, 6 Fix parts (guide/fix-claude-code-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); kit guide/fix-claude-code-kit, thumbnails guide/creator-thumbnails/fix-claude-code, writer brief guide/creator-series-kit/WRITER-BRIEF-fixclaudecode.md",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLbFYdjJzzNbs"
     },
     {
       "name": "Fix Claude Code 4 - Command Not Found",
@@ -7502,7 +7508,8 @@
       "guide": "new",
       "title": "Claude Code Command Not Found After Install: Fix It on Mac and Windows",
       "guide_note": "2026-11-14: approved, 6 Fix parts (guide/fix-claude-code-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); kit guide/fix-claude-code-kit, thumbnails guide/creator-thumbnails/fix-claude-code, writer brief guide/creator-series-kit/WRITER-BRIEF-fixclaudecode.md",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLbFYdjJzzNbs"
     },
     {
       "name": "Fix Claude Code 5 - Windows Git Bash",
@@ -7512,7 +7519,8 @@
       "guide": "new",
       "title": "Claude Code on Windows Requires Git Bash? The Error, Fixed (PowerShell Works Too)",
       "guide_note": "2026-11-14: approved, 6 Fix parts (guide/fix-claude-code-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); kit guide/fix-claude-code-kit, thumbnails guide/creator-thumbnails/fix-claude-code, writer brief guide/creator-series-kit/WRITER-BRIEF-fixclaudecode.md",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLbFYdjJzzNbs"
     },
     {
       "name": "Fix Claude Code 6 - Context Limit",
@@ -7522,7 +7530,8 @@
       "guide": "new",
       "title": "Claude Code Context Limit Reached: Compact, Clear and Fix Slow Long Sessions",
       "guide_note": "2026-11-14: approved, 6 Fix parts (guide/fix-claude-code-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); kit guide/fix-claude-code-kit, thumbnails guide/creator-thumbnails/fix-claude-code, writer brief guide/creator-series-kit/WRITER-BRIEF-fixclaudecode.md",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLbFYdjJzzNbs"
     }
   ]
 }
