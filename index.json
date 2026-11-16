@@ -7589,11 +7589,14 @@
       "series": "Fix Claude Code",
       "part": 5,
       "brand": "FIX CLAUDE CODE",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Claude Code on Windows Requires Git Bash? The Error, Fixed (PowerShell Works Too)",
       "guide_note": "2026-11-14: approved, 6 Fix parts (guide/fix-claude-code-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); kit guide/fix-claude-code-kit, thumbnails guide/creator-thumbnails/fix-claude-code, writer brief guide/creator-series-kit/WRITER-BRIEF-fixclaudecode.md",
       "watermark": true,
-      "guide_playlist": "PLbFYdjJzzNbs"
+      "guide_playlist": "PLbFYdjJzzNbs",
+      "guide_youtube_url": "https://youtu.be/XeEOy4LMpN4",
+      "guide_uploaded_on": "2026-11-16",
+      "guide_visibility": "public"
     },
     {
       "name": "Fix Claude Code 6 - Context Limit",
@@ -7713,7 +7716,7 @@
       "brand": "BUILD AI AGENTS",
       "guide": "new",
       "title": "AI Agents for Beginners: What Makes an AI an Agent?",
-      "guide_note": "2026-11-16: approved, 6 parts (\"proceed\"; guide/build-ai-agents-plan.md); optional OpenAI Agents SDK part left out; docs only, no hands-on test; posting: not decided, nothing uploads until Jabran answers; pronunciation: samples in renders/voice-samples/build-ai-agents, waiting for his pick; kit guide/build-ai-agents-kit, thumbnails guide/creator-thumbnails/build-ai-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-buildaiagents.md",
+      "guide_note": "2026-11-16: approved, 6 parts (\"proceed\"; guide/build-ai-agents-plan.md); optional OpenAI Agents SDK part left out; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (Jabran 2026-11-16: \"Public when ready, no wait\"); pronunciation (L1, C1, R1, S2): LangGraph, LangChain, CrewAI as written, \"SDK\" undotted; kit guide/build-ai-agents-kit, thumbnails guide/creator-thumbnails/build-ai-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-buildaiagents.md",
       "watermark": true
     },
     {
@@ -7723,7 +7726,7 @@
       "brand": "BUILD AI AGENTS",
       "guide": "new",
       "title": "Claude Agent SDK Python Tutorial: Build Your First Agent",
-      "guide_note": "2026-11-16: approved, 6 parts (\"proceed\"; guide/build-ai-agents-plan.md); optional OpenAI Agents SDK part left out; docs only, no hands-on test; posting: not decided, nothing uploads until Jabran answers; pronunciation: samples in renders/voice-samples/build-ai-agents, waiting for his pick; kit guide/build-ai-agents-kit, thumbnails guide/creator-thumbnails/build-ai-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-buildaiagents.md",
+      "guide_note": "2026-11-16: approved, 6 parts (\"proceed\"; guide/build-ai-agents-plan.md); optional OpenAI Agents SDK part left out; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (Jabran 2026-11-16: \"Public when ready, no wait\"); pronunciation (L1, C1, R1, S2): LangGraph, LangChain, CrewAI as written, \"SDK\" undotted; kit guide/build-ai-agents-kit, thumbnails guide/creator-thumbnails/build-ai-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-buildaiagents.md",
       "watermark": true
     },
     {
@@ -7733,7 +7736,7 @@
       "brand": "BUILD AI AGENTS",
       "guide": "new",
       "title": "LangGraph Tutorial for Beginners: Your First Agent Graph",
-      "guide_note": "2026-11-16: approved, 6 parts (\"proceed\"; guide/build-ai-agents-plan.md); optional OpenAI Agents SDK part left out; docs only, no hands-on test; posting: not decided, nothing uploads until Jabran answers; pronunciation: samples in renders/voice-samples/build-ai-agents, waiting for his pick; kit guide/build-ai-agents-kit, thumbnails guide/creator-thumbnails/build-ai-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-buildaiagents.md",
+      "guide_note": "2026-11-16: approved, 6 parts (\"proceed\"; guide/build-ai-agents-plan.md); optional OpenAI Agents SDK part left out; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (Jabran 2026-11-16: \"Public when ready, no wait\"); pronunciation (L1, C1, R1, S2): LangGraph, LangChain, CrewAI as written, \"SDK\" undotted; kit guide/build-ai-agents-kit, thumbnails guide/creator-thumbnails/build-ai-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-buildaiagents.md",
       "watermark": true
     },
     {
@@ -7743,7 +7746,7 @@
       "brand": "BUILD AI AGENTS",
       "guide": "new",
       "title": "LangChain vs LangGraph vs Deep Agents: Which One When?",
-      "guide_note": "2026-11-16: approved, 6 parts (\"proceed\"; guide/build-ai-agents-plan.md); optional OpenAI Agents SDK part left out; docs only, no hands-on test; posting: not decided, nothing uploads until Jabran answers; pronunciation: samples in renders/voice-samples/build-ai-agents, waiting for his pick; kit guide/build-ai-agents-kit, thumbnails guide/creator-thumbnails/build-ai-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-buildaiagents.md",
+      "guide_note": "2026-11-16: approved, 6 parts (\"proceed\"; guide/build-ai-agents-plan.md); optional OpenAI Agents SDK part left out; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (Jabran 2026-11-16: \"Public when ready, no wait\"); pronunciation (L1, C1, R1, S2): LangGraph, LangChain, CrewAI as written, \"SDK\" undotted; kit guide/build-ai-agents-kit, thumbnails guide/creator-thumbnails/build-ai-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-buildaiagents.md",
       "watermark": true
     },
     {
@@ -7753,7 +7756,7 @@
       "brand": "BUILD AI AGENTS",
       "guide": "new",
       "title": "CrewAI Tutorial: Build a Team of AI Agents in Python",
-      "guide_note": "2026-11-16: approved, 6 parts (\"proceed\"; guide/build-ai-agents-plan.md); optional OpenAI Agents SDK part left out; docs only, no hands-on test; posting: not decided, nothing uploads until Jabran answers; pronunciation: samples in renders/voice-samples/build-ai-agents, waiting for his pick; kit guide/build-ai-agents-kit, thumbnails guide/creator-thumbnails/build-ai-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-buildaiagents.md",
+      "guide_note": "2026-11-16: approved, 6 parts (\"proceed\"; guide/build-ai-agents-plan.md); optional OpenAI Agents SDK part left out; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (Jabran 2026-11-16: \"Public when ready, no wait\"); pronunciation (L1, C1, R1, S2): LangGraph, LangChain, CrewAI as written, \"SDK\" undotted; kit guide/build-ai-agents-kit, thumbnails guide/creator-thumbnails/build-ai-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-buildaiagents.md",
       "watermark": true
     },
     {
@@ -7763,7 +7766,7 @@
       "brand": "BUILD AI AGENTS",
       "guide": "new",
       "title": "Claude Agent SDK vs LangGraph vs CrewAI: Which Should You Use?",
-      "guide_note": "2026-11-16: approved, 6 parts (\"proceed\"; guide/build-ai-agents-plan.md); optional OpenAI Agents SDK part left out; docs only, no hands-on test; posting: not decided, nothing uploads until Jabran answers; pronunciation: samples in renders/voice-samples/build-ai-agents, waiting for his pick; kit guide/build-ai-agents-kit, thumbnails guide/creator-thumbnails/build-ai-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-buildaiagents.md",
+      "guide_note": "2026-11-16: approved, 6 parts (\"proceed\"; guide/build-ai-agents-plan.md); optional OpenAI Agents SDK part left out; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (Jabran 2026-11-16: \"Public when ready, no wait\"); pronunciation (L1, C1, R1, S2): LangGraph, LangChain, CrewAI as written, \"SDK\" undotted; kit guide/build-ai-agents-kit, thumbnails guide/creator-thumbnails/build-ai-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-buildaiagents.md",
       "watermark": true
     }
   ]
