@@ -7814,7 +7814,7 @@
       "series": "Build AI Agents",
       "part": 6,
       "brand": "BUILD AI AGENTS",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Claude Agent SDK vs LangGraph vs CrewAI: Which Should You Use?",
       "guide_note": "2026-11-16: approved, 6 parts (\"proceed\"; guide/build-ai-agents-plan.md); optional OpenAI Agents SDK part left out; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (Jabran 2026-11-16: \"Public when ready, no wait\"); pronunciation (L1, C1, R1, S2): LangGraph, LangChain, CrewAI as written, \"SDK\" undotted; kit guide/build-ai-agents-kit, thumbnails guide/creator-thumbnails/build-ai-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-buildaiagents.md",
       "watermark": true
