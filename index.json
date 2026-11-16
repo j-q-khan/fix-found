@@ -6902,7 +6902,7 @@
       "series": "Hermes Agent",
       "part": 9,
       "brand": "HERMES AGENT",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Hermes Agent Dashboard: Setup, Full Tour and Keeping It Local",
       "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent 2026-11-15: Part 4 split under the 7-minute rule (his pick): desktop app stays Part 4, dashboard is the new Part 9.",
       "guide_playlist": "PLSYTkVYd1XrI",
@@ -7731,7 +7731,7 @@
       "series": "Give Claude New Abilities",
       "part": 8,
       "brand": "NEW ABILITIES",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Claude Computer Use: Let Claude Control Your Computer, Safely",
       "guide_note": "2026-11-15: approved, 10 parts (guide/claude-new-abilities-plan.md); titles lead with high-score phrases; Roblox dropped; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (Jabran 2026-11-15); pronunciation: names as written, \"whisper dot C.P.P.\", \"Y.T. dash D.L.P.\", \"F.F. mpeg\"; kit guide/claude-new-abilities-kit, thumbnails guide/creator-thumbnails/claude-new-abilities, writer brief guide/creator-series-kit/WRITER-BRIEF-claudenewabilities.md",
       "watermark": true,
@@ -7774,7 +7774,7 @@
       "series": "Build AI Agents",
       "part": 2,
       "brand": "BUILD AI AGENTS",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Claude Agent SDK Python Tutorial: Build Your First Agent",
       "guide_note": "2026-11-16: approved, 6 parts (\"proceed\"; guide/build-ai-agents-plan.md); optional OpenAI Agents SDK part left out; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (Jabran 2026-11-16: \"Public when ready, no wait\"); pronunciation (L1, C1, R1, S2): LangGraph, LangChain, CrewAI as written, \"SDK\" undotted; kit guide/build-ai-agents-kit, thumbnails guide/creator-thumbnails/build-ai-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-buildaiagents.md",
       "watermark": true
@@ -7784,7 +7784,7 @@
       "series": "Build AI Agents",
       "part": 3,
       "brand": "BUILD AI AGENTS",
-      "guide": "new",
+      "guide": "render approved",
       "title": "LangGraph Tutorial for Beginners: Your First Agent Graph",
       "guide_note": "2026-11-16: approved, 6 parts (\"proceed\"; guide/build-ai-agents-plan.md); optional OpenAI Agents SDK part left out; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (Jabran 2026-11-16: \"Public when ready, no wait\"); pronunciation (L1, C1, R1, S2): LangGraph, LangChain, CrewAI as written, \"SDK\" undotted; kit guide/build-ai-agents-kit, thumbnails guide/creator-thumbnails/build-ai-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-buildaiagents.md",
       "watermark": true
@@ -7794,7 +7794,7 @@
       "series": "Build AI Agents",
       "part": 4,
       "brand": "BUILD AI AGENTS",
-      "guide": "new",
+      "guide": "render approved",
       "title": "LangChain vs LangGraph vs Deep Agents: Which One When?",
       "guide_note": "2026-11-16: approved, 6 parts (\"proceed\"; guide/build-ai-agents-plan.md); optional OpenAI Agents SDK part left out; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (Jabran 2026-11-16: \"Public when ready, no wait\"); pronunciation (L1, C1, R1, S2): LangGraph, LangChain, CrewAI as written, \"SDK\" undotted; kit guide/build-ai-agents-kit, thumbnails guide/creator-thumbnails/build-ai-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-buildaiagents.md",
       "watermark": true
@@ -7804,7 +7804,7 @@
       "series": "Build AI Agents",
       "part": 5,
       "brand": "BUILD AI AGENTS",
-      "guide": "new",
+      "guide": "render approved",
       "title": "CrewAI Tutorial: Build a Team of AI Agents in Python",
       "guide_note": "2026-11-16: approved, 6 parts (\"proceed\"; guide/build-ai-agents-plan.md); optional OpenAI Agents SDK part left out; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (Jabran 2026-11-16: \"Public when ready, no wait\"); pronunciation (L1, C1, R1, S2): LangGraph, LangChain, CrewAI as written, \"SDK\" undotted; kit guide/build-ai-agents-kit, thumbnails guide/creator-thumbnails/build-ai-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-buildaiagents.md",
       "watermark": true
@@ -7826,7 +7826,7 @@
       "brand": "RUN OPEN MODELS",
       "guide": "new",
       "title": "Local LLM for Beginners: Run AI on Your Own PC or Mac with LM Studio",
-      "guide_note": "2026-11-16: approved, 5 parts (\"OK, drop any low searched videos\"; guide/open-models-plan.md, Final titles); LM Studio vs Ollama and OpenRouter with Claude Code cut for low search; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (\"Deploy at will\"); pronunciation PENDING Jabran's pick for Qwen, Kimi, DeepSeek, OpenRouter and LM Studio (samples in renders/voice-samples/open-models/), Ollama, Claude and Codex as written; kit guide/open-models-kit, thumbnails guide/creator-thumbnails/open-models, writer brief guide/creator-series-kit/WRITER-BRIEF-openmodels.md",
+      "guide_note": "2026-11-16: approved, 5 parts (\"OK, drop any low searched videos\"; guide/open-models-plan.md, Final titles); LM Studio vs Ollama and OpenRouter with Claude Code cut for low search; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (\"Deploy at will\"); pronunciation: Qwen, Kimi, DeepSeek, OpenRouter, LM Studio all as written (his picks Q1 K1 D1 O1 L1, 2026-11-16), Ollama, Claude and Codex as written; kit guide/open-models-kit, thumbnails guide/creator-thumbnails/open-models, writer brief guide/creator-series-kit/WRITER-BRIEF-openmodels.md",
       "watermark": true
     },
     {
@@ -7836,7 +7836,7 @@
       "brand": "RUN OPEN MODELS",
       "guide": "new",
       "title": "Best Local LLM for 8GB or 16GB: Pick a Model That Fits Your Computer",
-      "guide_note": "2026-11-16: approved, 5 parts (\"OK, drop any low searched videos\"; guide/open-models-plan.md, Final titles); LM Studio vs Ollama and OpenRouter with Claude Code cut for low search; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (\"Deploy at will\"); pronunciation PENDING Jabran's pick for Qwen, Kimi, DeepSeek, OpenRouter and LM Studio (samples in renders/voice-samples/open-models/), Ollama, Claude and Codex as written; kit guide/open-models-kit, thumbnails guide/creator-thumbnails/open-models, writer brief guide/creator-series-kit/WRITER-BRIEF-openmodels.md",
+      "guide_note": "2026-11-16: approved, 5 parts (\"OK, drop any low searched videos\"; guide/open-models-plan.md, Final titles); LM Studio vs Ollama and OpenRouter with Claude Code cut for low search; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (\"Deploy at will\"); pronunciation: Qwen, Kimi, DeepSeek, OpenRouter, LM Studio all as written (his picks Q1 K1 D1 O1 L1, 2026-11-16), Ollama, Claude and Codex as written; kit guide/open-models-kit, thumbnails guide/creator-thumbnails/open-models, writer brief guide/creator-series-kit/WRITER-BRIEF-openmodels.md",
       "watermark": true
     },
     {
@@ -7846,7 +7846,7 @@
       "brand": "RUN OPEN MODELS",
       "guide": "new",
       "title": "DeepSeek V4 vs Claude: Price, Privacy and Who Should Use Which",
-      "guide_note": "2026-11-16: approved, 5 parts (\"OK, drop any low searched videos\"; guide/open-models-plan.md, Final titles); LM Studio vs Ollama and OpenRouter with Claude Code cut for low search; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (\"Deploy at will\"); pronunciation PENDING Jabran's pick for Qwen, Kimi, DeepSeek, OpenRouter and LM Studio (samples in renders/voice-samples/open-models/), Ollama, Claude and Codex as written; kit guide/open-models-kit, thumbnails guide/creator-thumbnails/open-models, writer brief guide/creator-series-kit/WRITER-BRIEF-openmodels.md",
+      "guide_note": "2026-11-16: approved, 5 parts (\"OK, drop any low searched videos\"; guide/open-models-plan.md, Final titles); LM Studio vs Ollama and OpenRouter with Claude Code cut for low search; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (\"Deploy at will\"); pronunciation: Qwen, Kimi, DeepSeek, OpenRouter, LM Studio all as written (his picks Q1 K1 D1 O1 L1, 2026-11-16), Ollama, Claude and Codex as written; kit guide/open-models-kit, thumbnails guide/creator-thumbnails/open-models, writer brief guide/creator-series-kit/WRITER-BRIEF-openmodels.md",
       "watermark": true
     },
     {
@@ -7856,7 +7856,7 @@
       "brand": "RUN OPEN MODELS",
       "guide": "new",
       "title": "Qwen 3.8 and Kimi K3: The Other Open Models and Their Licences",
-      "guide_note": "2026-11-16: approved, 5 parts (\"OK, drop any low searched videos\"; guide/open-models-plan.md, Final titles); LM Studio vs Ollama and OpenRouter with Claude Code cut for low search; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (\"Deploy at will\"); pronunciation PENDING Jabran's pick for Qwen, Kimi, DeepSeek, OpenRouter and LM Studio (samples in renders/voice-samples/open-models/), Ollama, Claude and Codex as written; kit guide/open-models-kit, thumbnails guide/creator-thumbnails/open-models, writer brief guide/creator-series-kit/WRITER-BRIEF-openmodels.md",
+      "guide_note": "2026-11-16: approved, 5 parts (\"OK, drop any low searched videos\"; guide/open-models-plan.md, Final titles); LM Studio vs Ollama and OpenRouter with Claude Code cut for low search; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (\"Deploy at will\"); pronunciation: Qwen, Kimi, DeepSeek, OpenRouter, LM Studio all as written (his picks Q1 K1 D1 O1 L1, 2026-11-16), Ollama, Claude and Codex as written; kit guide/open-models-kit, thumbnails guide/creator-thumbnails/open-models, writer brief guide/creator-series-kit/WRITER-BRIEF-openmodels.md",
       "watermark": true
     },
     {
@@ -7866,7 +7866,57 @@
       "brand": "RUN OPEN MODELS",
       "guide": "new",
       "title": "OpenRouter Tutorial: One API Key for DeepSeek, Qwen, Kimi and Claude",
-      "guide_note": "2026-11-16: approved, 5 parts (\"OK, drop any low searched videos\"; guide/open-models-plan.md, Final titles); LM Studio vs Ollama and OpenRouter with Claude Code cut for low search; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (\"Deploy at will\"); pronunciation PENDING Jabran's pick for Qwen, Kimi, DeepSeek, OpenRouter and LM Studio (samples in renders/voice-samples/open-models/), Ollama, Claude and Codex as written; kit guide/open-models-kit, thumbnails guide/creator-thumbnails/open-models, writer brief guide/creator-series-kit/WRITER-BRIEF-openmodels.md",
+      "guide_note": "2026-11-16: approved, 5 parts (\"OK, drop any low searched videos\"; guide/open-models-plan.md, Final titles); LM Studio vs Ollama and OpenRouter with Claude Code cut for low search; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (\"Deploy at will\"); pronunciation: Qwen, Kimi, DeepSeek, OpenRouter, LM Studio all as written (his picks Q1 K1 D1 O1 L1, 2026-11-16), Ollama, Claude and Codex as written; kit guide/open-models-kit, thumbnails guide/creator-thumbnails/open-models, writer brief guide/creator-series-kit/WRITER-BRIEF-openmodels.md",
+      "watermark": true
+    },
+    {
+      "name": "AI Automation with n8n 1 - Install with Docker",
+      "series": "AI Automation with n8n",
+      "part": 1,
+      "brand": "AI AUTOMATION WITH n8n",
+      "guide": "new",
+      "title": "n8n Tutorial for Beginners: Install n8n Free with Docker",
+      "guide_note": "2026-11-16: approved, 5 parts (guide/n8n-ai-automation-plan.md); comparison part left out; docs only, no testing; posting: public as each part passes every gate, one at a time, after the quota reset; n8n spoken 'n-eight-n'; kit guide/n8n-ai-automation-kit, thumbnails guide/creator-thumbnails/n8n-ai-automation, writer brief guide/creator-series-kit/WRITER-BRIEF-n8naiautomation.md",
+      "watermark": true
+    },
+    {
+      "name": "AI Automation with n8n 2 - First Workflow",
+      "series": "AI Automation with n8n",
+      "part": 2,
+      "brand": "AI AUTOMATION WITH n8n",
+      "guide": "new",
+      "title": "n8n Workflow Tutorial: Build Your First Automation",
+      "guide_note": "2026-11-16: approved, 5 parts (guide/n8n-ai-automation-plan.md); comparison part left out; docs only, no testing; posting: public as each part passes every gate, one at a time, after the quota reset; n8n spoken 'n-eight-n'; kit guide/n8n-ai-automation-kit, thumbnails guide/creator-thumbnails/n8n-ai-automation, writer brief guide/creator-series-kit/WRITER-BRIEF-n8naiautomation.md",
+      "watermark": true
+    },
+    {
+      "name": "AI Automation with n8n 3 - AI Agent with Claude",
+      "series": "AI Automation with n8n",
+      "part": 3,
+      "brand": "AI AUTOMATION WITH n8n",
+      "guide": "new",
+      "title": "n8n AI Agent Tutorial: Build an AI Agent with Claude",
+      "guide_note": "2026-11-16: approved, 5 parts (guide/n8n-ai-automation-plan.md); comparison part left out; docs only, no testing; posting: public as each part passes every gate, one at a time, after the quota reset; n8n spoken 'n-eight-n'; kit guide/n8n-ai-automation-kit, thumbnails guide/creator-thumbnails/n8n-ai-automation, writer brief guide/creator-series-kit/WRITER-BRIEF-n8naiautomation.md",
+      "watermark": true
+    },
+    {
+      "name": "AI Automation with n8n 4 - MCP Server",
+      "series": "AI Automation with n8n",
+      "part": 4,
+      "brand": "AI AUTOMATION WITH n8n",
+      "guide": "new",
+      "title": "n8n MCP Server: Connect Claude to Your Workflows",
+      "guide_note": "2026-11-16: approved, 5 parts (guide/n8n-ai-automation-plan.md); comparison part left out; docs only, no testing; posting: public as each part passes every gate, one at a time, after the quota reset; n8n spoken 'n-eight-n'; kit guide/n8n-ai-automation-kit, thumbnails guide/creator-thumbnails/n8n-ai-automation, writer brief guide/creator-series-kit/WRITER-BRIEF-n8naiautomation.md",
+      "watermark": true
+    },
+    {
+      "name": "AI Automation with n8n 5 - Claude Code",
+      "series": "AI Automation with n8n",
+      "part": 5,
+      "brand": "AI AUTOMATION WITH n8n",
+      "guide": "new",
+      "title": "n8n Claude Code Tutorial: Build Workflows by Asking",
+      "guide_note": "2026-11-16: approved, 5 parts (guide/n8n-ai-automation-plan.md); comparison part left out; docs only, no testing; posting: public as each part passes every gate, one at a time, after the quota reset; n8n spoken 'n-eight-n'; kit guide/n8n-ai-automation-kit, thumbnails guide/creator-thumbnails/n8n-ai-automation, writer brief guide/creator-series-kit/WRITER-BRIEF-n8naiautomation.md",
       "watermark": true
     }
   ]
