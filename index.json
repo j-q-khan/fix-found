@@ -7606,11 +7606,14 @@
       "series": "Fix Claude Code",
       "part": 6,
       "brand": "FIX CLAUDE CODE",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Claude Code Context Limit Reached: Compact, Clear and Fix Slow Long Sessions",
       "guide_note": "2026-11-14: approved, 6 Fix parts (guide/fix-claude-code-plan.md); docs only, no hands-on test; posting: autopost public when every gate passes, one at a time (Jabran 2026-11-14); kit guide/fix-claude-code-kit, thumbnails guide/creator-thumbnails/fix-claude-code, writer brief guide/creator-series-kit/WRITER-BRIEF-fixclaudecode.md",
       "watermark": true,
-      "guide_playlist": "PLbFYdjJzzNbs"
+      "guide_playlist": "PLbFYdjJzzNbs",
+      "guide_youtube_url": "https://youtu.be/wZqsQz1H7bc",
+      "guide_uploaded_on": "2026-11-16",
+      "guide_visibility": "public"
     },
     {
       "name": "Give Claude New Abilities 1 - Obsidian",
