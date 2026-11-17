@@ -8227,6 +8227,66 @@
       "title": "Notion AI vs ChatGPT vs Claude: Which One for Your Notes?",
       "guide_note": "2026-11-17: approved, 7 parts (guide/notion-ai-plan.md); docs only, nothing signed up for, installed or run, any output labelled \"Example output\"; \"Notion\" spoken as written, no samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/notion-ai-kit, thumbnails guide/creator-thumbnails/notion-ai, writer brief guide/creator-series-kit/WRITER-BRIEF-notionai.md, images guide/notion-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
       "watermark": true
+    },
+    {
+      "name": "Prompt Engineering 1 - For Beginners",
+      "series": "Prompt Engineering",
+      "part": 1,
+      "brand": "PROMPT ENGINEERING",
+      "guide": "new",
+      "title": "Prompt Engineering for Beginners: How to Write a Prompt That Works",
+      "guide_note": "2026-11-17: approved, 6 parts (guide/prompt-engineering-plan.md); level: Novice; docs only, drawn boards and \"Example output\"; posting: public as each part passes every gate, one at a time (autopost); kit guide/prompt-engineering-kit, thumbnail guide/creator-thumbnails/prompt-engineering/01.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-promptengineering.md",
+      "watermark": true
+    },
+    {
+      "name": "Prompt Engineering 2 - Prompting Claude",
+      "series": "Prompt Engineering",
+      "part": 2,
+      "brand": "PROMPT ENGINEERING",
+      "guide": "new",
+      "title": "Prompt Engineering for Claude: What Anthropic's Own Guide Says",
+      "guide_note": "2026-11-17: approved, 6 parts (guide/prompt-engineering-plan.md); level: Novice; docs only, drawn boards and \"Example output\"; posting: public as each part passes every gate, one at a time (autopost); kit guide/prompt-engineering-kit, thumbnail guide/creator-thumbnails/prompt-engineering/02.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-promptengineering.md",
+      "watermark": true
+    },
+    {
+      "name": "Prompt Engineering 3 - Prompting ChatGPT",
+      "series": "Prompt Engineering",
+      "part": 3,
+      "brand": "PROMPT ENGINEERING",
+      "guide": "new",
+      "title": "Prompt Engineering for ChatGPT: What OpenAI's Own Guide Says",
+      "guide_note": "2026-11-17: approved, 6 parts (guide/prompt-engineering-plan.md); level: Novice; docs only, drawn boards and \"Example output\"; posting: public as each part passes every gate, one at a time (autopost); kit guide/prompt-engineering-kit, thumbnail guide/creator-thumbnails/prompt-engineering/03.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-promptengineering.md",
+      "watermark": true
+    },
+    {
+      "name": "Prompt Engineering 4 - Few-Shot Examples and XML Tags",
+      "series": "Prompt Engineering",
+      "part": 4,
+      "brand": "PROMPT ENGINEERING",
+      "guide": "new",
+      "title": "Prompt Engineering Tutorial: Few-Shot Examples and XML Tags, Before and After",
+      "guide_note": "2026-11-17: approved, 6 parts (guide/prompt-engineering-plan.md); level: Mid level; docs only, drawn boards and \"Example output\"; posting: public as each part passes every gate, one at a time (autopost); kit guide/prompt-engineering-kit, thumbnail guide/creator-thumbnails/prompt-engineering/04.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-promptengineering.md",
+      "watermark": true
+    },
+    {
+      "name": "Prompt Engineering 5 - System Prompt Explained",
+      "series": "Prompt Engineering",
+      "part": 5,
+      "brand": "PROMPT ENGINEERING",
+      "guide": "new",
+      "title": "System Prompt Explained: Set One Up in Claude and ChatGPT",
+      "guide_note": "2026-11-17: approved, 6 parts (guide/prompt-engineering-plan.md); level: Mid level; docs only, drawn boards and \"Example output\"; posting: public as each part passes every gate, one at a time (autopost); kit guide/prompt-engineering-kit, thumbnail guide/creator-thumbnails/prompt-engineering/05.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-promptengineering.md",
+      "watermark": true
+    },
+    {
+      "name": "Prompt Engineering 6 - Context vs Prompt Engineering",
+      "series": "Prompt Engineering",
+      "part": 6,
+      "brand": "PROMPT ENGINEERING",
+      "guide": "new",
+      "title": "Context Engineering vs Prompt Engineering: What Changed and Why",
+      "guide_note": "2026-11-17: approved, 6 parts (guide/prompt-engineering-plan.md); level: Mid level; docs only, drawn boards and \"Example output\"; posting: public as each part passes every gate, one at a time (autopost); kit guide/prompt-engineering-kit, thumbnail guide/creator-thumbnails/prompt-engineering/06.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-promptengineering.md",
+      "watermark": true
     }
   ]
 }
