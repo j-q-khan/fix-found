@@ -6911,11 +6911,14 @@
       "series": "Hermes Agent",
       "part": 9,
       "brand": "HERMES AGENT",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Hermes Agent Dashboard: Setup, Full Tour and Keeping It Local",
       "guide_note": "2026-11-12: approved, 8 parts (guide/hermes-agent-plan.md); docs only, no hands-on test; order of work: Part 1 only, then wait (\"Make video 1 then wait\"); posting: Part 1 posts public when every gate passes (\"No, you can upload\"); kit guide/hermes-agent-kit, thumbnails guide/creator-thumbnails/hermes-agent 2026-11-15: Part 4 split under the 7-minute rule (his pick): desktop app stays Part 4, dashboard is the new Part 9.",
       "guide_playlist": "PLSYTkVYd1XrI",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/wcD9OejYwLg",
+      "guide_uploaded_on": "2026-11-17",
+      "guide_visibility": "public"
     },
     {
       "name": "Claude Code for Beginners 1 - What and Cost",
@@ -7696,11 +7699,14 @@
       "series": "Give Claude New Abilities",
       "part": 4,
       "brand": "NEW ABILITIES",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Claude Graphify: Turn Your Notes and Code into a Knowledge Graph",
       "guide_note": "2026-11-15: approved, 10 parts (guide/claude-new-abilities-plan.md); titles lead with high-score phrases; Roblox dropped; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (Jabran 2026-11-15); pronunciation: names as written, \"whisper dot C.P.P.\", \"Y.T. dash D.L.P.\", \"F.F. mpeg\"; kit guide/claude-new-abilities-kit, thumbnails guide/creator-thumbnails/claude-new-abilities, writer brief guide/creator-series-kit/WRITER-BRIEF-claudenewabilities.md; 2026-11-15: all gates passed (critic, viewer pass pre-render and final MP4); render approved under the series' standing autopost go",
       "watermark": true,
-      "guide_playlist": "PLezzBhXnVwJc"
+      "guide_playlist": "PLezzBhXnVwJc",
+      "guide_youtube_url": "https://youtu.be/vv8T_xYGNsI",
+      "guide_uploaded_on": "2026-11-17",
+      "guide_visibility": "public"
     },
     {
       "name": "Give Claude New Abilities 5 - Make Videos",
@@ -7833,20 +7839,28 @@
       "series": "Run Open Models",
       "part": 1,
       "brand": "RUN OPEN MODELS",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Local LLM for Beginners: Run AI on Your Own PC or Mac with LM Studio",
       "guide_note": "2026-11-16: approved, 5 parts (\"OK, drop any low searched videos\"; guide/open-models-plan.md, Final titles); LM Studio vs Ollama and OpenRouter with Claude Code cut for low search; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (\"Deploy at will\"); pronunciation: Qwen, Kimi, DeepSeek, OpenRouter, LM Studio all as written (his picks Q1 K1 D1 O1 L1, 2026-11-16), Ollama, Claude and Codex as written; kit guide/open-models-kit, thumbnails guide/creator-thumbnails/open-models, writer brief guide/creator-series-kit/WRITER-BRIEF-openmodels.md",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/wNex6IjdhzI",
+      "guide_uploaded_on": "2026-11-17",
+      "guide_visibility": "public",
+      "guide_playlist": "PLHkUmek0E8ZI"
     },
     {
       "name": "Run Open Models 2 - 8GB or 16GB",
       "series": "Run Open Models",
       "part": 2,
       "brand": "RUN OPEN MODELS",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Best Local LLM for 8GB or 16GB: Pick a Model That Fits Your Computer",
       "guide_note": "2026-11-16: approved, 5 parts (\"OK, drop any low searched videos\"; guide/open-models-plan.md, Final titles); LM Studio vs Ollama and OpenRouter with Claude Code cut for low search; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (\"Deploy at will\"); pronunciation: Qwen, Kimi, DeepSeek, OpenRouter, LM Studio all as written (his picks Q1 K1 D1 O1 L1, 2026-11-16), Ollama, Claude and Codex as written; kit guide/open-models-kit, thumbnails guide/creator-thumbnails/open-models, writer brief guide/creator-series-kit/WRITER-BRIEF-openmodels.md",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/KFtS8D7-yus",
+      "guide_uploaded_on": "2026-11-17",
+      "guide_visibility": "public",
+      "guide_playlist": "PLHkUmek0E8ZI"
     },
     {
       "name": "Run Open Models 3 - DeepSeek vs Claude",
@@ -7856,7 +7870,8 @@
       "guide": "render check",
       "title": "DeepSeek V4 vs Claude: Price, Privacy and Who Should Use Which",
       "guide_note": "2026-11-16: approved, 5 parts (\"OK, drop any low searched videos\"; guide/open-models-plan.md, Final titles); LM Studio vs Ollama and OpenRouter with Claude Code cut for low search; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (\"Deploy at will\"); pronunciation: Qwen, Kimi, DeepSeek, OpenRouter, LM Studio all as written (his picks Q1 K1 D1 O1 L1, 2026-11-16), Ollama, Claude and Codex as written; kit guide/open-models-kit, thumbnails guide/creator-thumbnails/open-models, writer brief guide/creator-series-kit/WRITER-BRIEF-openmodels.md",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLHkUmek0E8ZI"
     },
     {
       "name": "Run Open Models 4 - Qwen and Kimi",
@@ -7866,7 +7881,8 @@
       "guide": "new",
       "title": "Qwen 3.8 and Kimi K3: The Other Open Models and Their Licences",
       "guide_note": "2026-11-16: approved, 5 parts (\"OK, drop any low searched videos\"; guide/open-models-plan.md, Final titles); LM Studio vs Ollama and OpenRouter with Claude Code cut for low search; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (\"Deploy at will\"); pronunciation: Qwen, Kimi, DeepSeek, OpenRouter, LM Studio all as written (his picks Q1 K1 D1 O1 L1, 2026-11-16), Ollama, Claude and Codex as written; kit guide/open-models-kit, thumbnails guide/creator-thumbnails/open-models, writer brief guide/creator-series-kit/WRITER-BRIEF-openmodels.md",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLHkUmek0E8ZI"
     },
     {
       "name": "Run Open Models 5 - OpenRouter",
@@ -7876,7 +7892,8 @@
       "guide": "new",
       "title": "OpenRouter Tutorial: One API Key for DeepSeek, Qwen, Kimi and Claude",
       "guide_note": "2026-11-16: approved, 5 parts (\"OK, drop any low searched videos\"; guide/open-models-plan.md, Final titles); LM Studio vs Ollama and OpenRouter with Claude Code cut for low search; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (\"Deploy at will\"); pronunciation: Qwen, Kimi, DeepSeek, OpenRouter, LM Studio all as written (his picks Q1 K1 D1 O1 L1, 2026-11-16), Ollama, Claude and Codex as written; kit guide/open-models-kit, thumbnails guide/creator-thumbnails/open-models, writer brief guide/creator-series-kit/WRITER-BRIEF-openmodels.md",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLHkUmek0E8ZI"
     },
     {
       "name": "AI Automation with n8n 1 - Install with Docker",
