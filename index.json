@@ -8093,9 +8093,9 @@
       "series": "Vibe Coding",
       "part": 4,
       "brand": "VIBE CODING",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Google Stitch Tutorial: Design Your App First, Then Build It",
-      "guide_note": "2026-11-17: approved, 7 parts (guide/vibe-coding-plan.md); hands-on testing OK only with throwaway accounts and dummy data; posting: public as each part passes every gate, one at a time (autopost); kit guide/vibe-coding-kit, thumbnails guide/creator-thumbnails/vibe-coding, writer brief guide/creator-series-kit/WRITER-BRIEF-vibecoding.md",
+      "guide_note": "2026-11-17: approved, 7 parts (guide/vibe-coding-plan.md); hands-on testing OK only with throwaway accounts and dummy data; posting: public as each part passes every gate, one at a time (autopost); kit guide/vibe-coding-kit, thumbnails guide/creator-thumbnails/vibe-coding, writer brief guide/creator-series-kit/WRITER-BRIEF-vibecoding.md; 2026-11-17: passed all gates (critic, pre-render viewer pass after 2 board fixes, final MP4 pass); render approved under the series autopost",
       "watermark": true
     },
     {
@@ -8126,6 +8126,36 @@
       "guide": "new",
       "title": "Vibe Coding Security: Make Your Lovable App Production Ready",
       "guide_note": "2026-11-17: approved, 7 parts (guide/vibe-coding-plan.md); hands-on testing OK only with throwaway accounts and dummy data; posting: public as each part passes every gate, one at a time (autopost); kit guide/vibe-coding-kit, thumbnails guide/creator-thumbnails/vibe-coding, writer brief guide/creator-series-kit/WRITER-BRIEF-vibecoding.md",
+      "watermark": true
+    },
+    {
+      "name": "Claude Canva 1 - Connector Setup and First Design",
+      "series": "Claude Canva",
+      "part": 1,
+      "brand": "CLAUDE CANVA",
+      "guide": "new",
+      "title": "Claude Canva Connector: Set It Up and Make Your First Design",
+      "guide_note": "2026-11-17: approved, 3 parts (guide/canva-ai-plan.md, top table; slug and paths canva-ai); docs only, drawn boards and \"Example output\" (hands-on testing not answered); posting not answered, so nothing uploads without Jabran's OK; Canva and Cowork spoken as written; kit guide/canva-ai-kit, thumbnails guide/creator-thumbnails/canva-ai, images guide/canva-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true
+    },
+    {
+      "name": "Claude Canva 2 - Presentation and Instagram Carousel",
+      "series": "Claude Canva",
+      "part": 2,
+      "brand": "CLAUDE CANVA",
+      "guide": "new",
+      "title": "Claude Canva Presentation and Instagram Carousel: From One Prompt to Canva",
+      "guide_note": "2026-11-17: approved, 3 parts (guide/canva-ai-plan.md, top table; slug and paths canva-ai); docs only, drawn boards and \"Example output\" (hands-on testing not answered); posting not answered, so nothing uploads without Jabran's OK; Canva and Cowork spoken as written; kit guide/canva-ai-kit, thumbnails guide/creator-thumbnails/canva-ai, images guide/canva-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true
+    },
+    {
+      "name": "Claude Canva 3 - Canva MCP in Claude Code and Cowork",
+      "series": "Claude Canva",
+      "part": 3,
+      "brand": "CLAUDE CANVA",
+      "guide": "new",
+      "title": "Claude Canva MCP: Use Canva From Claude Code and Cowork",
+      "guide_note": "2026-11-17: approved, 3 parts (guide/canva-ai-plan.md, top table; slug and paths canva-ai); docs only, drawn boards and \"Example output\" (hands-on testing not answered); posting not answered, so nothing uploads without Jabran's OK; Canva and Cowork spoken as written; kit guide/canva-ai-kit, thumbnails guide/creator-thumbnails/canva-ai, images guide/canva-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
       "watermark": true
     }
   ]
