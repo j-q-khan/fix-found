@@ -8033,9 +8033,9 @@
       "series": "Microsoft Copilot",
       "part": 6,
       "brand": "MICROSOFT COPILOT",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Power Automate Desktop Tutorial: Automate Clicks and Typing on Windows",
-      "guide_note": "2026-11-17: approved, 8 parts (guide/microsoft-copilot-plan.md); Excel and Outlook parts kept by Jabran; docs only, no testing; names as written, no samples; posting: public as each part passes every gate, one at a time; kit guide/microsoft-copilot-kit, thumbnails guide/creator-thumbnails/microsoft-copilot, writer brief guide/creator-series-kit/WRITER-BRIEF-microsoftcopilot.md",
+      "guide_note": "2026-11-17: approved, 8 parts (guide/microsoft-copilot-plan.md); Excel and Outlook parts kept by Jabran; docs only, no testing; names as written, no samples; posting: public as each part passes every gate, one at a time; kit guide/microsoft-copilot-kit, thumbnails guide/creator-thumbnails/microsoft-copilot, writer brief guide/creator-series-kit/WRITER-BRIEF-microsoftcopilot.md; 2026-11-17: passed all gates (critic, pre-render viewer pass after 3 board fixes, final MP4 pass); render approved under the series autopost (\"Auto publish\")",
       "watermark": true
     },
     {
