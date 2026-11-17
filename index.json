@@ -8057,6 +8057,76 @@
       "title": "Microsoft Copilot vs ChatGPT vs Claude for Work: Which Should You Use?",
       "guide_note": "2026-11-17: approved, 8 parts (guide/microsoft-copilot-plan.md); Excel and Outlook parts kept by Jabran; docs only, no testing; names as written, no samples; posting: public as each part passes every gate, one at a time; kit guide/microsoft-copilot-kit, thumbnails guide/creator-thumbnails/microsoft-copilot, writer brief guide/creator-series-kit/WRITER-BRIEF-microsoftcopilot.md",
       "watermark": true
+    },
+    {
+      "name": "Vibe Coding 1 - What It Is and Your First App",
+      "series": "Vibe Coding",
+      "part": 1,
+      "brand": "VIBE CODING",
+      "guide": "new",
+      "title": "Vibe Coding for Beginners: What It Is and Your First App",
+      "guide_note": "2026-11-17: approved, 7 parts (guide/vibe-coding-plan.md); hands-on testing OK only with throwaway accounts and dummy data; posting: public as each part passes every gate, one at a time (autopost); kit guide/vibe-coding-kit, thumbnails guide/creator-thumbnails/vibe-coding, writer brief guide/creator-series-kit/WRITER-BRIEF-vibecoding.md",
+      "watermark": true
+    },
+    {
+      "name": "Vibe Coding 2 - Lovable Website From a Prompt",
+      "series": "Vibe Coding",
+      "part": 2,
+      "brand": "VIBE CODING",
+      "guide": "new",
+      "title": "Lovable Tutorial: Build a Website From One Prompt",
+      "guide_note": "2026-11-17: approved, 7 parts (guide/vibe-coding-plan.md); hands-on testing OK only with throwaway accounts and dummy data; posting: public as each part passes every gate, one at a time (autopost); kit guide/vibe-coding-kit, thumbnails guide/creator-thumbnails/vibe-coding, writer brief guide/creator-series-kit/WRITER-BRIEF-vibecoding.md",
+      "watermark": true
+    },
+    {
+      "name": "Vibe Coding 3 - Supabase Logins and Database",
+      "series": "Vibe Coding",
+      "part": 3,
+      "brand": "VIBE CODING",
+      "guide": "new",
+      "title": "Supabase With Lovable: Add Logins and a Database",
+      "guide_note": "2026-11-17: approved, 7 parts (guide/vibe-coding-plan.md); hands-on testing OK only with throwaway accounts and dummy data; posting: public as each part passes every gate, one at a time (autopost); kit guide/vibe-coding-kit, thumbnails guide/creator-thumbnails/vibe-coding, writer brief guide/creator-series-kit/WRITER-BRIEF-vibecoding.md",
+      "watermark": true
+    },
+    {
+      "name": "Vibe Coding 4 - Google Stitch Design First",
+      "series": "Vibe Coding",
+      "part": 4,
+      "brand": "VIBE CODING",
+      "guide": "new",
+      "title": "Google Stitch Tutorial: Design Your App First, Then Build It",
+      "guide_note": "2026-11-17: approved, 7 parts (guide/vibe-coding-plan.md); hands-on testing OK only with throwaway accounts and dummy data; posting: public as each part passes every gate, one at a time (autopost); kit guide/vibe-coding-kit, thumbnails guide/creator-thumbnails/vibe-coding, writer brief guide/creator-series-kit/WRITER-BRIEF-vibecoding.md",
+      "watermark": true
+    },
+    {
+      "name": "Vibe Coding 5 - Framer AI Website Builder",
+      "series": "Vibe Coding",
+      "part": 5,
+      "brand": "VIBE CODING",
+      "guide": "new",
+      "title": "Framer AI Website Builder: Make a Site You Can Publish",
+      "guide_note": "2026-11-17: approved, 7 parts (guide/vibe-coding-plan.md); hands-on testing OK only with throwaway accounts and dummy data; posting: public as each part passes every gate, one at a time (autopost); kit guide/vibe-coding-kit, thumbnails guide/creator-thumbnails/vibe-coding, writer brief guide/creator-series-kit/WRITER-BRIEF-vibecoding.md",
+      "watermark": true
+    },
+    {
+      "name": "Vibe Coding 6 - Lovable vs Claude Code",
+      "series": "Vibe Coding",
+      "part": 6,
+      "brand": "VIBE CODING",
+      "guide": "new",
+      "title": "Lovable vs Claude Code: Which Should a Non-Coder Use?",
+      "guide_note": "2026-11-17: approved, 7 parts (guide/vibe-coding-plan.md); hands-on testing OK only with throwaway accounts and dummy data; posting: public as each part passes every gate, one at a time (autopost); kit guide/vibe-coding-kit, thumbnails guide/creator-thumbnails/vibe-coding, writer brief guide/creator-series-kit/WRITER-BRIEF-vibecoding.md",
+      "watermark": true
+    },
+    {
+      "name": "Vibe Coding 7 - Security and Production Ready",
+      "series": "Vibe Coding",
+      "part": 7,
+      "brand": "VIBE CODING",
+      "guide": "new",
+      "title": "Vibe Coding Security: Make Your Lovable App Production Ready",
+      "guide_note": "2026-11-17: approved, 7 parts (guide/vibe-coding-plan.md); hands-on testing OK only with throwaway accounts and dummy data; posting: public as each part passes every gate, one at a time (autopost); kit guide/vibe-coding-kit, thumbnails guide/creator-thumbnails/vibe-coding, writer brief guide/creator-series-kit/WRITER-BRIEF-vibecoding.md",
+      "watermark": true
     }
   ]
 }
