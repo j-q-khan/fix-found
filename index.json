@@ -7896,7 +7896,7 @@
       "series": "Run Open Models",
       "part": 4,
       "brand": "RUN OPEN MODELS",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Qwen 3.8 and Kimi K3: The Other Open Models and Their Licences",
       "guide_note": "2026-11-16: approved, 5 parts (\"OK, drop any low searched videos\"; guide/open-models-plan.md, Final titles); LM Studio vs Ollama and OpenRouter with Claude Code cut for low search; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (\"Deploy at will\"); pronunciation: Qwen, Kimi, DeepSeek, OpenRouter, LM Studio all as written (his picks Q1 K1 D1 O1 L1, 2026-11-16), Ollama, Claude and Codex as written; kit guide/open-models-kit, thumbnails guide/creator-thumbnails/open-models, writer brief guide/creator-series-kit/WRITER-BRIEF-openmodels.md",
       "watermark": true,
@@ -7983,9 +7983,9 @@
       "series": "Microsoft Copilot",
       "part": 1,
       "brand": "MICROSOFT COPILOT",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Microsoft Copilot Tutorial for Beginners: Which Copilot You Have and Copilot in Word (2026)",
-      "guide_note": "2026-11-17: approved, 8 parts (guide/microsoft-copilot-plan.md); Excel and Outlook parts kept by Jabran; docs only, no testing; names as written, no samples; posting: public as each part passes every gate, one at a time; kit guide/microsoft-copilot-kit, thumbnails guide/creator-thumbnails/microsoft-copilot, writer brief guide/creator-series-kit/WRITER-BRIEF-microsoftcopilot.md",
+      "guide_note": "2026-11-17: approved, 8 parts (guide/microsoft-copilot-plan.md); Excel and Outlook parts kept by Jabran; docs only, no testing; names as written, no samples; posting: public as each part passes every gate, one at a time; kit guide/microsoft-copilot-kit, thumbnails guide/creator-thumbnails/microsoft-copilot, writer brief guide/creator-series-kit/WRITER-BRIEF-microsoftcopilot.md; 2026-11-17: passed all gates (critic, pre-render viewer pass after 2 fixes, final MP4 pass); render approved under the series autopost (\"Auto publish\")",
       "watermark": true
     },
     {
