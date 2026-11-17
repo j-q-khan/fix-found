@@ -8103,9 +8103,9 @@
       "series": "Vibe Coding",
       "part": 5,
       "brand": "VIBE CODING",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Framer AI Website Builder: Make a Site You Can Publish",
-      "guide_note": "2026-11-17: approved, 7 parts (guide/vibe-coding-plan.md); hands-on testing OK only with throwaway accounts and dummy data; posting: public as each part passes every gate, one at a time (autopost); kit guide/vibe-coding-kit, thumbnails guide/creator-thumbnails/vibe-coding, writer brief guide/creator-series-kit/WRITER-BRIEF-vibecoding.md",
+      "guide_note": "2026-11-17: approved, 7 parts (guide/vibe-coding-plan.md); hands-on testing OK only with throwaway accounts and dummy data; posting: public as each part passes every gate, one at a time (autopost); kit guide/vibe-coding-kit, thumbnails guide/creator-thumbnails/vibe-coding, writer brief guide/creator-series-kit/WRITER-BRIEF-vibecoding.md; 2026-11-17: passed all gates (critic, 3 pre-viewer board fixes, pre-render viewer pass after 1 board fix, final MP4 pass); render approved under the series autopost",
       "watermark": true
     },
     {
@@ -8133,7 +8133,7 @@
       "series": "Claude Canva",
       "part": 1,
       "brand": "CLAUDE CANVA",
-      "guide": "new",
+      "guide": "render check",
       "title": "Claude Canva Connector: Set It Up and Make Your First Design",
       "guide_note": "2026-11-17: approved, 3 parts (guide/canva-ai-plan.md, top table; slug and paths canva-ai); docs only, drawn boards and \"Example output\" (hands-on testing not answered); posting not answered, so nothing uploads without Jabran's OK; Canva and Cowork spoken as written; kit guide/canva-ai-kit, thumbnails guide/creator-thumbnails/canva-ai, images guide/canva-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
       "watermark": true
@@ -8156,6 +8156,76 @@
       "guide": "new",
       "title": "Claude Canva MCP: Use Canva From Claude Code and Cowork",
       "guide_note": "2026-11-17: approved, 3 parts (guide/canva-ai-plan.md, top table; slug and paths canva-ai); docs only, drawn boards and \"Example output\" (hands-on testing not answered); posting not answered, so nothing uploads without Jabran's OK; Canva and Cowork spoken as written; kit guide/canva-ai-kit, thumbnails guide/creator-thumbnails/canva-ai, images guide/canva-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true
+    },
+    {
+      "name": "Notion AI 1 - Notion Agent Tutorial",
+      "series": "Notion AI",
+      "part": 1,
+      "brand": "NOTION AI",
+      "guide": "new",
+      "title": "Notion AI Tutorial: How to Use the Notion Agent (2026)",
+      "guide_note": "2026-11-17: approved, 7 parts (guide/notion-ai-plan.md); docs only, nothing signed up for, installed or run, any output labelled \"Example output\"; \"Notion\" spoken as written, no samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/notion-ai-kit, thumbnails guide/creator-thumbnails/notion-ai, writer brief guide/creator-series-kit/WRITER-BRIEF-notionai.md, images guide/notion-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true
+    },
+    {
+      "name": "Notion AI 2 - Free vs Paid",
+      "series": "Notion AI",
+      "part": 2,
+      "brand": "NOTION AI",
+      "guide": "new",
+      "title": "Notion AI Free vs Paid: What Each Plan Gets You Now",
+      "guide_note": "2026-11-17: approved, 7 parts (guide/notion-ai-plan.md); docs only, nothing signed up for, installed or run, any output labelled \"Example output\"; \"Notion\" spoken as written, no samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/notion-ai-kit, thumbnails guide/creator-thumbnails/notion-ai, writer brief guide/creator-series-kit/WRITER-BRIEF-notionai.md, images guide/notion-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true
+    },
+    {
+      "name": "Notion AI 3 - Meeting Notes",
+      "series": "Notion AI",
+      "part": 3,
+      "brand": "NOTION AI",
+      "guide": "new",
+      "title": "Notion AI Meeting Notes: Set It Up and Get Your Summary",
+      "guide_note": "2026-11-17: approved, 7 parts (guide/notion-ai-plan.md); docs only, nothing signed up for, installed or run, any output labelled \"Example output\"; \"Notion\" spoken as written, no samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/notion-ai-kit, thumbnails guide/creator-thumbnails/notion-ai, writer brief guide/creator-series-kit/WRITER-BRIEF-notionai.md, images guide/notion-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true
+    },
+    {
+      "name": "Notion AI 4 - First Custom Agent",
+      "series": "Notion AI",
+      "part": 4,
+      "brand": "NOTION AI",
+      "guide": "new",
+      "title": "Notion AI Agents: Build Your First Custom Agent",
+      "guide_note": "2026-11-17: approved, 7 parts (guide/notion-ai-plan.md); docs only, nothing signed up for, installed or run, any output labelled \"Example output\"; \"Notion\" spoken as written, no samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/notion-ai-kit, thumbnails guide/creator-thumbnails/notion-ai, writer brief guide/creator-series-kit/WRITER-BRIEF-notionai.md, images guide/notion-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true
+    },
+    {
+      "name": "Notion AI 5 - Claude Connector",
+      "series": "Notion AI",
+      "part": 5,
+      "brand": "NOTION AI",
+      "guide": "new",
+      "title": "Claude Notion Connector: Connect Claude to Your Notion Workspace",
+      "guide_note": "2026-11-17: approved, 7 parts (guide/notion-ai-plan.md); docs only, nothing signed up for, installed or run, any output labelled \"Example output\"; \"Notion\" spoken as written, no samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/notion-ai-kit, thumbnails guide/creator-thumbnails/notion-ai, writer brief guide/creator-series-kit/WRITER-BRIEF-notionai.md, images guide/notion-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true
+    },
+    {
+      "name": "Notion AI 6 - Notion MCP in Claude Code",
+      "series": "Notion AI",
+      "part": 6,
+      "brand": "NOTION AI",
+      "guide": "new",
+      "title": "Notion MCP Server: Use Notion from Claude Code",
+      "guide_note": "2026-11-17: approved, 7 parts (guide/notion-ai-plan.md); docs only, nothing signed up for, installed or run, any output labelled \"Example output\"; \"Notion\" spoken as written, no samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/notion-ai-kit, thumbnails guide/creator-thumbnails/notion-ai, writer brief guide/creator-series-kit/WRITER-BRIEF-notionai.md, images guide/notion-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true
+    },
+    {
+      "name": "Notion AI 7 - vs ChatGPT vs Claude",
+      "series": "Notion AI",
+      "part": 7,
+      "brand": "NOTION AI",
+      "guide": "new",
+      "title": "Notion AI vs ChatGPT vs Claude: Which One for Your Notes?",
+      "guide_note": "2026-11-17: approved, 7 parts (guide/notion-ai-plan.md); docs only, nothing signed up for, installed or run, any output labelled \"Example output\"; \"Notion\" spoken as written, no samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/notion-ai-kit, thumbnails guide/creator-thumbnails/notion-ai, writer brief guide/creator-series-kit/WRITER-BRIEF-notionai.md, images guide/notion-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
       "watermark": true
     }
   ]
