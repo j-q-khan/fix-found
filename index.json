@@ -7464,11 +7464,14 @@
       "series": "Claude Design",
       "part": 7,
       "brand": "CLAUDE DESIGN",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Claude Design and Figma: What Works Today, and When to Use Which",
       "guide_note": "2026-11-14: approved, 7 parts (Part 1 split on 2026-11-14 under the engagement rules) (guide/claude-design-plan.md); docs only, no hands-on test; posting: each part posts public automatically when every gate passes, one video at a time (Jabran 2026-11-14); Figma read as written; kit guide/claude-design-kit, thumbnails guide/creator-thumbnails/claude-design, writer brief guide/creator-series-kit/WRITER-BRIEF-claudedesign.md",
       "watermark": true,
-      "guide_playlist": "PLIwDiOrVvl4s"
+      "guide_playlist": "PLIwDiOrVvl4s",
+      "guide_youtube_url": "https://youtu.be/AsSdxPZceag",
+      "guide_uploaded_on": "2026-11-17",
+      "guide_visibility": "public"
     },
     {
       "name": "How to Use Claude 1 - First Day",
@@ -7779,40 +7782,52 @@
       "series": "Build AI Agents",
       "part": 1,
       "brand": "BUILD AI AGENTS",
-      "guide": "render approved",
+      "guide": "uploaded private",
       "title": "AI Agents for Beginners: What Makes an AI an Agent?",
       "guide_note": "2026-11-16: approved, 6 parts (\"proceed\"; guide/build-ai-agents-plan.md); optional OpenAI Agents SDK part left out; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (Jabran 2026-11-16: \"Public when ready, no wait\"); pronunciation (L1, C1, R1, S2): LangGraph, LangChain, CrewAI as written, \"SDK\" undotted; kit guide/build-ai-agents-kit, thumbnails guide/creator-thumbnails/build-ai-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-buildaiagents.md",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/6nBxdR8KDWQ",
+      "guide_uploaded_on": "2026-11-17",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Build AI Agents 2 - Claude Agent SDK",
       "series": "Build AI Agents",
       "part": 2,
       "brand": "BUILD AI AGENTS",
-      "guide": "render approved",
+      "guide": "uploaded private",
       "title": "Claude Agent SDK Python Tutorial: Build Your First Agent",
       "guide_note": "2026-11-16: approved, 6 parts (\"proceed\"; guide/build-ai-agents-plan.md); optional OpenAI Agents SDK part left out; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (Jabran 2026-11-16: \"Public when ready, no wait\"); pronunciation (L1, C1, R1, S2): LangGraph, LangChain, CrewAI as written, \"SDK\" undotted; kit guide/build-ai-agents-kit, thumbnails guide/creator-thumbnails/build-ai-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-buildaiagents.md",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/THMuvTL3FO0",
+      "guide_uploaded_on": "2026-11-17",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Build AI Agents 3 - LangGraph",
       "series": "Build AI Agents",
       "part": 3,
       "brand": "BUILD AI AGENTS",
-      "guide": "render approved",
+      "guide": "uploaded private",
       "title": "LangGraph Tutorial for Beginners: Your First Agent Graph",
       "guide_note": "2026-11-16: approved, 6 parts (\"proceed\"; guide/build-ai-agents-plan.md); optional OpenAI Agents SDK part left out; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (Jabran 2026-11-16: \"Public when ready, no wait\"); pronunciation (L1, C1, R1, S2): LangGraph, LangChain, CrewAI as written, \"SDK\" undotted; kit guide/build-ai-agents-kit, thumbnails guide/creator-thumbnails/build-ai-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-buildaiagents.md",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/ecqg4zH2iNk",
+      "guide_uploaded_on": "2026-11-17",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Build AI Agents 4 - LangChain vs LangGraph",
       "series": "Build AI Agents",
       "part": 4,
       "brand": "BUILD AI AGENTS",
-      "guide": "render approved",
+      "guide": "uploaded private",
       "title": "LangChain vs LangGraph vs Deep Agents: Which One When?",
       "guide_note": "2026-11-16: approved, 6 parts (\"proceed\"; guide/build-ai-agents-plan.md); optional OpenAI Agents SDK part left out; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (Jabran 2026-11-16: \"Public when ready, no wait\"); pronunciation (L1, C1, R1, S2): LangGraph, LangChain, CrewAI as written, \"SDK\" undotted; kit guide/build-ai-agents-kit, thumbnails guide/creator-thumbnails/build-ai-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-buildaiagents.md",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/gpVQIZE_Vr4",
+      "guide_uploaded_on": "2026-11-17",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Build AI Agents 5 - CrewAI",
@@ -7867,11 +7882,14 @@
       "series": "Run Open Models",
       "part": 3,
       "brand": "RUN OPEN MODELS",
-      "guide": "render check",
+      "guide": "uploaded private",
       "title": "DeepSeek V4 vs Claude: Price, Privacy and Who Should Use Which",
       "guide_note": "2026-11-16: approved, 5 parts (\"OK, drop any low searched videos\"; guide/open-models-plan.md, Final titles); LM Studio vs Ollama and OpenRouter with Claude Code cut for low search; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (\"Deploy at will\"); pronunciation: Qwen, Kimi, DeepSeek, OpenRouter, LM Studio all as written (his picks Q1 K1 D1 O1 L1, 2026-11-16), Ollama, Claude and Codex as written; kit guide/open-models-kit, thumbnails guide/creator-thumbnails/open-models, writer brief guide/creator-series-kit/WRITER-BRIEF-openmodels.md",
       "watermark": true,
-      "guide_playlist": "PLHkUmek0E8ZI"
+      "guide_playlist": "PLHkUmek0E8ZI",
+      "guide_youtube_url": "https://youtu.be/je30jkzWF64",
+      "guide_uploaded_on": "2026-11-17",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Run Open Models 4 - Qwen and Kimi",
@@ -7900,50 +7918,65 @@
       "series": "AI Automation with n8n",
       "part": 1,
       "brand": "AI AUTOMATION WITH n8n",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "n8n Tutorial for Beginners: Install n8n Free with Docker",
       "guide_note": "2026-11-16: approved, 5 parts (guide/n8n-ai-automation-plan.md); comparison part left out; docs only, no testing; posting: public as each part passes every gate, one at a time, after the quota reset; n8n spoken 'n-eight-n'; kit guide/n8n-ai-automation-kit, thumbnails guide/creator-thumbnails/n8n-ai-automation, writer brief guide/creator-series-kit/WRITER-BRIEF-n8naiautomation.md; 2026-11-16: passed all gates (critic, pre-render viewer pass after 2 board fixes, final MP4 pass); render approved under the series autopost (\"Make all videos\"); uploads after the quota reset",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/9Z_vMvlA4As",
+      "guide_uploaded_on": "2026-11-17",
+      "guide_visibility": "public"
     },
     {
       "name": "AI Automation with n8n 2 - First Workflow",
       "series": "AI Automation with n8n",
       "part": 2,
       "brand": "AI AUTOMATION WITH n8n",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "n8n Workflow Tutorial: Build Your First Automation",
       "guide_note": "2026-11-16: approved, 5 parts (guide/n8n-ai-automation-plan.md); comparison part left out; docs only, no testing; posting: public as each part passes every gate, one at a time, after the quota reset; n8n spoken 'n-eight-n'; kit guide/n8n-ai-automation-kit, thumbnails guide/creator-thumbnails/n8n-ai-automation, writer brief guide/creator-series-kit/WRITER-BRIEF-n8naiautomation.md; 2026-11-16: passed all gates (critic, pre-render viewer pass, final MP4 pass); render approved under the series autopost; uploads after the quota reset; whisper heard 'two five' for 'two point five' at 143 s and 218 s (listen check passed)",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/XvXytV5e4rY",
+      "guide_uploaded_on": "2026-11-17",
+      "guide_visibility": "public"
     },
     {
       "name": "AI Automation with n8n 3 - AI Agent with Claude",
       "series": "AI Automation with n8n",
       "part": 3,
       "brand": "AI AUTOMATION WITH n8n",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "n8n AI Agent Tutorial: Build an AI Agent with Claude",
       "guide_note": "2026-11-16: approved, 5 parts (guide/n8n-ai-automation-plan.md); comparison part left out; docs only, no testing; posting: public as each part passes every gate, one at a time, after the quota reset; n8n spoken 'n-eight-n'; kit guide/n8n-ai-automation-kit, thumbnails guide/creator-thumbnails/n8n-ai-automation, writer brief guide/creator-series-kit/WRITER-BRIEF-n8naiautomation.md; 2026-11-16: passed all gates (critic, pre-render viewer pass after 1 narration + 4 board fixes, final MP4 pass; QA re-run after removing a guard-list word from the copyable files); render approved under the series autopost; uploads after the quota reset",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/4XVp6KZcJP4",
+      "guide_uploaded_on": "2026-11-17",
+      "guide_visibility": "public"
     },
     {
       "name": "AI Automation with n8n 4 - MCP Server",
       "series": "AI Automation with n8n",
       "part": 4,
       "brand": "AI AUTOMATION WITH n8n",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "n8n MCP Server: Connect Claude to Your Workflows",
       "guide_note": "2026-11-16: approved, 5 parts (guide/n8n-ai-automation-plan.md); comparison part left out; docs only, no testing; posting: public as each part passes every gate, one at a time, after the quota reset; n8n spoken 'n-eight-n'; kit guide/n8n-ai-automation-kit, thumbnails guide/creator-thumbnails/n8n-ai-automation, writer brief guide/creator-series-kit/WRITER-BRIEF-n8naiautomation.md; 2026-11-16: passed all gates (critic, listen-check line fix, pre-render viewer pass after 6 board fixes, final MP4 pass; QA re-run after removing a guard-list word from the copyable files); render approved under the series autopost; uploads after the quota reset",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/MI9wOCcksQw",
+      "guide_uploaded_on": "2026-11-17",
+      "guide_visibility": "public"
     },
     {
       "name": "AI Automation with n8n 5 - Claude Code",
       "series": "AI Automation with n8n",
       "part": 5,
       "brand": "AI AUTOMATION WITH n8n",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "n8n Claude Code Tutorial: Build Workflows by Asking",
       "guide_note": "2026-11-16: approved, 5 parts (guide/n8n-ai-automation-plan.md); comparison part left out; docs only, no testing; posting: public as each part passes every gate, one at a time, after the quota reset; n8n spoken 'n-eight-n'; kit guide/n8n-ai-automation-kit, thumbnails guide/creator-thumbnails/n8n-ai-automation, writer brief guide/creator-series-kit/WRITER-BRIEF-n8naiautomation.md; 2026-11-16: passed all gates (critic, pre-render viewer pass after 5 board fixes, final MP4 pass); render approved under the series autopost; uploads after the quota reset",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/unMb4nCRcGg",
+      "guide_uploaded_on": "2026-11-17",
+      "guide_visibility": "public"
     },
     {
       "name": "Microsoft Copilot 1 - Copilot in Word",
