@@ -7834,7 +7834,7 @@
       "series": "Run Open Models",
       "part": 2,
       "brand": "RUN OPEN MODELS",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Best Local LLM for 8GB or 16GB: Pick a Model That Fits Your Computer",
       "guide_note": "2026-11-16: approved, 5 parts (\"OK, drop any low searched videos\"; guide/open-models-plan.md, Final titles); LM Studio vs Ollama and OpenRouter with Claude Code cut for low search; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (\"Deploy at will\"); pronunciation: Qwen, Kimi, DeepSeek, OpenRouter, LM Studio all as written (his picks Q1 K1 D1 O1 L1, 2026-11-16), Ollama, Claude and Codex as written; kit guide/open-models-kit, thumbnails guide/creator-thumbnails/open-models, writer brief guide/creator-series-kit/WRITER-BRIEF-openmodels.md",
       "watermark": true
@@ -7844,7 +7844,7 @@
       "series": "Run Open Models",
       "part": 3,
       "brand": "RUN OPEN MODELS",
-      "guide": "new",
+      "guide": "render check",
       "title": "DeepSeek V4 vs Claude: Price, Privacy and Who Should Use Which",
       "guide_note": "2026-11-16: approved, 5 parts (\"OK, drop any low searched videos\"; guide/open-models-plan.md, Final titles); LM Studio vs Ollama and OpenRouter with Claude Code cut for low search; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (\"Deploy at will\"); pronunciation: Qwen, Kimi, DeepSeek, OpenRouter, LM Studio all as written (his picks Q1 K1 D1 O1 L1, 2026-11-16), Ollama, Claude and Codex as written; kit guide/open-models-kit, thumbnails guide/creator-thumbnails/open-models, writer brief guide/creator-series-kit/WRITER-BRIEF-openmodels.md",
       "watermark": true
@@ -7917,6 +7917,86 @@
       "guide": "render approved",
       "title": "n8n Claude Code Tutorial: Build Workflows by Asking",
       "guide_note": "2026-11-16: approved, 5 parts (guide/n8n-ai-automation-plan.md); comparison part left out; docs only, no testing; posting: public as each part passes every gate, one at a time, after the quota reset; n8n spoken 'n-eight-n'; kit guide/n8n-ai-automation-kit, thumbnails guide/creator-thumbnails/n8n-ai-automation, writer brief guide/creator-series-kit/WRITER-BRIEF-n8naiautomation.md; 2026-11-16: passed all gates (critic, pre-render viewer pass after 5 board fixes, final MP4 pass); render approved under the series autopost; uploads after the quota reset",
+      "watermark": true
+    },
+    {
+      "name": "Microsoft Copilot 1 - Copilot in Word",
+      "series": "Microsoft Copilot",
+      "part": 1,
+      "brand": "MICROSOFT COPILOT",
+      "guide": "new",
+      "title": "Microsoft Copilot Tutorial for Beginners: Which Copilot You Have and Copilot in Word (2026)",
+      "guide_note": "2026-11-17: approved, 8 parts (guide/microsoft-copilot-plan.md); Excel and Outlook parts kept by Jabran; docs only, no testing; names as written, no samples; posting: public as each part passes every gate, one at a time; kit guide/microsoft-copilot-kit, thumbnails guide/creator-thumbnails/microsoft-copilot, writer brief guide/creator-series-kit/WRITER-BRIEF-microsoftcopilot.md",
+      "watermark": true
+    },
+    {
+      "name": "Microsoft Copilot 2 - Copilot in Excel",
+      "series": "Microsoft Copilot",
+      "part": 2,
+      "brand": "MICROSOFT COPILOT",
+      "guide": "new",
+      "title": "Copilot in Excel Tutorial: Formulas, Charts and Data Analysis (2026)",
+      "guide_note": "2026-11-17: approved, 8 parts (guide/microsoft-copilot-plan.md); Excel and Outlook parts kept by Jabran; docs only, no testing; names as written, no samples; posting: public as each part passes every gate, one at a time; kit guide/microsoft-copilot-kit, thumbnails guide/creator-thumbnails/microsoft-copilot, writer brief guide/creator-series-kit/WRITER-BRIEF-microsoftcopilot.md",
+      "watermark": true
+    },
+    {
+      "name": "Microsoft Copilot 3 - Copilot in Outlook",
+      "series": "Microsoft Copilot",
+      "part": 3,
+      "brand": "MICROSOFT COPILOT",
+      "guide": "new",
+      "title": "Copilot in Outlook: Summarize Emails, Draft Replies and Manage Your Inbox",
+      "guide_note": "2026-11-17: approved, 8 parts (guide/microsoft-copilot-plan.md); Excel and Outlook parts kept by Jabran; docs only, no testing; names as written, no samples; posting: public as each part passes every gate, one at a time; kit guide/microsoft-copilot-kit, thumbnails guide/creator-thumbnails/microsoft-copilot, writer brief guide/creator-series-kit/WRITER-BRIEF-microsoftcopilot.md",
+      "watermark": true
+    },
+    {
+      "name": "Microsoft Copilot 4 - Power Automate",
+      "series": "Microsoft Copilot",
+      "part": 4,
+      "brand": "MICROSOFT COPILOT",
+      "guide": "new",
+      "title": "Power Automate Tutorial for Beginners: Your First Flow from Outlook to Excel",
+      "guide_note": "2026-11-17: approved, 8 parts (guide/microsoft-copilot-plan.md); Excel and Outlook parts kept by Jabran; docs only, no testing; names as written, no samples; posting: public as each part passes every gate, one at a time; kit guide/microsoft-copilot-kit, thumbnails guide/creator-thumbnails/microsoft-copilot, writer brief guide/creator-series-kit/WRITER-BRIEF-microsoftcopilot.md",
+      "watermark": true
+    },
+    {
+      "name": "Microsoft Copilot 5 - Copilot Studio Agent",
+      "series": "Microsoft Copilot",
+      "part": 5,
+      "brand": "MICROSOFT COPILOT",
+      "guide": "new",
+      "title": "Copilot Studio Agent Tutorial: Build Your First Agent Without Code",
+      "guide_note": "2026-11-17: approved, 8 parts (guide/microsoft-copilot-plan.md); Excel and Outlook parts kept by Jabran; docs only, no testing; names as written, no samples; posting: public as each part passes every gate, one at a time; kit guide/microsoft-copilot-kit, thumbnails guide/creator-thumbnails/microsoft-copilot, writer brief guide/creator-series-kit/WRITER-BRIEF-microsoftcopilot.md",
+      "watermark": true
+    },
+    {
+      "name": "Microsoft Copilot 6 - Power Automate Desktop",
+      "series": "Microsoft Copilot",
+      "part": 6,
+      "brand": "MICROSOFT COPILOT",
+      "guide": "new",
+      "title": "Power Automate Desktop Tutorial: Automate Clicks and Typing on Windows",
+      "guide_note": "2026-11-17: approved, 8 parts (guide/microsoft-copilot-plan.md); Excel and Outlook parts kept by Jabran; docs only, no testing; names as written, no samples; posting: public as each part passes every gate, one at a time; kit guide/microsoft-copilot-kit, thumbnails guide/creator-thumbnails/microsoft-copilot, writer brief guide/creator-series-kit/WRITER-BRIEF-microsoftcopilot.md",
+      "watermark": true
+    },
+    {
+      "name": "Microsoft Copilot 7 - Agent Flows",
+      "series": "Microsoft Copilot",
+      "part": 7,
+      "brand": "MICROSOFT COPILOT",
+      "guide": "new",
+      "title": "Copilot Studio Agent Flows: Make Your Agent Run a Power Automate Flow",
+      "guide_note": "2026-11-17: approved, 8 parts (guide/microsoft-copilot-plan.md); Excel and Outlook parts kept by Jabran; docs only, no testing; names as written, no samples; posting: public as each part passes every gate, one at a time; kit guide/microsoft-copilot-kit, thumbnails guide/creator-thumbnails/microsoft-copilot, writer brief guide/creator-series-kit/WRITER-BRIEF-microsoftcopilot.md",
+      "watermark": true
+    },
+    {
+      "name": "Microsoft Copilot 8 - vs ChatGPT vs Claude",
+      "series": "Microsoft Copilot",
+      "part": 8,
+      "brand": "MICROSOFT COPILOT",
+      "guide": "new",
+      "title": "Microsoft Copilot vs ChatGPT vs Claude for Work: Which Should You Use?",
+      "guide_note": "2026-11-17: approved, 8 parts (guide/microsoft-copilot-plan.md); Excel and Outlook parts kept by Jabran; docs only, no testing; names as written, no samples; posting: public as each part passes every gate, one at a time; kit guide/microsoft-copilot-kit, thumbnails guide/creator-thumbnails/microsoft-copilot, writer brief guide/creator-series-kit/WRITER-BRIEF-microsoftcopilot.md",
       "watermark": true
     }
   ]
