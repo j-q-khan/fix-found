@@ -8363,6 +8363,56 @@
       "guide_note": "2026-11-17: approved, 6 parts (guide/prompt-engineering-plan.md); level: Mid level; docs only, drawn boards and \"Example output\"; posting: public as each part passes every gate, one at a time (autopost); kit guide/prompt-engineering-kit, thumbnail guide/creator-thumbnails/prompt-engineering/06.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-promptengineering.md",
       "watermark": true,
       "guide_playlist": "PLNO38g3ifrEI"
+    },
+    {
+      "name": "NotebookLM 1 - Gemini Notebook Tutorial",
+      "series": "NotebookLM",
+      "part": 1,
+      "brand": "NOTEBOOKLM",
+      "guide": "new",
+      "title": "Gemini Notebook Tutorial (NotebookLM): How to Use It, Step by Step",
+      "guide_note": "2026-11-18: approved, 5 parts (guide/notebooklm-plan.md, \"Final parts\"; Google renamed NotebookLM to Gemini Notebook on 2026-07-16, so every title carries both names); level: Novice; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; the spoken spelling of \"NotebookLM\" is pending his pick from samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/notebooklm-kit, thumbnail guide/creator-thumbnails/notebooklm/01.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-notebooklm.md, images guide/notebooklm-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true
+    },
+    {
+      "name": "NotebookLM 2 - For Studying",
+      "series": "NotebookLM",
+      "part": 2,
+      "brand": "NOTEBOOKLM",
+      "guide": "new",
+      "title": "How to Use NotebookLM for Studying: Quizzes, Flashcards and Study Guides (Gemini Notebook)",
+      "guide_note": "2026-11-18: approved, 5 parts (guide/notebooklm-plan.md, \"Final parts\"; Google renamed NotebookLM to Gemini Notebook on 2026-07-16, so every title carries both names); level: Novice; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; the spoken spelling of \"NotebookLM\" is pending his pick from samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/notebooklm-kit, thumbnail guide/creator-thumbnails/notebooklm/02.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-notebooklm.md, images guide/notebooklm-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true
+    },
+    {
+      "name": "NotebookLM 3 - vs Gemini",
+      "series": "NotebookLM",
+      "part": 3,
+      "brand": "NOTEBOOKLM",
+      "guide": "new",
+      "title": "NotebookLM vs Gemini: What Changed When It Became Gemini Notebook?",
+      "guide_note": "2026-11-18: approved, 5 parts (guide/notebooklm-plan.md, \"Final parts\"; Google renamed NotebookLM to Gemini Notebook on 2026-07-16, so every title carries both names); level: Novice; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; the spoken spelling of \"NotebookLM\" is pending his pick from samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/notebooklm-kit, thumbnail guide/creator-thumbnails/notebooklm/03.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-notebooklm.md, images guide/notebooklm-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true
+    },
+    {
+      "name": "NotebookLM 4 - vs ChatGPT vs Claude Projects",
+      "series": "NotebookLM",
+      "part": 4,
+      "brand": "NOTEBOOKLM",
+      "guide": "new",
+      "title": "NotebookLM vs ChatGPT vs Claude Projects: Which One for Your Documents? (Gemini Notebook)",
+      "guide_note": "2026-11-18: approved, 5 parts (guide/notebooklm-plan.md, \"Final parts\"; Google renamed NotebookLM to Gemini Notebook on 2026-07-16, so every title carries both names); level: Novice; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; the spoken spelling of \"NotebookLM\" is pending his pick from samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/notebooklm-kit, thumbnail guide/creator-thumbnails/notebooklm/04.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-notebooklm.md, images guide/notebooklm-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true
+    },
+    {
+      "name": "NotebookLM 5 - Claude Code and the MCP Server",
+      "series": "NotebookLM",
+      "part": 5,
+      "brand": "NOTEBOOKLM",
+      "guide": "new",
+      "title": "NotebookLM with Claude Code: Google's Official MCP Server (Gemini Notebook)",
+      "guide_note": "2026-11-18: approved, 5 parts (guide/notebooklm-plan.md, \"Final parts\"; Google renamed NotebookLM to Gemini Notebook on 2026-07-16, so every title carries both names); level: Mid level; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; the spoken spelling of \"NotebookLM\" is pending his pick from samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/notebooklm-kit, thumbnail guide/creator-thumbnails/notebooklm/05.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-notebooklm.md, images guide/notebooklm-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true
     }
   ]
 }
