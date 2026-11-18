@@ -7908,22 +7908,28 @@
       "series": "Run Open Models",
       "part": 4,
       "brand": "RUN OPEN MODELS",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Qwen 3.8 and Kimi K3: The Other Open Models and Their Licences",
       "guide_note": "2026-11-16: approved, 5 parts (\"OK, drop any low searched videos\"; guide/open-models-plan.md, Final titles); LM Studio vs Ollama and OpenRouter with Claude Code cut for low search; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (\"Deploy at will\"); pronunciation: Qwen, Kimi, DeepSeek, OpenRouter, LM Studio all as written (his picks Q1 K1 D1 O1 L1, 2026-11-16), Ollama, Claude and Codex as written; kit guide/open-models-kit, thumbnails guide/creator-thumbnails/open-models, writer brief guide/creator-series-kit/WRITER-BRIEF-openmodels.md",
       "watermark": true,
-      "guide_playlist": "PLHkUmek0E8ZI"
+      "guide_playlist": "PLHkUmek0E8ZI",
+      "guide_youtube_url": "https://youtu.be/aGFWPdvZkMg",
+      "guide_uploaded_on": "2026-11-18",
+      "guide_visibility": "public"
     },
     {
       "name": "Run Open Models 5 - OpenRouter",
       "series": "Run Open Models",
       "part": 5,
       "brand": "RUN OPEN MODELS",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "OpenRouter Tutorial: One API Key for DeepSeek, Qwen, Kimi and Claude",
       "guide_note": "2026-11-16: approved, 5 parts (\"OK, drop any low searched videos\"; guide/open-models-plan.md, Final titles); LM Studio vs Ollama and OpenRouter with Claude Code cut for low search; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (\"Deploy at will\"); pronunciation: Qwen, Kimi, DeepSeek, OpenRouter, LM Studio all as written (his picks Q1 K1 D1 O1 L1, 2026-11-16), Ollama, Claude and Codex as written; kit guide/open-models-kit, thumbnails guide/creator-thumbnails/open-models, writer brief guide/creator-series-kit/WRITER-BRIEF-openmodels.md",
       "watermark": true,
-      "guide_playlist": "PLHkUmek0E8ZI"
+      "guide_playlist": "PLHkUmek0E8ZI",
+      "guide_youtube_url": "https://youtu.be/0FacZxWOMUE",
+      "guide_uploaded_on": "2026-11-18",
+      "guide_visibility": "public"
     },
     {
       "name": "AI Automation with n8n 1 - Install with Docker",
@@ -7936,7 +7942,8 @@
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/9Z_vMvlA4As",
       "guide_uploaded_on": "2026-11-17",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "guide_playlist": "PLM7ezVrv8ijw"
     },
     {
       "name": "AI Automation with n8n 2 - First Workflow",
@@ -7949,7 +7956,8 @@
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/XvXytV5e4rY",
       "guide_uploaded_on": "2026-11-17",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "guide_playlist": "PLM7ezVrv8ijw"
     },
     {
       "name": "AI Automation with n8n 3 - AI Agent with Claude",
@@ -7962,7 +7970,8 @@
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/4XVp6KZcJP4",
       "guide_uploaded_on": "2026-11-17",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "guide_playlist": "PLM7ezVrv8ijw"
     },
     {
       "name": "AI Automation with n8n 4 - MCP Server",
@@ -7975,7 +7984,8 @@
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/MI9wOCcksQw",
       "guide_uploaded_on": "2026-11-17",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "guide_playlist": "PLM7ezVrv8ijw"
     },
     {
       "name": "AI Automation with n8n 5 - Claude Code",
@@ -7988,7 +7998,8 @@
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/unMb4nCRcGg",
       "guide_uploaded_on": "2026-11-17",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "guide_playlist": "PLM7ezVrv8ijw"
     },
     {
       "name": "Microsoft Copilot 1 - Copilot in Word",
@@ -8088,50 +8099,65 @@
       "series": "Vibe Coding",
       "part": 2,
       "brand": "VIBE CODING",
-      "guide": "render approved",
+      "guide": "uploaded private",
       "title": "Lovable Tutorial: Build a Website From One Prompt",
       "guide_note": "2026-11-17: approved, 7 parts (guide/vibe-coding-plan.md); hands-on testing OK only with throwaway accounts and dummy data; posting: public as each part passes every gate, one at a time (autopost); kit guide/vibe-coding-kit, thumbnails guide/creator-thumbnails/vibe-coding, writer brief guide/creator-series-kit/WRITER-BRIEF-vibecoding.md; 2026-11-17: passed all gates (critic, 2 pre-viewer fixes, pre-render viewer pass first time, final MP4 pass); upload held for Jabran's answer on the series colour and the quota reset; 2026-11-17: Jabran OK'd the ember coral colour and the \"build credits\" line by ear; render approved under the series autopost",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/t80Kq2vMhmE",
+      "guide_uploaded_on": "2026-11-18",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Vibe Coding 3 - Supabase Logins and Database",
       "series": "Vibe Coding",
       "part": 3,
       "brand": "VIBE CODING",
-      "guide": "render approved",
+      "guide": "uploaded private",
       "title": "Supabase With Lovable: Add Logins and a Database",
       "guide_note": "2026-11-17: approved, 7 parts (guide/vibe-coding-plan.md); hands-on testing OK only with throwaway accounts and dummy data; posting: public as each part passes every gate, one at a time (autopost); kit guide/vibe-coding-kit, thumbnails guide/creator-thumbnails/vibe-coding, writer brief guide/creator-series-kit/WRITER-BRIEF-vibecoding.md; 2026-11-17: passed all gates (critic, pre-render viewer pass first time, final MP4 pass; QA re-run with TTS_LINT_ALLOW=row for the approved Row Level Security); render approved under the series autopost",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/iLUUVqGuqgw",
+      "guide_uploaded_on": "2026-11-18",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Vibe Coding 4 - Google Stitch Design First",
       "series": "Vibe Coding",
       "part": 4,
       "brand": "VIBE CODING",
-      "guide": "render approved",
+      "guide": "uploaded private",
       "title": "Google Stitch Tutorial: Design Your App First, Then Build It",
       "guide_note": "2026-11-17: approved, 7 parts (guide/vibe-coding-plan.md); hands-on testing OK only with throwaway accounts and dummy data; posting: public as each part passes every gate, one at a time (autopost); kit guide/vibe-coding-kit, thumbnails guide/creator-thumbnails/vibe-coding, writer brief guide/creator-series-kit/WRITER-BRIEF-vibecoding.md; 2026-11-17: passed all gates (critic, pre-render viewer pass after 2 board fixes, final MP4 pass); render approved under the series autopost",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/lRKNGeaMqiU",
+      "guide_uploaded_on": "2026-11-18",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Vibe Coding 5 - Framer AI Website Builder",
       "series": "Vibe Coding",
       "part": 5,
       "brand": "VIBE CODING",
-      "guide": "render approved",
+      "guide": "uploaded private",
       "title": "Framer AI Website Builder: Make a Site You Can Publish",
       "guide_note": "2026-11-17: approved, 7 parts (guide/vibe-coding-plan.md); hands-on testing OK only with throwaway accounts and dummy data; posting: public as each part passes every gate, one at a time (autopost); kit guide/vibe-coding-kit, thumbnails guide/creator-thumbnails/vibe-coding, writer brief guide/creator-series-kit/WRITER-BRIEF-vibecoding.md; 2026-11-17: passed all gates (critic, 3 pre-viewer board fixes, pre-render viewer pass after 1 board fix, final MP4 pass); render approved under the series autopost",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/kP4JatUoLrk",
+      "guide_uploaded_on": "2026-11-18",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Vibe Coding 6 - Lovable vs Claude Code",
       "series": "Vibe Coding",
       "part": 6,
       "brand": "VIBE CODING",
-      "guide": "render approved",
+      "guide": "uploaded private",
       "title": "Lovable vs Claude Code: Which Should a Non-Coder Use?",
       "guide_note": "2026-11-17: approved, 7 parts (guide/vibe-coding-plan.md); hands-on testing OK only with throwaway accounts and dummy data; posting: public as each part passes every gate, one at a time (autopost); kit guide/vibe-coding-kit, thumbnails guide/creator-thumbnails/vibe-coding, writer brief guide/creator-series-kit/WRITER-BRIEF-vibecoding.md; 2026-11-17: passed all gates (critic, 3 pre-viewer board fixes, pre-render viewer pass first time, final MP4 pass, final-p06.md); render approved under the series autopost",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/p9PrU0zUw10",
+      "guide_uploaded_on": "2026-11-18",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Vibe Coding 7 - Security and Production Ready",
