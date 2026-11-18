@@ -8143,7 +8143,7 @@
       "series": "Claude Canva",
       "part": 2,
       "brand": "CLAUDE CANVA",
-      "guide": "new",
+      "guide": "render check",
       "title": "Claude Canva Presentation and Instagram Carousel: From One Prompt to Canva",
       "guide_note": "2026-11-17: approved, 3 parts (guide/canva-ai-plan.md, top table; slug and paths canva-ai); docs only, drawn boards and \"Example output\" (hands-on testing not answered); posting not answered, so nothing uploads without Jabran's OK; Canva and Cowork spoken as written; kit guide/canva-ai-kit, thumbnails guide/creator-thumbnails/canva-ai, images guide/canva-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
       "watermark": true
@@ -8163,9 +8163,9 @@
       "series": "Notion AI",
       "part": 1,
       "brand": "NOTION AI",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Notion AI Tutorial: How to Use the Notion Agent (2026)",
-      "guide_note": "2026-11-17: approved, 7 parts (guide/notion-ai-plan.md); docs only, nothing signed up for, installed or run, any output labelled \"Example output\"; \"Notion\" spoken as written, no samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/notion-ai-kit, thumbnails guide/creator-thumbnails/notion-ai, writer brief guide/creator-series-kit/WRITER-BRIEF-notionai.md, images guide/notion-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "guide_note": "2026-11-17: approved, 7 parts (guide/notion-ai-plan.md); docs only, nothing signed up for, installed or run, any output labelled \"Example output\"; \"Notion\" spoken as written, no samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/notion-ai-kit, thumbnails guide/creator-thumbnails/notion-ai, writer brief guide/creator-series-kit/WRITER-BRIEF-notionai.md, images guide/notion-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board) | 2026-11-17: Part 1 passed critic, pre-render viewer pass and final MP4 pass; autopost (his OK 2026-11-17)",
       "watermark": true
     },
     {
@@ -8233,9 +8233,9 @@
       "series": "Prompt Engineering",
       "part": 1,
       "brand": "PROMPT ENGINEERING",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Prompt Engineering for Beginners: How to Write a Prompt That Works",
-      "guide_note": "2026-11-17: approved, 6 parts (guide/prompt-engineering-plan.md); level: Novice; docs only, drawn boards and \"Example output\"; posting: public as each part passes every gate, one at a time (autopost); kit guide/prompt-engineering-kit, thumbnail guide/creator-thumbnails/prompt-engineering/01.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-promptengineering.md",
+      "guide_note": "2026-11-17: approved, 6 parts (guide/prompt-engineering-plan.md); level: Novice; docs only, drawn boards and \"Example output\"; posting: public as each part passes every gate, one at a time (autopost); kit guide/prompt-engineering-kit, thumbnail guide/creator-thumbnails/prompt-engineering/01.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-promptengineering.md; 2026-11-17: critic, pre-render viewer pass, render QA and final MP4 viewer pass all passed (sheets/p01-viewer-pass.md); render approved under his autopost OK",
       "watermark": true
     },
     {
