@@ -30,7 +30,8 @@
       "first_seen": "2026-10-16",
       "intro_youtube_url": "https://youtu.be/QlRhEoTuzfY",
       "intro_uploaded_on": "2026-10-20",
-      "intro_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
+      "intro_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
+      "generation": 1
     },
     {
       "problem": "Can you unit test your AI's answers?",
@@ -47,7 +48,8 @@
       "intro_youtube_url": "https://youtu.be/UkkmzvRN5Uc",
       "intro_uploaded_on": "2026-10-20",
       "intro_publish_at": "2026-10-24T21:00:00Z",
-      "intro_visibility": "private until Sat 24 Oct 2026 17:00 EDT, then public automatically"
+      "intro_visibility": "private until Sat 24 Oct 2026 17:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Why did your AI agent get it wrong?",
@@ -64,7 +66,8 @@
       "intro_youtube_url": "https://youtu.be/Ig_Spr9Lgps",
       "intro_uploaded_on": "2026-10-20",
       "intro_publish_at": "2026-10-22T21:00:00Z",
-      "intro_visibility": "private until Thu 22 Oct 2026 17:00 EDT, then public automatically"
+      "intro_visibility": "private until Thu 22 Oct 2026 17:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Who spent your AI budget?",
@@ -81,7 +84,8 @@
       "intro_youtube_url": "https://youtu.be/UHReA1P0zLE",
       "intro_uploaded_on": "2026-10-20",
       "intro_publish_at": "2026-10-23T13:00:00Z",
-      "intro_visibility": "private until Fri 23 Oct 2026 09:00 EDT, then public automatically"
+      "intro_visibility": "private until Fri 23 Oct 2026 09:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Is your automation failing silently?",
@@ -98,7 +102,8 @@
       "intro_youtube_url": "https://youtu.be/nWQmNrykC8I",
       "intro_uploaded_on": "2026-10-20",
       "intro_publish_at": "2026-10-23T21:00:00Z",
-      "intro_visibility": "private until Fri 23 Oct 2026 17:00 EDT, then public automatically"
+      "intro_visibility": "private until Fri 23 Oct 2026 17:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Would you notice your AI getting worse?",
@@ -115,7 +120,8 @@
       "intro_youtube_url": "https://youtu.be/tYgl7FNaP4w",
       "intro_uploaded_on": "2026-10-20",
       "intro_publish_at": "2026-10-25T21:00:00Z",
-      "intro_visibility": "private until Sun 25 Oct 2026 17:00 EDT, then public automatically"
+      "intro_visibility": "private until Sun 25 Oct 2026 17:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Still copying data between apps by hand?",
@@ -132,7 +138,8 @@
       "intro_youtube_url": "https://youtu.be/vfsxd9v9hxA",
       "intro_uploaded_on": "2026-10-20",
       "intro_publish_at": "2026-10-22T13:00:00Z",
-      "intro_visibility": "private until Thu 22 Oct 2026 09:00 EDT, then public automatically"
+      "intro_visibility": "private until Thu 22 Oct 2026 09:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "problem": "What's your app sending the AI?",
@@ -149,7 +156,8 @@
       "intro_youtube_url": "https://youtu.be/2To41LZGNRs",
       "intro_uploaded_on": "2026-10-20",
       "intro_publish_at": "2026-10-30T21:00:00Z",
-      "intro_visibility": "private until Fri 30 Oct 2026 17:00 EDT, then public automatically"
+      "intro_visibility": "private until Fri 30 Oct 2026 17:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Agent crashed? Back to step one?",
@@ -166,7 +174,8 @@
       "intro_youtube_url": "https://youtu.be/8f2lS4IDF-o",
       "intro_uploaded_on": "2026-10-20",
       "intro_publish_at": "2026-10-31T13:00:00Z",
-      "intro_visibility": "private until Sat 31 Oct 2026 09:00 EDT, then public automatically"
+      "intro_visibility": "private until Sat 31 Oct 2026 09:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Is your best script stuck on one laptop?",
@@ -183,7 +192,8 @@
       "intro_youtube_url": "https://youtu.be/-4fEwZ4zDJc",
       "intro_uploaded_on": "2026-10-20",
       "intro_publish_at": "2026-10-25T13:00:00Z",
-      "intro_visibility": "private until Sun 25 Oct 2026 09:00 EDT, then public automatically"
+      "intro_visibility": "private until Sun 25 Oct 2026 09:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Is bad data slipping into your reports?",
@@ -200,7 +210,8 @@
       "intro_youtube_url": "https://youtu.be/9kVvqX3Us5Y",
       "intro_uploaded_on": "2026-10-20",
       "intro_publish_at": "2026-10-26T13:00:00Z",
-      "intro_visibility": "private until Mon 26 Oct 2026 09:00 EDT, then public automatically"
+      "intro_visibility": "private until Mon 26 Oct 2026 09:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Your AI aced the demo. Can it do the job?",
@@ -217,7 +228,8 @@
       "intro_youtube_url": "https://youtu.be/X2QV1baeLSQ",
       "intro_uploaded_on": "2026-10-21",
       "intro_publish_at": "2026-11-06T14:00:00Z",
-      "intro_visibility": "private until Fri 06 Nov 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Fri 06 Nov 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Your monitoring can't see your AI calls?",
@@ -234,7 +246,8 @@
       "intro_youtube_url": "https://youtu.be/esC8zrYlRBw",
       "intro_uploaded_on": "2026-10-21",
       "intro_publish_at": "2026-11-08T14:00:00Z",
-      "intro_visibility": "private until Sun 08 Nov 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Sun 08 Nov 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "One prompt doing a whole team's job?",
@@ -251,7 +264,8 @@
       "intro_youtube_url": "https://youtu.be/XBXQztzCzJo",
       "intro_uploaded_on": "2026-10-20",
       "intro_publish_at": "2026-10-29T21:00:00Z",
-      "intro_visibility": "private until Thu 29 Oct 2026 17:00 EDT, then public automatically"
+      "intro_visibility": "private until Thu 29 Oct 2026 17:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Users leave and never tell you why?",
@@ -268,7 +282,8 @@
       "intro_youtube_url": "https://youtu.be/mGsJ4S7OrT0",
       "intro_uploaded_on": "2026-10-20",
       "intro_publish_at": "2026-10-24T13:00:00Z",
-      "intro_visibility": "private until Sat 24 Oct 2026 09:00 EDT, then public automatically"
+      "intro_visibility": "private until Sat 24 Oct 2026 09:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Users find your agent's bugs first?",
@@ -285,7 +300,8 @@
       "intro_youtube_url": "https://youtu.be/ZIMSrQmkDvs",
       "intro_uploaded_on": "2026-10-20",
       "intro_publish_at": "2026-11-01T22:00:00Z",
-      "intro_visibility": "private until Sun 01 Nov 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Sun 01 Nov 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Card charged, but the order never shipped?",
@@ -302,7 +318,8 @@
       "intro_youtube_url": "https://youtu.be/y0MK9uW6vAQ",
       "intro_uploaded_on": "2026-10-20",
       "intro_publish_at": "2026-11-02T22:00:00Z",
-      "intro_visibility": "private until Mon 02 Nov 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Mon 02 Nov 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Did you just commit your API key?",
@@ -319,7 +336,8 @@
       "intro_youtube_url": "https://youtu.be/fUUJrwHDpNs",
       "intro_uploaded_on": "2026-10-25",
       "intro_publish_at": "2026-11-05T14:00:00Z",
-      "intro_visibility": "private until Thu 05 Nov 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Thu 05 Nov 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Six tabs open to see why the app is slow?",
@@ -336,7 +354,8 @@
       "intro_youtube_url": "https://youtu.be/9VdZd9PFuUw",
       "intro_uploaded_on": "2026-10-25",
       "intro_publish_at": "2026-12-07T14:00:00Z",
-      "intro_visibility": "private until Mon 07 Dec 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Mon 07 Dec 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Who checks your AI before it hits send?",
@@ -353,7 +372,8 @@
       "intro_youtube_url": "https://youtu.be/qaRaC84bteY",
       "intro_uploaded_on": "2026-10-20",
       "intro_publish_at": "2026-10-27T21:00:00Z",
-      "intro_visibility": "private until Tue 27 Oct 2026 17:00 EDT, then public automatically"
+      "intro_visibility": "private until Tue 27 Oct 2026 17:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Grading your AI's answers by eye?",
@@ -370,7 +390,8 @@
       "intro_youtube_url": "https://youtu.be/zrJtvUFsLV8",
       "intro_uploaded_on": "2026-10-21",
       "intro_publish_at": "2026-11-07T22:00:00Z",
-      "intro_visibility": "private until Sat 07 Nov 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Sat 07 Nov 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Personal data hiding in your chat logs?",
@@ -387,7 +408,8 @@
       "intro_youtube_url": "https://youtu.be/HTardWp5GkY",
       "intro_uploaded_on": "2026-10-20",
       "intro_publish_at": "2026-10-27T13:00:00Z",
-      "intro_visibility": "private until Tue 27 Oct 2026 09:00 EDT, then public automatically"
+      "intro_visibility": "private until Tue 27 Oct 2026 09:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Dependency updates piling up for years?",
@@ -404,7 +426,8 @@
       "intro_youtube_url": "https://youtu.be/nhm2SV5Gvz8",
       "intro_uploaded_on": "2026-10-22",
       "intro_publish_at": "2026-11-10T22:00:00Z",
-      "intro_visibility": "private until Tue 10 Nov 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Tue 10 Nov 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Are your passwords in Git in plain text?",
@@ -421,7 +444,8 @@
       "intro_youtube_url": "https://youtu.be/4pc1G9VqfHg",
       "intro_uploaded_on": "2026-10-20",
       "intro_publish_at": "2026-10-26T21:00:00Z",
-      "intro_visibility": "private until Mon 26 Oct 2026 17:00 EDT, then public automatically"
+      "intro_visibility": "private until Mon 26 Oct 2026 17:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Does your AI send back broken JSON?",
@@ -438,7 +462,8 @@
       "intro_youtube_url": "https://youtu.be/pS4Yp-S2sWw",
       "intro_uploaded_on": "2026-10-20",
       "intro_publish_at": "2026-10-28T13:00:00Z",
-      "intro_visibility": "private until Wed 28 Oct 2026 09:00 EDT, then public automatically"
+      "intro_visibility": "private until Wed 28 Oct 2026 09:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Only devs can get into your SQL database?",
@@ -455,7 +480,8 @@
       "intro_youtube_url": "https://youtu.be/a1OY_wRmrOM",
       "intro_uploaded_on": "2026-10-22",
       "intro_publish_at": "2026-11-12T14:00:00Z",
-      "intro_visibility": "private until Thu 12 Nov 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Thu 12 Nov 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Answers buried in your team's PDFs?",
@@ -472,7 +498,8 @@
       "intro_youtube_url": "https://youtu.be/GdPw3cxJR0I",
       "intro_uploaded_on": "2026-10-20",
       "intro_publish_at": "2026-10-28T21:00:00Z",
-      "intro_visibility": "private until Wed 28 Oct 2026 17:00 EDT, then public automatically"
+      "intro_visibility": "private until Wed 28 Oct 2026 17:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Building logins from scratch again?",
@@ -489,7 +516,8 @@
       "intro_youtube_url": "https://youtu.be/t_19xX1Pr6Y",
       "intro_uploaded_on": "2026-10-20",
       "intro_publish_at": "2026-10-29T13:00:00Z",
-      "intro_visibility": "private until Thu 29 Oct 2026 09:00 EDT, then public automatically"
+      "intro_visibility": "private until Thu 29 Oct 2026 09:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Only one person knows how to fix it?",
@@ -506,7 +534,8 @@
       "intro_youtube_url": "https://youtu.be/7o5AdEPSjH0",
       "intro_uploaded_on": "2026-10-22",
       "intro_publish_at": "2026-11-17T14:00:00Z",
-      "intro_visibility": "private until Tue 17 Nov 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Tue 17 Nov 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Every prompt change needs a redeploy?",
@@ -523,7 +552,8 @@
       "intro_youtube_url": "https://youtu.be/4ZrQJZ00Ltg",
       "intro_uploaded_on": "2026-10-20",
       "intro_publish_at": "2026-10-30T13:00:00Z",
-      "intro_visibility": "private until Fri 30 Oct 2026 09:00 EDT, then public automatically"
+      "intro_visibility": "private until Fri 30 Oct 2026 09:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Your team stopped using the project tool?",
@@ -540,7 +570,8 @@
       "intro_youtube_url": "https://youtu.be/JMgJpHeOPgQ",
       "intro_uploaded_on": "2026-10-23",
       "intro_publish_at": "2026-11-22T22:00:00Z",
-      "intro_visibility": "private until Sun 22 Nov 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Sun 22 Nov 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Hopping between AI apps all day?",
@@ -557,7 +588,8 @@
       "intro_youtube_url": "https://youtu.be/dkk0cf7xpoE",
       "intro_uploaded_on": "2026-10-20",
       "intro_publish_at": "2026-10-31T21:00:00Z",
-      "intro_visibility": "private until Sat 31 Oct 2026 17:00 EDT, then public automatically"
+      "intro_visibility": "private until Sat 31 Oct 2026 17:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Team locked out of your local AI?",
@@ -574,7 +606,8 @@
       "intro_youtube_url": "https://youtu.be/StgFXHef8fo",
       "intro_uploaded_on": "2026-10-20",
       "intro_publish_at": "2026-11-01T14:00:00Z",
-      "intro_visibility": "private until Sun 01 Nov 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Sun 01 Nov 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Asked for a refund, got billing info?",
@@ -591,7 +624,8 @@
       "intro_youtube_url": "https://youtu.be/rmj1NtXRpLo",
       "intro_uploaded_on": "2026-10-23",
       "intro_publish_at": "2026-11-26T14:00:00Z",
-      "intro_visibility": "private until Thu 26 Nov 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Thu 26 Nov 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "One late task quietly broke your whole plan?",
@@ -608,7 +642,8 @@
       "intro_youtube_url": "https://youtu.be/ELp-vWuSF6U",
       "intro_uploaded_on": "2026-10-24",
       "intro_publish_at": "2026-11-26T22:00:00Z",
-      "intro_visibility": "private until Thu 26 Nov 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Thu 26 Nov 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Same question in team chat, every week?",
@@ -625,7 +660,8 @@
       "intro_youtube_url": "https://youtu.be/BUlzxN11atE",
       "intro_uploaded_on": "2026-10-24",
       "intro_publish_at": "2026-11-27T14:00:00Z",
-      "intro_visibility": "private until Fri 27 Nov 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Fri 27 Nov 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Sprint's over. What got done, what didn't?",
@@ -642,7 +678,8 @@
       "intro_youtube_url": "https://youtu.be/UlCN4q_RF-c",
       "intro_uploaded_on": "2026-10-24",
       "intro_publish_at": "2026-11-29T14:00:00Z",
-      "intro_visibility": "private until Sun 29 Nov 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Sun 29 Nov 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "A whole backend before your first feature?",
@@ -659,7 +696,8 @@
       "intro_youtube_url": "https://youtu.be/FenfESZpTkk",
       "intro_uploaded_on": "2026-10-20",
       "intro_publish_at": "2026-11-02T14:00:00Z",
-      "intro_visibility": "private until Mon 02 Nov 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Mon 02 Nov 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Your CRM won't fit how you sell?",
@@ -676,7 +714,8 @@
       "intro_youtube_url": "https://youtu.be/_p2vjJrBslc",
       "intro_uploaded_on": "2026-10-20",
       "intro_publish_at": "2026-11-03T14:00:00Z",
-      "intro_visibility": "private until Tue 03 Nov 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Tue 03 Nov 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Need Git just to fix a docs typo?",
@@ -693,7 +732,8 @@
       "intro_youtube_url": "https://youtu.be/SH-bgrF_dfY",
       "intro_uploaded_on": "2026-10-24",
       "intro_publish_at": "2026-12-01T22:00:00Z",
-      "intro_visibility": "private until Tue 01 Dec 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Tue 01 Dec 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Your whole team waits on one analyst?",
@@ -710,7 +750,8 @@
       "intro_youtube_url": "https://youtu.be/3AXSHj43xmw",
       "intro_uploaded_on": "2026-10-20",
       "intro_publish_at": "2026-11-03T22:00:00Z",
-      "intro_visibility": "private until Tue 03 Nov 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Tue 03 Nov 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Approving Terraform changes blind?",
@@ -727,7 +768,8 @@
       "intro_youtube_url": "https://youtu.be/yJcBplq06XM",
       "intro_uploaded_on": "2026-10-21",
       "intro_publish_at": "2026-11-04T14:00:00Z",
-      "intro_visibility": "private until Wed 04 Nov 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Wed 04 Nov 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Shipped a public bucket by mistake?",
@@ -744,7 +786,8 @@
       "intro_youtube_url": "https://youtu.be/EnBZ9mzCwdU",
       "intro_uploaded_on": "2026-10-21",
       "intro_publish_at": "2026-11-04T22:00:00Z",
-      "intro_visibility": "private until Wed 04 Nov 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Wed 04 Nov 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Switching AI models means a rewrite?",
@@ -761,7 +804,8 @@
       "intro_youtube_url": "https://youtu.be/DkTU4_QgEAY",
       "intro_uploaded_on": "2026-10-21",
       "intro_publish_at": "2026-11-05T22:00:00Z",
-      "intro_visibility": "private until Thu 05 Nov 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Thu 05 Nov 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Your AI knows the web, not your docs?",
@@ -778,7 +822,8 @@
       "intro_youtube_url": "https://youtu.be/ZI334sGr3a4",
       "intro_uploaded_on": "2026-10-21",
       "intro_publish_at": "2026-11-06T22:00:00Z",
-      "intro_visibility": "private until Fri 06 Nov 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Fri 06 Nov 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Pasting the same charts every week?",
@@ -795,7 +840,8 @@
       "intro_youtube_url": "https://youtu.be/VFfimcSryrE",
       "intro_uploaded_on": "2026-10-21",
       "intro_publish_at": "2026-11-07T14:00:00Z",
-      "intro_visibility": "private until Sat 07 Nov 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Sat 07 Nov 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Reviews wasted on style nitpicks?",
@@ -812,7 +858,8 @@
       "intro_youtube_url": "https://youtu.be/eCM0kbjWXWQ",
       "intro_uploaded_on": "2026-10-22",
       "intro_publish_at": "2026-11-08T22:00:00Z",
-      "intro_visibility": "private until Sun 08 Nov 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Sun 08 Nov 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Scared to touch code with no tests?",
@@ -829,7 +876,8 @@
       "intro_youtube_url": "https://youtu.be/WE30SFWFXRA",
       "intro_uploaded_on": "2026-10-22",
       "intro_publish_at": "2026-11-09T14:00:00Z",
-      "intro_visibility": "private until Mon 09 Nov 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Mon 09 Nov 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Bad answer. Blame search or the AI?",
@@ -846,7 +894,8 @@
       "intro_youtube_url": "https://youtu.be/RVm9wsbC97k",
       "intro_uploaded_on": "2026-10-22",
       "intro_publish_at": "2026-11-09T22:00:00Z",
-      "intro_visibility": "private until Mon 09 Nov 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Mon 09 Nov 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "One customer, five spellings?",
@@ -863,7 +912,8 @@
       "intro_youtube_url": "https://youtu.be/vdb_Zud9wLQ",
       "intro_uploaded_on": "2026-10-22",
       "intro_publish_at": "2026-11-10T14:00:00Z",
-      "intro_visibility": "private until Tue 10 Nov 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Tue 10 Nov 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Same bug, back in the next pull request?",
@@ -880,7 +930,8 @@
       "intro_youtube_url": "https://youtu.be/1xuqKLF4bwg",
       "intro_uploaded_on": "2026-10-26",
       "intro_publish_at": "2026-11-02T02:00:00Z",
-      "intro_visibility": "private until Sun 01 Nov 2026 21:00 EST, then public automatically"
+      "intro_visibility": "private until Sun 01 Nov 2026 21:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Three scanners, three reports, one repo?",
@@ -897,7 +948,8 @@
       "intro_youtube_url": "https://youtu.be/pE2uulZPUWI",
       "intro_uploaded_on": "2026-10-26",
       "intro_publish_at": "2026-11-02T18:00:00Z",
-      "intro_visibility": "private until Mon 02 Nov 2026 13:00 EST, then public automatically"
+      "intro_visibility": "private until Mon 02 Nov 2026 13:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Did a customer spot your outage?",
@@ -914,7 +966,8 @@
       "intro_youtube_url": "https://youtu.be/zSQ4x8EziaI",
       "intro_uploaded_on": "2026-10-22",
       "intro_publish_at": "2026-11-11T14:00:00Z",
-      "intro_visibility": "private until Wed 11 Nov 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Wed 11 Nov 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "A dozen spreadsheets, none agree?",
@@ -931,7 +984,8 @@
       "intro_youtube_url": "https://youtu.be/qaO5JSXG5qo",
       "intro_uploaded_on": "2026-10-22",
       "intro_publish_at": "2026-11-11T22:00:00Z",
-      "intro_visibility": "private until Wed 11 Nov 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Wed 11 Nov 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Copied a PDF table and got word salad?",
@@ -948,7 +1002,8 @@
       "intro_youtube_url": "https://youtu.be/23ExMKPCOMI",
       "intro_uploaded_on": "2026-10-26",
       "intro_publish_at": "2026-11-03T02:00:00Z",
-      "intro_visibility": "private until Mon 02 Nov 2026 21:00 EST, then public automatically"
+      "intro_visibility": "private until Mon 02 Nov 2026 21:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Asked your AI for one word, got an essay?",
@@ -965,7 +1020,8 @@
       "intro_youtube_url": "https://youtu.be/5TvYZ4lV-n0",
       "intro_uploaded_on": "2026-10-22",
       "intro_publish_at": "2026-11-12T22:00:00Z",
-      "intro_visibility": "private until Thu 12 Nov 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Thu 12 Nov 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Retyping reports for Word, PDF and the web?",
@@ -982,7 +1038,8 @@
       "intro_youtube_url": "https://youtu.be/PEDb8o37JOk",
       "intro_uploaded_on": "2026-10-22",
       "intro_publish_at": "2026-11-13T14:00:00Z",
-      "intro_visibility": "private until Fri 13 Nov 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Fri 13 Nov 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Still testing checkout with your mouse?",
@@ -999,7 +1056,8 @@
       "intro_youtube_url": "https://youtu.be/n1lUjP1K1YQ",
       "intro_uploaded_on": "2026-10-26",
       "intro_publish_at": "2026-11-03T18:00:00Z",
-      "intro_visibility": "private until Tue 03 Nov 2026 13:00 EST, then public automatically"
+      "intro_visibility": "private until Tue 03 Nov 2026 13:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Garbage in, crash three calls later?",
@@ -1016,7 +1074,8 @@
       "intro_youtube_url": "https://youtu.be/pVH-Syu-D-0",
       "intro_uploaded_on": "2026-10-22",
       "intro_publish_at": "2026-11-13T22:00:00Z",
-      "intro_visibility": "private until Fri 13 Nov 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Fri 13 Nov 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Does anyone follow your style guide?",
@@ -1033,7 +1092,8 @@
       "intro_youtube_url": "https://youtu.be/TfHfbEgBfq8",
       "intro_uploaded_on": "2026-10-22",
       "intro_publish_at": "2026-11-14T14:00:00Z",
-      "intro_visibility": "private until Sat 14 Nov 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Sat 14 Nov 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Passing .env files around in chat?",
@@ -1050,7 +1110,8 @@
       "intro_youtube_url": "https://youtu.be/rOGsoYSx6nY",
       "intro_uploaded_on": "2026-10-22",
       "intro_publish_at": "2026-11-14T22:00:00Z",
-      "intro_visibility": "private until Sat 14 Nov 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Sat 14 Nov 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Who changed the prices, and when?",
@@ -1067,7 +1128,8 @@
       "intro_youtube_url": "https://youtu.be/6b0gakGPK-I",
       "intro_uploaded_on": "2026-10-22",
       "intro_publish_at": "2026-11-15T14:00:00Z",
-      "intro_visibility": "private until Sun 15 Nov 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Sun 15 Nov 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Notes in one app, diagrams in another?",
@@ -1084,7 +1146,8 @@
       "intro_youtube_url": "https://youtu.be/zTC2QZ-Ji2Y",
       "intro_uploaded_on": "2026-10-22",
       "intro_publish_at": "2026-11-15T22:00:00Z",
-      "intro_visibility": "private until Sun 15 Nov 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Sun 15 Nov 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Logins, push, SMS: a new SDK for each?",
@@ -1101,7 +1164,8 @@
       "intro_youtube_url": "https://youtu.be/uvnS1K9A0_8",
       "intro_uploaded_on": "2026-10-22",
       "intro_publish_at": "2026-11-16T14:00:00Z",
-      "intro_visibility": "private until Mon 16 Nov 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Mon 16 Nov 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Your automations send data to whose cloud?",
@@ -1118,7 +1182,8 @@
       "intro_youtube_url": "https://youtu.be/O7C6yOup48Q",
       "intro_uploaded_on": "2026-10-22",
       "intro_publish_at": "2026-11-16T22:00:00Z",
-      "intro_visibility": "private until Mon 16 Nov 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Mon 16 Nov 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Five emails just to book one call?",
@@ -1135,7 +1200,8 @@
       "intro_youtube_url": "https://youtu.be/OPOWubNqR_I",
       "intro_uploaded_on": "2026-10-23",
       "intro_publish_at": "2026-11-17T22:00:00Z",
-      "intro_visibility": "private until Tue 17 Nov 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Tue 17 Nov 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Can't recreate the AI image you loved?",
@@ -1152,7 +1218,8 @@
       "intro_youtube_url": "https://youtu.be/6s0iZEL-oHw",
       "intro_uploaded_on": "2026-10-23",
       "intro_publish_at": "2026-11-18T14:00:00Z",
-      "intro_visibility": "private until Wed 18 Nov 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Wed 18 Nov 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Your AI agent stuck at each app's login?",
@@ -1169,7 +1236,8 @@
       "intro_youtube_url": "https://youtu.be/MUqnre5Pb_8",
       "intro_uploaded_on": "2026-10-23",
       "intro_publish_at": "2026-11-18T22:00:00Z",
-      "intro_visibility": "private until Wed 18 Nov 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Wed 18 Nov 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "A teammate saved over your edits?",
@@ -1186,7 +1254,8 @@
       "intro_youtube_url": "https://youtu.be/VMrbw6VByVU",
       "intro_uploaded_on": "2026-10-23",
       "intro_publish_at": "2026-11-19T14:00:00Z",
-      "intro_visibility": "private until Thu 19 Nov 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Thu 19 Nov 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Printing a contract just to sign it?",
@@ -1203,7 +1272,8 @@
       "intro_youtube_url": "https://youtu.be/ANhrAEq3mcc",
       "intro_uploaded_on": "2026-10-23",
       "intro_publish_at": "2026-11-19T22:00:00Z",
-      "intro_visibility": "private until Thu 19 Nov 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Thu 19 Nov 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Forms filled by hand, then scanned back?",
@@ -1220,7 +1290,8 @@
       "intro_youtube_url": "https://youtu.be/EVUch1r10g8",
       "intro_uploaded_on": "2026-10-23",
       "intro_publish_at": "2026-11-20T14:00:00Z",
-      "intro_visibility": "private until Fri 20 Nov 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Fri 20 Nov 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "One diagram, 20 minutes in the slide app?",
@@ -1237,7 +1308,8 @@
       "intro_youtube_url": "https://youtu.be/U6ZfYN2F2VQ",
       "intro_uploaded_on": "2026-10-23",
       "intro_publish_at": "2026-11-20T22:00:00Z",
-      "intro_visibility": "private until Fri 20 Nov 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Fri 20 Nov 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "",
@@ -1268,7 +1340,8 @@
       "intro_youtube_url": "https://youtu.be/gh-vj9WyVTI",
       "intro_uploaded_on": "2026-10-23",
       "intro_publish_at": "2026-11-21T14:00:00Z",
-      "intro_visibility": "private until Sat 21 Nov 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Sat 21 Nov 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "AI image almost right, except one part?",
@@ -1285,7 +1358,8 @@
       "intro_youtube_url": "https://youtu.be/0wQASTPNZ9k",
       "intro_uploaded_on": "2026-10-23",
       "intro_publish_at": "2026-11-21T22:00:00Z",
-      "intro_visibility": "private until Sat 21 Nov 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Sat 21 Nov 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Billing by the hour, from memory?",
@@ -1302,7 +1376,8 @@
       "intro_youtube_url": "https://youtu.be/IKQkpzxewDg",
       "intro_uploaded_on": "2026-10-23",
       "intro_publish_at": "2026-11-22T14:00:00Z",
-      "intro_visibility": "private until Sun 22 Nov 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Sun 22 Nov 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "AI agent guides in Python, your app in JS?",
@@ -1319,7 +1394,8 @@
       "intro_youtube_url": "https://youtu.be/j-qALj33XT8",
       "intro_uploaded_on": "2026-10-23",
       "intro_publish_at": "2026-11-23T14:00:00Z",
-      "intro_visibility": "private until Mon 23 Nov 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Mon 23 Nov 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Your team's chats on someone else's servers?",
@@ -1336,7 +1412,8 @@
       "intro_youtube_url": "https://youtu.be/zQkEqfwm7XY",
       "intro_uploaded_on": "2026-10-23",
       "intro_publish_at": "2026-11-23T22:00:00Z",
-      "intro_visibility": "private until Mon 23 Nov 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Mon 23 Nov 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "A plugin for every AI app?",
@@ -1353,7 +1430,8 @@
       "intro_youtube_url": "https://youtu.be/pfL59g_isBQ",
       "intro_uploaded_on": "2026-10-23",
       "intro_publish_at": "2026-11-24T14:00:00Z",
-      "intro_visibility": "private until Tue 24 Nov 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Tue 24 Nov 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Hand-writing endpoints for every table?",
@@ -1370,7 +1448,8 @@
       "intro_youtube_url": "https://youtu.be/g_qBwyfN4yM",
       "intro_uploaded_on": "2026-10-23",
       "intro_publish_at": "2026-11-24T22:00:00Z",
-      "intro_visibility": "private until Tue 24 Nov 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Tue 24 Nov 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Sensor readings nobody ever looks at?",
@@ -1387,7 +1466,8 @@
       "intro_youtube_url": "https://youtu.be/R7HnkqSqI6A",
       "intro_uploaded_on": "2026-10-23",
       "intro_publish_at": "2026-11-25T14:00:00Z",
-      "intro_visibility": "private until Wed 25 Nov 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Wed 25 Nov 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Users muting every alert you send?",
@@ -1404,7 +1484,8 @@
       "intro_youtube_url": "https://youtu.be/3d9d-Tay8Tg",
       "intro_uploaded_on": "2026-10-23",
       "intro_publish_at": "2026-11-25T22:00:00Z",
-      "intro_visibility": "private until Wed 25 Nov 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Wed 25 Nov 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Guessing the CSS from a mockup?",
@@ -1421,7 +1502,8 @@
       "intro_youtube_url": "https://youtu.be/VQcDUSe5Og0",
       "intro_uploaded_on": "2026-10-24",
       "intro_publish_at": "2026-11-27T22:00:00Z",
-      "intro_visibility": "private until Fri 27 Nov 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Fri 27 Nov 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Your cleanup job died with the old server?",
@@ -1438,7 +1520,8 @@
       "intro_youtube_url": "https://youtu.be/SXiDC5H5aAU",
       "intro_uploaded_on": "2026-10-24",
       "intro_publish_at": "2026-11-28T14:00:00Z",
-      "intro_visibility": "private until Sat 28 Nov 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Sat 28 Nov 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Hosting a broker just to queue a few jobs?",
@@ -1455,7 +1538,8 @@
       "intro_youtube_url": "https://youtu.be/i9U9xMr5ex8",
       "intro_uploaded_on": "2026-10-24",
       "intro_publish_at": "2026-11-28T22:00:00Z",
-      "intro_visibility": "private until Sat 28 Nov 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Sat 28 Nov 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Five services to babysit for one tiny app?",
@@ -1472,7 +1556,8 @@
       "intro_youtube_url": "https://youtu.be/NPQJ3XWwvZk",
       "intro_uploaded_on": "2026-10-24",
       "intro_publish_at": "2026-11-29T22:00:00Z",
-      "intro_visibility": "private until Sun 29 Nov 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Sun 29 Nov 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Your AI provider is down. Is your app?",
@@ -1503,7 +1588,8 @@
       "intro_youtube_url": "https://youtu.be/aFZxNrTV9pU",
       "intro_uploaded_on": "2026-10-24",
       "intro_publish_at": "2026-11-30T14:00:00Z",
-      "intro_visibility": "private until Mon 30 Nov 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Mon 30 Nov 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "A spinner, then a wall of AI text?",
@@ -1520,7 +1606,8 @@
       "intro_youtube_url": "https://youtu.be/pvW3PT9eOAY",
       "intro_uploaded_on": "2026-10-24",
       "intro_publish_at": "2026-11-30T22:00:00Z",
-      "intro_visibility": "private until Mon 30 Nov 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Mon 30 Nov 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "To-dos trapped in an app you don't own?",
@@ -1537,7 +1624,8 @@
       "intro_youtube_url": "https://youtu.be/8eQ8pUZLGQk",
       "intro_uploaded_on": "2026-10-24",
       "intro_publish_at": "2026-12-01T14:00:00Z",
-      "intro_visibility": "private until Tue 01 Dec 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Tue 01 Dec 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Emailing a file only one person should open?",
@@ -1554,7 +1642,8 @@
       "intro_youtube_url": "https://youtu.be/JDoGDC7lN2E",
       "intro_uploaded_on": "2026-10-24",
       "intro_publish_at": "2026-12-02T14:00:00Z",
-      "intro_visibility": "private until Wed 02 Dec 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Wed 02 Dec 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Prices and dates look off abroad?",
@@ -1571,7 +1660,8 @@
       "intro_youtube_url": "https://youtu.be/N2D-j_WX3mU",
       "intro_uploaded_on": "2026-10-24",
       "intro_publish_at": "2026-12-02T22:00:00Z",
-      "intro_visibility": "private until Wed 02 Dec 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Wed 02 Dec 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Does your code leak user emails?",
@@ -1588,7 +1678,8 @@
       "intro_youtube_url": "https://youtu.be/HByD_rmXCYA",
       "intro_uploaded_on": "2026-10-24",
       "intro_publish_at": "2026-12-03T14:00:00Z",
-      "intro_visibility": "private until Thu 03 Dec 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Thu 03 Dec 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Test servers left running all weekend?",
@@ -1605,7 +1696,8 @@
       "intro_youtube_url": "https://youtu.be/aajWpdCNRWo",
       "intro_uploaded_on": "2026-10-24",
       "intro_publish_at": "2026-12-03T22:00:00Z",
-      "intro_visibility": "private until Thu 03 Dec 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Thu 03 Dec 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Chasing screenshots for audits?",
@@ -1622,7 +1714,8 @@
       "intro_youtube_url": "https://youtu.be/Vgi9qtXg7_4",
       "intro_uploaded_on": "2026-10-24",
       "intro_publish_at": "2026-12-04T14:00:00Z",
-      "intro_visibility": "private until Fri 04 Dec 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Fri 04 Dec 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "All tests pass. Would they catch a bug?",
@@ -1639,7 +1732,8 @@
       "intro_youtube_url": "https://youtu.be/GwbSGBKmPq4",
       "intro_uploaded_on": "2026-10-24",
       "intro_publish_at": "2026-12-04T22:00:00Z",
-      "intro_visibility": "private until Fri 04 Dec 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Fri 04 Dec 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Scraped dates your code can't sort?",
@@ -1656,7 +1750,8 @@
       "intro_youtube_url": "https://youtu.be/EbxK7rbDzWE",
       "intro_uploaded_on": "2026-10-24",
       "intro_publish_at": "2026-12-05T14:00:00Z",
-      "intro_visibility": "private until Sat 05 Dec 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Sat 05 Dec 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "New CVE out. Which of your apps are hit?",
@@ -1673,7 +1768,8 @@
       "intro_youtube_url": "https://youtu.be/5L1BKvfdFXU",
       "intro_uploaded_on": "2026-10-25",
       "intro_publish_at": "2026-12-05T22:00:00Z",
-      "intro_visibility": "private until Sat 05 Dec 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Sat 05 Dec 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Spreadsheet choking on a giant CSV?",
@@ -1690,7 +1786,8 @@
       "intro_youtube_url": "https://youtu.be/7vpybGGSvjc",
       "intro_uploaded_on": "2026-10-25",
       "intro_publish_at": "2026-12-06T14:00:00Z",
-      "intro_visibility": "private until Sun 06 Dec 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Sun 06 Dec 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Which data trained this model?",
@@ -1749,7 +1846,8 @@
       "intro_youtube_url": "https://youtu.be/oFLy8ONoMY4",
       "intro_uploaded_on": "2026-10-25",
       "intro_publish_at": "2026-12-06T22:00:00Z",
-      "intro_visibility": "private until Sun 06 Dec 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Sun 06 Dec 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Lookalike letters fooling your filter?",
@@ -1766,7 +1864,8 @@
       "intro_youtube_url": "https://youtu.be/ApU2hrYzjug",
       "intro_uploaded_on": "2026-10-25",
       "intro_publish_at": "2026-12-07T22:00:00Z",
-      "intro_visibility": "private until Mon 07 Dec 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Mon 07 Dec 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Which input did your tests never try?",
@@ -1783,7 +1882,8 @@
       "intro_youtube_url": "https://youtu.be/uw0r8eSaYzI",
       "intro_uploaded_on": "2026-10-25",
       "intro_publish_at": "2026-12-08T14:00:00Z",
-      "intro_visibility": "private until Tue 08 Dec 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Tue 08 Dec 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Did one merge double your cloud bill?",
@@ -1800,7 +1900,8 @@
       "intro_youtube_url": "https://youtu.be/7CYWv4m-KIQ",
       "intro_uploaded_on": "2026-10-25",
       "intro_publish_at": "2026-12-08T22:00:00Z",
-      "intro_visibility": "private until Tue 08 Dec 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Tue 08 Dec 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "The chart's in the report. Where's the code?",
@@ -1817,7 +1918,8 @@
       "intro_youtube_url": "https://youtu.be/Ok40WT4A7NQ",
       "intro_uploaded_on": "2026-10-25",
       "intro_publish_at": "2026-12-09T14:00:00Z",
-      "intro_visibility": "private until Wed 09 Dec 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Wed 09 Dec 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Hundreds of alerts. Which ones matter?",
@@ -1834,7 +1936,8 @@
       "intro_youtube_url": "https://youtu.be/3n1hAV90a3g",
       "intro_uploaded_on": "2026-10-25",
       "intro_publish_at": "2026-12-09T22:00:00Z",
-      "intro_visibility": "private until Wed 09 Dec 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Wed 09 Dec 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Your AI prototype never made it to the app?",
@@ -1851,7 +1954,8 @@
       "intro_youtube_url": "https://youtu.be/nGmPNtvNB7U",
       "intro_uploaded_on": "2026-10-25",
       "intro_publish_at": "2026-12-10T14:00:00Z",
-      "intro_visibility": "private until Thu 10 Dec 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Thu 10 Dec 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "",
@@ -1881,7 +1985,8 @@
       "intro_youtube_url": "https://youtu.be/-aGtVmd7rg4",
       "intro_uploaded_on": "2026-10-25",
       "intro_publish_at": "2026-12-10T22:00:00Z",
-      "intro_visibility": "private until Thu 10 Dec 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Thu 10 Dec 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Can your AI agent learn as it goes?",
@@ -1898,7 +2003,8 @@
       "intro_youtube_url": "https://youtu.be/yp7qFNbBZLU",
       "intro_uploaded_on": "2026-10-25",
       "intro_publish_at": "2026-12-11T14:00:00Z",
-      "intro_visibility": "private until Fri 11 Dec 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Fri 11 Dec 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Is that download really from you?",
@@ -1915,7 +2021,8 @@
       "intro_youtube_url": "https://youtu.be/gpVIqqeXsRw",
       "intro_uploaded_on": "2026-10-25",
       "intro_publish_at": "2026-12-11T22:00:00Z",
-      "intro_visibility": "private until Fri 11 Dec 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Fri 11 Dec 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Accuracy jumped. What did you change?",
@@ -1932,7 +2039,8 @@
       "intro_youtube_url": "https://youtu.be/XfqQTMcg_r4",
       "intro_uploaded_on": "2026-10-25",
       "intro_publish_at": "2026-12-12T14:00:00Z",
-      "intro_visibility": "private until Sat 12 Dec 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Sat 12 Dec 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Backed up nightly. Ever tried a restore?",
@@ -1949,7 +2057,8 @@
       "intro_youtube_url": "https://youtu.be/Y3Cw1Dm2Phk",
       "intro_uploaded_on": "2026-10-25",
       "intro_publish_at": "2026-12-12T22:00:00Z",
-      "intro_visibility": "private until Sat 12 Dec 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Sat 12 Dec 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Tried mutation testing once and gave up?",
@@ -1966,7 +2075,8 @@
       "intro_youtube_url": "https://youtu.be/0DFI_QrLyqA",
       "intro_uploaded_on": "2026-10-25",
       "intro_publish_at": "2026-12-13T14:00:00Z",
-      "intro_visibility": "private until Sun 13 Dec 2026 09:00 EST, then public automatically"
+      "intro_visibility": "private until Sun 13 Dec 2026 09:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Can users talk your chatbot off-script?",
@@ -1983,7 +2093,8 @@
       "intro_youtube_url": "https://youtu.be/F7RlNxrsbwM",
       "intro_uploaded_on": "2026-10-25",
       "intro_publish_at": "2026-12-13T22:00:00Z",
-      "intro_visibility": "private until Sun 13 Dec 2026 17:00 EST, then public automatically"
+      "intro_visibility": "private until Sun 13 Dec 2026 17:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Is a forgotten admin page still online?",
@@ -2000,7 +2111,8 @@
       "intro_youtube_url": "https://youtu.be/fYNoma1TxLY",
       "intro_uploaded_on": "2026-10-26",
       "intro_publish_at": "2026-10-28T01:00:00Z",
-      "intro_visibility": "private until Tue 27 Oct 2026 21:00 EDT, then public automatically"
+      "intro_visibility": "private until Tue 27 Oct 2026 21:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Data too private for a cloud AI?",
@@ -2017,7 +2129,8 @@
       "intro_youtube_url": "https://youtu.be/0CDum6NbNCc",
       "intro_uploaded_on": "2026-10-26",
       "intro_publish_at": "2026-10-28T17:00:00Z",
-      "intro_visibility": "private until Wed 28 Oct 2026 13:00 EDT, then public automatically"
+      "intro_visibility": "private until Wed 28 Oct 2026 13:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Cleaning a messy spreadsheet cell by cell?",
@@ -2034,7 +2147,8 @@
       "intro_youtube_url": "https://youtu.be/wLMG2f8CNEo",
       "intro_uploaded_on": "2026-10-26",
       "intro_publish_at": "2026-10-29T01:00:00Z",
-      "intro_visibility": "private until Wed 28 Oct 2026 21:00 EDT, then public automatically"
+      "intro_visibility": "private until Wed 28 Oct 2026 21:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Is that new library well looked after?",
@@ -2051,7 +2165,8 @@
       "intro_youtube_url": "https://youtu.be/qntyM48iDN8",
       "intro_uploaded_on": "2026-10-26",
       "intro_publish_at": "2026-10-29T17:00:00Z",
-      "intro_visibility": "private until Thu 29 Oct 2026 13:00 EDT, then public automatically"
+      "intro_visibility": "private until Thu 29 Oct 2026 13:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "problem": "New monitoring tool? Edit every app?",
@@ -2068,7 +2183,8 @@
       "intro_youtube_url": "https://youtu.be/-qnRznQnXzc",
       "intro_uploaded_on": "2026-10-26",
       "intro_publish_at": "2026-10-30T01:00:00Z",
-      "intro_visibility": "private until Thu 29 Oct 2026 21:00 EDT, then public automatically"
+      "intro_visibility": "private until Thu 29 Oct 2026 21:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Monday's report, built by hand. Again?",
@@ -2085,7 +2201,8 @@
       "intro_youtube_url": "https://youtu.be/uDvYx8b5D_s",
       "intro_uploaded_on": "2026-10-26",
       "intro_publish_at": "2026-10-30T17:00:00Z",
-      "intro_visibility": "private until Fri 30 Oct 2026 13:00 EDT, then public automatically"
+      "intro_visibility": "private until Fri 30 Oct 2026 13:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "problem": "",
@@ -2115,7 +2232,8 @@
       "intro_youtube_url": "https://youtu.be/ucqYD-ZqTcY",
       "intro_uploaded_on": "2026-10-26",
       "intro_publish_at": "2026-10-31T17:00:00Z",
-      "intro_visibility": "private until Sat 31 Oct 2026 13:00 EDT, then public automatically"
+      "intro_visibility": "private until Sat 31 Oct 2026 13:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Who still has access to what?",
@@ -2132,7 +2250,8 @@
       "intro_youtube_url": "https://youtu.be/oMUogDFoCco",
       "intro_uploaded_on": "2026-10-26",
       "intro_publish_at": "2026-10-31T01:00:00Z",
-      "intro_visibility": "private until Fri 30 Oct 2026 21:00 EDT, then public automatically"
+      "intro_visibility": "private until Fri 30 Oct 2026 21:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Is your cloud as locked down as you think?",
@@ -2149,7 +2268,8 @@
       "intro_youtube_url": "https://youtu.be/O6dKIii_G6Y",
       "intro_uploaded_on": "2026-10-26",
       "intro_publish_at": "2026-11-01T01:00:00Z",
-      "intro_visibility": "private until Sat 31 Oct 2026 21:00 EDT, then public automatically"
+      "intro_visibility": "private until Sat 31 Oct 2026 21:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Your API docs say 200. The server says 500?",
@@ -2166,7 +2286,8 @@
       "intro_youtube_url": "https://youtu.be/F0O2UGi7r-o",
       "intro_uploaded_on": "2026-10-26",
       "intro_publish_at": "2026-11-01T18:00:00Z",
-      "intro_visibility": "private until Sun 01 Nov 2026 13:00 EST, then public automatically"
+      "intro_visibility": "private until Sun 01 Nov 2026 13:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Days-old ticket says it crashed. Which line?",
@@ -2183,7 +2304,8 @@
       "intro_youtube_url": "https://youtu.be/9XwBPx_xyrY",
       "intro_uploaded_on": "2026-10-26",
       "intro_publish_at": "2026-11-04T02:00:00Z",
-      "intro_visibility": "private until Tue 03 Nov 2026 21:00 EST, then public automatically"
+      "intro_visibility": "private until Tue 03 Nov 2026 21:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Describing your agent is easy. Building it?",
@@ -2200,7 +2322,8 @@
       "intro_youtube_url": "https://youtu.be/XVpzgDaRCZw",
       "intro_uploaded_on": "2026-10-26",
       "intro_publish_at": "2026-11-04T18:00:00Z",
-      "intro_visibility": "private until Wed 04 Nov 2026 13:00 EST, then public automatically"
+      "intro_visibility": "private until Wed 04 Nov 2026 13:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Clicking through consoles for one answer?",
@@ -2217,7 +2340,8 @@
       "intro_youtube_url": "https://youtu.be/36miRLOM7Xk",
       "intro_uploaded_on": "2026-10-26",
       "intro_publish_at": "2026-11-05T02:00:00Z",
-      "intro_visibility": "private until Wed 04 Nov 2026 21:00 EST, then public automatically"
+      "intro_visibility": "private until Wed 04 Nov 2026 21:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "",
@@ -2247,7 +2371,8 @@
       "intro_youtube_url": "https://youtu.be/fTG5fPBNsEs",
       "intro_uploaded_on": "2026-10-27",
       "intro_publish_at": "2026-11-05T18:00:00Z",
-      "intro_visibility": "private until Thu 05 Nov 2026 13:00 EST, then public automatically"
+      "intro_visibility": "private until Thu 05 Nov 2026 13:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Plan passed. So why did the apply fail?",
@@ -2264,7 +2389,8 @@
       "intro_youtube_url": "https://youtu.be/9QR_XPb5wts",
       "intro_uploaded_on": "2026-10-27",
       "intro_publish_at": "2026-11-06T02:00:00Z",
-      "intro_visibility": "private until Thu 05 Nov 2026 21:00 EST, then public automatically"
+      "intro_visibility": "private until Thu 05 Nov 2026 21:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "",
@@ -2294,7 +2420,8 @@
       "intro_youtube_url": "https://youtu.be/TMhexiPbcp0",
       "intro_uploaded_on": "2026-10-27",
       "intro_publish_at": "2026-11-06T18:00:00Z",
-      "intro_visibility": "private until Fri 06 Nov 2026 13:00 EST, then public automatically"
+      "intro_visibility": "private until Fri 06 Nov 2026 13:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Your app trusts whatever JSON shows up?",
@@ -2324,7 +2451,8 @@
       "intro_youtube_url": "https://youtu.be/JwrDXN3KjUk",
       "intro_uploaded_on": "2026-10-27",
       "intro_publish_at": "2026-11-07T02:00:00Z",
-      "intro_visibility": "private until Fri 06 Nov 2026 21:00 EST, then public automatically"
+      "intro_visibility": "private until Fri 06 Nov 2026 21:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Your search misses what users mean?",
@@ -2354,7 +2482,8 @@
       "intro_youtube_url": "https://youtu.be/1hFyAhrAAyY",
       "intro_uploaded_on": "2026-10-27",
       "intro_publish_at": "2026-11-07T18:00:00Z",
-      "intro_visibility": "private until Sat 07 Nov 2026 13:00 EST, then public automatically"
+      "intro_visibility": "private until Sat 07 Nov 2026 13:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Your AI ran what on your laptop?",
@@ -2384,7 +2513,8 @@
       "intro_youtube_url": "https://youtu.be/DeSPE4PyNp0",
       "intro_uploaded_on": "2026-10-27",
       "intro_publish_at": "2026-11-08T02:00:00Z",
-      "intro_visibility": "private until Sat 07 Nov 2026 21:00 EST, then public automatically"
+      "intro_visibility": "private until Sat 07 Nov 2026 21:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "",
@@ -2414,7 +2544,8 @@
       "intro_youtube_url": "https://youtu.be/3-CL9p5dT_I",
       "intro_uploaded_on": "2026-10-27",
       "intro_publish_at": "2026-11-08T18:00:00Z",
-      "intro_visibility": "private until Sun 08 Nov 2026 13:00 EST, then public automatically"
+      "intro_visibility": "private until Sun 08 Nov 2026 13:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Rewording the same prompt all week?",
@@ -2431,7 +2562,8 @@
       "intro_youtube_url": "https://youtu.be/BgHJqkj_dek",
       "intro_uploaded_on": "2026-10-27",
       "intro_publish_at": "2026-11-09T02:00:00Z",
-      "intro_visibility": "private until Sun 08 Nov 2026 21:00 EST, then public automatically"
+      "intro_visibility": "private until Sun 08 Nov 2026 21:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Built a scraper just to feed your AI agent?",
@@ -2448,7 +2580,8 @@
       "intro_youtube_url": "https://youtu.be/YjJIMiQkAwE",
       "intro_uploaded_on": "2026-10-27",
       "intro_publish_at": "2026-11-10T18:00:00Z",
-      "intro_visibility": "private until Tue 10 Nov 2026 13:00 EST, then public automatically"
+      "intro_visibility": "private until Tue 10 Nov 2026 13:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Only tested your chatbot with nice questions?",
@@ -2465,7 +2598,8 @@
       "intro_youtube_url": "https://youtu.be/PGQoblVHyxo",
       "intro_uploaded_on": "2026-10-27",
       "intro_publish_at": "2026-11-09T18:00:00Z",
-      "intro_visibility": "private until Mon 09 Nov 2026 13:00 EST, then public automatically"
+      "intro_visibility": "private until Mon 09 Nov 2026 13:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Making PDFs means Chrome on every server?",
@@ -2482,7 +2616,8 @@
       "intro_youtube_url": "https://youtu.be/YVSyncRAB_c",
       "intro_uploaded_on": "2026-10-27",
       "intro_publish_at": "2026-11-10T02:00:00Z",
-      "intro_visibility": "private until Mon 09 Nov 2026 21:00 EST, then public automatically"
+      "intro_visibility": "private until Mon 09 Nov 2026 21:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Added a column. Now VLOOKUPs are wrong?",
@@ -2499,7 +2634,8 @@
       "intro_youtube_url": "https://youtu.be/2M6Fg4V56F4",
       "intro_uploaded_on": "2026-10-27",
       "intro_publish_at": "2026-11-11T02:00:00Z",
-      "intro_visibility": "private until Tue 10 Nov 2026 21:00 EST, then public automatically"
+      "intro_visibility": "private until Tue 10 Nov 2026 21:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "People give up halfway through your form?",
@@ -2516,7 +2652,8 @@
       "intro_youtube_url": "https://youtu.be/TAsqH_KXtM4",
       "intro_uploaded_on": "2026-10-27",
       "intro_publish_at": "2026-11-11T18:00:00Z",
-      "intro_visibility": "private until Wed 11 Nov 2026 13:00 EST, then public automatically"
+      "intro_visibility": "private until Wed 11 Nov 2026 13:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "",
@@ -2546,7 +2683,8 @@
       "intro_youtube_url": "https://youtu.be/VaFZ8gh2K44",
       "intro_uploaded_on": "2026-10-28",
       "intro_publish_at": "2026-11-12T18:00:00Z",
-      "intro_visibility": "private until Thu 12 Nov 2026 13:00 EST, then public automatically"
+      "intro_visibility": "private until Thu 12 Nov 2026 13:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Research survey outgrew your form tool?",
@@ -2563,7 +2701,8 @@
       "intro_youtube_url": "https://youtu.be/GXWniFjedbM",
       "intro_uploaded_on": "2026-10-28",
       "intro_publish_at": "2026-11-13T02:00:00Z",
-      "intro_visibility": "private until Thu 12 Nov 2026 21:00 EST, then public automatically"
+      "intro_visibility": "private until Thu 12 Nov 2026 21:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "How many links in your docs still work?",
@@ -2607,7 +2746,8 @@
       "intro_youtube_url": "https://youtu.be/A3b-yywE6UM",
       "intro_uploaded_on": "2026-10-28",
       "intro_publish_at": "2026-11-13T18:00:00Z",
-      "intro_visibility": "private until Fri 13 Nov 2026 13:00 EST, then public automatically"
+      "intro_visibility": "private until Fri 13 Nov 2026 13:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Form answers sitting where nobody looks?",
@@ -2624,7 +2764,8 @@
       "intro_youtube_url": "https://youtu.be/mGwU17Sb0KI",
       "intro_uploaded_on": "2026-10-28",
       "intro_publish_at": "2026-11-14T18:00:00Z",
-      "intro_visibility": "private until Sat 14 Nov 2026 13:00 EST, then public automatically"
+      "intro_visibility": "private until Sat 14 Nov 2026 13:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "A second database just for AI search?",
@@ -2641,7 +2782,8 @@
       "intro_youtube_url": "https://youtu.be/sti8F_hg8ow",
       "intro_uploaded_on": "2026-10-28",
       "intro_publish_at": "2026-11-14T02:00:00Z",
-      "intro_visibility": "private until Fri 13 Nov 2026 21:00 EST, then public automatically"
+      "intro_visibility": "private until Fri 13 Nov 2026 21:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Print to PDF by hand, every month?",
@@ -2658,7 +2800,8 @@
       "intro_youtube_url": "https://youtu.be/_PzYbiWE9EM",
       "intro_uploaded_on": "2026-10-28",
       "intro_publish_at": "2026-11-15T02:00:00Z",
-      "intro_visibility": "private until Sat 14 Nov 2026 21:00 EST, then public automatically"
+      "intro_visibility": "private until Sat 14 Nov 2026 21:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Hand-coding every form in your web app?",
@@ -2675,7 +2818,8 @@
       "intro_youtube_url": "https://youtu.be/8IYOtnWVgks",
       "intro_uploaded_on": "2026-10-28",
       "intro_publish_at": "2026-11-15T18:00:00Z",
-      "intro_visibility": "private until Sun 15 Nov 2026 13:00 EST, then public automatically"
+      "intro_visibility": "private until Sun 15 Nov 2026 13:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Help pages that need a degree to decode?",
@@ -2692,7 +2836,8 @@
       "intro_youtube_url": "https://youtu.be/5pcN1jhTyvM",
       "intro_uploaded_on": "2026-10-28",
       "intro_publish_at": "2026-11-16T02:00:00Z",
-      "intro_visibility": "private until Sun 15 Nov 2026 21:00 EST, then public automatically"
+      "intro_visibility": "private until Sun 15 Nov 2026 21:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Pasting web articles into your study notes?",
@@ -2709,7 +2854,8 @@
       "intro_youtube_url": "https://youtu.be/3GpBeowgyTQ",
       "intro_uploaded_on": "2026-10-28",
       "intro_publish_at": "2026-11-16T18:00:00Z",
-      "intro_visibility": "private until Mon 16 Nov 2026 13:00 EST, then public automatically"
+      "intro_visibility": "private until Mon 16 Nov 2026 13:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "How many AI tools does one doc search need?",
@@ -2726,7 +2872,8 @@
       "intro_youtube_url": "https://youtu.be/tFG5lAg3ad4",
       "intro_uploaded_on": "2026-10-28",
       "intro_publish_at": "2026-11-17T02:00:00Z",
-      "intro_visibility": "private until Mon 16 Nov 2026 21:00 EST, then public automatically"
+      "intro_visibility": "private until Mon 16 Nov 2026 21:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Lost an afternoon to one LaTeX error?",
@@ -2743,7 +2890,8 @@
       "intro_youtube_url": "https://youtu.be/sEk3zxu-H6Y",
       "intro_uploaded_on": "2026-10-28",
       "intro_publish_at": "2026-11-17T18:00:00Z",
-      "intro_visibility": "private until Tue 17 Nov 2026 13:00 EST, then public automatically"
+      "intro_visibility": "private until Tue 17 Nov 2026 13:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "",
@@ -2773,7 +2921,8 @@
       "intro_youtube_url": "https://youtu.be/JCPEbncYq88",
       "intro_uploaded_on": "2026-10-28",
       "intro_publish_at": "2026-11-19T02:00:00Z",
-      "intro_visibility": "private until Wed 18 Nov 2026 21:00 EST, then public automatically"
+      "intro_visibility": "private until Wed 18 Nov 2026 21:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Journal wants APA. Your paper's in MLA?",
@@ -2790,7 +2939,8 @@
       "intro_youtube_url": "https://youtu.be/wvczGzbzhuQ",
       "intro_uploaded_on": "2026-10-28",
       "intro_publish_at": "2026-11-18T02:00:00Z",
-      "intro_visibility": "private until Tue 17 Nov 2026 21:00 EST, then public automatically"
+      "intro_visibility": "private until Tue 17 Nov 2026 21:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Your database no longer matches your code?",
@@ -2807,7 +2957,8 @@
       "intro_youtube_url": "https://youtu.be/QpTCvoukXT0",
       "intro_uploaded_on": "2026-10-28",
       "intro_publish_at": "2026-11-18T18:00:00Z",
-      "intro_visibility": "private until Wed 18 Nov 2026 13:00 EST, then public automatically"
+      "intro_visibility": "private until Wed 18 Nov 2026 13:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "",
@@ -2837,7 +2988,8 @@
       "intro_youtube_url": "https://youtu.be/fp2_xj-5auI",
       "intro_uploaded_on": "2026-10-28",
       "intro_publish_at": "2026-11-19T18:00:00Z",
-      "intro_visibility": "private until Thu 19 Nov 2026 13:00 EST, then public automatically"
+      "intro_visibility": "private until Thu 19 Nov 2026 13:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Renamed a column. TypeScript didn't notice?",
@@ -2867,7 +3019,8 @@
       "intro_youtube_url": "https://youtu.be/HYaw7lwnSx0",
       "intro_uploaded_on": "2026-10-29",
       "intro_publish_at": "2026-11-20T02:00:00Z",
-      "intro_visibility": "private until Thu 19 Nov 2026 21:00 EST, then public automatically"
+      "intro_visibility": "private until Thu 19 Nov 2026 21:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "A new migration file for every tiny tweak?",
@@ -2897,7 +3050,8 @@
       "intro_youtube_url": "https://youtu.be/bQFxoIy7OgA",
       "intro_uploaded_on": "2026-10-29",
       "intro_publish_at": "2026-11-20T18:00:00Z",
-      "intro_visibility": "private until Fri 20 Nov 2026 13:00 EST, then public automatically"
+      "intro_visibility": "private until Fri 20 Nov 2026 13:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "problem": "Is your pipeline just cron jobs and hope?",
@@ -2913,7 +3067,8 @@
       "intro_claimed_on": "2026-10-23",
       "intro_youtube_url": "https://youtu.be/Sij1lhnrvmo",
       "intro_uploaded_on": "2026-10-30",
-      "intro_visibility": "public"
+      "intro_visibility": "public",
+      "generation": 1
     },
     {
       "problem": "A new password for every internal tool?",
@@ -2929,7 +3084,8 @@
       "intro_claimed_on": "2026-10-23",
       "intro_youtube_url": "https://youtu.be/7ZGqpluOyrw",
       "intro_uploaded_on": "2026-10-30",
-      "intro_visibility": "public"
+      "intro_visibility": "public",
+      "generation": 1
     },
     {
       "problem": "Another API, another loader script?",
@@ -2945,7 +3101,8 @@
       "intro_claimed_on": "2026-10-23",
       "intro_youtube_url": "https://youtu.be/LaotAo0Y7WE",
       "intro_uploaded_on": "2026-10-30",
-      "intro_visibility": "public"
+      "intro_visibility": "public",
+      "generation": 1
     },
     {
       "problem": "Gluing QuickBooks API URLs together?",
@@ -2974,7 +3131,8 @@
       "intro_claimed_on": "2026-10-23",
       "intro_youtube_url": "https://youtu.be/saQsYgQt700",
       "intro_uploaded_on": "2026-10-30",
-      "intro_visibility": "public"
+      "intro_visibility": "public",
+      "generation": 1
     },
     {
       "problem": "Hiring from a spreadsheet and an inbox?",
@@ -2990,7 +3148,8 @@
       "intro_claimed_on": "2026-10-23",
       "intro_youtube_url": "https://youtu.be/hIgx6RSkKmI",
       "intro_uploaded_on": "2026-10-30",
-      "intro_visibility": "public"
+      "intro_visibility": "public",
+      "generation": 1
     },
     {
       "problem": "Slow request, three services. Which one?",
@@ -3006,7 +3165,8 @@
       "intro_claimed_on": "2026-10-23",
       "intro_youtube_url": "https://youtu.be/T18BqHemHDI",
       "intro_uploaded_on": "2026-10-30",
-      "intro_visibility": "public"
+      "intro_visibility": "public",
+      "generation": 1
     },
     {
       "problem": "Rebuild your whole cloud from scratch?",
@@ -3022,7 +3182,8 @@
       "intro_claimed_on": "2026-10-23",
       "intro_youtube_url": "https://youtu.be/kk_2DEsSiNQ",
       "intro_uploaded_on": "2026-10-30",
-      "intro_visibility": "public"
+      "intro_visibility": "public",
+      "generation": 1
     },
     {
       "problem": "Redeployed. Where did the queued emails go?",
@@ -3038,7 +3199,8 @@
       "intro_claimed_on": "2026-10-23",
       "intro_youtube_url": "https://youtu.be/lFZKkYVIrZE",
       "intro_uploaded_on": "2026-10-30",
-      "intro_visibility": "public"
+      "intro_visibility": "public",
+      "generation": 1
     },
     {
       "problem": "Balance off by two dollars. Since when?",
@@ -3106,7 +3268,8 @@
       "intro_claimed_on": "2026-10-23",
       "intro_youtube_url": "https://youtu.be/G-y3--I5kU0",
       "intro_uploaded_on": "2026-10-30",
-      "intro_visibility": "public"
+      "intro_visibility": "public",
+      "generation": 1
     },
     {
       "problem": "A cookie banner for a visit count?",
@@ -3122,7 +3285,8 @@
       "intro_claimed_on": "2026-10-23",
       "intro_youtube_url": "https://youtu.be/ySYW8ItJIFE",
       "intro_uploaded_on": "2026-10-30",
-      "intro_visibility": "public"
+      "intro_visibility": "public",
+      "generation": 1
     },
     {
       "problem": "Shipped a feature. Does anyone use it?",
@@ -3138,7 +3302,8 @@
       "intro_claimed_on": "2026-10-24",
       "intro_youtube_url": "https://youtu.be/kjrGJo9fcJQ",
       "intro_uploaded_on": "2026-10-30",
-      "intro_visibility": "public"
+      "intro_visibility": "public",
+      "generation": 1
     },
     {
       "problem": "Ten environments, ten copies of one config?",
@@ -3154,7 +3319,8 @@
       "intro_claimed_on": "2026-10-23",
       "intro_youtube_url": "https://youtu.be/8rBolVGaOOM",
       "intro_uploaded_on": "2026-10-30",
-      "intro_visibility": "public"
+      "intro_visibility": "public",
+      "generation": 1
     },
     {
       "problem": "",
@@ -3196,7 +3362,8 @@
       "intro_claimed_on": "2026-10-23",
       "intro_youtube_url": "https://youtu.be/XzvKXVS50o0",
       "intro_uploaded_on": "2026-10-30",
-      "intro_visibility": "public"
+      "intro_visibility": "public",
+      "generation": 1
     },
     {
       "problem": "Half a payment went through. Now what?",
@@ -3225,7 +3392,8 @@
       "intro_claimed_on": "2026-10-24",
       "intro_youtube_url": "https://youtu.be/N8cjIhJSIKc",
       "intro_uploaded_on": "2026-10-30",
-      "intro_visibility": "public"
+      "intro_visibility": "public",
+      "generation": 1
     },
     {
       "problem": "Stats, funnels and replays in three tools?",
@@ -3241,7 +3409,8 @@
       "intro_claimed_on": "2026-10-24",
       "intro_youtube_url": "https://youtu.be/swzTeaDX4FQ",
       "intro_uploaded_on": "2026-10-30",
-      "intro_visibility": "public"
+      "intro_visibility": "public",
+      "generation": 1
     },
     {
       "problem": "Seven 'fix CI' commits and still failing?",
@@ -3283,7 +3452,8 @@
       "intro_claimed_on": "2026-10-25",
       "intro_youtube_url": "https://youtu.be/TyGLvlxAOPU",
       "intro_uploaded_on": "2026-10-30",
-      "intro_visibility": "public"
+      "intro_visibility": "public",
+      "generation": 1
     },
     {
       "problem": "The portal has no API. Who types it in?",
@@ -3299,7 +3469,8 @@
       "intro_claimed_on": "2026-10-25",
       "intro_youtube_url": "https://youtu.be/OZwfjjW3oec",
       "intro_uploaded_on": "2026-10-30",
-      "intro_visibility": "public"
+      "intro_visibility": "public",
+      "generation": 1
     },
     {
       "problem": "Approval requests lost in reply-all?",
@@ -3315,7 +3486,8 @@
       "intro_claimed_on": "2026-10-25",
       "intro_youtube_url": "https://youtu.be/fOiSwnMf51A",
       "intro_uploaded_on": "2026-10-30",
-      "intro_visibility": "public"
+      "intro_visibility": "public",
+      "generation": 1
     },
     {
       "problem": "Approved, all green, still not merged?",
@@ -4833,7 +5005,8 @@
       "whatis_youtube_url": "https://youtu.be/-Rvy6P5ICfA",
       "whatis_uploaded_on": "2026-10-29",
       "whatis_publish_at": "2026-10-29T23:00:00Z",
-      "whatis_visibility": "private until Thu 29 Oct 2026 19:00 EDT, then public automatically"
+      "whatis_visibility": "private until Thu 29 Oct 2026 19:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "name": "Ollama",
@@ -4845,7 +5018,8 @@
       "whatis_youtube_url": "https://youtu.be/0nWGCIrA5EU",
       "whatis_uploaded_on": "2026-10-29",
       "whatis_publish_at": "2026-10-30T15:00:00Z",
-      "whatis_visibility": "private until Fri 30 Oct 2026 11:00 EDT, then public automatically"
+      "whatis_visibility": "private until Fri 30 Oct 2026 11:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "name": "Google Flow",
@@ -4857,7 +5031,8 @@
       "whatis_youtube_url": "https://youtu.be/Qhw9lVSrhMc",
       "whatis_uploaded_on": "2026-10-29",
       "whatis_publish_at": "2026-10-29T15:00:00Z",
-      "whatis_visibility": "private until Thu 29 Oct 2026 11:00 EDT, then public automatically"
+      "whatis_visibility": "private until Thu 29 Oct 2026 11:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "name": "ElevenLabs",
@@ -4869,7 +5044,8 @@
       "whatis_youtube_url": "https://youtu.be/v--ptht9CLs",
       "whatis_uploaded_on": "2026-10-29",
       "whatis_publish_at": "2026-10-30T23:00:00Z",
-      "whatis_visibility": "private until Fri 30 Oct 2026 19:00 EDT, then public automatically"
+      "whatis_visibility": "private until Fri 30 Oct 2026 19:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "name": "ComfyUI",
@@ -4881,7 +5057,8 @@
       "whatis_youtube_url": "https://youtu.be/Rj_8XQIPpww",
       "whatis_uploaded_on": "2026-10-29",
       "whatis_publish_at": "2026-10-31T15:00:00Z",
-      "whatis_visibility": "private until Sat 31 Oct 2026 11:00 EDT, then public automatically"
+      "whatis_visibility": "private until Sat 31 Oct 2026 11:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "name": "Perplexity",
@@ -4893,7 +5070,8 @@
       "whatis_youtube_url": "https://youtu.be/Ac0fKc4WsOU",
       "whatis_uploaded_on": "2026-10-29",
       "whatis_publish_at": "2026-10-31T23:00:00Z",
-      "whatis_visibility": "private until Sat 31 Oct 2026 19:00 EDT, then public automatically"
+      "whatis_visibility": "private until Sat 31 Oct 2026 19:00 EDT, then public automatically",
+      "generation": 1
     },
     {
       "name": "n8n",
@@ -4904,7 +5082,8 @@
       "whatis_claimed_on": "2026-10-29",
       "whatis_youtube_url": "https://youtu.be/Rq5IK9PoyJA",
       "whatis_uploaded_on": "2026-10-29",
-      "whatis_visibility": "public"
+      "whatis_visibility": "public",
+      "generation": 1
     },
     {
       "name": "OpenClaw",
@@ -4915,7 +5094,8 @@
       "whatis_claimed_on": "2026-10-29",
       "whatis_youtube_url": "https://youtu.be/nQzOVUA0jzg",
       "whatis_uploaded_on": "2026-10-29",
-      "whatis_visibility": "public"
+      "whatis_visibility": "public",
+      "generation": 1
     },
     {
       "name": "Midjourney",
@@ -4926,7 +5106,8 @@
       "whatis_claimed_on": "2026-10-29",
       "whatis_youtube_url": "https://youtu.be/1h5svl_owYw",
       "whatis_uploaded_on": "2026-10-29",
-      "whatis_visibility": "public"
+      "whatis_visibility": "public",
+      "generation": 1
     },
     {
       "name": "Meta AI",
@@ -4937,7 +5118,8 @@
       "whatis_claimed_on": "2026-10-29",
       "whatis_youtube_url": "https://youtu.be/x8bMlNTfXPU",
       "whatis_uploaded_on": "2026-10-29",
-      "whatis_visibility": "public"
+      "whatis_visibility": "public",
+      "generation": 1
     },
     {
       "name": "Kling",
@@ -4948,7 +5130,8 @@
       "whatis_claimed_on": "2026-10-29",
       "whatis_youtube_url": "https://youtu.be/OlcwrgdwEsM",
       "whatis_uploaded_on": "2026-10-29",
-      "whatis_visibility": "public"
+      "whatis_visibility": "public",
+      "generation": 1
     },
     {
       "name": "Claude Code",
@@ -4960,7 +5143,8 @@
       "next50": 1,
       "whatis_youtube_url": "https://youtu.be/1jPeMYGYyS0",
       "whatis_uploaded_on": "2026-10-29",
-      "whatis_visibility": "public"
+      "whatis_visibility": "public",
+      "generation": 1
     }
   ],
   "vs": [
@@ -4976,7 +5160,8 @@
       "next50": 2,
       "vs_youtube_url": "https://youtu.be/jlcZ_4RnXqo",
       "vs_uploaded_on": "2026-10-29",
-      "vs_visibility": "public"
+      "vs_visibility": "public",
+      "generation": 1
     }
   ],
   "guide": [
@@ -4990,7 +5175,8 @@
       "guide_youtube_url": "https://youtu.be/0YpgNFMb8Lk",
       "guide_uploaded_on": "2026-11-01",
       "guide_visibility": "private until Sun 01 Nov 2026 11:00 EST, then public automatically",
-      "guide_publish_at": "2026-11-01T16:00:00Z"
+      "guide_publish_at": "2026-11-01T16:00:00Z",
+      "generation": 1
     },
     {
       "name": "AI Short Film 2 - Story and Storyboard",
@@ -5002,7 +5188,8 @@
       "guide_youtube_url": "https://youtu.be/5lPVYOBXUKo",
       "guide_uploaded_on": "2026-11-01",
       "guide_visibility": "private until Sun 01 Nov 2026 19:00 EST, then public automatically",
-      "guide_publish_at": "2026-11-02T00:00:00Z"
+      "guide_publish_at": "2026-11-02T00:00:00Z",
+      "generation": 1
     },
     {
       "name": "AI Short Film 3 - Making the Shots",
@@ -5014,7 +5201,8 @@
       "guide_youtube_url": "https://youtu.be/RmNdBrk4W54",
       "guide_uploaded_on": "2026-11-01",
       "guide_visibility": "private until Mon 02 Nov 2026 11:00 EST, then public automatically",
-      "guide_publish_at": "2026-11-02T16:00:00Z"
+      "guide_publish_at": "2026-11-02T16:00:00Z",
+      "generation": 1
     },
     {
       "name": "AI Short Film 4 - Voices, Music and Sound",
@@ -5026,7 +5214,8 @@
       "guide_youtube_url": "https://youtu.be/31aiGqb0Fzg",
       "guide_uploaded_on": "2026-11-01",
       "guide_visibility": "private until Mon 02 Nov 2026 19:00 EST, then public automatically",
-      "guide_publish_at": "2026-11-03T00:00:00Z"
+      "guide_publish_at": "2026-11-03T00:00:00Z",
+      "generation": 1
     },
     {
       "name": "AI Short Film 5 - Editing That Keeps People Watching",
@@ -5038,7 +5227,8 @@
       "guide_youtube_url": "https://youtu.be/7-v1-1W9MwM",
       "guide_uploaded_on": "2026-11-01",
       "guide_visibility": "private until Tue 03 Nov 2026 11:00 EST, then public automatically",
-      "guide_publish_at": "2026-11-03T16:00:00Z"
+      "guide_publish_at": "2026-11-03T16:00:00Z",
+      "generation": 1
     },
     {
       "name": "AI Story Channel 1 - The Whole Plan",
@@ -5049,7 +5239,8 @@
       "guide_claimed_on": "2026-11-01",
       "guide_youtube_url": "https://youtu.be/2XfDlGGJCD0",
       "guide_uploaded_on": "2026-11-01",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 1
     },
     {
       "name": "AI Story Channel 2 - Writing Stories People Finish",
@@ -5061,7 +5252,8 @@
       "guide_youtube_url": "https://youtu.be/rr2d9diX820",
       "guide_uploaded_on": "2026-11-01",
       "guide_publish_at": "2026-11-06T00:00:00Z",
-      "guide_visibility": "private until Thu 05 Nov 2026 19:00 EST, then public automatically"
+      "guide_visibility": "private until Thu 05 Nov 2026 19:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "name": "AI Story Channel 3 - Making Consistent Images",
@@ -5073,7 +5265,8 @@
       "guide_youtube_url": "https://youtu.be/qzB8jlR99B0",
       "guide_uploaded_on": "2026-11-01",
       "guide_publish_at": "2026-11-07T00:00:00Z",
-      "guide_visibility": "private until Fri 06 Nov 2026 19:00 EST, then public automatically"
+      "guide_visibility": "private until Fri 06 Nov 2026 19:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "name": "AI Story Channel 4 - Narration and Moving Images",
@@ -5085,7 +5278,8 @@
       "guide_youtube_url": "https://youtu.be/9tRpdOGCKuI",
       "guide_uploaded_on": "2026-11-01",
       "guide_publish_at": "2026-11-07T16:00:00Z",
-      "guide_visibility": "private until Sat 07 Nov 2026 11:00 EST, then public automatically"
+      "guide_visibility": "private until Sat 07 Nov 2026 11:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "name": "AI Story Channel 5 - Thumbnails, Titles and YouTube's Rules",
@@ -5097,7 +5291,8 @@
       "guide_youtube_url": "https://youtu.be/kQJzLmLeV0w",
       "guide_uploaded_on": "2026-11-01",
       "guide_publish_at": "2026-11-08T00:00:00Z",
-      "guide_visibility": "private until Sat 07 Nov 2026 19:00 EST, then public automatically"
+      "guide_visibility": "private until Sat 07 Nov 2026 19:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "name": "AI 3D Printing 1 - The Whole Process",
@@ -5109,7 +5304,8 @@
       "guide_youtube_url": "https://youtu.be/PzRJerAZSaA",
       "guide_uploaded_on": "2026-11-01",
       "guide_publish_at": "2026-11-04T00:00:00Z",
-      "guide_visibility": "private until Tue 03 Nov 2026 19:00 EST, then public automatically"
+      "guide_visibility": "private until Tue 03 Nov 2026 19:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "name": "AI 3D Printing 2 - Picking a Product Worth Printing",
@@ -5120,7 +5316,8 @@
       "guide_claimed_on": "2026-11-01",
       "guide_youtube_url": "https://youtu.be/nOjmdlNS7tc",
       "guide_uploaded_on": "2026-11-01",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 1
     },
     {
       "name": "AI 3D Printing 3 - Designing with Claude and OpenSCAD",
@@ -5131,7 +5328,8 @@
       "guide_claimed_on": "2026-11-01",
       "guide_youtube_url": "https://youtu.be/5-b3EmovLF8",
       "guide_uploaded_on": "2026-11-01",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 1
     },
     {
       "name": "AI 3D Printing 4 - Editing and Fitting Parts in FreeCAD",
@@ -5142,7 +5340,8 @@
       "guide_claimed_on": "2026-11-01",
       "guide_youtube_url": "https://youtu.be/CIA2B0QR7oI",
       "guide_uploaded_on": "2026-11-01",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 1
     },
     {
       "name": "AI 3D Printing 5 - Curved and Organic Shapes with Blender",
@@ -5153,7 +5352,8 @@
       "guide_claimed_on": "2026-11-01",
       "guide_youtube_url": "https://youtu.be/zrhxmLP6IGA",
       "guide_uploaded_on": "2026-11-01",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 1
     },
     {
       "name": "AI 3D Printing 6 - Checking Your Model Before You Pay",
@@ -5197,7 +5397,8 @@
       "guide_youtube_url": "https://youtu.be/YmuflXolXsg",
       "guide_uploaded_on": "2026-11-01",
       "guide_publish_at": "2026-11-04T16:00:00Z",
-      "guide_visibility": "private until Wed 04 Nov 2026 11:00 EST, then public automatically"
+      "guide_visibility": "private until Wed 04 Nov 2026 11:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "name": "AI Music 2 - Songs and Prompts",
@@ -5209,7 +5410,8 @@
       "guide_youtube_url": "https://youtu.be/g78iRnHZtoY",
       "guide_uploaded_on": "2026-11-01",
       "guide_publish_at": "2026-11-05T00:00:00Z",
-      "guide_visibility": "private until Sun 08 Nov 2026 11:00 EST, then public automatically"
+      "guide_visibility": "private until Sun 08 Nov 2026 11:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "name": "AI Music 3 - Making the Track",
@@ -5221,7 +5423,8 @@
       "guide_youtube_url": "https://youtu.be/Zn5X8OHzMsY",
       "guide_uploaded_on": "2026-11-01",
       "guide_publish_at": "2026-11-05T16:00:00Z",
-      "guide_visibility": "private until Wed 04 Nov 2026 19:00 EST, then public automatically"
+      "guide_visibility": "private until Wed 04 Nov 2026 19:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "name": "AI Music 4 - Vocals, Mixing and Mastering",
@@ -5233,7 +5436,8 @@
       "guide_youtube_url": "https://youtu.be/1V3He8zgzSY",
       "guide_uploaded_on": "2026-11-01",
       "guide_publish_at": "2026-11-06T16:00:00Z",
-      "guide_visibility": "private until Thu 05 Nov 2026 11:00 EST, then public automatically"
+      "guide_visibility": "private until Thu 05 Nov 2026 11:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "name": "AI Music 5 - Rights, Release and Earning",
@@ -5245,7 +5449,8 @@
       "guide_youtube_url": "https://youtu.be/fsNUpddUsX8",
       "guide_uploaded_on": "2026-11-01",
       "guide_publish_at": "2026-11-08T16:00:00Z",
-      "guide_visibility": "private until Fri 06 Nov 2026 11:00 EST, then public automatically"
+      "guide_visibility": "private until Fri 06 Nov 2026 11:00 EST, then public automatically",
+      "generation": 1
     },
     {
       "name": "Hack Your TV 1 - The Whole Plan",
@@ -5327,7 +5532,8 @@
       "guide_claimed_on": "2026-11-01",
       "guide_youtube_url": "https://youtu.be/JMIOcMlt4SA",
       "guide_uploaded_on": "2026-11-02",
-      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
+      "generation": 1
     },
     {
       "name": "3D Printing with AI 2 - What You Can Make",
@@ -5337,7 +5543,8 @@
       "guide": "posted",
       "guide_youtube_url": "https://youtu.be/CzRfjmHwaHU",
       "guide_uploaded_on": "2026-11-02",
-      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
+      "generation": 1
     },
     {
       "name": "3D Printing with AI 3 - Choosing a Method",
@@ -5347,7 +5554,8 @@
       "guide": "posted",
       "guide_youtube_url": "https://youtu.be/4hOZ3moyiUg",
       "guide_uploaded_on": "2026-11-02",
-      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
+      "generation": 1
     },
     {
       "name": "3D Printing with AI 4 - What File You Need",
@@ -5357,7 +5565,8 @@
       "guide": "posted",
       "guide_youtube_url": "https://youtu.be/uvQ-V83rr0Q",
       "guide_uploaded_on": "2026-11-02",
-      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
+      "generation": 1
     },
     {
       "name": "3D Printing with AI 5 - Measuring a Part",
@@ -5367,7 +5576,8 @@
       "guide": "posted",
       "guide_youtube_url": "https://youtu.be/yithU8hg5jc",
       "guide_uploaded_on": "2026-11-02",
-      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
+      "generation": 1
     },
     {
       "name": "3D Printing with AI 6 - What Is Claude",
@@ -5377,7 +5587,8 @@
       "guide": "posted",
       "guide_youtube_url": "https://youtu.be/xbJNQ8G0Fgs",
       "guide_uploaded_on": "2026-11-02",
-      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
+      "generation": 1
     },
     {
       "name": "3D Printing with AI 7 - What Is OpenSCAD",
@@ -5387,7 +5598,8 @@
       "guide": "posted",
       "guide_youtube_url": "https://youtu.be/wCY_c-JJPMM",
       "guide_uploaded_on": "2026-11-02",
-      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
+      "generation": 1
     },
     {
       "name": "3D Printing with AI 8 - Designing a Print",
@@ -5397,7 +5609,8 @@
       "guide": "posted",
       "guide_youtube_url": "https://youtu.be/JOAjgVapIkM",
       "guide_uploaded_on": "2026-11-02",
-      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
+      "generation": 1
     },
     {
       "name": "3D Printing with AI 9 - Your First 3D Model",
@@ -5407,7 +5620,8 @@
       "guide": "posted",
       "guide_youtube_url": "https://youtu.be/JHSHBMchoBg",
       "guide_uploaded_on": "2026-11-02",
-      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
+      "generation": 1
     },
     {
       "name": "3D Printing with AI 10 - Changing a 3D Model",
@@ -5417,7 +5631,8 @@
       "guide": "posted",
       "guide_youtube_url": "https://youtu.be/NkDSifSWZuY",
       "guide_uploaded_on": "2026-11-02",
-      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
+      "generation": 1
     },
     {
       "name": "3D Printing with AI 11 - Making an STL File",
@@ -5427,7 +5642,8 @@
       "guide": "posted",
       "guide_youtube_url": "https://youtu.be/IMN0RxEd2gA",
       "guide_uploaded_on": "2026-11-02",
-      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
+      "generation": 1
     },
     {
       "name": "3D Printing with AI 12 - What Is PrusaSlicer",
@@ -5437,7 +5653,8 @@
       "guide": "posted",
       "guide_youtube_url": "https://youtu.be/qSbUjoGC9Xs",
       "guide_uploaded_on": "2026-11-02",
-      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
+      "generation": 1
     },
     {
       "name": "3D Printing with AI 13 - Checking a 3D Model",
@@ -5447,7 +5664,8 @@
       "guide": "posted",
       "guide_youtube_url": "https://youtu.be/dzBl7AVevFg",
       "guide_uploaded_on": "2026-11-02",
-      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
+      "generation": 1
     },
     {
       "name": "3D Printing with AI 14 - Finding Thin Walls",
@@ -5457,7 +5675,8 @@
       "guide": "posted",
       "guide_youtube_url": "https://youtu.be/z2_4AIPEXH0",
       "guide_uploaded_on": "2026-11-02",
-      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
+      "generation": 1
     },
     {
       "name": "3D Printing with AI 15 - Fixing Overhangs",
@@ -5467,7 +5686,8 @@
       "guide": "posted",
       "guide_youtube_url": "https://youtu.be/I0EKtkuWK-A",
       "guide_uploaded_on": "2026-11-02",
-      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
+      "generation": 1
     },
     {
       "name": "3D Printing with AI 16 - What Is FreeCAD",
@@ -5477,7 +5697,8 @@
       "guide": "posted",
       "guide_youtube_url": "https://youtu.be/cSa8ZVZ2IsY",
       "guide_uploaded_on": "2026-11-02",
-      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
+      "generation": 1
     },
     {
       "name": "3D Printing with AI 17 - Parts That Fit Together",
@@ -5487,7 +5708,8 @@
       "guide": "posted",
       "guide_youtube_url": "https://youtu.be/ysVpw6iHm5A",
       "guide_uploaded_on": "2026-11-03",
-      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
+      "generation": 1
     },
     {
       "name": "3D Printing with AI 18 - Fixing a Part That Doesn't Fit",
@@ -5497,7 +5719,8 @@
       "guide": "posted",
       "guide_youtube_url": "https://youtu.be/tvmjt-fwsWw",
       "guide_uploaded_on": "2026-11-03",
-      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
+      "generation": 1
     },
     {
       "name": "3D Printing with AI 19 - What Is Blender",
@@ -5507,7 +5730,8 @@
       "guide": "posted",
       "guide_youtube_url": "https://youtu.be/S9EihHZYEmc",
       "guide_uploaded_on": "2026-11-03",
-      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
+      "generation": 1
     },
     {
       "name": "3D Printing with AI 20 - Curved 3D Models",
@@ -5517,7 +5741,8 @@
       "guide": "posted",
       "guide_youtube_url": "https://youtu.be/nNlkF2a47Lw",
       "guide_uploaded_on": "2026-11-03",
-      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
+      "generation": 1
     },
     {
       "name": "3D Printing with AI 21 - Checking a Curved Model",
@@ -5527,7 +5752,8 @@
       "guide": "posted",
       "guide_youtube_url": "https://youtu.be/g63wL-uIgT4",
       "guide_uploaded_on": "2026-11-03",
-      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
+      "generation": 1
     },
     {
       "name": "3D Printing with AI 22 - Choosing a Material",
@@ -5537,7 +5763,8 @@
       "guide": "posted",
       "guide_youtube_url": "https://youtu.be/TEny4J80rDY",
       "guide_uploaded_on": "2026-11-03",
-      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
+      "generation": 1
     },
     {
       "name": "3D Printing with AI 23 - What Is Craftcloud",
@@ -5547,7 +5774,8 @@
       "guide": "posted",
       "guide_youtube_url": "https://youtu.be/UBLBj018nT4",
       "guide_uploaded_on": "2026-11-03",
-      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
+      "generation": 1
     },
     {
       "name": "3D Printing with AI 24 - Ordering a Print",
@@ -5557,7 +5785,8 @@
       "guide": "posted",
       "guide_youtube_url": "https://youtu.be/PKlu_P4x1Fk",
       "guide_uploaded_on": "2026-11-03",
-      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
+      "generation": 1
     },
     {
       "name": "3D Printing with AI 25 - Checking a Quote",
@@ -5567,7 +5796,8 @@
       "guide": "posted",
       "guide_youtube_url": "https://youtu.be/gsDeYXQS4KY",
       "guide_uploaded_on": "2026-11-03",
-      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
+      "generation": 1
     },
     {
       "name": "3D Printing with AI 26 - From One Print to a Product",
@@ -5577,7 +5807,8 @@
       "guide": "posted",
       "guide_youtube_url": "https://youtu.be/yOLvySo8f-E",
       "guide_uploaded_on": "2026-11-03",
-      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)"
+      "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
+      "generation": 1
     },
     {
       "name": "TypeScript AI 1 - How to Use the Vercel AI SDK",
@@ -5588,7 +5819,8 @@
       "guide_youtube_url": "https://youtu.be/M2e3pODkiWg",
       "guide_uploaded_on": "2026-11-04",
       "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
-      "guide_playlist": "PLOsT7Q9gqkBE"
+      "guide_playlist": "PLOsT7Q9gqkBE",
+      "generation": 1
     },
     {
       "name": "TypeScript AI 2 - How to Build an MCP Server with TypeScript",
@@ -5599,7 +5831,8 @@
       "guide_youtube_url": "https://youtu.be/9O08zD0HSR4",
       "guide_uploaded_on": "2026-11-04",
       "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
-      "guide_playlist": "PLOsT7Q9gqkBE"
+      "guide_playlist": "PLOsT7Q9gqkBE",
+      "generation": 1
     },
     {
       "name": "TypeScript AI 3 - How to Use the OpenAI SDK with TypeScript",
@@ -5610,7 +5843,8 @@
       "guide_youtube_url": "https://youtu.be/hHkL84598Jw",
       "guide_uploaded_on": "2026-11-04",
       "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
-      "guide_playlist": "PLOsT7Q9gqkBE"
+      "guide_playlist": "PLOsT7Q9gqkBE",
+      "generation": 1
     },
     {
       "name": "TypeScript AI 4 - How to Use the Claude Agent SDK with TypeScript",
@@ -5621,7 +5855,8 @@
       "guide_youtube_url": "https://youtu.be/j619F1Yasfs",
       "guide_uploaded_on": "2026-11-04",
       "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
-      "guide_playlist": "PLOsT7Q9gqkBE"
+      "guide_playlist": "PLOsT7Q9gqkBE",
+      "generation": 1
     },
     {
       "name": "TypeScript AI 5 - How to Build an AI Agent with TypeScript",
@@ -5632,7 +5867,8 @@
       "guide_youtube_url": "https://youtu.be/nPzyxd10vPI",
       "guide_uploaded_on": "2026-11-04",
       "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
-      "guide_playlist": "PLOsT7Q9gqkBE"
+      "guide_playlist": "PLOsT7Q9gqkBE",
+      "generation": 1
     },
     {
       "name": "TypeScript AI 6 - How to Build a Next.js AI Chatbot",
@@ -5643,7 +5879,8 @@
       "guide_youtube_url": "https://youtu.be/tlRYA1sdmik",
       "guide_uploaded_on": "2026-11-04",
       "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
-      "guide_playlist": "PLOsT7Q9gqkBE"
+      "guide_playlist": "PLOsT7Q9gqkBE",
+      "generation": 1
     },
     {
       "name": "TypeScript AI 7 - How Does AI Tool Calling Work in TypeScript",
@@ -5654,7 +5891,8 @@
       "guide_youtube_url": "https://youtu.be/b55p14O9p4o",
       "guide_uploaded_on": "2026-11-04",
       "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
-      "guide_playlist": "PLOsT7Q9gqkBE"
+      "guide_playlist": "PLOsT7Q9gqkBE",
+      "generation": 1
     },
     {
       "name": "TypeScript AI 8 - LangChain TypeScript Tutorial for Beginners",
@@ -5665,7 +5903,8 @@
       "guide_youtube_url": "https://youtu.be/beb2WOYS2ns",
       "guide_uploaded_on": "2026-11-04",
       "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
-      "guide_playlist": "PLOsT7Q9gqkBE"
+      "guide_playlist": "PLOsT7Q9gqkBE",
+      "generation": 1
     },
     {
       "name": "TypeScript AI 9 - How to Get Structured Output from AI in TypeScript",
@@ -5676,7 +5915,8 @@
       "guide_youtube_url": "https://youtu.be/YDstXb4mJ1E",
       "guide_uploaded_on": "2026-11-04",
       "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
-      "guide_playlist": "PLOsT7Q9gqkBE"
+      "guide_playlist": "PLOsT7Q9gqkBE",
+      "generation": 1
     },
     {
       "name": "TypeScript AI 10 - AI SDK Streaming Tutorial for Beginners",
@@ -5687,7 +5927,8 @@
       "guide_youtube_url": "https://youtu.be/x18UFYFa1pk",
       "guide_uploaded_on": "2026-11-04",
       "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
-      "guide_playlist": "PLOsT7Q9gqkBE"
+      "guide_playlist": "PLOsT7Q9gqkBE",
+      "generation": 1
     },
     {
       "name": "Real Estate AI 1 - How to Use AI for Real Estate Agents",
@@ -5698,7 +5939,8 @@
       "guide_youtube_url": "https://youtu.be/T3EAvVvs6yY",
       "guide_visibility": "public (uploaded by Jabran in Studio)",
       "guide_uploaded_on": "2026-11-04 (manual)",
-      "guide_playlist": "PLKEN94s1bcQo"
+      "guide_playlist": "PLKEN94s1bcQo",
+      "generation": 1
     },
     {
       "name": "Real Estate AI 2 - Best AI Tools for Real Estate Agents",
@@ -5709,7 +5951,8 @@
       "guide_youtube_url": "https://youtu.be/j2Ci08WwXtA",
       "guide_visibility": "public (uploaded by Jabran in Studio)",
       "guide_uploaded_on": "2026-11-04 (manual)",
-      "guide_playlist": "PLKEN94s1bcQo"
+      "guide_playlist": "PLKEN94s1bcQo",
+      "generation": 1
     },
     {
       "name": "Real Estate AI 3 - ChatGPT Prompts for Real Estate Agents",
@@ -5720,7 +5963,8 @@
       "guide_youtube_url": "https://youtu.be/_YYJKhjfT-Q",
       "guide_visibility": "public (uploaded by Jabran in Studio)",
       "guide_uploaded_on": "2026-11-04 (manual)",
-      "guide_playlist": "PLKEN94s1bcQo"
+      "guide_playlist": "PLKEN94s1bcQo",
+      "generation": 1
     },
     {
       "name": "Real Estate AI 4 - How to Use Claude for Real Estate",
@@ -5731,7 +5975,8 @@
       "guide_youtube_url": "https://youtu.be/A3aYmB9EoK0",
       "guide_visibility": "public (uploaded by Jabran in Studio)",
       "guide_uploaded_on": "2026-11-04 (manual)",
-      "guide_playlist": "PLKEN94s1bcQo"
+      "guide_playlist": "PLKEN94s1bcQo",
+      "generation": 1
     },
     {
       "name": "Real Estate AI 5 - How to Write Real Estate Listings with AI",
@@ -5742,7 +5987,8 @@
       "guide_youtube_url": "https://youtu.be/fZ8tp98WWAo",
       "guide_visibility": "public (uploaded by Jabran in Studio)",
       "guide_uploaded_on": "2026-11-04 (manual)",
-      "guide_playlist": "PLKEN94s1bcQo"
+      "guide_playlist": "PLKEN94s1bcQo",
+      "generation": 1
     },
     {
       "name": "Real Estate AI 6 - AI Virtual Staging for Real Estate",
@@ -5753,7 +5999,8 @@
       "guide_youtube_url": "https://youtu.be/BGItH3nx_K4",
       "guide_visibility": "public (uploaded by Jabran in Studio)",
       "guide_uploaded_on": "2026-11-04 (manual)",
-      "guide_playlist": "PLKEN94s1bcQo"
+      "guide_playlist": "PLKEN94s1bcQo",
+      "generation": 1
     },
     {
       "name": "Real Estate AI 7 - AI Tools for Real Estate Photography",
@@ -5764,7 +6011,8 @@
       "guide_youtube_url": "https://youtu.be/w5s1iI0-HXQ",
       "guide_visibility": "public (uploaded by Jabran in Studio)",
       "guide_uploaded_on": "2026-11-04 (manual)",
-      "guide_playlist": "PLKEN94s1bcQo"
+      "guide_playlist": "PLKEN94s1bcQo",
+      "generation": 1
     },
     {
       "name": "Real Estate AI 8 - How to Make Real Estate Videos with AI",
@@ -5775,7 +6023,8 @@
       "guide_youtube_url": "https://youtu.be/heo5z3GAANE",
       "guide_visibility": "public (uploaded by Jabran in Studio)",
       "guide_uploaded_on": "2026-11-04 (manual)",
-      "guide_playlist": "PLKEN94s1bcQo"
+      "guide_playlist": "PLKEN94s1bcQo",
+      "generation": 1
     },
     {
       "name": "Real Estate AI 9 - Real Estate Lead Generation with AI",
@@ -5786,7 +6035,8 @@
       "guide_youtube_url": "https://youtu.be/xDj0weYcKQE",
       "guide_visibility": "public (uploaded by Jabran in Studio)",
       "guide_uploaded_on": "2026-11-04 (manual)",
-      "guide_playlist": "PLKEN94s1bcQo"
+      "guide_playlist": "PLKEN94s1bcQo",
+      "generation": 1
     },
     {
       "name": "Real Estate AI 10 - Will AI Replace Real Estate Agents",
@@ -5797,7 +6047,8 @@
       "guide_youtube_url": "https://youtu.be/IBcLGYewwDo",
       "guide_visibility": "public (uploaded by Jabran in Studio)",
       "guide_uploaded_on": "2026-11-04 (manual)",
-      "guide_playlist": "PLKEN94s1bcQo"
+      "guide_playlist": "PLKEN94s1bcQo",
+      "generation": 1
     },
     {
       "name": "Shopify AI 1 - How to Use AI for Shopify",
@@ -5808,7 +6059,8 @@
       "guide_youtube_url": "https://youtu.be/EJhRh_bGpgg",
       "guide_uploaded_on": "2026-11-04",
       "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
-      "guide_playlist": "PLRc1Qa6UqXcs"
+      "guide_playlist": "PLRc1Qa6UqXcs",
+      "generation": 1
     },
     {
       "name": "Shopify AI 2 - How to Connect Claude to Shopify with MCP",
@@ -5819,7 +6071,8 @@
       "guide_youtube_url": "https://youtu.be/h7opDek-thk",
       "guide_uploaded_on": "2026-11-04",
       "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
-      "guide_playlist": "PLRc1Qa6UqXcs"
+      "guide_playlist": "PLRc1Qa6UqXcs",
+      "generation": 1
     },
     {
       "name": "Shopify AI 3 - Shopify Fraud Prevention: Stop Fake Orders and Bots",
@@ -5830,7 +6083,8 @@
       "guide_youtube_url": "https://youtu.be/JymJnni2Xy8",
       "guide_uploaded_on": "2026-11-04",
       "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
-      "guide_playlist": "PLRc1Qa6UqXcs"
+      "guide_playlist": "PLRc1Qa6UqXcs",
+      "generation": 1
     },
     {
       "name": "Shopify AI 4 - Shopify AI Product Descriptions at Scale",
@@ -5841,7 +6095,8 @@
       "guide_youtube_url": "https://youtu.be/GPfhUEQFofw",
       "guide_uploaded_on": "2026-11-04",
       "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
-      "guide_playlist": "PLRc1Qa6UqXcs"
+      "guide_playlist": "PLRc1Qa6UqXcs",
+      "generation": 1
     },
     {
       "name": "Shopify AI 5 - Shopify Traffic but No Sales",
@@ -5852,7 +6107,8 @@
       "guide_youtube_url": "https://youtu.be/Qx9sKZ09lr0",
       "guide_uploaded_on": "2026-11-04",
       "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
-      "guide_playlist": "PLRc1Qa6UqXcs"
+      "guide_playlist": "PLRc1Qa6UqXcs",
+      "generation": 1
     },
     {
       "name": "Shopify AI 6 - Meta Pixel Not Working on Shopify",
@@ -5863,7 +6119,8 @@
       "guide_youtube_url": "https://youtu.be/X2cnzQL06T4",
       "guide_uploaded_on": "2026-11-04",
       "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
-      "guide_playlist": "PLRc1Qa6UqXcs"
+      "guide_playlist": "PLRc1Qa6UqXcs",
+      "generation": 1
     },
     {
       "name": "Shopify AI 7 - How to Win Shopify Chargebacks",
@@ -5874,7 +6131,8 @@
       "guide_youtube_url": "https://youtu.be/76NqZsXXE_c",
       "guide_uploaded_on": "2026-11-04",
       "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
-      "guide_playlist": "PLRc1Qa6UqXcs"
+      "guide_playlist": "PLRc1Qa6UqXcs",
+      "generation": 1
     },
     {
       "name": "Shopify AI 8 - Shopify Order Tracking with an AI Chatbot",
@@ -5885,7 +6143,8 @@
       "guide_youtube_url": "https://youtu.be/I15jbtVT5aI",
       "guide_uploaded_on": "2026-11-04",
       "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
-      "guide_playlist": "PLRc1Qa6UqXcs"
+      "guide_playlist": "PLRc1Qa6UqXcs",
+      "generation": 1
     },
     {
       "name": "Shopify AI 9 - Shopify Tariffs Explained",
@@ -5896,7 +6155,8 @@
       "guide_youtube_url": "https://youtu.be/T_mvRldeya4",
       "guide_uploaded_on": "2026-11-04",
       "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
-      "guide_playlist": "PLRc1Qa6UqXcs"
+      "guide_playlist": "PLRc1Qa6UqXcs",
+      "generation": 1
     },
     {
       "name": "Shopify AI 10 - Shopify Inventory Sync with Amazon and Etsy",
@@ -5907,7 +6167,8 @@
       "guide_youtube_url": "https://youtu.be/hLometX-HTQ",
       "guide_uploaded_on": "2026-11-04",
       "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
-      "guide_playlist": "PLRc1Qa6UqXcs"
+      "guide_playlist": "PLRc1Qa6UqXcs",
+      "generation": 1
     },
     {
       "name": "Shopify AI 11 - Replace Shopify Apps with Claude Code",
@@ -5918,7 +6179,8 @@
       "guide_youtube_url": "https://youtu.be/OgubvMvCf4M",
       "guide_uploaded_on": "2026-11-04",
       "guide_visibility": "public (published by Jabran in Studio; confirmed 2026-11-10)",
-      "guide_playlist": "PLRc1Qa6UqXcs"
+      "guide_playlist": "PLRc1Qa6UqXcs",
+      "generation": 1
     },
     {
       "name": "ComfyUI 1 - How to Install ComfyUI (Windows and Mac)",
@@ -5931,7 +6193,8 @@
       "guide_uploaded_on": "2026-11-05",
       "guide_publish_at": "2026-11-09T00:00:00Z",
       "guide_visibility": "private until Sun 08 Nov 2026 19:00 EST, then public automatically",
-      "guide_playlist": "PLX-gsb53eN0o"
+      "guide_playlist": "PLX-gsb53eN0o",
+      "generation": 2
     },
     {
       "name": "ComfyUI 2 - ComfyUI Manager: How to Fix Missing Nodes",
@@ -5944,7 +6207,8 @@
       "guide_uploaded_on": "2026-11-05",
       "guide_publish_at": "2026-11-09T16:00:00Z",
       "guide_visibility": "private until Mon 09 Nov 2026 11:00 EST, then public automatically",
-      "guide_playlist": "PLX-gsb53eN0o"
+      "guide_playlist": "PLX-gsb53eN0o",
+      "generation": 2
     },
     {
       "name": "ComfyUI 3 - ComfyUI Workflow Explained",
@@ -5958,7 +6222,8 @@
       "guide_publish_at": "2026-11-10T00:00:00Z",
       "guide_visibility": "private until Mon 09 Nov 2026 19:00 EST, then public automatically",
       "guide_playlist": "PLX-gsb53eN0o",
-      "guide_note": "2026-11-06: the copy Jabran kept after deleting duplicates"
+      "guide_note": "2026-11-06: the copy Jabran kept after deleting duplicates",
+      "generation": 2
     },
     {
       "name": "ComfyUI 4 - ComfyUI Flux Workflow: Full Setup with LoRAs",
@@ -5972,7 +6237,8 @@
       "guide_publish_at": "2026-11-10T16:00:00Z",
       "guide_visibility": "private until Tue 10 Nov 2026 11:00 EST, then public automatically",
       "guide_playlist": "PLX-gsb53eN0o",
-      "guide_note": "2026-11-06: the copy Jabran kept after deleting duplicates"
+      "guide_note": "2026-11-06: the copy Jabran kept after deleting duplicates",
+      "generation": 2
     },
     {
       "name": "ComfyUI 5 - ComfyUI Low VRAM: Run Big Models on a Small GPU",
@@ -5985,7 +6251,8 @@
       "guide_uploaded_on": "2026-11-05",
       "guide_publish_at": "2026-11-11T00:00:00Z",
       "guide_visibility": "private until Tue 10 Nov 2026 19:00 EST, then public automatically",
-      "guide_playlist": "PLX-gsb53eN0o"
+      "guide_playlist": "PLX-gsb53eN0o",
+      "generation": 2
     },
     {
       "name": "ComfyUI 6 - ComfyUI Upscale Workflow: Sharper Images and Faces",
@@ -5998,7 +6265,8 @@
       "guide_uploaded_on": "2026-11-05",
       "guide_publish_at": "2026-11-11T16:00:00Z",
       "guide_visibility": "private until Wed 11 Nov 2026 11:00 EST, then public automatically",
-      "guide_playlist": "PLX-gsb53eN0o"
+      "guide_playlist": "PLX-gsb53eN0o",
+      "generation": 2
     },
     {
       "name": "ComfyUI 7 - ComfyUI ControlNet and Inpainting Tutorial",
@@ -6011,7 +6279,8 @@
       "guide_uploaded_on": "2026-11-05",
       "guide_publish_at": "2026-11-12T00:00:00Z",
       "guide_visibility": "private until Wed 11 Nov 2026 19:00 EST, then public automatically",
-      "guide_playlist": "PLX-gsb53eN0o"
+      "guide_playlist": "PLX-gsb53eN0o",
+      "generation": 2
     },
     {
       "name": "ComfyUI 8 - ComfyUI Image to Video Workflow",
@@ -6024,7 +6293,8 @@
       "guide_uploaded_on": "2026-11-05",
       "guide_publish_at": "2026-11-12T16:00:00Z",
       "guide_visibility": "private until Thu 12 Nov 2026 11:00 EST, then public automatically",
-      "guide_playlist": "PLX-gsb53eN0o"
+      "guide_playlist": "PLX-gsb53eN0o",
+      "generation": 2
     },
     {
       "name": "ComfyUI 9 - ComfyUI API Tutorial: Run Workflows from Python",
@@ -6037,7 +6307,8 @@
       "guide_uploaded_on": "2026-11-05",
       "guide_publish_at": "2026-11-13T00:00:00Z",
       "guide_visibility": "private until Thu 12 Nov 2026 19:00 EST, then public automatically",
-      "guide_playlist": "PLX-gsb53eN0o"
+      "guide_playlist": "PLX-gsb53eN0o",
+      "generation": 2
     },
     {
       "name": "ComfyUI 10 - ComfyUI Custom Nodes and Subgraphs",
@@ -6050,7 +6321,8 @@
       "guide_uploaded_on": "2026-11-05",
       "guide_publish_at": "2026-11-13T16:00:00Z",
       "guide_visibility": "private until Fri 13 Nov 2026 11:00 EST, then public automatically",
-      "guide_playlist": "PLX-gsb53eN0o"
+      "guide_playlist": "PLX-gsb53eN0o",
+      "generation": 2
     },
     {
       "name": "Vikunja 1 - Vikunja Review: A Self-Hosted Todoist Alternative",
@@ -6063,7 +6335,8 @@
       "guide_youtube_url": "https://youtu.be/FSyS1QQvzVs",
       "guide_uploaded_on": "2026-11-06",
       "guide_visibility": "public",
-      "guide_playlist": "PLa7rpf4F98EE"
+      "guide_playlist": "PLa7rpf4F98EE",
+      "generation": 2
     },
     {
       "name": "Vikunja 2 - How to Install Vikunja with Docker Compose",
@@ -6075,7 +6348,8 @@
       "guide_playlist": "PLa7rpf4F98EE",
       "guide_youtube_url": "https://youtu.be/BqwVZ8nUWm0",
       "guide_uploaded_on": "2026-11-06",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "Vikunja 3 - Vikunja Tutorial: Projects, Kanban and Gantt",
@@ -6087,7 +6361,8 @@
       "guide_playlist": "PLa7rpf4F98EE",
       "guide_youtube_url": "https://youtu.be/QnjBgic91Vc",
       "guide_uploaded_on": "2026-11-06",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "Vikunja 4 - Vikunja vs Todoist vs Plane",
@@ -6099,7 +6374,8 @@
       "guide_playlist": "PLa7rpf4F98EE",
       "guide_youtube_url": "https://youtu.be/BiUREoqSBmU",
       "guide_uploaded_on": "2026-11-06",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "Vikunja 5 - Vikunja API Tutorial: Automate Your Tasks",
@@ -6111,7 +6387,8 @@
       "guide_playlist": "PLa7rpf4F98EE",
       "guide_youtube_url": "https://youtu.be/koQ2NW8Asuk",
       "guide_uploaded_on": "2026-11-07",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "Vikunja 6 - Connect Claude to Vikunja with MCP",
@@ -6123,7 +6400,8 @@
       "guide_playlist": "PLa7rpf4F98EE",
       "guide_youtube_url": "https://youtu.be/l9_Gs8h07RI",
       "guide_uploaded_on": "2026-11-07",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "OpenBao 1 - OpenBao vs HashiCorp Vault: What's the Difference?",
@@ -6135,7 +6413,8 @@
       "guide_youtube_url": "https://youtu.be/Nar0hptXoYw",
       "guide_uploaded_on": "2026-11-07",
       "guide_visibility": "public",
-      "guide_playlist": "PLFsq8_ReJxgE"
+      "guide_playlist": "PLFsq8_ReJxgE",
+      "generation": 2
     },
     {
       "name": "OpenBao 2 - OpenBao Tutorial: Install with Docker Compose",
@@ -6147,7 +6426,8 @@
       "guide_playlist": "PLFsq8_ReJxgE",
       "guide_youtube_url": "https://youtu.be/De3B4D7FlvE",
       "guide_uploaded_on": "2026-11-07",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "OpenBao 3 - OpenBao Unseal and Secrets Explained",
@@ -6278,7 +6558,8 @@
       "guide_youtube_url": "https://youtu.be/Ief76QF0wf8",
       "guide_uploaded_on": "2026-11-07",
       "guide_visibility": "public",
-      "guide_playlist": "PLOJa0A8kpOHA"
+      "guide_playlist": "PLOJa0A8kpOHA",
+      "generation": 2
     },
     {
       "name": "AI CAD 2 - OpenSCAD Tutorial for Beginners",
@@ -6291,7 +6572,8 @@
       "guide_playlist": "PLOJa0A8kpOHA",
       "guide_youtube_url": "https://youtu.be/jOEZVtABMso",
       "guide_uploaded_on": "2026-11-07",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "AI CAD 3 - OpenSCAD MCP Server",
@@ -6304,7 +6586,8 @@
       "guide_playlist": "PLOJa0A8kpOHA",
       "guide_youtube_url": "https://youtu.be/ZQSWE0r3z64",
       "guide_uploaded_on": "2026-11-07",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "AI CAD 4 - OpenSCAD BOSL2 and Customizer",
@@ -6317,7 +6600,8 @@
       "guide_playlist": "PLOJa0A8kpOHA",
       "guide_youtube_url": "https://youtu.be/0AR6Y_PScjY",
       "guide_uploaded_on": "2026-11-07",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "AI CAD 5 - FreeCAD 1.1 Tutorial for Beginners",
@@ -6330,7 +6614,8 @@
       "guide_playlist": "PLOJa0A8kpOHA",
       "guide_youtube_url": "https://youtu.be/TeJdeWp8TE0",
       "guide_uploaded_on": "2026-11-07",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "AI CAD 6 - FreeCAD MCP Server",
@@ -6343,7 +6628,8 @@
       "guide_playlist": "PLOJa0A8kpOHA",
       "guide_youtube_url": "https://youtu.be/W9oTQ0_uQjI",
       "guide_uploaded_on": "2026-11-08",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "AI CAD 7 - FreeCAD Wire Not Closed, Tolerances and Threads",
@@ -6356,7 +6642,8 @@
       "guide_playlist": "PLOJa0A8kpOHA",
       "guide_youtube_url": "https://youtu.be/v5ALfF4y9xY",
       "guide_uploaded_on": "2026-11-08",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "AI CAD 8 - OpenSCAD vs FreeCAD vs Fusion 360",
@@ -6379,7 +6666,8 @@
       "guide_youtube_url": "https://youtu.be/JhW-w6G0eK8",
       "guide_uploaded_on": "2026-11-07",
       "guide_visibility": "public",
-      "guide_playlist": "PLTLqiMzNRCEE"
+      "guide_playlist": "PLTLqiMzNRCEE",
+      "generation": 2
     },
     {
       "name": "Meshy AI 2 - Free vs Paid and Who Owns It",
@@ -6392,7 +6680,8 @@
       "guide_playlist": "PLTLqiMzNRCEE",
       "guide_youtube_url": "https://youtu.be/UGq0uggEelQ",
       "guide_uploaded_on": "2026-11-08",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "Meshy AI 3 - From Image to an STL That Prints",
@@ -6405,7 +6694,8 @@
       "guide_playlist": "PLTLqiMzNRCEE",
       "guide_youtube_url": "https://youtu.be/sm4qgh9ZdXc",
       "guide_uploaded_on": "2026-11-08",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "Meshy AI 4 - Multicolor 3D Printing",
@@ -6468,7 +6758,8 @@
       "guide_youtube_url": "https://youtu.be/iwI7xyEV2zo",
       "guide_uploaded_on": "2026-11-10",
       "guide_visibility": "public",
-      "guide_playlist": "PLTWxinT6Tbag"
+      "guide_playlist": "PLTWxinT6Tbag",
+      "generation": 2
     },
     {
       "name": "Blender MCP 2 - Setup with Claude Code",
@@ -6481,7 +6772,8 @@
       "guide_playlist": "PLTWxinT6Tbag",
       "guide_youtube_url": "https://youtu.be/IiHGkgl6VZg",
       "guide_uploaded_on": "2026-11-10",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "Blender MCP 3 - AI Modeling with Claude",
@@ -6494,7 +6786,8 @@
       "guide_playlist": "PLTWxinT6Tbag",
       "guide_youtube_url": "https://youtu.be/33BhDSoyndw",
       "guide_uploaded_on": "2026-11-10",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "Blender MCP 4 - For 3D Printing",
@@ -6507,7 +6800,8 @@
       "guide_playlist": "PLTWxinT6Tbag",
       "guide_youtube_url": "https://youtu.be/rm1nOwMYN2s",
       "guide_uploaded_on": "2026-11-11",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "Blender MCP 5 - 3D Print Toolbox",
@@ -6520,7 +6814,8 @@
       "guide_playlist": "PLTWxinT6Tbag",
       "guide_youtube_url": "https://youtu.be/3r7xHuBG6zs",
       "guide_uploaded_on": "2026-11-11",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "Blender MCP 6 - Hunyuan 3D and Tripo Clean Up",
@@ -6533,7 +6828,8 @@
       "guide_playlist": "PLTWxinT6Tbag",
       "guide_youtube_url": "https://youtu.be/SHdyfQpyhos",
       "guide_uploaded_on": "2026-11-12",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "Blender MCP 7 - Codex Gemini Cursor Local",
@@ -6546,7 +6842,8 @@
       "guide_playlist": "PLTWxinT6Tbag",
       "guide_youtube_url": "https://youtu.be/L9OGfZ1aUgk",
       "guide_uploaded_on": "2026-11-12",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "Blender MCP 8 - Official vs Community vs Headless",
@@ -6559,7 +6856,8 @@
       "guide_playlist": "PLTWxinT6Tbag",
       "guide_youtube_url": "https://youtu.be/DFoZn8FfNrI",
       "guide_uploaded_on": "2026-11-12",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "Claude Skills 1 - Explained",
@@ -6572,7 +6870,8 @@
       "guide_youtube_url": "https://youtu.be/nCPTqysfLlM",
       "guide_uploaded_on": "2026-11-11",
       "guide_visibility": "public",
-      "guide_playlist": "PLMZdUdTyL7f0"
+      "guide_playlist": "PLMZdUdTyL7f0",
+      "generation": 2
     },
     {
       "name": "Claude Skills 2 - Skills vs Agents vs MCP",
@@ -6585,7 +6884,8 @@
       "guide_playlist": "PLMZdUdTyL7f0",
       "guide_youtube_url": "https://youtu.be/nxlO5W_BDIQ",
       "guide_uploaded_on": "2026-11-11",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "Claude Skills 3 - Make Your First Skill",
@@ -6598,7 +6898,8 @@
       "guide_playlist": "PLMZdUdTyL7f0",
       "guide_youtube_url": "https://youtu.be/LIcW4sI2kZY",
       "guide_uploaded_on": "2026-11-11",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "Claude Skills 4 - Brand Voice Skill for Marketing",
@@ -6611,7 +6912,8 @@
       "guide_playlist": "PLMZdUdTyL7f0",
       "guide_youtube_url": "https://youtu.be/TWLmlF_Mm1A",
       "guide_uploaded_on": "2026-11-12",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "Claude Skills 5 - Is Superpowers Safe",
@@ -6624,7 +6926,8 @@
       "guide_playlist": "PLMZdUdTyL7f0",
       "guide_youtube_url": "https://youtu.be/1TPjAuNcSp0",
       "guide_uploaded_on": "2026-11-12",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "Claude Skills 6 - Skill with MCP",
@@ -6637,7 +6940,8 @@
       "guide_playlist": "PLMZdUdTyL7f0",
       "guide_youtube_url": "https://youtu.be/Fw7fDVDU8ew",
       "guide_uploaded_on": "2026-11-12",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "Playwright MCP 1 - Explained",
@@ -6650,7 +6954,8 @@
       "guide_youtube_url": "https://youtu.be/wYIH9ah_qRk",
       "guide_uploaded_on": "2026-11-12",
       "guide_visibility": "public",
-      "guide_playlist": "PLEBTMVtVFViE"
+      "guide_playlist": "PLEBTMVtVFViE",
+      "generation": 2
     },
     {
       "name": "Playwright MCP 2 - DevTools vs Playwright",
@@ -6663,7 +6968,8 @@
       "guide_playlist": "PLEBTMVtVFViE",
       "guide_youtube_url": "https://youtu.be/xMq573eWHK0",
       "guide_uploaded_on": "2026-11-12",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "Playwright MCP 3 - Install Safely",
@@ -6676,7 +6982,8 @@
       "guide_playlist": "PLEBTMVtVFViE",
       "guide_youtube_url": "https://youtu.be/-yQyz7SYjI0",
       "guide_uploaded_on": "2026-11-12",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "Playwright MCP 4 - Test Your Web App",
@@ -6689,7 +6996,8 @@
       "guide_playlist": "PLEBTMVtVFViE",
       "guide_youtube_url": "https://youtu.be/wy7oy5mh7qc",
       "guide_uploaded_on": "2026-11-12",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "Playwright MCP 5 - Find a Slow Page",
@@ -6702,7 +7010,8 @@
       "guide_playlist": "PLEBTMVtVFViE",
       "guide_youtube_url": "https://youtu.be/JOGxmHlSxEY",
       "guide_uploaded_on": "2026-11-12",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "Playwright MCP 6 - Real Chrome Log In",
@@ -6715,7 +7024,8 @@
       "guide_playlist": "PLEBTMVtVFViE",
       "guide_youtube_url": "https://youtu.be/TRiEGt9rYsI",
       "guide_uploaded_on": "2026-11-12",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "generation": 2
     },
     {
       "name": "AI Coding Agents 1 - Which Agent",
@@ -6728,7 +7038,8 @@
       "guide_youtube_url": "https://youtu.be/dcpl3hSEDwU",
       "guide_uploaded_on": "2026-11-12",
       "guide_visibility": "public",
-      "guide_playlist": "PLC_ZPnKjVJ3k"
+      "guide_playlist": "PLC_ZPnKjVJ3k",
+      "generation": 2
     },
     {
       "name": "AI Coding Agents 2 - Gemini vs Antigravity",
@@ -6741,7 +7052,8 @@
       "guide_playlist": "PLC_ZPnKjVJ3k",
       "guide_youtube_url": "https://youtu.be/YXwUvlRdItg",
       "guide_uploaded_on": "2026-11-12",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "AI Coding Agents 3 - Codex CLI",
@@ -6754,7 +7066,8 @@
       "guide_playlist": "PLC_ZPnKjVJ3k",
       "guide_youtube_url": "https://youtu.be/GypwUYmLOsI",
       "guide_uploaded_on": "2026-11-12",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "AI Coding Agents 4 - OpenCode",
@@ -6767,7 +7080,8 @@
       "guide_playlist": "PLC_ZPnKjVJ3k",
       "guide_youtube_url": "https://youtu.be/LJAgoGePsPk",
       "guide_uploaded_on": "2026-11-13",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "AI Coding Agents 5 - Ollama",
@@ -6780,7 +7094,8 @@
       "guide_playlist": "PLC_ZPnKjVJ3k",
       "guide_youtube_url": "https://youtu.be/Lv9T3V12oI4",
       "guide_uploaded_on": "2026-11-13",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "AI Coding Agents 6 - Docker Sandbox",
@@ -6793,7 +7108,8 @@
       "guide_playlist": "PLC_ZPnKjVJ3k",
       "guide_youtube_url": "https://youtu.be/akYbySF-7I0",
       "guide_uploaded_on": "2026-11-13",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "Hermes Agent 1 - What Is Hermes Agent",
@@ -6806,7 +7122,8 @@
       "guide_youtube_url": "https://youtu.be/TsC5J9Qbwi4",
       "guide_uploaded_on": "2026-11-12",
       "guide_visibility": "public",
-      "guide_playlist": "PLSYTkVYd1XrI"
+      "guide_playlist": "PLSYTkVYd1XrI",
+      "generation": 2
     },
     {
       "name": "Hermes Agent 2 - Safe Setup",
@@ -6820,7 +7137,8 @@
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/gdebKsAZ-ts",
       "guide_uploaded_on": "2026-11-15",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Hermes Agent 3 - vs OpenClaw",
@@ -6834,7 +7152,8 @@
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/lqV1fYmr-2I",
       "guide_uploaded_on": "2026-11-15",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Hermes Agent 4 - Desktop App",
@@ -6848,7 +7167,8 @@
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/0_UQdbn5oQ8",
       "guide_uploaded_on": "2026-11-16",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Hermes Agent 5 - Ollama",
@@ -6862,7 +7182,8 @@
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/KvdHfOHTUjg",
       "guide_uploaded_on": "2026-11-16",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Hermes Agent 6 - Skills",
@@ -6876,7 +7197,8 @@
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/NsxLjJIZak8",
       "guide_uploaded_on": "2026-11-17",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Hermes Agent 7 - Docker Compose",
@@ -6890,7 +7212,8 @@
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/hkklaaF5WZg",
       "guide_uploaded_on": "2026-11-17",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Hermes Agent 8 - Claude",
@@ -6904,7 +7227,8 @@
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/Wr-KPZTFjjI",
       "guide_uploaded_on": "2026-11-17",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Hermes Agent 9 - Dashboard",
@@ -6918,7 +7242,8 @@
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/wcD9OejYwLg",
       "guide_uploaded_on": "2026-11-17",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Claude Code for Beginners 1 - What and Cost",
@@ -6931,7 +7256,8 @@
       "guide_youtube_url": "https://youtu.be/w3s56HTHDUk",
       "guide_uploaded_on": "2026-11-13",
       "guide_visibility": "public",
-      "guide_playlist": "PLHGdih6OUQLg"
+      "guide_playlist": "PLHGdih6OUQLg",
+      "generation": 2
     },
     {
       "name": "Claude Code for Beginners 2 - Install",
@@ -6944,7 +7270,8 @@
       "guide_playlist": "PLHGdih6OUQLg",
       "guide_youtube_url": "https://youtu.be/5yBX_yAKP7o",
       "guide_uploaded_on": "2026-11-13",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "Claude Code for Beginners 3 - VS Code",
@@ -6957,7 +7284,8 @@
       "guide_playlist": "PLHGdih6OUQLg",
       "guide_youtube_url": "https://youtu.be/exDPzkSPc1Q",
       "guide_uploaded_on": "2026-11-13",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "Claude Code for Beginners 4 - Desktop App",
@@ -6971,7 +7299,8 @@
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/e_WH87YnVvM",
       "guide_uploaded_on": "2026-11-13",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "Claude Code for Beginners 5 - First Website",
@@ -6985,7 +7314,8 @@
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/dd4U3gSAl4s",
       "guide_uploaded_on": "2026-11-14",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Claude Code for Beginners 6 - First App",
@@ -6999,7 +7329,8 @@
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/KrWAkzUK898",
       "guide_uploaded_on": "2026-11-14",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Claude Code for Beginners 7 - Settings First",
@@ -7013,7 +7344,8 @@
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/BLfgMUHZwb8",
       "guide_uploaded_on": "2026-11-14",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Claude Code vs 1 - Claude vs Code vs Cowork",
@@ -7026,7 +7358,8 @@
       "guide_youtube_url": "https://youtu.be/YUh0DbS-dwg",
       "guide_uploaded_on": "2026-11-13",
       "guide_visibility": "public",
-      "guide_playlist": "PLXgU5buZ-J8I"
+      "guide_playlist": "PLXgU5buZ-J8I",
+      "generation": 2
     },
     {
       "name": "Claude Code vs 2 - Claude vs ChatGPT",
@@ -7039,7 +7372,8 @@
       "guide_playlist": "PLXgU5buZ-J8I",
       "guide_youtube_url": "https://youtu.be/ASVmN6pfs8I",
       "guide_uploaded_on": "2026-11-13",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "Claude Code vs 3 - VS Code vs Terminal",
@@ -7052,7 +7386,8 @@
       "guide_playlist": "PLXgU5buZ-J8I",
       "guide_youtube_url": "https://youtu.be/wBQ7uBv71Bk",
       "guide_uploaded_on": "2026-11-13",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "Claude Code vs 4 - vs Cursor",
@@ -7066,7 +7401,8 @@
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/D9SydMKdjGs",
       "guide_uploaded_on": "2026-11-14",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Claude Code vs 5 - vs GitHub Copilot",
@@ -7080,7 +7416,8 @@
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/9bDMNXg_F8Q",
       "guide_uploaded_on": "2026-11-14",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Claude Code vs 6 - vs Antigravity 2.0",
@@ -7094,7 +7431,8 @@
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/hTQNoR6_TlM",
       "guide_uploaded_on": "2026-11-14",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Claude for Work 1 - Excel",
@@ -7107,7 +7445,8 @@
       "guide_youtube_url": "https://youtu.be/ofB7W32wM00",
       "guide_uploaded_on": "2026-11-13",
       "guide_visibility": "public",
-      "guide_playlist": "PLXhqAnoFIWwQ"
+      "guide_playlist": "PLXhqAnoFIWwQ",
+      "generation": 2
     },
     {
       "name": "Claude for Work 2 - Finance",
@@ -7121,7 +7460,8 @@
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/9UGbHMB7WQo",
       "guide_uploaded_on": "2026-11-13",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "Claude for Work 3 - Accounting",
@@ -7135,7 +7475,8 @@
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/m88PtrJ4LQ4",
       "guide_uploaded_on": "2026-11-13",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 2
     },
     {
       "name": "Claude for Work 4 - Marketing",
@@ -7149,7 +7490,8 @@
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/GUewl9RO2gE",
       "guide_uploaded_on": "2026-11-14",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Claude for Work 5 - Sales",
@@ -7163,7 +7505,8 @@
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/RZ5sP4wxUeU",
       "guide_uploaded_on": "2026-11-14",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Claude for Work 6 - Data Analysis",
@@ -7177,7 +7520,8 @@
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/WaQK7EGa90o",
       "guide_uploaded_on": "2026-11-14",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Claude for Work 7 - Legal",
@@ -7191,7 +7535,8 @@
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/BKoIRAUbQDs",
       "guide_uploaded_on": "2026-11-14",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "MCP Servers 1 - What Is MCP",
@@ -7205,7 +7550,8 @@
       "guide_youtube_url": "https://youtu.be/r4YtyIINoD8",
       "guide_uploaded_on": "2026-11-13",
       "guide_visibility": "public",
-      "guide_playlist": "PLcnK26WPsihE"
+      "guide_playlist": "PLcnK26WPsihE",
+      "generation": 2
     },
     {
       "name": "MCP Servers 2 - Best MCP Servers",
@@ -7219,7 +7565,8 @@
       "guide_playlist": "PLcnK26WPsihE",
       "guide_youtube_url": "https://youtu.be/tUQETAjM1p8",
       "guide_uploaded_on": "2026-11-14",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "MCP Servers 3 - Add an MCP Server",
@@ -7233,7 +7580,8 @@
       "guide_playlist": "PLcnK26WPsihE",
       "guide_youtube_url": "https://youtu.be/xUrppAMXBnQ",
       "guide_uploaded_on": "2026-11-14",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "MCP Servers 4 - GitHub MCP Server",
@@ -7247,7 +7595,8 @@
       "guide_playlist": "PLcnK26WPsihE",
       "guide_youtube_url": "https://youtu.be/QRdg5dCWUt0",
       "guide_uploaded_on": "2026-11-15",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "MCP Servers 5 - Figma MCP Server",
@@ -7261,7 +7610,8 @@
       "guide_playlist": "PLcnK26WPsihE",
       "guide_youtube_url": "https://youtu.be/ah5iCrbRZcE",
       "guide_uploaded_on": "2026-11-15",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "MCP Servers 6 - Power BI MCP Server",
@@ -7275,7 +7625,8 @@
       "guide_playlist": "PLcnK26WPsihE",
       "guide_youtube_url": "https://youtu.be/P6bnTLgp9po",
       "guide_uploaded_on": "2026-11-15",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "MCP Servers 7 - Build an MCP Server in Python",
@@ -7289,7 +7640,8 @@
       "guide_playlist": "PLcnK26WPsihE",
       "guide_youtube_url": "https://youtu.be/3DzGDGUXJBI",
       "guide_uploaded_on": "2026-11-15",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Google AI Studio 1 - Tutorial",
@@ -7303,7 +7655,8 @@
       "guide_youtube_url": "https://youtu.be/jD98sBQTtU4",
       "guide_uploaded_on": "2026-11-13",
       "guide_visibility": "public",
-      "guide_playlist": "PLa0rI9R8V3p8"
+      "guide_playlist": "PLa0rI9R8V3p8",
+      "generation": 2
     },
     {
       "name": "Google AI Studio 2 - Is It Free",
@@ -7317,7 +7670,8 @@
       "guide_playlist": "PLa0rI9R8V3p8",
       "guide_youtube_url": "https://youtu.be/yp8r3B7ZnYM",
       "guide_uploaded_on": "2026-11-14",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Google AI Studio 3 - vs Gemini App",
@@ -7331,7 +7685,8 @@
       "guide_playlist": "PLa0rI9R8V3p8",
       "guide_youtube_url": "https://youtu.be/bdCwJ08p33k",
       "guide_uploaded_on": "2026-11-14",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Google AI Studio 4 - API Key",
@@ -7345,7 +7700,8 @@
       "guide_playlist": "PLa0rI9R8V3p8",
       "guide_youtube_url": "https://youtu.be/_YwxXkY8FN8",
       "guide_uploaded_on": "2026-11-14",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Google AI Studio 5 - Nano Banana Pro",
@@ -7359,7 +7715,8 @@
       "guide_playlist": "PLa0rI9R8V3p8",
       "guide_youtube_url": "https://youtu.be/eF2-o66ds2A",
       "guide_uploaded_on": "2026-11-14",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "generation": 3
     },
     {
       "name": "Google AI Studio 6 - Build Mode",
@@ -7373,7 +7730,8 @@
       "guide_playlist": "PLa0rI9R8V3p8",
       "guide_youtube_url": "https://youtu.be/95oyasVAW-4",
       "guide_uploaded_on": "2026-11-15",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Claude Design 1 - First Design",
@@ -7387,7 +7745,8 @@
       "guide_youtube_url": "https://youtu.be/TK2JP7V3Uio",
       "guide_uploaded_on": "2026-11-16",
       "guide_visibility": "public",
-      "guide_playlist": "PLIwDiOrVvl4s"
+      "guide_playlist": "PLIwDiOrVvl4s",
+      "generation": 3
     },
     {
       "name": "Claude Design 2 - Plans and Moving",
@@ -7401,7 +7760,8 @@
       "guide_playlist": "PLIwDiOrVvl4s",
       "guide_youtube_url": "https://youtu.be/VqkzNmNS9V0",
       "guide_uploaded_on": "2026-11-16",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Claude Design 3 - Slides",
@@ -7415,7 +7775,8 @@
       "guide_playlist": "PLIwDiOrVvl4s",
       "guide_youtube_url": "https://youtu.be/wgBArE0raDk",
       "guide_uploaded_on": "2026-11-16",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Claude Design 4 - Websites",
@@ -7429,7 +7790,8 @@
       "guide_playlist": "PLIwDiOrVvl4s",
       "guide_youtube_url": "https://youtu.be/TTg9gB6WN9E",
       "guide_uploaded_on": "2026-11-16",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Claude Design 5 - Logo and Brand Kit",
@@ -7443,7 +7805,8 @@
       "guide_playlist": "PLIwDiOrVvl4s",
       "guide_youtube_url": "https://youtu.be/Eu2MZJnWaJE",
       "guide_uploaded_on": "2026-11-16",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Claude Design 6 - Design System",
@@ -7457,7 +7820,8 @@
       "guide_playlist": "PLIwDiOrVvl4s",
       "guide_youtube_url": "https://youtu.be/uvO_J5Th52M",
       "guide_uploaded_on": "2026-11-16",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Claude Design 7 - Figma",
@@ -7471,7 +7835,8 @@
       "guide_playlist": "PLIwDiOrVvl4s",
       "guide_youtube_url": "https://youtu.be/AsSdxPZceag",
       "guide_uploaded_on": "2026-11-17",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "How to Use Claude 1 - First Day",
@@ -7485,7 +7850,8 @@
       "guide_youtube_url": "https://youtu.be/J0xW4K2U-vw",
       "guide_uploaded_on": "2026-11-15",
       "guide_visibility": "public",
-      "guide_playlist": "PLcfLQWvNLz24"
+      "guide_playlist": "PLcfLQWvNLz24",
+      "generation": 3
     },
     {
       "name": "How to Use Claude 2 - Desktop App",
@@ -7499,7 +7865,8 @@
       "guide_youtube_url": "https://youtu.be/is_Uekz0m0I",
       "guide_uploaded_on": "2026-11-15",
       "guide_visibility": "public",
-      "guide_playlist": "PLcfLQWvNLz24"
+      "guide_playlist": "PLcfLQWvNLz24",
+      "generation": 3
     },
     {
       "name": "How to Use Claude 3 - Projects",
@@ -7513,7 +7880,8 @@
       "guide_youtube_url": "https://youtu.be/nOTiFLi8Tbc",
       "guide_uploaded_on": "2026-11-15",
       "guide_visibility": "public",
-      "guide_playlist": "PLcfLQWvNLz24"
+      "guide_playlist": "PLcfLQWvNLz24",
+      "generation": 3
     },
     {
       "name": "How to Use Claude 4 - Artifacts",
@@ -7527,7 +7895,8 @@
       "guide_youtube_url": "https://youtu.be/bsEIxD8ifjU",
       "guide_uploaded_on": "2026-11-15",
       "guide_visibility": "public",
-      "guide_playlist": "PLcfLQWvNLz24"
+      "guide_playlist": "PLcfLQWvNLz24",
+      "generation": 3
     },
     {
       "name": "How to Use Claude 5 - Research",
@@ -7541,7 +7910,8 @@
       "guide_youtube_url": "https://youtu.be/rXsxUE7wB3M",
       "guide_uploaded_on": "2026-11-15",
       "guide_visibility": "public",
-      "guide_playlist": "PLcfLQWvNLz24"
+      "guide_playlist": "PLcfLQWvNLz24",
+      "generation": 3
     },
     {
       "name": "How to Use Claude 6 - Usage Limits",
@@ -7555,7 +7925,8 @@
       "guide_youtube_url": "https://youtu.be/ZrqWtgr5ofo",
       "guide_uploaded_on": "2026-11-15",
       "guide_visibility": "public",
-      "guide_playlist": "PLcfLQWvNLz24"
+      "guide_playlist": "PLcfLQWvNLz24",
+      "generation": 3
     },
     {
       "name": "How to Use Claude 7 - Free vs Pro vs Max",
@@ -7569,7 +7940,8 @@
       "guide_youtube_url": "https://youtu.be/gnH3noAyjZI",
       "guide_uploaded_on": "2026-11-15",
       "guide_visibility": "public",
-      "guide_playlist": "PLcfLQWvNLz24"
+      "guide_playlist": "PLcfLQWvNLz24",
+      "generation": 3
     },
     {
       "name": "Fix Claude Code 1 - Usage Limit",
@@ -7583,7 +7955,8 @@
       "guide_youtube_url": "https://youtu.be/8-3t30cGe_o",
       "guide_uploaded_on": "2026-11-15",
       "guide_visibility": "public",
-      "guide_playlist": "PLbFYdjJzzNbs"
+      "guide_playlist": "PLbFYdjJzzNbs",
+      "generation": 3
     },
     {
       "name": "Fix Claude Code 2 - Error 529",
@@ -7597,7 +7970,8 @@
       "guide_playlist": "PLbFYdjJzzNbs",
       "guide_youtube_url": "https://youtu.be/ynlsOGm_mgM",
       "guide_uploaded_on": "2026-11-15",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Fix Claude Code 3 - Sign-In",
@@ -7611,7 +7985,8 @@
       "guide_playlist": "PLbFYdjJzzNbs",
       "guide_youtube_url": "https://youtu.be/1jNBren0cOc",
       "guide_uploaded_on": "2026-11-16",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Fix Claude Code 4 - Command Not Found",
@@ -7625,7 +8000,8 @@
       "guide_playlist": "PLbFYdjJzzNbs",
       "guide_youtube_url": "https://youtu.be/XP-c5g-GuiI",
       "guide_uploaded_on": "2026-11-16",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Fix Claude Code 5 - Windows Git Bash",
@@ -7639,7 +8015,8 @@
       "guide_playlist": "PLbFYdjJzzNbs",
       "guide_youtube_url": "https://youtu.be/XeEOy4LMpN4",
       "guide_uploaded_on": "2026-11-16",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Fix Claude Code 6 - Context Limit",
@@ -7653,7 +8030,8 @@
       "guide_playlist": "PLbFYdjJzzNbs",
       "guide_youtube_url": "https://youtu.be/wZqsQz1H7bc",
       "guide_uploaded_on": "2026-11-16",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Give Claude New Abilities 1 - Obsidian",
@@ -7667,7 +8045,8 @@
       "guide_youtube_url": "https://youtu.be/dp8TeVx04pc",
       "guide_uploaded_on": "2026-11-16",
       "guide_visibility": "public",
-      "guide_playlist": "PLezzBhXnVwJc"
+      "guide_playlist": "PLezzBhXnVwJc",
+      "generation": 3
     },
     {
       "name": "Give Claude New Abilities 2 - Watch Videos",
@@ -7681,7 +8060,8 @@
       "guide_playlist": "PLezzBhXnVwJc",
       "guide_youtube_url": "https://youtu.be/jnauDUEJzrQ",
       "guide_uploaded_on": "2026-11-16",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Give Claude New Abilities 3 - Memory",
@@ -7695,7 +8075,8 @@
       "guide_playlist": "PLezzBhXnVwJc",
       "guide_youtube_url": "https://youtu.be/xI2CY7EjSIc",
       "guide_uploaded_on": "2026-11-16",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "generation": 3
     },
     {
       "name": "Give Claude New Abilities 4 - Graphify",
@@ -7709,7 +8090,8 @@
       "guide_playlist": "PLezzBhXnVwJc",
       "guide_youtube_url": "https://youtu.be/vv8T_xYGNsI",
       "guide_uploaded_on": "2026-11-17",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Give Claude New Abilities 5 - Make Videos",
@@ -7789,7 +8171,8 @@
       "guide_youtube_url": "https://youtu.be/6nBxdR8KDWQ",
       "guide_uploaded_on": "2026-11-17",
       "guide_visibility": "private (Jabran publishes from Studio)",
-      "guide_playlist": "PLOUgOGy8Z9Do"
+      "guide_playlist": "PLOUgOGy8Z9Do",
+      "generation": 3
     },
     {
       "name": "Build AI Agents 2 - Claude Agent SDK",
@@ -7803,7 +8186,8 @@
       "guide_youtube_url": "https://youtu.be/THMuvTL3FO0",
       "guide_uploaded_on": "2026-11-17",
       "guide_visibility": "private (Jabran publishes from Studio)",
-      "guide_playlist": "PLOUgOGy8Z9Do"
+      "guide_playlist": "PLOUgOGy8Z9Do",
+      "generation": 3
     },
     {
       "name": "Build AI Agents 3 - LangGraph",
@@ -7817,7 +8201,8 @@
       "guide_youtube_url": "https://youtu.be/ecqg4zH2iNk",
       "guide_uploaded_on": "2026-11-17",
       "guide_visibility": "private (Jabran publishes from Studio)",
-      "guide_playlist": "PLOUgOGy8Z9Do"
+      "guide_playlist": "PLOUgOGy8Z9Do",
+      "generation": 3
     },
     {
       "name": "Build AI Agents 4 - LangChain vs LangGraph",
@@ -7831,7 +8216,8 @@
       "guide_youtube_url": "https://youtu.be/gpVQIZE_Vr4",
       "guide_uploaded_on": "2026-11-17",
       "guide_visibility": "private (Jabran publishes from Studio)",
-      "guide_playlist": "PLOUgOGy8Z9Do"
+      "guide_playlist": "PLOUgOGy8Z9Do",
+      "generation": 3
     },
     {
       "name": "Build AI Agents 5 - CrewAI",
@@ -7845,7 +8231,8 @@
       "guide_youtube_url": "https://youtu.be/qxLyKumqg40",
       "guide_uploaded_on": "2026-11-18",
       "guide_visibility": "public",
-      "guide_playlist": "PLOUgOGy8Z9Do"
+      "guide_playlist": "PLOUgOGy8Z9Do",
+      "generation": 3
     },
     {
       "name": "Build AI Agents 6 - Which Framework",
@@ -7859,7 +8246,8 @@
       "guide_youtube_url": "https://youtu.be/AqeOcVtw-P8",
       "guide_uploaded_on": "2026-11-18",
       "guide_visibility": "public",
-      "guide_playlist": "PLOUgOGy8Z9Do"
+      "guide_playlist": "PLOUgOGy8Z9Do",
+      "generation": 3
     },
     {
       "name": "Run Open Models 1 - Local LLM",
@@ -7873,7 +8261,8 @@
       "guide_youtube_url": "https://youtu.be/wNex6IjdhzI",
       "guide_uploaded_on": "2026-11-17",
       "guide_visibility": "public",
-      "guide_playlist": "PLHkUmek0E8ZI"
+      "guide_playlist": "PLHkUmek0E8ZI",
+      "generation": 3
     },
     {
       "name": "Run Open Models 2 - 8GB or 16GB",
@@ -7887,7 +8276,8 @@
       "guide_youtube_url": "https://youtu.be/KFtS8D7-yus",
       "guide_uploaded_on": "2026-11-17",
       "guide_visibility": "public",
-      "guide_playlist": "PLHkUmek0E8ZI"
+      "guide_playlist": "PLHkUmek0E8ZI",
+      "generation": 3
     },
     {
       "name": "Run Open Models 3 - DeepSeek vs Claude",
@@ -7901,7 +8291,8 @@
       "guide_playlist": "PLHkUmek0E8ZI",
       "guide_youtube_url": "https://youtu.be/je30jkzWF64",
       "guide_uploaded_on": "2026-11-17",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "generation": 3
     },
     {
       "name": "Run Open Models 4 - Qwen and Kimi",
@@ -7915,7 +8306,8 @@
       "guide_playlist": "PLHkUmek0E8ZI",
       "guide_youtube_url": "https://youtu.be/aGFWPdvZkMg",
       "guide_uploaded_on": "2026-11-18",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Run Open Models 5 - OpenRouter",
@@ -7929,7 +8321,8 @@
       "guide_playlist": "PLHkUmek0E8ZI",
       "guide_youtube_url": "https://youtu.be/0FacZxWOMUE",
       "guide_uploaded_on": "2026-11-18",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "AI Automation with n8n 1 - Install with Docker",
@@ -7943,7 +8336,8 @@
       "guide_youtube_url": "https://youtu.be/9Z_vMvlA4As",
       "guide_uploaded_on": "2026-11-17",
       "guide_visibility": "public",
-      "guide_playlist": "PLM7ezVrv8ijw"
+      "guide_playlist": "PLM7ezVrv8ijw",
+      "generation": 3
     },
     {
       "name": "AI Automation with n8n 2 - First Workflow",
@@ -7957,7 +8351,8 @@
       "guide_youtube_url": "https://youtu.be/XvXytV5e4rY",
       "guide_uploaded_on": "2026-11-17",
       "guide_visibility": "public",
-      "guide_playlist": "PLM7ezVrv8ijw"
+      "guide_playlist": "PLM7ezVrv8ijw",
+      "generation": 3
     },
     {
       "name": "AI Automation with n8n 3 - AI Agent with Claude",
@@ -7971,7 +8366,8 @@
       "guide_youtube_url": "https://youtu.be/4XVp6KZcJP4",
       "guide_uploaded_on": "2026-11-17",
       "guide_visibility": "public",
-      "guide_playlist": "PLM7ezVrv8ijw"
+      "guide_playlist": "PLM7ezVrv8ijw",
+      "generation": 3
     },
     {
       "name": "AI Automation with n8n 4 - MCP Server",
@@ -7985,7 +8381,8 @@
       "guide_youtube_url": "https://youtu.be/MI9wOCcksQw",
       "guide_uploaded_on": "2026-11-17",
       "guide_visibility": "public",
-      "guide_playlist": "PLM7ezVrv8ijw"
+      "guide_playlist": "PLM7ezVrv8ijw",
+      "generation": 3
     },
     {
       "name": "AI Automation with n8n 5 - Claude Code",
@@ -7999,7 +8396,8 @@
       "guide_youtube_url": "https://youtu.be/unMb4nCRcGg",
       "guide_uploaded_on": "2026-11-17",
       "guide_visibility": "public",
-      "guide_playlist": "PLM7ezVrv8ijw"
+      "guide_playlist": "PLM7ezVrv8ijw",
+      "generation": 3
     },
     {
       "name": "Microsoft Copilot 1 - Copilot in Word",
@@ -8093,7 +8491,8 @@
       "guide_youtube_url": "https://youtu.be/KtTJyjaUqTE",
       "guide_uploaded_on": "2026-11-18",
       "guide_visibility": "public",
-      "guide_playlist": "PLaizUhAtJf60"
+      "guide_playlist": "PLaizUhAtJf60",
+      "generation": 3
     },
     {
       "name": "Vibe Coding 2 - Lovable Website From a Prompt",
@@ -8107,7 +8506,8 @@
       "guide_youtube_url": "https://youtu.be/t80Kq2vMhmE",
       "guide_uploaded_on": "2026-11-18",
       "guide_visibility": "public",
-      "guide_playlist": "PLaizUhAtJf60"
+      "guide_playlist": "PLaizUhAtJf60",
+      "generation": 3
     },
     {
       "name": "Vibe Coding 3 - Supabase Logins and Database",
@@ -8121,7 +8521,8 @@
       "guide_youtube_url": "https://youtu.be/iLUUVqGuqgw",
       "guide_uploaded_on": "2026-11-18",
       "guide_visibility": "public",
-      "guide_playlist": "PLaizUhAtJf60"
+      "guide_playlist": "PLaizUhAtJf60",
+      "generation": 3
     },
     {
       "name": "Vibe Coding 4 - Google Stitch Design First",
@@ -8135,7 +8536,8 @@
       "guide_youtube_url": "https://youtu.be/lRKNGeaMqiU",
       "guide_uploaded_on": "2026-11-18",
       "guide_visibility": "public",
-      "guide_playlist": "PLaizUhAtJf60"
+      "guide_playlist": "PLaizUhAtJf60",
+      "generation": 3
     },
     {
       "name": "Vibe Coding 5 - Framer AI Website Builder",
@@ -8149,7 +8551,8 @@
       "guide_youtube_url": "https://youtu.be/kP4JatUoLrk",
       "guide_uploaded_on": "2026-11-18",
       "guide_visibility": "public",
-      "guide_playlist": "PLaizUhAtJf60"
+      "guide_playlist": "PLaizUhAtJf60",
+      "generation": 3
     },
     {
       "name": "Vibe Coding 6 - Lovable vs Claude Code",
@@ -8163,7 +8566,8 @@
       "guide_youtube_url": "https://youtu.be/p9PrU0zUw10",
       "guide_uploaded_on": "2026-11-18",
       "guide_visibility": "public",
-      "guide_playlist": "PLaizUhAtJf60"
+      "guide_playlist": "PLaizUhAtJf60",
+      "generation": 3
     },
     {
       "name": "Vibe Coding 7 - Security and Production Ready",
@@ -8177,7 +8581,8 @@
       "guide_youtube_url": "https://youtu.be/o53oDYtsKXs",
       "guide_uploaded_on": "2026-11-18",
       "guide_visibility": "public",
-      "guide_playlist": "PLaizUhAtJf60"
+      "guide_playlist": "PLaizUhAtJf60",
+      "generation": 3
     },
     {
       "name": "Claude Canva 1 - Connector Setup and First Design",
@@ -8221,7 +8626,8 @@
       "guide_youtube_url": "https://youtu.be/z_DvZ1MGznk",
       "guide_uploaded_on": "2026-11-18",
       "guide_visibility": "public",
-      "guide_playlist": "PLBx4TR7ztgBA"
+      "guide_playlist": "PLBx4TR7ztgBA",
+      "generation": 3
     },
     {
       "name": "Notion AI 2 - Free vs Paid",
@@ -8235,7 +8641,8 @@
       "guide_playlist": "PLBx4TR7ztgBA",
       "guide_youtube_url": "https://youtu.be/sD_vDVf9Nok",
       "guide_uploaded_on": "2026-11-18",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "generation": 3
     },
     {
       "name": "Notion AI 3 - Meeting Notes",
@@ -8249,7 +8656,8 @@
       "guide_playlist": "PLBx4TR7ztgBA",
       "guide_youtube_url": "https://youtu.be/MsNeJN9u72c",
       "guide_uploaded_on": "2026-11-18",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "generation": 3
     },
     {
       "name": "Notion AI 4 - First Custom Agent",
@@ -8307,7 +8715,8 @@
       "guide_youtube_url": "https://youtu.be/yZtyNlVnB4I",
       "guide_uploaded_on": "2026-11-18",
       "guide_visibility": "public",
-      "guide_playlist": "PLNO38g3ifrEI"
+      "guide_playlist": "PLNO38g3ifrEI",
+      "generation": 3
     },
     {
       "name": "Prompt Engineering 2 - Prompting Claude",
