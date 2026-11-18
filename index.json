@@ -8278,7 +8278,7 @@
       "series": "Notion AI",
       "part": 6,
       "brand": "NOTION AI",
-      "guide": "new",
+      "guide": "render check",
       "title": "Notion MCP Server: Use Notion from Claude Code",
       "guide_note": "2026-11-17: approved, 7 parts (guide/notion-ai-plan.md); docs only, nothing signed up for, installed or run, any output labelled \"Example output\"; \"Notion\" spoken as written, no samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/notion-ai-kit, thumbnails guide/creator-thumbnails/notion-ai, writer brief guide/creator-series-kit/WRITER-BRIEF-notionai.md, images guide/notion-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
       "watermark": true,
@@ -8412,6 +8412,86 @@
       "guide": "new",
       "title": "NotebookLM with Claude Code: Google's Official MCP Server (Gemini Notebook)",
       "guide_note": "2026-11-18: approved, 5 parts (guide/notebooklm-plan.md, \"Final parts\"; Google renamed NotebookLM to Gemini Notebook on 2026-07-16, so every title carries both names); level: Mid level; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; the spoken spelling of \"NotebookLM\" is pending his pick from samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/notebooklm-kit, thumbnail guide/creator-thumbnails/notebooklm/05.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-notebooklm.md, images guide/notebooklm-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true
+    },
+    {
+      "name": "How to Use Gemini 1 - Complete Beginner Tutorial",
+      "series": "How to Use Gemini",
+      "part": 1,
+      "brand": "HOW TO USE GEMINI",
+      "guide": "new",
+      "title": "How to Use Gemini: Complete Beginner Tutorial (2026)",
+      "guide_note": "2026-11-18: approved, 8 parts (guide/gemini-app-plan.md section 3, Series A \"How to Use Gemini\", the Gemini app); level: Novice; type: Tutorial; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; \"Gemini\" as written, no pronunciation line; posting: public as each part passes every gate, one at a time (autopost); kit guide/gemini-app-kit, thumbnail guide/creator-thumbnails/gemini-app/01.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-geminiapp.md, images guide/gemini-app-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true
+    },
+    {
+      "name": "How to Use Gemini 2 - Gems to Skills",
+      "series": "How to Use Gemini",
+      "part": 2,
+      "brand": "HOW TO USE GEMINI",
+      "guide": "new",
+      "title": "Gemini Gems Are Going Away: How to Switch to Gemini Skills",
+      "guide_note": "2026-11-18: approved, 8 parts (guide/gemini-app-plan.md section 3, Series A \"How to Use Gemini\", the Gemini app); level: Novice; type: Fix; urgent: personal 18+ accounts only (Gems read-only since 2026-11-17, removed 2026-12-17; work accounts March 2027, school June 2027); docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; \"Gemini\" as written, no pronunciation line; posting: public as each part passes every gate, one at a time (autopost); kit guide/gemini-app-kit, thumbnail guide/creator-thumbnails/gemini-app/02.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-geminiapp.md, images guide/gemini-app-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true
+    },
+    {
+      "name": "How to Use Gemini 3 - Tasks",
+      "series": "How to Use Gemini",
+      "part": 3,
+      "brand": "HOW TO USE GEMINI",
+      "guide": "new",
+      "title": "Gemini Agent Is Now Tasks: Let Gemini Do Jobs for You, Free",
+      "guide_note": "2026-11-18: approved, 8 parts (guide/gemini-app-plan.md section 3, Series A \"How to Use Gemini\", the Gemini app); level: Novice; type: Tutorial; \"Free\" only in the six countries Google names (US, Canada, Australia, India, Japan, South Korea), said in the hook; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; \"Gemini\" as written, no pronunciation line; posting: public as each part passes every gate, one at a time (autopost); kit guide/gemini-app-kit, thumbnail guide/creator-thumbnails/gemini-app/03.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-geminiapp.md, images guide/gemini-app-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true
+    },
+    {
+      "name": "How to Use Gemini 4 - App Download and Setup",
+      "series": "How to Use Gemini",
+      "part": 4,
+      "brand": "HOW TO USE GEMINI",
+      "guide": "new",
+      "title": "Gemini App for Windows, Mac, iPhone and Android: Download and Setup",
+      "guide_note": "2026-11-18: approved, 8 parts (guide/gemini-app-plan.md section 3, Series A \"How to Use Gemini\", the Gemini app); level: Novice; type: Tutorial; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; \"Gemini\" as written, no pronunciation line; posting: public as each part passes every gate, one at a time (autopost); kit guide/gemini-app-kit, thumbnail guide/creator-thumbnails/gemini-app/04.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-geminiapp.md, images guide/gemini-app-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true
+    },
+    {
+      "name": "How to Use Gemini 5 - Gemini 3 vs 4",
+      "series": "How to Use Gemini",
+      "part": 5,
+      "brand": "HOW TO USE GEMINI",
+      "guide": "new",
+      "title": "Gemini 3 vs Gemini 4: Which Model Should You Use in the App?",
+      "guide_note": "2026-11-18: approved, 8 parts (guide/gemini-app-plan.md section 3, Series A \"How to Use Gemini\", the Gemini app); level: Novice; type: Explainer; never says Gemini 3 was retired or shut down; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; \"Gemini\" as written, no pronunciation line; posting: public as each part passes every gate, one at a time (autopost); kit guide/gemini-app-kit, thumbnail guide/creator-thumbnails/gemini-app/05.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-geminiapp.md, images guide/gemini-app-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true
+    },
+    {
+      "name": "How to Use Gemini 6 - Canvas",
+      "series": "How to Use Gemini",
+      "part": 6,
+      "brand": "HOW TO USE GEMINI",
+      "guide": "new",
+      "title": "Gemini Canvas Tutorial: Make Docs, Slides and Apps From a Prompt",
+      "guide_note": "2026-11-18: approved, 8 parts (guide/gemini-app-plan.md section 3, Series A \"How to Use Gemini\", the Gemini app); level: Novice; type: Tutorial; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; \"Gemini\" as written, no pronunciation line; posting: public as each part passes every gate, one at a time (autopost); kit guide/gemini-app-kit, thumbnail guide/creator-thumbnails/gemini-app/06.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-geminiapp.md, images guide/gemini-app-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true
+    },
+    {
+      "name": "How to Use Gemini 7 - Live",
+      "series": "How to Use Gemini",
+      "part": 7,
+      "brand": "HOW TO USE GEMINI",
+      "guide": "new",
+      "title": "Gemini Live: Talk to Gemini With Your Camera and Screen",
+      "guide_note": "2026-11-18: approved, 8 parts (guide/gemini-app-plan.md section 3, Series A \"How to Use Gemini\", the Gemini app); level: Novice; type: Tutorial; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; \"Gemini\" as written, no pronunciation line; posting: public as each part passes every gate, one at a time (autopost); kit guide/gemini-app-kit, thumbnail guide/creator-thumbnails/gemini-app/07.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-geminiapp.md, images guide/gemini-app-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true
+    },
+    {
+      "name": "How to Use Gemini 8 - Deep Research",
+      "series": "How to Use Gemini",
+      "part": 8,
+      "brand": "HOW TO USE GEMINI",
+      "guide": "new",
+      "title": "Gemini Deep Research: Where the Button Went and How to Get a Good Report",
+      "guide_note": "2026-11-18: approved, 8 parts (guide/gemini-app-plan.md section 3, Series A \"How to Use Gemini\", the Gemini app); level: Novice to mid (plan wording; one level per video, so the writer settles it, RULEBOOK section 2); type: Fix; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; \"Gemini\" as written, no pronunciation line; posting: public as each part passes every gate, one at a time (autopost); kit guide/gemini-app-kit, thumbnail guide/creator-thumbnails/gemini-app/08.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-geminiapp.md, images guide/gemini-app-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
       "watermark": true
     }
   ]
