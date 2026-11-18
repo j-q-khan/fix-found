@@ -7788,7 +7788,8 @@
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/6nBxdR8KDWQ",
       "guide_uploaded_on": "2026-11-17",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_playlist": "PLOUgOGy8Z9Do"
     },
     {
       "name": "Build AI Agents 2 - Claude Agent SDK",
@@ -7801,7 +7802,8 @@
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/THMuvTL3FO0",
       "guide_uploaded_on": "2026-11-17",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_playlist": "PLOUgOGy8Z9Do"
     },
     {
       "name": "Build AI Agents 3 - LangGraph",
@@ -7814,7 +7816,8 @@
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/ecqg4zH2iNk",
       "guide_uploaded_on": "2026-11-17",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_playlist": "PLOUgOGy8Z9Do"
     },
     {
       "name": "Build AI Agents 4 - LangChain vs LangGraph",
@@ -7827,27 +7830,36 @@
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/gpVQIZE_Vr4",
       "guide_uploaded_on": "2026-11-17",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_playlist": "PLOUgOGy8Z9Do"
     },
     {
       "name": "Build AI Agents 5 - CrewAI",
       "series": "Build AI Agents",
       "part": 5,
       "brand": "BUILD AI AGENTS",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "CrewAI Tutorial: Build a Team of AI Agents in Python",
       "guide_note": "2026-11-16: approved, 6 parts (\"proceed\"; guide/build-ai-agents-plan.md); optional OpenAI Agents SDK part left out; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (Jabran 2026-11-16: \"Public when ready, no wait\"); pronunciation (L1, C1, R1, S2): LangGraph, LangChain, CrewAI as written, \"SDK\" undotted; kit guide/build-ai-agents-kit, thumbnails guide/creator-thumbnails/build-ai-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-buildaiagents.md",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/qxLyKumqg40",
+      "guide_uploaded_on": "2026-11-18",
+      "guide_visibility": "public",
+      "guide_playlist": "PLOUgOGy8Z9Do"
     },
     {
       "name": "Build AI Agents 6 - Which Framework",
       "series": "Build AI Agents",
       "part": 6,
       "brand": "BUILD AI AGENTS",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Claude Agent SDK vs LangGraph vs CrewAI: Which Should You Use?",
       "guide_note": "2026-11-16: approved, 6 parts (\"proceed\"; guide/build-ai-agents-plan.md); optional OpenAI Agents SDK part left out; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (Jabran 2026-11-16: \"Public when ready, no wait\"); pronunciation (L1, C1, R1, S2): LangGraph, LangChain, CrewAI as written, \"SDK\" undotted; kit guide/build-ai-agents-kit, thumbnails guide/creator-thumbnails/build-ai-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-buildaiagents.md",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/AqeOcVtw-P8",
+      "guide_uploaded_on": "2026-11-18",
+      "guide_visibility": "public",
+      "guide_playlist": "PLOUgOGy8Z9Do"
     },
     {
       "name": "Run Open Models 1 - Local LLM",
