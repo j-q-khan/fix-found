@@ -8686,9 +8686,9 @@
       "series": "Notion AI",
       "part": 6,
       "brand": "NOTION AI",
-      "guide": "render check",
+      "guide": "render approved",
       "title": "Notion MCP Server: Use Notion from Claude Code",
-      "guide_note": "2026-11-17: approved, 7 parts (guide/notion-ai-plan.md); docs only, nothing signed up for, installed or run, any output labelled \"Example output\"; \"Notion\" spoken as written, no samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/notion-ai-kit, thumbnails guide/creator-thumbnails/notion-ai, writer brief guide/creator-series-kit/WRITER-BRIEF-notionai.md, images guide/notion-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "guide_note": "2026-11-17: approved, 7 parts (guide/notion-ai-plan.md); docs only, nothing signed up for, installed or run, any output labelled \"Example output\"; \"Notion\" spoken as written, no samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/notion-ai-kit, thumbnails guide/creator-thumbnails/notion-ai, writer brief guide/creator-series-kit/WRITER-BRIEF-notionai.md, images guide/notion-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board) 2026-11-18: pre-render viewer pass (06b2 heading and T3 caption fixed, re-check PASS) and final MP4 pass PASS (sheets/p06-*.md); autopost approved by Jabran for this series.",
       "watermark": true,
       "guide_playlist": "PLBx4TR7ztgBA"
     },
@@ -8756,9 +8756,9 @@
       "series": "Prompt Engineering",
       "part": 5,
       "brand": "PROMPT ENGINEERING",
-      "guide": "new",
+      "guide": "render approved",
       "title": "System Prompt Explained: Set One Up in Claude and ChatGPT",
-      "guide_note": "2026-11-17: approved, 6 parts (guide/prompt-engineering-plan.md); level: Mid level; docs only, drawn boards and \"Example output\"; posting: public as each part passes every gate, one at a time (autopost); kit guide/prompt-engineering-kit, thumbnail guide/creator-thumbnails/prompt-engineering/05.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-promptengineering.md",
+      "guide_note": "2026-11-17: approved, 6 parts (guide/prompt-engineering-plan.md); level: Mid level; docs only, drawn boards and \"Example output\"; posting: public as each part passes every gate, one at a time (autopost); kit guide/prompt-engineering-kit, thumbnail guide/creator-thumbnails/prompt-engineering/05.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-promptengineering.md; 2026-11-18: critic, pre-render viewer pass (02b tone line and T4 our-advice heading fixed and re-passed), render QA (re-run with TTS_LINT_ALLOW=projects,project) and final MP4 viewer pass all passed (sheets/p05-viewer-pass.md); render approved under his autopost OK",
       "watermark": true,
       "guide_playlist": "PLNO38g3ifrEI"
     },
