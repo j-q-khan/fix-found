@@ -7894,7 +7894,7 @@
       "series": "Run Open Models",
       "part": 3,
       "brand": "RUN OPEN MODELS",
-      "guide": "uploaded private",
+      "guide": "posted",
       "title": "DeepSeek V4 vs Claude: Price, Privacy and Who Should Use Which",
       "guide_note": "2026-11-16: approved, 5 parts (\"OK, drop any low searched videos\"; guide/open-models-plan.md, Final titles); LM Studio vs Ollama and OpenRouter with Claude Code cut for low search; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (\"Deploy at will\"); pronunciation: Qwen, Kimi, DeepSeek, OpenRouter, LM Studio all as written (his picks Q1 K1 D1 O1 L1, 2026-11-16), Ollama, Claude and Codex as written; kit guide/open-models-kit, thumbnails guide/creator-thumbnails/open-models, writer brief guide/creator-series-kit/WRITER-BRIEF-openmodels.md",
       "watermark": true,
@@ -8086,88 +8086,91 @@
       "series": "Vibe Coding",
       "part": 1,
       "brand": "VIBE CODING",
-      "guide": "uploaded private",
+      "guide": "posted",
       "title": "Vibe Coding for Beginners: What It Is and Your First App",
       "guide_note": "2026-11-17: approved, 7 parts (guide/vibe-coding-plan.md); hands-on testing OK only with throwaway accounts and dummy data; posting: public as each part passes every gate, one at a time (autopost); kit guide/vibe-coding-kit, thumbnails guide/creator-thumbnails/vibe-coding, writer brief guide/creator-series-kit/WRITER-BRIEF-vibecoding.md; 2026-11-17: passed all gates (critic, pre-render viewer pass after 3 fixes, final MP4 pass); upload held for Jabran's answer on the series colour (ember coral) and the quota reset; 2026-11-17: Jabran OK'd the ember coral colour and the \"build credits\" line by ear; render approved under the series autopost",
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/KtTJyjaUqTE",
       "guide_uploaded_on": "2026-11-18",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public"
     },
     {
       "name": "Vibe Coding 2 - Lovable Website From a Prompt",
       "series": "Vibe Coding",
       "part": 2,
       "brand": "VIBE CODING",
-      "guide": "uploaded private",
+      "guide": "posted",
       "title": "Lovable Tutorial: Build a Website From One Prompt",
       "guide_note": "2026-11-17: approved, 7 parts (guide/vibe-coding-plan.md); hands-on testing OK only with throwaway accounts and dummy data; posting: public as each part passes every gate, one at a time (autopost); kit guide/vibe-coding-kit, thumbnails guide/creator-thumbnails/vibe-coding, writer brief guide/creator-series-kit/WRITER-BRIEF-vibecoding.md; 2026-11-17: passed all gates (critic, 2 pre-viewer fixes, pre-render viewer pass first time, final MP4 pass); upload held for Jabran's answer on the series colour and the quota reset; 2026-11-17: Jabran OK'd the ember coral colour and the \"build credits\" line by ear; render approved under the series autopost",
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/t80Kq2vMhmE",
       "guide_uploaded_on": "2026-11-18",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public"
     },
     {
       "name": "Vibe Coding 3 - Supabase Logins and Database",
       "series": "Vibe Coding",
       "part": 3,
       "brand": "VIBE CODING",
-      "guide": "uploaded private",
+      "guide": "posted",
       "title": "Supabase With Lovable: Add Logins and a Database",
       "guide_note": "2026-11-17: approved, 7 parts (guide/vibe-coding-plan.md); hands-on testing OK only with throwaway accounts and dummy data; posting: public as each part passes every gate, one at a time (autopost); kit guide/vibe-coding-kit, thumbnails guide/creator-thumbnails/vibe-coding, writer brief guide/creator-series-kit/WRITER-BRIEF-vibecoding.md; 2026-11-17: passed all gates (critic, pre-render viewer pass first time, final MP4 pass; QA re-run with TTS_LINT_ALLOW=row for the approved Row Level Security); render approved under the series autopost",
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/iLUUVqGuqgw",
       "guide_uploaded_on": "2026-11-18",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public"
     },
     {
       "name": "Vibe Coding 4 - Google Stitch Design First",
       "series": "Vibe Coding",
       "part": 4,
       "brand": "VIBE CODING",
-      "guide": "uploaded private",
+      "guide": "posted",
       "title": "Google Stitch Tutorial: Design Your App First, Then Build It",
       "guide_note": "2026-11-17: approved, 7 parts (guide/vibe-coding-plan.md); hands-on testing OK only with throwaway accounts and dummy data; posting: public as each part passes every gate, one at a time (autopost); kit guide/vibe-coding-kit, thumbnails guide/creator-thumbnails/vibe-coding, writer brief guide/creator-series-kit/WRITER-BRIEF-vibecoding.md; 2026-11-17: passed all gates (critic, pre-render viewer pass after 2 board fixes, final MP4 pass); render approved under the series autopost",
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/lRKNGeaMqiU",
       "guide_uploaded_on": "2026-11-18",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public"
     },
     {
       "name": "Vibe Coding 5 - Framer AI Website Builder",
       "series": "Vibe Coding",
       "part": 5,
       "brand": "VIBE CODING",
-      "guide": "uploaded private",
+      "guide": "posted",
       "title": "Framer AI Website Builder: Make a Site You Can Publish",
       "guide_note": "2026-11-17: approved, 7 parts (guide/vibe-coding-plan.md); hands-on testing OK only with throwaway accounts and dummy data; posting: public as each part passes every gate, one at a time (autopost); kit guide/vibe-coding-kit, thumbnails guide/creator-thumbnails/vibe-coding, writer brief guide/creator-series-kit/WRITER-BRIEF-vibecoding.md; 2026-11-17: passed all gates (critic, 3 pre-viewer board fixes, pre-render viewer pass after 1 board fix, final MP4 pass); render approved under the series autopost",
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/kP4JatUoLrk",
       "guide_uploaded_on": "2026-11-18",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public"
     },
     {
       "name": "Vibe Coding 6 - Lovable vs Claude Code",
       "series": "Vibe Coding",
       "part": 6,
       "brand": "VIBE CODING",
-      "guide": "uploaded private",
+      "guide": "posted",
       "title": "Lovable vs Claude Code: Which Should a Non-Coder Use?",
       "guide_note": "2026-11-17: approved, 7 parts (guide/vibe-coding-plan.md); hands-on testing OK only with throwaway accounts and dummy data; posting: public as each part passes every gate, one at a time (autopost); kit guide/vibe-coding-kit, thumbnails guide/creator-thumbnails/vibe-coding, writer brief guide/creator-series-kit/WRITER-BRIEF-vibecoding.md; 2026-11-17: passed all gates (critic, 3 pre-viewer board fixes, pre-render viewer pass first time, final MP4 pass, final-p06.md); render approved under the series autopost",
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/p9PrU0zUw10",
       "guide_uploaded_on": "2026-11-18",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public"
     },
     {
       "name": "Vibe Coding 7 - Security and Production Ready",
       "series": "Vibe Coding",
       "part": 7,
       "brand": "VIBE CODING",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Vibe Coding Security: Make Your Lovable App Production Ready",
       "guide_note": "2026-11-17: approved, 7 parts (guide/vibe-coding-plan.md); hands-on testing OK only with throwaway accounts and dummy data; posting: public as each part passes every gate, one at a time (autopost); kit guide/vibe-coding-kit, thumbnails guide/creator-thumbnails/vibe-coding, writer brief guide/creator-series-kit/WRITER-BRIEF-vibecoding.md; 2026-11-18: passed all gates (critic with small fixes, pre-render viewer pass after 3 fixes and re-check, render QA PASSED, final MP4 pass, final-p07.md); render approved under the series autopost",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/o53oDYtsKXs",
+      "guide_uploaded_on": "2026-11-18",
+      "guide_visibility": "public"
     },
     {
       "name": "Claude Canva 1 - Connector Setup and First Design",
@@ -8204,10 +8207,13 @@
       "series": "Notion AI",
       "part": 1,
       "brand": "NOTION AI",
-      "guide": "render approved",
+      "guide": "uploaded private",
       "title": "Notion AI Tutorial: How to Use the Notion Agent (2026)",
       "guide_note": "2026-11-17: approved, 7 parts (guide/notion-ai-plan.md); docs only, nothing signed up for, installed or run, any output labelled \"Example output\"; \"Notion\" spoken as written, no samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/notion-ai-kit, thumbnails guide/creator-thumbnails/notion-ai, writer brief guide/creator-series-kit/WRITER-BRIEF-notionai.md, images guide/notion-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board) | 2026-11-17: Part 1 passed critic, pre-render viewer pass and final MP4 pass; autopost (his OK 2026-11-17)",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/z_DvZ1MGznk",
+      "guide_uploaded_on": "2026-11-18",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Notion AI 2 - Free vs Paid",
@@ -8274,10 +8280,14 @@
       "series": "Prompt Engineering",
       "part": 1,
       "brand": "PROMPT ENGINEERING",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Prompt Engineering for Beginners: How to Write a Prompt That Works",
       "guide_note": "2026-11-17: approved, 6 parts (guide/prompt-engineering-plan.md); level: Novice; docs only, drawn boards and \"Example output\"; posting: public as each part passes every gate, one at a time (autopost); kit guide/prompt-engineering-kit, thumbnail guide/creator-thumbnails/prompt-engineering/01.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-promptengineering.md; 2026-11-17: critic, pre-render viewer pass, render QA and final MP4 viewer pass all passed (sheets/p01-viewer-pass.md); render approved under his autopost OK",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/yZtyNlVnB4I",
+      "guide_uploaded_on": "2026-11-18",
+      "guide_visibility": "public",
+      "guide_playlist": "PLNO38g3ifrEI"
     },
     {
       "name": "Prompt Engineering 2 - Prompting Claude",
@@ -8287,7 +8297,8 @@
       "guide": "render approved",
       "title": "Prompt Engineering for Claude: What Anthropic's Own Guide Says",
       "guide_note": "2026-11-17: approved, 6 parts (guide/prompt-engineering-plan.md); level: Novice; docs only, drawn boards and \"Example output\"; posting: public as each part passes every gate, one at a time (autopost); kit guide/prompt-engineering-kit, thumbnail guide/creator-thumbnails/prompt-engineering/02.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-promptengineering.md; 2026-11-18: critic, pre-render viewer pass (02c fixed and re-passed), render QA and final MP4 viewer pass all passed (sheets/p02-viewer-pass.md); render approved under his autopost OK",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLNO38g3ifrEI"
     },
     {
       "name": "Prompt Engineering 3 - Prompting ChatGPT",
@@ -8297,7 +8308,8 @@
       "guide": "render approved",
       "title": "Prompt Engineering for ChatGPT: What OpenAI's Own Guide Says",
       "guide_note": "2026-11-17: approved, 6 parts (guide/prompt-engineering-plan.md); level: Novice; docs only, drawn boards and \"Example output\"; posting: public as each part passes every gate, one at a time (autopost); kit guide/prompt-engineering-kit, thumbnail guide/creator-thumbnails/prompt-engineering/03.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-promptengineering.md; 2026-11-18: critic, pre-render viewer pass (04d pill widened and re-passed), render QA and final MP4 viewer pass all passed (sheets/p03-viewer-pass.md); render approved under his autopost OK",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLNO38g3ifrEI"
     },
     {
       "name": "Prompt Engineering 4 - Few-Shot Examples and XML Tags",
@@ -8307,7 +8319,8 @@
       "guide": "new",
       "title": "Prompt Engineering Tutorial: Few-Shot Examples and XML Tags, Before and After",
       "guide_note": "2026-11-17: approved, 6 parts (guide/prompt-engineering-plan.md); level: Mid level; docs only, drawn boards and \"Example output\"; posting: public as each part passes every gate, one at a time (autopost); kit guide/prompt-engineering-kit, thumbnail guide/creator-thumbnails/prompt-engineering/04.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-promptengineering.md",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLNO38g3ifrEI"
     },
     {
       "name": "Prompt Engineering 5 - System Prompt Explained",
@@ -8317,7 +8330,8 @@
       "guide": "new",
       "title": "System Prompt Explained: Set One Up in Claude and ChatGPT",
       "guide_note": "2026-11-17: approved, 6 parts (guide/prompt-engineering-plan.md); level: Mid level; docs only, drawn boards and \"Example output\"; posting: public as each part passes every gate, one at a time (autopost); kit guide/prompt-engineering-kit, thumbnail guide/creator-thumbnails/prompt-engineering/05.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-promptengineering.md",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLNO38g3ifrEI"
     },
     {
       "name": "Prompt Engineering 6 - Context vs Prompt Engineering",
@@ -8327,7 +8341,8 @@
       "guide": "new",
       "title": "Context Engineering vs Prompt Engineering: What Changed and Why",
       "guide_note": "2026-11-17: approved, 6 parts (guide/prompt-engineering-plan.md); level: Mid level; docs only, drawn boards and \"Example output\"; posting: public as each part passes every gate, one at a time (autopost); kit guide/prompt-engineering-kit, thumbnail guide/creator-thumbnails/prompt-engineering/06.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-promptengineering.md",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLNO38g3ifrEI"
     }
   ]
 }
