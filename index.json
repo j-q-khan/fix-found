@@ -8053,9 +8053,9 @@
       "series": "Microsoft Copilot",
       "part": 8,
       "brand": "MICROSOFT COPILOT",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Microsoft Copilot vs ChatGPT vs Claude for Work: Which Should You Use?",
-      "guide_note": "2026-11-17: approved, 8 parts (guide/microsoft-copilot-plan.md); Excel and Outlook parts kept by Jabran; docs only, no testing; names as written, no samples; posting: public as each part passes every gate, one at a time; kit guide/microsoft-copilot-kit, thumbnails guide/creator-thumbnails/microsoft-copilot, writer brief guide/creator-series-kit/WRITER-BRIEF-microsoftcopilot.md",
+      "guide_note": "2026-11-17: approved, 8 parts (guide/microsoft-copilot-plan.md); Excel and Outlook parts kept by Jabran; docs only, no testing; names as written, no samples; posting: public as each part passes every gate, one at a time; kit guide/microsoft-copilot-kit, thumbnails guide/creator-thumbnails/microsoft-copilot, writer brief guide/creator-series-kit/WRITER-BRIEF-microsoftcopilot.md; 2026-11-17: passed all gates (critic, pre-render viewer pass after the model-drawing fix, final MP4 pass); render approved under the series autopost (\"Auto publish\")",
       "watermark": true
     },
     {
@@ -8113,9 +8113,9 @@
       "series": "Vibe Coding",
       "part": 6,
       "brand": "VIBE CODING",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Lovable vs Claude Code: Which Should a Non-Coder Use?",
-      "guide_note": "2026-11-17: approved, 7 parts (guide/vibe-coding-plan.md); hands-on testing OK only with throwaway accounts and dummy data; posting: public as each part passes every gate, one at a time (autopost); kit guide/vibe-coding-kit, thumbnails guide/creator-thumbnails/vibe-coding, writer brief guide/creator-series-kit/WRITER-BRIEF-vibecoding.md",
+      "guide_note": "2026-11-17: approved, 7 parts (guide/vibe-coding-plan.md); hands-on testing OK only with throwaway accounts and dummy data; posting: public as each part passes every gate, one at a time (autopost); kit guide/vibe-coding-kit, thumbnails guide/creator-thumbnails/vibe-coding, writer brief guide/creator-series-kit/WRITER-BRIEF-vibecoding.md; 2026-11-17: passed all gates (critic, 3 pre-viewer board fixes, pre-render viewer pass first time, final MP4 pass, final-p06.md); render approved under the series autopost",
       "watermark": true
     },
     {
