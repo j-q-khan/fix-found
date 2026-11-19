@@ -8589,7 +8589,7 @@
       "series": "Claude Canva",
       "part": 1,
       "brand": "CLAUDE CANVA",
-      "guide": "render check",
+      "guide": "render approved",
       "title": "Claude Canva Connector: Set It Up and Make Your First Design",
       "guide_note": "2026-11-17: approved, 3 parts (guide/canva-ai-plan.md, top table; slug and paths canva-ai); docs only, drawn boards and \"Example output\" (hands-on testing not answered); posting not answered, so nothing uploads without Jabran's OK; Canva and Cowork spoken as written; kit guide/canva-ai-kit, thumbnails guide/creator-thumbnails/canva-ai, images guide/canva-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
       "watermark": true
@@ -8599,7 +8599,7 @@
       "series": "Claude Canva",
       "part": 2,
       "brand": "CLAUDE CANVA",
-      "guide": "render check",
+      "guide": "render approved",
       "title": "Claude Canva Presentation and Instagram Carousel: From One Prompt to Canva",
       "guide_note": "2026-11-17: approved, 3 parts (guide/canva-ai-plan.md, top table; slug and paths canva-ai); docs only, drawn boards and \"Example output\" (hands-on testing not answered); posting not answered, so nothing uploads without Jabran's OK; Canva and Cowork spoken as written; kit guide/canva-ai-kit, thumbnails guide/creator-thumbnails/canva-ai, images guide/canva-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
       "watermark": true
@@ -8609,7 +8609,7 @@
       "series": "Claude Canva",
       "part": 3,
       "brand": "CLAUDE CANVA",
-      "guide": "render check",
+      "guide": "render approved",
       "title": "Claude Canva MCP: Use Canva From Claude Code and Cowork",
       "guide_note": "2026-11-17: approved, 3 parts (guide/canva-ai-plan.md, top table; slug and paths canva-ai); docs only, drawn boards and \"Example output\" (hands-on testing not answered); posting not answered, so nothing uploads without Jabran's OK; Canva and Cowork spoken as written; kit guide/canva-ai-kit, thumbnails guide/creator-thumbnails/canva-ai, images guide/canva-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
       "watermark": true
@@ -8697,9 +8697,9 @@
       "series": "Notion AI",
       "part": 7,
       "brand": "NOTION AI",
-      "guide": "render check",
+      "guide": "render approved",
       "title": "Notion AI vs ChatGPT vs Claude: Which One for Your Notes?",
-      "guide_note": "2026-11-17: approved, 7 parts (guide/notion-ai-plan.md); docs only, nothing signed up for, installed or run, any output labelled \"Example output\"; \"Notion\" spoken as written, no samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/notion-ai-kit, thumbnails guide/creator-thumbnails/notion-ai, writer brief guide/creator-series-kit/WRITER-BRIEF-notionai.md, images guide/notion-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "guide_note": "2026-11-17: approved, 7 parts (guide/notion-ai-plan.md); docs only, nothing signed up for, installed or run, any output labelled \"Example output\"; \"Notion\" spoken as written, no samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/notion-ai-kit, thumbnails guide/creator-thumbnails/notion-ai, writer brief guide/creator-series-kit/WRITER-BRIEF-notionai.md, images guide/notion-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board) 2026-11-18: pre-render viewer pass (04d recap and 04b opt-out card fixed, re-check PASS) and final MP4 pass PASS (sheets/p07-*.md); autopost approved by Jabran for this series.",
       "watermark": true,
       "guide_playlist": "PLBx4TR7ztgBA"
     },
@@ -8778,7 +8778,7 @@
       "series": "NotebookLM",
       "part": 1,
       "brand": "NOTEBOOKLM",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Gemini Notebook Tutorial (NotebookLM): How to Use It, Step by Step",
       "guide_note": "2026-11-18: approved, 5 parts (guide/notebooklm-plan.md, \"Final parts\"; Google renamed NotebookLM to Gemini Notebook on 2026-07-16, so every title carries both names); level: Novice; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; the spoken spelling of \"NotebookLM\" is pending his pick from samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/notebooklm-kit, thumbnail guide/creator-thumbnails/notebooklm/01.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-notebooklm.md, images guide/notebooklm-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
       "watermark": true
@@ -8828,9 +8828,9 @@
       "series": "How to Use Gemini",
       "part": 1,
       "brand": "HOW TO USE GEMINI",
-      "guide": "new",
+      "guide": "render check",
       "title": "How to Use Gemini: Complete Beginner Tutorial (2026)",
-      "guide_note": "2026-11-18: approved, 8 parts (guide/gemini-app-plan.md section 3, Series A \"How to Use Gemini\", the Gemini app); level: Novice; type: Tutorial; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; \"Gemini\" as written, no pronunciation line; posting: public as each part passes every gate, one at a time (autopost); kit guide/gemini-app-kit, thumbnail guide/creator-thumbnails/gemini-app/01.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-geminiapp.md, images guide/gemini-app-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "guide_note": "2026-11-18: approved, 8 parts (guide/gemini-app-plan.md section 3, Series A \"How to Use Gemini\", the Gemini app); level: Novice; type: Tutorial; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; \"Gemini\" as written, no pronunciation line; posting: public as each part passes every gate, one at a time (autopost); kit guide/gemini-app-kit, thumbnail guide/creator-thumbnails/gemini-app/01.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-geminiapp.md, images guide/gemini-app-images/CREDITS.md (no licensed screenshots: every screen is a drawn board) 2026-11-18: pre-render viewer pass (5 fixes, re-check PASS) and final MP4 pass PASS (sheets/p01-viewer-pass.md); autopost approved by Jabran for this series. 2026-11-18: approval withdrawn before upload for the auto-model-selection fix (Jabran chose fix first); needs re-render and passes again. 2026-11-18: re-rendered with the auto-model-selection fix; re-check 2 PASS and final MP4 pass 2 PASS; autopost approved by Jabran for this series. 2026-11-18 ~20:00: upload paused; Google's models page changed this evening (Flash-Lite, Gemini Pro, Argon no longer listed; Gemini 4 Neon added; auto-selection and Show thinking steps sections removed). Part 1 names Flash-Lite and the Usage limits path; waiting for Jabran's decision.",
       "watermark": true
     },
     {
@@ -8838,9 +8838,9 @@
       "series": "How to Use Gemini",
       "part": 2,
       "brand": "HOW TO USE GEMINI",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Gemini Gems Are Going Away: How to Switch to Gemini Skills",
-      "guide_note": "2026-11-18: approved, 8 parts (guide/gemini-app-plan.md section 3, Series A \"How to Use Gemini\", the Gemini app); level: Novice; type: Fix; urgent: personal 18+ accounts only (Gems read-only since 2026-11-17, removed 2026-12-17; work accounts March 2027, school June 2027); docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; \"Gemini\" as written, no pronunciation line; posting: public as each part passes every gate, one at a time (autopost); kit guide/gemini-app-kit, thumbnail guide/creator-thumbnails/gemini-app/02.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-geminiapp.md, images guide/gemini-app-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "guide_note": "2026-11-18: approved, 8 parts (guide/gemini-app-plan.md section 3, Series A \"How to Use Gemini\", the Gemini app); level: Novice; type: Fix; urgent: personal 18+ accounts only (Gems read-only since 2026-11-17, removed 2026-12-17; work accounts March 2027, school June 2027); docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; \"Gemini\" as written, no pronunciation line; posting: public as each part passes every gate, one at a time (autopost); kit guide/gemini-app-kit, thumbnail guide/creator-thumbnails/gemini-app/02.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-geminiapp.md, images guide/gemini-app-images/CREDITS.md (no licensed screenshots: every screen is a drawn board) 2026-11-18: pre-render viewer pass (3 fixes, re-check PASS) and final MP4 pass PASS (sheets/p02-viewer-pass.md); autopost approved by Jabran for this series.",
       "watermark": true
     },
     {
@@ -8848,9 +8848,9 @@
       "series": "How to Use Gemini",
       "part": 3,
       "brand": "HOW TO USE GEMINI",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Gemini Agent Is Now Tasks: Let Gemini Do Jobs for You, Free",
-      "guide_note": "2026-11-18: approved, 8 parts (guide/gemini-app-plan.md section 3, Series A \"How to Use Gemini\", the Gemini app); level: Novice; type: Tutorial; \"Free\" only in the six countries Google names (US, Canada, Australia, India, Japan, South Korea), said in the hook; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; \"Gemini\" as written, no pronunciation line; posting: public as each part passes every gate, one at a time (autopost); kit guide/gemini-app-kit, thumbnail guide/creator-thumbnails/gemini-app/03.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-geminiapp.md, images guide/gemini-app-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "guide_note": "2026-11-18: approved, 8 parts (guide/gemini-app-plan.md section 3, Series A \"How to Use Gemini\", the Gemini app); level: Novice; type: Tutorial; \"Free\" only in the six countries Google names (US, Canada, Australia, India, Japan, South Korea), said in the hook; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; \"Gemini\" as written, no pronunciation line; posting: public as each part passes every gate, one at a time (autopost); kit guide/gemini-app-kit, thumbnail guide/creator-thumbnails/gemini-app/03.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-geminiapp.md, images guide/gemini-app-images/CREDITS.md (no licensed screenshots: every screen is a drawn board) 2026-11-18: pre-render viewer pass (4 fixes, re-check PASS; roadmap's last word at 20.33 s accepted by the lead) and final MP4 pass PASS (sheets/p03-viewer-pass.md); autopost approved by Jabran for this series.",
       "watermark": true
     },
     {
@@ -8858,9 +8858,9 @@
       "series": "How to Use Gemini",
       "part": 4,
       "brand": "HOW TO USE GEMINI",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Gemini App for Windows, Mac, iPhone and Android: Download and Setup",
-      "guide_note": "2026-11-18: approved, 8 parts (guide/gemini-app-plan.md section 3, Series A \"How to Use Gemini\", the Gemini app); level: Novice; type: Tutorial; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; \"Gemini\" as written, no pronunciation line; posting: public as each part passes every gate, one at a time (autopost); kit guide/gemini-app-kit, thumbnail guide/creator-thumbnails/gemini-app/04.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-geminiapp.md, images guide/gemini-app-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "guide_note": "2026-11-18: approved, 8 parts (guide/gemini-app-plan.md section 3, Series A \"How to Use Gemini\", the Gemini app); level: Novice; type: Tutorial; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; \"Gemini\" as written, no pronunciation line; posting: public as each part passes every gate, one at a time (autopost); kit guide/gemini-app-kit, thumbnail guide/creator-thumbnails/gemini-app/04.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-geminiapp.md, images guide/gemini-app-images/CREDITS.md (no licensed screenshots: every screen is a drawn board) 2026-11-18: pre-render viewer pass (2 fixes, re-check PASS) and final MP4 pass PASS (sheets/p04-viewer-pass.md); autopost approved by Jabran for this series.",
       "watermark": true
     },
     {
@@ -8901,6 +8901,56 @@
       "guide": "new",
       "title": "Gemini Deep Research: Where the Button Went and How to Get a Good Report",
       "guide_note": "2026-11-18: approved, 8 parts (guide/gemini-app-plan.md section 3, Series A \"How to Use Gemini\", the Gemini app); level: Novice to mid (plan wording; one level per video, so the writer settles it, RULEBOOK section 2); type: Fix; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; \"Gemini\" as written, no pronunciation line; posting: public as each part passes every gate, one at a time (autopost); kit guide/gemini-app-kit, thumbnail guide/creator-thumbnails/gemini-app/08.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-geminiapp.md, images guide/gemini-app-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true
+    },
+    {
+      "name": "ChatGPT Agent 1 - Work Explained",
+      "series": "ChatGPT Agent",
+      "part": 1,
+      "brand": "CHATGPT AGENT",
+      "guide": "new",
+      "title": "ChatGPT Work Explained: What Work Mode Does That Chat Can't",
+      "guide_note": "2026-11-19: approved, 5 parts (guide/chatgpt-agent-plan.md; Atlas and Agent Builder parts cut); docs only, nothing signed up for, installed or run, any output labelled \"Example output\"; \"Chat G P T\" undotted and \"Cowork\" as written, no samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/chatgpt-agent-kit, thumbnails guide/creator-thumbnails/chatgpt-agent, writer brief guide/creator-series-kit/WRITER-BRIEF-chatgptagent.md, images guide/chatgpt-agent-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true
+    },
+    {
+      "name": "ChatGPT Agent 2 - Agent Mode Is Gone",
+      "series": "ChatGPT Agent",
+      "part": 2,
+      "brand": "CHATGPT AGENT",
+      "guide": "new",
+      "title": "ChatGPT Agent Mode Is Gone: Where It Went and What to Use Now",
+      "guide_note": "2026-11-19: approved, 5 parts (guide/chatgpt-agent-plan.md; Atlas and Agent Builder parts cut); docs only, nothing signed up for, installed or run, any output labelled \"Example output\"; \"Chat G P T\" undotted and \"Cowork\" as written, no samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/chatgpt-agent-kit, thumbnails guide/creator-thumbnails/chatgpt-agent, writer brief guide/creator-series-kit/WRITER-BRIEF-chatgptagent.md, images guide/chatgpt-agent-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true
+    },
+    {
+      "name": "ChatGPT Agent 3 - Work Tutorial",
+      "series": "ChatGPT Agent",
+      "part": 3,
+      "brand": "CHATGPT AGENT",
+      "guide": "new",
+      "title": "ChatGPT Work Tutorial: Your First Task, Step by Step",
+      "guide_note": "2026-11-19: approved, 5 parts (guide/chatgpt-agent-plan.md; Atlas and Agent Builder parts cut); docs only, nothing signed up for, installed or run, any output labelled \"Example output\"; \"Chat G P T\" undotted and \"Cowork\" as written, no samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/chatgpt-agent-kit, thumbnails guide/creator-thumbnails/chatgpt-agent, writer brief guide/creator-series-kit/WRITER-BRIEF-chatgptagent.md, images guide/chatgpt-agent-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true
+    },
+    {
+      "name": "ChatGPT Agent 4 - Work Safety",
+      "series": "ChatGPT Agent",
+      "part": 4,
+      "brand": "CHATGPT AGENT",
+      "guide": "new",
+      "title": "ChatGPT Work Safety: Logins, Permissions and Take Over",
+      "guide_note": "2026-11-19: approved, 5 parts (guide/chatgpt-agent-plan.md; Atlas and Agent Builder parts cut); docs only, nothing signed up for, installed or run, any output labelled \"Example output\"; \"Chat G P T\" undotted and \"Cowork\" as written, no samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/chatgpt-agent-kit, thumbnails guide/creator-thumbnails/chatgpt-agent, writer brief guide/creator-series-kit/WRITER-BRIEF-chatgptagent.md, images guide/chatgpt-agent-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true
+    },
+    {
+      "name": "ChatGPT Agent 5 - Work vs Cowork vs Comet",
+      "series": "ChatGPT Agent",
+      "part": 5,
+      "brand": "CHATGPT AGENT",
+      "guide": "new",
+      "title": "ChatGPT Work vs Claude Cowork vs Perplexity Comet: Which One?",
+      "guide_note": "2026-11-19: approved, 5 parts (guide/chatgpt-agent-plan.md; Atlas and Agent Builder parts cut); docs only, nothing signed up for, installed or run, any output labelled \"Example output\"; \"Chat G P T\" undotted and \"Cowork\" as written, no samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/chatgpt-agent-kit, thumbnails guide/creator-thumbnails/chatgpt-agent, writer brief guide/creator-series-kit/WRITER-BRIEF-chatgptagent.md, images guide/chatgpt-agent-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
       "watermark": true
     }
   ]
