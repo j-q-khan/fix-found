@@ -9052,6 +9052,72 @@
       "title": "AI Video Editing in CapCut: CapCut AI Captions, Auto Cut and AI Clipper",
       "guide_note": "2026-11-19: approved, 2 parts (guide/ai-video-editing-plan.md, the APPROVED table at the top; slug and paths ai-video-editing); docs only, nothing signed up for, installed or run, every screen a drawn board and any output labelled \"Example output\"; posting: public as each part passes every gate, one at a time (autopost); pronunciation TBD (CapCut, Premiere, DaVinci Resolve, Descript, OpusClip, Riverside proposed as written, no samples yet; Premiere the one that could be misheard); kit guide/ai-video-editing-kit, thumbnails guide/creator-thumbnails/ai-video-editing, writer brief guide/creator-series-kit/WRITER-BRIEF-aivideoediting.md, images: no licensed screenshots (every screen is a drawn board)",
       "watermark": true
+    },
+    {
+      "name": "Figma AI 1 - AI Tutorial for Beginners",
+      "series": "Figma AI",
+      "part": 1,
+      "brand": "FIGMA AI",
+      "guide": "new",
+      "title": "Figma AI Tutorial for Beginners: Every AI Tool in Figma, Explained",
+      "guide_note": "2026-11-19: approved, 6 parts (guide/figma-ai-plan.md, shape B; Jabran: \"1. B 2. none 3. Auto Post\"); docs only, nothing signed in to, installed, generated or paid for, any output labelled \"Example output\"; \"Figma\" read as written (F1, 2026-11-14), Make and Dev Mode as written, M.C.P. dotted, no samples, no pronunciation aside; posting: public as each part passes every gate, one at a time (autopost); kit guide/figma-ai-kit, thumbnail guide/creator-thumbnails/figma-ai/01.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-figmaai.md, images guide/figma-ai-images/CREDITS.md (no licensed Figma images: every screen is a drawn board, labelled as drawn)",
+      "watermark": true,
+      "generation": 3
+    },
+    {
+      "name": "Figma AI 2 - Figma Make Tutorial",
+      "series": "Figma AI",
+      "part": 2,
+      "brand": "FIGMA AI",
+      "guide": "new",
+      "title": "Figma Make Tutorial: Turn a Prompt into a Working Prototype",
+      "guide_note": "2026-11-19: approved, 6 parts (guide/figma-ai-plan.md, shape B; Jabran: \"1. B 2. none 3. Auto Post\"); docs only, nothing signed in to, installed, generated or paid for, any output labelled \"Example output\"; \"Figma\" read as written (F1, 2026-11-14), Make and Dev Mode as written, M.C.P. dotted, no samples, no pronunciation aside; posting: public as each part passes every gate, one at a time (autopost); kit guide/figma-ai-kit, thumbnail guide/creator-thumbnails/figma-ai/02.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-figmaai.md, images guide/figma-ai-images/CREDITS.md (no licensed Figma images: every screen is a drawn board, labelled as drawn)",
+      "watermark": true,
+      "generation": 3
+    },
+    {
+      "name": "Figma AI 3 - Credits and Pricing",
+      "series": "Figma AI",
+      "part": 3,
+      "brand": "FIGMA AI",
+      "guide": "new",
+      "title": "Figma AI Credits and Pricing Explained: What Each Task Costs",
+      "guide_note": "2026-11-19: approved, 6 parts (guide/figma-ai-plan.md, shape B; Jabran: \"1. B 2. none 3. Auto Post\"); docs only, nothing signed in to, installed, generated or paid for, any output labelled \"Example output\"; \"Figma\" read as written (F1, 2026-11-14), Make and Dev Mode as written, M.C.P. dotted, no samples, no pronunciation aside; posting: public as each part passes every gate, one at a time (autopost); kit guide/figma-ai-kit, thumbnail guide/creator-thumbnails/figma-ai/03.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-figmaai.md, images guide/figma-ai-images/CREDITS.md (no licensed Figma images: every screen is a drawn board, labelled as drawn) | weak alone (credits 38 + pricing 34, under \"figma ai\" 197): kept by Jabran's pick B",
+      "watermark": true,
+      "generation": 3
+    },
+    {
+      "name": "Figma AI 4 - AI Agent and Design Systems",
+      "series": "Figma AI",
+      "part": 4,
+      "brand": "FIGMA AI",
+      "guide": "new",
+      "title": "Figma AI Agent Tutorial: Edit Designs with Your Design System",
+      "guide_note": "2026-11-19: approved, 6 parts (guide/figma-ai-plan.md, shape B; Jabran: \"1. B 2. none 3. Auto Post\"); docs only, nothing signed in to, installed, generated or paid for, any output labelled \"Example output\"; \"Figma\" read as written (F1, 2026-11-14), Make and Dev Mode as written, M.C.P. dotted, no samples, no pronunciation aside; posting: public as each part passes every gate, one at a time (autopost); kit guide/figma-ai-kit, thumbnail guide/creator-thumbnails/figma-ai/04.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-figmaai.md, images guide/figma-ai-images/CREDITS.md (no licensed Figma images: every screen is a drawn board, labelled as drawn) | weak alone (agent 56 + design system 56): agent beta status and Starter access conflict (facts B3) re-checked on the day",
+      "watermark": true,
+      "generation": 3
+    },
+    {
+      "name": "Figma AI 5 - Figma to Code",
+      "series": "Figma AI",
+      "part": 5,
+      "brand": "FIGMA AI",
+      "guide": "new",
+      "title": "Figma to Code with AI: Make, Dev Mode or MCP, Which Route?",
+      "guide_note": "2026-11-19: approved, 6 parts (guide/figma-ai-plan.md, shape B; Jabran: \"1. B 2. none 3. Auto Post\"); docs only, nothing signed in to, installed, generated or paid for, any output labelled \"Example output\"; \"Figma\" read as written (F1, 2026-11-14), Make and Dev Mode as written, M.C.P. dotted, no samples, no pronunciation aside; posting: public as each part passes every gate, one at a time (autopost); kit guide/figma-ai-kit, thumbnail guide/creator-thumbnails/figma-ai/05.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-figmaai.md, images guide/figma-ai-images/CREDITS.md (no licensed Figma images: every screen is a drawn board, labelled as drawn) | comparison part: disclosure line; must not remake MCP Servers Part 5 (links it)",
+      "watermark": true,
+      "generation": 3
+    },
+    {
+      "name": "Figma AI 6 - MCP Write to Canvas",
+      "series": "Figma AI",
+      "part": 6,
+      "brand": "FIGMA AI",
+      "guide": "new",
+      "title": "Figma MCP Write to Canvas: Send Code Back into Figma with Claude Code",
+      "guide_note": "2026-11-19: approved, 6 parts (guide/figma-ai-plan.md, shape B; Jabran: \"1. B 2. none 3. Auto Post\"); docs only, nothing signed in to, installed, generated or paid for, any output labelled \"Example output\"; \"Figma\" read as written (F1, 2026-11-14), Make and Dev Mode as written, M.C.P. dotted, no samples, no pronunciation aside; posting: public as each part passes every gate, one at a time (autopost); kit guide/figma-ai-kit, thumbnail guide/creator-thumbnails/figma-ai/06.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-figmaai.md, images guide/figma-ai-images/CREDITS.md (no licensed Figma images: every screen is a drawn board, labelled as drawn) | only code -> Figma (generate_figma_design, use_figma); setup in one line + link to MCP Servers Part 5",
+      "watermark": true,
+      "generation": 3
     }
   ]
 }
