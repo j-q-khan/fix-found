@@ -8903,11 +8903,15 @@
       "series": "NotebookLM",
       "part": 3,
       "brand": "NOTEBOOKLM",
-      "guide": "new",
+      "guide": "posted",
       "title": "NotebookLM vs Gemini: What Changed When It Became Gemini Notebook?",
-      "guide_note": "2026-11-18: approved, 5 parts (guide/notebooklm-plan.md, \"Final parts\"; Google renamed NotebookLM to Gemini Notebook on 2026-07-16, so every title carries both names); level: Novice; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; the spoken spelling of \"NotebookLM\" is pending his pick from samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/notebooklm-kit, thumbnail guide/creator-thumbnails/notebooklm/03.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-notebooklm.md, images guide/notebooklm-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "guide_note": "All gates passed 2026-11-20 (critic, build, viewer pass 2 rounds, render QA, final MP4 pass); autopost public per Jabran 2026-11-18.",
       "watermark": true,
-      "guide_playlist": "PLac_H0x0gFjM"
+      "guide_playlist": "PLac_H0x0gFjM",
+      "generation": 3,
+      "guide_youtube_url": "https://youtu.be/hjgDIpZHWjM",
+      "guide_uploaded_on": "2026-11-21",
+      "guide_visibility": "public"
     },
     {
       "name": "NotebookLM 4 - vs ChatGPT vs Claude Projects",
@@ -8918,7 +8922,8 @@
       "title": "NotebookLM vs ChatGPT vs Claude Projects: Which One for Your Documents? (Gemini Notebook)",
       "guide_note": "2026-11-18: approved, 5 parts (guide/notebooklm-plan.md, \"Final parts\"; Google renamed NotebookLM to Gemini Notebook on 2026-07-16, so every title carries both names); level: Novice; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; the spoken spelling of \"NotebookLM\" is pending his pick from samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/notebooklm-kit, thumbnail guide/creator-thumbnails/notebooklm/04.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-notebooklm.md, images guide/notebooklm-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
       "watermark": true,
-      "guide_playlist": "PLac_H0x0gFjM"
+      "guide_playlist": "PLac_H0x0gFjM",
+      "generation": 3
     },
     {
       "name": "NotebookLM 5 - Claude Code and the MCP Server",
@@ -8981,11 +8986,15 @@
       "series": "How to Use Gemini",
       "part": 4,
       "brand": "HOW TO USE GEMINI",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Gemini App for Windows, Mac, iPhone and Android: Download and Setup",
       "guide_note": "2026-11-18: approved, 8 parts (guide/gemini-app-plan.md section 3, Series A \"How to Use Gemini\", the Gemini app); level: Novice; type: Tutorial; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; \"Gemini\" as written, no pronunciation line; posting: public as each part passes every gate, one at a time (autopost); kit guide/gemini-app-kit, thumbnail guide/creator-thumbnails/gemini-app/04.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-geminiapp.md, images guide/gemini-app-images/CREDITS.md (no licensed screenshots: every screen is a drawn board) 2026-11-18: pre-render viewer pass (2 fixes, re-check PASS) and final MP4 pass PASS (sheets/p04-viewer-pass.md); autopost approved by Jabran for this series.",
       "watermark": true,
-      "guide_playlist": "PLbb-sA1dxQgk"
+      "guide_playlist": "PLbb-sA1dxQgk",
+      "guide_youtube_url": "https://youtu.be/KgLyx7hXrrs",
+      "guide_uploaded_on": "2026-11-20",
+      "generation": 3,
+      "guide_visibility": "public"
     },
     {
       "name": "How to Use Gemini 5 - Gemini 3 vs 4",
@@ -8996,7 +9005,8 @@
       "title": "Gemini 3 vs Gemini 4: Which Model Should You Use in the App?",
       "guide_note": "2026-11-18: approved, 8 parts (guide/gemini-app-plan.md section 3, Series A \"How to Use Gemini\", the Gemini app); level: Novice; type: Explainer; never says Gemini 3 was retired or shut down; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; \"Gemini\" as written, no pronunciation line; posting: public as each part passes every gate, one at a time (autopost); kit guide/gemini-app-kit, thumbnail guide/creator-thumbnails/gemini-app/05.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-geminiapp.md, images guide/gemini-app-images/CREDITS.md (no licensed screenshots: every screen is a drawn board) 2026-11-19: rewritten for Google's models-page change; critic and rewrite viewer pass PASS (chips fix, re-check PASS); final MP4 pass PASS; autopost approved by Jabran for this series.",
       "watermark": true,
-      "guide_playlist": "PLbb-sA1dxQgk"
+      "guide_playlist": "PLbb-sA1dxQgk",
+      "generation": 3
     },
     {
       "name": "How to Use Gemini 6 - Canvas",
@@ -9007,7 +9017,8 @@
       "title": "Gemini Canvas Tutorial: Make Docs, Slides and Apps From a Prompt",
       "guide_note": "2026-11-18: approved, 8 parts (guide/gemini-app-plan.md section 3, Series A \"How to Use Gemini\", the Gemini app); level: Novice; type: Tutorial; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; \"Gemini\" as written, no pronunciation line; posting: public as each part passes every gate, one at a time (autopost); kit guide/gemini-app-kit, thumbnail guide/creator-thumbnails/gemini-app/06.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-geminiapp.md, images guide/gemini-app-images/CREDITS.md (no licensed screenshots: every screen is a drawn board) 2026-11-19: pre-render viewer pass (2 TikTok fixes, re-check PASS) and final MP4 pass PASS (sheets/p06-viewer-pass.md); autopost approved by Jabran for this series; uploads after Part 5.",
       "watermark": true,
-      "guide_playlist": "PLbb-sA1dxQgk"
+      "guide_playlist": "PLbb-sA1dxQgk",
+      "generation": 3
     },
     {
       "name": "How to Use Gemini 7 - Live",
@@ -9018,7 +9029,8 @@
       "title": "Gemini Live: Talk to Gemini With Your Camera and Screen",
       "guide_note": "2026-11-18: approved, 8 parts (guide/gemini-app-plan.md section 3, Series A \"How to Use Gemini\", the Gemini app); level: Novice; type: Tutorial; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; \"Gemini\" as written, no pronunciation line; posting: public as each part passes every gate, one at a time (autopost); kit guide/gemini-app-kit, thumbnail guide/creator-thumbnails/gemini-app/07.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-geminiapp.md, images guide/gemini-app-images/CREDITS.md (no licensed screenshots: every screen is a drawn board) 2026-11-19: pre-render viewer pass (3 fixes, re-check PASS) and final MP4 pass PASS (sheets/p07-viewer-pass.md); QA passed with TTS_LINT_ALLOW=live (Jabran's pick: Gemini Live as written); autopost approved by Jabran for this series.",
       "watermark": true,
-      "guide_playlist": "PLbb-sA1dxQgk"
+      "guide_playlist": "PLbb-sA1dxQgk",
+      "generation": 3
     },
     {
       "name": "How to Use Gemini 8 - Deep Research",
@@ -9029,69 +9041,83 @@
       "title": "Gemini Deep Research: Where the Button Went and How to Get a Good Report",
       "guide_note": "2026-11-18: approved, 8 parts (guide/gemini-app-plan.md section 3, Series A \"How to Use Gemini\", the Gemini app); level: Novice to mid (plan wording; one level per video, so the writer settles it, RULEBOOK section 2); type: Fix; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; \"Gemini\" as written, no pronunciation line; posting: public as each part passes every gate, one at a time (autopost); kit guide/gemini-app-kit, thumbnail guide/creator-thumbnails/gemini-app/08.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-geminiapp.md, images guide/gemini-app-images/CREDITS.md (no licensed screenshots: every screen is a drawn board) 2026-11-19: pre-render viewer pass (5 fixes, re-check PASS) and final MP4 pass PASS (sheets/p08-viewer-pass.md); autopost approved by Jabran for this series; uploads after Part 7 so the playlist stays in order; pathways.py adds the playlist link.",
       "watermark": true,
-      "guide_playlist": "PLbb-sA1dxQgk"
+      "guide_playlist": "PLbb-sA1dxQgk",
+      "generation": 3
     },
     {
       "name": "ChatGPT Agent 1 - Work Explained",
       "series": "ChatGPT Agent",
       "part": 1,
       "brand": "CHATGPT AGENT",
-      "guide": "uploaded private",
+      "guide": "posted",
       "title": "ChatGPT Work Explained: What Work Mode Does That Chat Can't",
       "guide_note": "2026-11-19: approved, 5 parts (guide/chatgpt-agent-plan.md; Atlas and Agent Builder parts cut); docs only, nothing signed up for, installed or run, any output labelled \"Example output\"; \"Chat G P T\" undotted and \"Cowork\" as written, no samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/chatgpt-agent-kit, thumbnails guide/creator-thumbnails/chatgpt-agent, writer brief guide/creator-series-kit/WRITER-BRIEF-chatgptagent.md, images guide/chatgpt-agent-images/CREDITS.md (no licensed screenshots: every screen is a drawn board) | 2026-11-19: critic PASS, pre-render viewer pass PASS (after one TikTok fix), final MP4 pass PASS; autopost (his OK 2026-11-18)",
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/C9C947yk-qI",
       "guide_uploaded_on": "2026-11-20",
       "generation": 3,
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public",
+      "guide_playlist": "PLIKodQnIs2Ew"
     },
     {
       "name": "ChatGPT Agent 2 - Agent Mode Missing",
       "series": "ChatGPT Agent",
       "part": 2,
       "brand": "CHATGPT AGENT",
-      "guide": "uploaded private",
+      "guide": "posted",
       "title": "ChatGPT Agent Mode Missing? Where It Went and What to Use Now",
       "guide_note": "2026-11-19: approved, 5 parts (guide/chatgpt-agent-plan.md; Atlas and Agent Builder parts cut); docs only, nothing signed up for, installed or run, any output labelled \"Example output\"; \"Chat G P T\" undotted and \"Cowork\" as written, no samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/chatgpt-agent-kit, thumbnails guide/creator-thumbnails/chatgpt-agent, writer brief guide/creator-series-kit/WRITER-BRIEF-chatgptagent.md, images guide/chatgpt-agent-images/CREDITS.md (no licensed screenshots: every screen is a drawn board) | 2026-11-19: retitled from \"Agent Mode Is Gone\" to \"Agent Mode Missing?\" (Jabran; the retirement page could not be opened) | 2026-11-19: critic PASS, pre-render viewer pass PASS (after six fixes), final MP4 pass PASS; autopost (his OK 2026-11-18)",
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/X-5ZynDMJaM",
       "guide_uploaded_on": "2026-11-20",
       "generation": 3,
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public",
+      "guide_playlist": "PLIKodQnIs2Ew"
     },
     {
       "name": "ChatGPT Agent 3 - Work Tutorial",
       "series": "ChatGPT Agent",
       "part": 3,
       "brand": "CHATGPT AGENT",
-      "guide": "uploaded private",
+      "guide": "posted",
       "title": "ChatGPT Work Tutorial: Your First Task, Step by Step",
       "guide_note": "2026-11-19: approved, 5 parts (guide/chatgpt-agent-plan.md; Atlas and Agent Builder parts cut); docs only, nothing signed up for, installed or run, any output labelled \"Example output\"; \"Chat G P T\" undotted and \"Cowork\" as written, no samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/chatgpt-agent-kit, thumbnails guide/creator-thumbnails/chatgpt-agent, writer brief guide/creator-series-kit/WRITER-BRIEF-chatgptagent.md, images guide/chatgpt-agent-images/CREDITS.md (no licensed screenshots: every screen is a drawn board) | 2026-11-19: critic PASS, pre-render viewer pass PASS (after two board fixes), final MP4 pass PASS; autopost (his OK 2026-11-18)",
       "watermark": true,
       "guide_youtube_url": "https://youtu.be/976JwJKFKL4",
       "guide_uploaded_on": "2026-11-20",
       "generation": 3,
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public",
+      "guide_playlist": "PLIKodQnIs2Ew"
     },
     {
       "name": "ChatGPT Agent 4 - Work Safety",
       "series": "ChatGPT Agent",
       "part": 4,
       "brand": "CHATGPT AGENT",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "ChatGPT Work Safety: Logins, Permissions and Take Over",
       "guide_note": "2026-11-19: approved, 5 parts (guide/chatgpt-agent-plan.md; Atlas and Agent Builder parts cut); docs only, nothing signed up for, installed or run, any output labelled \"Example output\"; \"Chat G P T\" undotted and \"Cowork\" as written, no samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/chatgpt-agent-kit, thumbnails guide/creator-thumbnails/chatgpt-agent, writer brief guide/creator-series-kit/WRITER-BRIEF-chatgptagent.md, images guide/chatgpt-agent-images/CREDITS.md (no licensed screenshots: every screen is a drawn board) | 2026-11-19: critic PASS, pre-render viewer pass PASS (after three fixes), final MP4 pass PASS; autopost (his OK 2026-11-18)",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/9gTnL69oXDQ",
+      "guide_uploaded_on": "2026-11-20",
+      "generation": 3,
+      "guide_visibility": "public",
+      "guide_playlist": "PLIKodQnIs2Ew"
     },
     {
       "name": "ChatGPT Agent 5 - Work vs Cowork vs Comet",
       "series": "ChatGPT Agent",
       "part": 5,
       "brand": "CHATGPT AGENT",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "ChatGPT Work vs Claude Cowork vs Perplexity Comet: Which One?",
       "guide_note": "2026-11-19: approved, 5 parts (guide/chatgpt-agent-plan.md; Atlas and Agent Builder parts cut); docs only, nothing signed up for, installed or run, any output labelled \"Example output\"; \"Chat G P T\" undotted and \"Cowork\" as written, no samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/chatgpt-agent-kit, thumbnails guide/creator-thumbnails/chatgpt-agent, writer brief guide/creator-series-kit/WRITER-BRIEF-chatgptagent.md, images guide/chatgpt-agent-images/CREDITS.md (no licensed screenshots: every screen is a drawn board) | 2026-11-19: critic PASS (fairness fixes), pre-render viewer pass PASS (after six fixes incl. amber and the level scale), final MP4 pass PASS; autopost (his OK 2026-11-18)",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/ny72AufxlzE",
+      "guide_uploaded_on": "2026-11-20",
+      "generation": 3,
+      "guide_visibility": "public",
+      "guide_playlist": "PLIKodQnIs2Ew"
     },
     {
       "name": "AI Video Editing 1 - Best AI Video Editor for Each Job",
@@ -9118,55 +9144,70 @@
       "series": "Figma AI",
       "part": 1,
       "brand": "FIGMA AI",
-      "guide": "render approved",
+      "guide": "uploaded private",
       "title": "Figma AI Tutorial for Beginners: Every AI Tool in Figma, Explained",
       "guide_note": "2026-11-19: approved, 6 parts (guide/figma-ai-plan.md, shape B; Jabran: \"1. B 2. none 3. Auto Post\"); docs only, nothing signed in to, installed, generated or paid for, any output labelled \"Example output\"; \"Figma\" read as written (F1, 2026-11-14), Make and Dev Mode as written, M.C.P. dotted, no samples, no pronunciation aside; posting: public as each part passes every gate, one at a time (autopost); kit guide/figma-ai-kit, thumbnail guide/creator-thumbnails/figma-ai/01.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-figmaai.md, images guide/figma-ai-images/CREDITS.md (no licensed Figma images: every screen is a drawn board, labelled as drawn)",
       "watermark": true,
-      "generation": 3
+      "generation": 3,
+      "guide_youtube_url": "https://youtu.be/obePjSHbPpg",
+      "guide_uploaded_on": "2026-11-21",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Figma AI 2 - Figma Make Tutorial",
       "series": "Figma AI",
       "part": 2,
       "brand": "FIGMA AI",
-      "guide": "render approved",
+      "guide": "uploaded private",
       "title": "Figma Make Tutorial: Turn a Prompt into a Working Prototype",
       "guide_note": "2026-11-19: approved, 6 parts (guide/figma-ai-plan.md, shape B; Jabran: \"1. B 2. none 3. Auto Post\"); docs only, nothing signed in to, installed, generated or paid for, any output labelled \"Example output\"; \"Figma\" read as written (F1, 2026-11-14), Make and Dev Mode as written, M.C.P. dotted, no samples, no pronunciation aside; posting: public as each part passes every gate, one at a time (autopost); kit guide/figma-ai-kit, thumbnail guide/creator-thumbnails/figma-ai/02.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-figmaai.md, images guide/figma-ai-images/CREDITS.md (no licensed Figma images: every screen is a drawn board, labelled as drawn)",
       "watermark": true,
-      "generation": 3
+      "generation": 3,
+      "guide_youtube_url": "https://youtu.be/bRrf_gIDK_0",
+      "guide_uploaded_on": "2026-11-21",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Figma AI 3 - Credits and Pricing",
       "series": "Figma AI",
       "part": 3,
       "brand": "FIGMA AI",
-      "guide": "render approved",
+      "guide": "uploaded private",
       "title": "Figma AI Credits and Pricing Explained: What Each Task Costs",
       "guide_note": "2026-11-19: approved, 6 parts (guide/figma-ai-plan.md, shape B; Jabran: \"1. B 2. none 3. Auto Post\"); docs only, nothing signed in to, installed, generated or paid for, any output labelled \"Example output\"; \"Figma\" read as written (F1, 2026-11-14), Make and Dev Mode as written, M.C.P. dotted, no samples, no pronunciation aside; posting: public as each part passes every gate, one at a time (autopost); kit guide/figma-ai-kit, thumbnail guide/creator-thumbnails/figma-ai/03.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-figmaai.md, images guide/figma-ai-images/CREDITS.md (no licensed Figma images: every screen is a drawn board, labelled as drawn) | weak alone (credits 38 + pricing 34, under \"figma ai\" 197): kept by Jabran's pick B",
       "watermark": true,
-      "generation": 3
+      "generation": 3,
+      "guide_youtube_url": "https://youtu.be/KdykRt4IbP0",
+      "guide_uploaded_on": "2026-11-21",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Figma AI 4 - AI Agent and Design Systems",
       "series": "Figma AI",
       "part": 4,
       "brand": "FIGMA AI",
-      "guide": "render approved",
+      "guide": "uploaded private",
       "title": "Figma AI Agent Tutorial: Edit Designs with Your Design System",
       "guide_note": "2026-11-19: approved, 6 parts (guide/figma-ai-plan.md, shape B; Jabran: \"1. B 2. none 3. Auto Post\"); docs only, nothing signed in to, installed, generated or paid for, any output labelled \"Example output\"; \"Figma\" read as written (F1, 2026-11-14), Make and Dev Mode as written, M.C.P. dotted, no samples, no pronunciation aside; posting: public as each part passes every gate, one at a time (autopost); kit guide/figma-ai-kit, thumbnail guide/creator-thumbnails/figma-ai/04.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-figmaai.md, images guide/figma-ai-images/CREDITS.md (no licensed Figma images: every screen is a drawn board, labelled as drawn) | weak alone (agent 56 + design system 56): agent beta status and Starter access conflict (facts B3) re-checked on the day",
       "watermark": true,
-      "generation": 3
+      "generation": 3,
+      "guide_youtube_url": "https://youtu.be/P5kFdpJZBmo",
+      "guide_uploaded_on": "2026-11-21",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Figma AI 5 - Figma to Code",
       "series": "Figma AI",
       "part": 5,
       "brand": "FIGMA AI",
-      "guide": "render approved",
+      "guide": "uploaded private",
       "title": "Figma to Code with AI: Make, Dev Mode or MCP, Which Route?",
       "guide_note": "2026-11-19: approved, 6 parts (guide/figma-ai-plan.md, shape B; Jabran: \"1. B 2. none 3. Auto Post\"); docs only, nothing signed in to, installed, generated or paid for, any output labelled \"Example output\"; \"Figma\" read as written (F1, 2026-11-14), Make and Dev Mode as written, M.C.P. dotted, no samples, no pronunciation aside; posting: public as each part passes every gate, one at a time (autopost); kit guide/figma-ai-kit, thumbnail guide/creator-thumbnails/figma-ai/05.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-figmaai.md, images guide/figma-ai-images/CREDITS.md (no licensed Figma images: every screen is a drawn board, labelled as drawn) | comparison part: disclosure line; must not remake MCP Servers Part 5 (links it)",
       "watermark": true,
-      "generation": 3
+      "generation": 3,
+      "guide_youtube_url": "https://youtu.be/B8Ui_cSi5mY",
+      "guide_uploaded_on": "2026-11-21",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Figma AI 6 - MCP Write to Canvas",
