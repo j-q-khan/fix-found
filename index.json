@@ -9298,6 +9298,50 @@
       "guide_note": "2026-11-18: approved, 4 parts (guide/gemini-app-plan.md section 3, Series B \"Google AI Plans and Gemini vs ChatGPT\", slug google-ai-plans); level: Novice; type: Comparison; docs only, nothing signed up for, signed in to, installed or run, any output labelled \"Example output\"; posting: autopost public as each part passes every gate, one at a time; Generation 4 (RULEBOOK Generation 4 block, set at setup 2026-11-21); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; ChatGPT prices only from OpenAI's own pages, re-confirmed on the day (facts section 11: 403s, learn.chatgpt.com); ChatGPT spoken \"Chat G P T\" undotted; AFFIL names Google, OpenAI, ChatGPT, Anthropic and Claude (build.py AFFIL_PART); \"Gemini\" as written, no pronunciation line; kit guide/google-ai-plans-kit, thumbnail guide/creator-thumbnails/google-ai-plans/04.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-googleaiplans.md, images guide/google-ai-plans-images/CREDITS.md (no licensed screenshots: every screen is a drawn board). Set up 2026-11-21.",
       "watermark": true,
       "generation": 4
+    },
+    {
+      "name": "AI for Beginners 1 - What Is AI",
+      "series": "AI for Beginners",
+      "part": 1,
+      "brand": "AI FOR BEGINNERS",
+      "guide": "new",
+      "title": "AI for Beginners: What Is AI, and What Can It Do for You?",
+      "guide_note": "2026-11-21: approved, 4 parts (guide/ai-for-beginners-plan.md section 2, all 4 titles as written; slug ai-for-beginners); level: Novice; type: What-is; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting: autopost public as each part passes every gate, one at a time; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; every company, product and university named is explained at first use; AFFIL names OpenAI, Anthropic, Google, Microsoft, Harvard University, the University of Helsinki and M.I.T.; A.I., L.L.M. and M.I.T. dotted, ChatGPT spoken \"Chat G P T\", CS50 \"C.S. fifty\", no pronunciation line; files to copy: the \"ask it this first\" prompt pack; kit guide/ai-for-beginners-kit, thumbnail guide/creator-thumbnails/ai-for-beginners/01.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-aiforbeginners.md, images guide/ai-for-beginners-images/CREDITS.md (the lead clears images per part). Set up 2026-11-21.",
+      "watermark": true,
+      "generation": 4
+    },
+    {
+      "name": "AI for Beginners 2 - How AI Works",
+      "series": "AI for Beginners",
+      "part": 2,
+      "brand": "AI FOR BEGINNERS",
+      "guide": "new",
+      "title": "AI for Beginners: How Does AI Work? Chatbots Explained in Plain Words",
+      "guide_note": "2026-11-21: approved, 4 parts (guide/ai-for-beginners-plan.md section 2, all 4 titles as written; slug ai-for-beginners); level: Novice; type: Explainer; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting: autopost public as each part passes every gate, one at a time; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; every company, product and university named is explained at first use; AFFIL names OpenAI, Anthropic, Google, Microsoft, Harvard University, the University of Helsinki and M.I.T.; A.I., L.L.M. and M.I.T. dotted, ChatGPT spoken \"Chat G P T\", CS50 \"C.S. fifty\", no pronunciation line; files to copy: the \"check the answer\" checklist; every definition from the vendors' own docs; kit guide/ai-for-beginners-kit, thumbnail guide/creator-thumbnails/ai-for-beginners/02.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-aiforbeginners.md, images guide/ai-for-beginners-images/CREDITS.md (the lead clears images per part). Set up 2026-11-21.",
+      "watermark": true,
+      "generation": 4
+    },
+    {
+      "name": "AI for Beginners 3 - Your First Week",
+      "series": "AI for Beginners",
+      "part": 3,
+      "brand": "AI FOR BEGINNERS",
+      "guide": "new",
+      "title": "AI for Beginners Step by Step: Your First Week of Using AI",
+      "guide_note": "2026-11-21: approved, 4 parts (guide/ai-for-beginners-plan.md section 2, all 4 titles as written; slug ai-for-beginners); level: Novice; type: Tutorial; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting: autopost public as each part passes every gate, one at a time; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; every company, product and university named is explained at first use; AFFIL names OpenAI, Anthropic, Google, Microsoft, Harvard University, the University of Helsinki and M.I.T.; A.I., L.L.M. and M.I.T. dotted, ChatGPT spoken \"Chat G P T\", CS50 \"C.S. fifty\", no pronunciation line; files to copy: the 7-day plan with the prompts; free-plan words and prices from each maker's own pages, dated; kit guide/ai-for-beginners-kit, thumbnail guide/creator-thumbnails/ai-for-beginners/03.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-aiforbeginners.md, images guide/ai-for-beginners-images/CREDITS.md (the lead clears images per part). Set up 2026-11-21.",
+      "watermark": true,
+      "generation": 4
+    },
+    {
+      "name": "AI for Beginners 4 - Free AI Courses",
+      "series": "AI for Beginners",
+      "part": 4,
+      "brand": "AI FOR BEGINNERS",
+      "guide": "new",
+      "title": "AI for Beginners Free Course: Which One Should You Take?",
+      "guide_note": "2026-11-21: approved, 4 parts (guide/ai-for-beginners-plan.md section 2, all 4 titles as written; slug ai-for-beginners); level: Novice; type: Comparison; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting: autopost public as each part passes every gate, one at a time; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; every company, product and university named is explained at first use; AFFIL names OpenAI, Anthropic, Google, Microsoft, Harvard University, the University of Helsinki and M.I.T.; A.I., L.L.M. and M.I.T. dotted, ChatGPT spoken \"Chat G P T\", CS50 \"C.S. fifty\", no pronunciation line; files to copy: the course picker table, dated; each course's length, cost and certificate in the provider's own words; ends on the playlist and How to Use Claude; kit guide/ai-for-beginners-kit, thumbnail guide/creator-thumbnails/ai-for-beginners/04.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-aiforbeginners.md, images guide/ai-for-beginners-images/CREDITS.md (the lead clears images per part). Set up 2026-11-21.",
+      "watermark": true,
+      "generation": 4
     }
   ]
 }
