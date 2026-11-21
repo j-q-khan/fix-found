@@ -8934,9 +8934,9 @@
       "series": "NotebookLM",
       "part": 4,
       "brand": "NOTEBOOKLM",
-      "guide": "new",
+      "guide": "render approved",
       "title": "NotebookLM vs ChatGPT vs Claude Projects: Which One for Your Documents? (Gemini Notebook)",
-      "guide_note": "2026-11-18: approved, 5 parts (guide/notebooklm-plan.md, \"Final parts\"; Google renamed NotebookLM to Gemini Notebook on 2026-07-16, so every title carries both names); level: Novice; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; the spoken spelling of \"NotebookLM\" is pending his pick from samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/notebooklm-kit, thumbnail guide/creator-thumbnails/notebooklm/04.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-notebooklm.md, images guide/notebooklm-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "guide_note": "All gates passed 2026-11-21 (critic, build, viewer pass 2 rounds, render QA, final MP4 pass); autopost public per Jabran 2026-11-18. Generation 3.",
       "watermark": true,
       "guide_playlist": "PLac_H0x0gFjM",
       "generation": 3
@@ -9373,6 +9373,50 @@
       "guide": "new",
       "title": "AI Tools for Business: The Ones Worth Paying For",
       "guide_note": "2026-11-21: approved, 3 parts (guide/ai-tools-plan.md section 2, all 3 titles as written; slug ai-tools); level: Novice; type: Tutorial; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting: not answered yet, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; prices as \"was ... when checked\", \"free\" only in the maker's own words, no referral links, no income claims; AFFIL names OpenAI, Anthropic, Google, Microsoft, Perplexity, Notion and Canva; A.I. dotted, ChatGPT spoken \"Chat G P T\", other names as written, no pronunciation line; files to copy: the \"first week with A.I. at work\" checklist; kit guide/ai-tools-kit, thumbnail guide/creator-thumbnails/ai-tools/03.jpg, images guide/ai-tools-images/CREDITS.md (the lead clears images per part). Set up 2026-11-21.",
+      "watermark": true,
+      "generation": 4
+    },
+    {
+      "name": "Agentic AI 1 - Agentic AI Explained",
+      "series": "Agentic AI",
+      "part": 1,
+      "brand": "AGENTIC AI",
+      "guide": "new",
+      "title": "Agentic AI Explained: Agentic vs Generative AI vs AI Agents",
+      "guide_note": "2026-11-21: approved, 4 parts (guide/agentic-ai-plan.md section 1, all 4 titles as written; slug agentic-ai); level: Novice; type: Explainer; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\" (hands-on testing not approved); posting: not answered yet, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; [S] facts (the Google Cloud pages) never spoken; every company and product name explained at first use; ChatGPT Work (never \"ChatGPT agent\"); A.I. dotted, ChatGPT spoken \"Chat G P T\", other names as written, no pronunciation line; AFFIL names Anthropic, OpenAI, Microsoft, GitHub, Google and the Linux Foundation; angle: the word (generative A.I. vs one agent vs an agentic system), links Build AI Agents; kit guide/agentic-ai-kit, thumbnail guide/creator-thumbnails/agentic-ai/01.jpg, images guide/agentic-ai-images/CREDITS.md (the lead clears images per part), writer brief guide/creator-series-kit/WRITER-BRIEF-agenticai.md. Set up 2026-11-21.",
+      "watermark": true,
+      "generation": 4
+    },
+    {
+      "name": "Agentic AI 2 - Agentic Workflows vs Agents",
+      "series": "Agentic AI",
+      "part": 2,
+      "brand": "AGENTIC AI",
+      "guide": "new",
+      "title": "Agentic Workflow Explained: Workflows vs Agents, With Real Examples",
+      "guide_note": "2026-11-21: approved, 4 parts (guide/agentic-ai-plan.md section 1, all 4 titles as written; slug agentic-ai); level: Novice; type: Explainer; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\" (hands-on testing not approved); posting: not answered yet, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; [S] facts (the Google Cloud pages) never spoken; every company and product name explained at first use; ChatGPT Work (never \"ChatGPT agent\"); A.I. dotted, ChatGPT spoken \"Chat G P T\", other names as written, no pronunciation line; AFFIL names Anthropic, OpenAI, Microsoft, GitHub, Google and the Linux Foundation; angle: Anthropic's workflows-vs-agents line and its five patterns, links AI Automation with n8n and Microsoft Copilot; kit guide/agentic-ai-kit, thumbnail guide/creator-thumbnails/agentic-ai/02.jpg, images guide/agentic-ai-images/CREDITS.md (the lead clears images per part), writer brief guide/creator-series-kit/WRITER-BRIEF-agenticai.md. Set up 2026-11-21.",
+      "watermark": true,
+      "generation": 4
+    },
+    {
+      "name": "Agentic AI 3 - Agentic AI Examples to Try Today",
+      "series": "Agentic AI",
+      "part": 3,
+      "brand": "AGENTIC AI",
+      "guide": "new",
+      "title": "Agentic AI Examples You Can Try Today: Claude Cowork, ChatGPT Work and Copilot",
+      "guide_note": "2026-11-21: approved, 4 parts (guide/agentic-ai-plan.md section 1, all 4 titles as written; slug agentic-ai); level: Novice; type: Tutorial; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\" (hands-on testing not approved); posting: not answered yet, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; [S] facts (the Google Cloud pages) never spoken; every company and product name explained at first use; ChatGPT Work (never \"ChatGPT agent\"); A.I. dotted, ChatGPT spoken \"Chat G P T\", other names as written, no pronunciation line; AFFIL names Anthropic, OpenAI, Microsoft, GitHub, Google and the Linux Foundation; angle: one small task each in Claude Cowork, ChatGPT Work and agent mode in Word, Excel and PowerPoint, then the safety chapter (approvals and prompt injection); not a which-one comparison; kit guide/agentic-ai-kit, thumbnail guide/creator-thumbnails/agentic-ai/03.jpg, images guide/agentic-ai-images/CREDITS.md (the lead clears images per part), writer brief guide/creator-series-kit/WRITER-BRIEF-agenticai.md. Set up 2026-11-21.",
+      "watermark": true,
+      "generation": 4
+    },
+    {
+      "name": "Agentic AI 4 - Agentic Coding Explained",
+      "series": "Agentic AI",
+      "part": 4,
+      "brand": "AGENTIC AI",
+      "guide": "new",
+      "title": "Agentic Coding Explained: How AI Coding Agents Plan, Edit and Check Your Code",
+      "guide_note": "2026-11-21: approved, 4 parts (guide/agentic-ai-plan.md section 1, all 4 titles as written; slug agentic-ai); level: Novice; type: Explainer with a worked example; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\" (hands-on testing not approved); posting: not answered yet, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; [S] facts (the Google Cloud pages) never spoken; every company and product name explained at first use; ChatGPT Work (never \"ChatGPT agent\"); A.I. dotted, ChatGPT spoken \"Chat G P T\", other names as written, no pronunciation line; AFFIL names Anthropic, OpenAI, Microsoft, GitHub, Google and the Linux Foundation; angle: the agentic coding loop (Claude Code, GitHub Copilot in the cloud), links AI Coding Agents and Claude Code vs; kit guide/agentic-ai-kit, thumbnail guide/creator-thumbnails/agentic-ai/04.jpg, images guide/agentic-ai-images/CREDITS.md (the lead clears images per part), writer brief guide/creator-series-kit/WRITER-BRIEF-agenticai.md. Set up 2026-11-21.",
       "watermark": true,
       "generation": 4
     }
