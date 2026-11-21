@@ -9300,11 +9300,22 @@
       "generation": 4
     },
     {
+      "name": "Gemini Images 1 - Nano Banana 2",
+      "series": "Gemini Images",
+      "part": 1,
+      "brand": "GEMINI IMAGES",
+      "guide": "new",
+      "title": "Gemini Image Generation: Nano Banana 2 in the Gemini App",
+      "guide_note": "2026-11-18: approved as C3 of Series C (guide/gemini-app-plan.md section 3, \"Gemini Omni and Images\"); 2026-11-21: Jabran, \"images only, no spend\": only C3 is made, as a one-part series \"Gemini Images\" (slug gemini-images; the queue's gemini-omni reservation is left as it is); level: Novice; type: Tutorial; search phrases \"gemini image\" (192) and \"gemini nano banana\" (186); docs only, nothing signed up for, signed in to, installed or run; drawn boards only, labelled as drawn (Jabran, 2026-11-21): every result picture is a flat drawing captioned \"Drawn example\", never presented as a real Gemini output, and no generated samples; Nano Banana 2 on the free plan, 2.1 on paid plans and \"Redo with Pro\" as Google's pages state on the day; links Google AI Studio Part 5 (Nano Banana in AI Studio) and the How to Use Gemini playlist PLbb-sA1dxQgk; posting: autopost public when every gate passes; Generation 4 (RULEBOOK Generation 4 block, set at setup 2026-11-21); no disclosure in this part; AFFIL \"Not affiliated with Google, Anthropic or Claude.\"; \"Gemini\" and \"Nano Banana\" as written, SynthID's spoken spelling to be flagged to Jabran, no pronunciation line; kit guide/gemini-images-kit, thumbnail guide/creator-thumbnails/gemini-images/01.jpg (PART 1 OF 1), writer brief guide/creator-series-kit/WRITER-BRIEF-geminiimages.md, images guide/gemini-images-images/CREDITS.md (drawn boards only). Set up 2026-11-21.",
+      "watermark": true,
+      "generation": 4
+    },
+    {
       "name": "AI for Beginners 1 - What Is AI",
       "series": "AI for Beginners",
       "part": 1,
       "brand": "AI FOR BEGINNERS",
-      "guide": "new",
+      "guide": "render approved",
       "title": "AI for Beginners: What Is AI, and What Can It Do for You?",
       "guide_note": "2026-11-21: approved, 4 parts (guide/ai-for-beginners-plan.md section 2, all 4 titles as written; slug ai-for-beginners); level: Novice; type: What-is; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting: autopost public as each part passes every gate, one at a time; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; every company, product and university named is explained at first use; AFFIL names OpenAI, Anthropic, Google, Microsoft, Harvard University, the University of Helsinki and M.I.T.; A.I., L.L.M. and M.I.T. dotted, ChatGPT spoken \"Chat G P T\", CS50 \"C.S. fifty\", no pronunciation line; files to copy: the \"ask it this first\" prompt pack; kit guide/ai-for-beginners-kit, thumbnail guide/creator-thumbnails/ai-for-beginners/01.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-aiforbeginners.md, images guide/ai-for-beginners-images/CREDITS.md (the lead clears images per part). Set up 2026-11-21.",
       "watermark": true,
@@ -9348,9 +9359,9 @@
       "series": "AI Tools",
       "part": 1,
       "brand": "AI TOOLS",
-      "guide": "new",
+      "guide": "render approved",
       "title": "AI Tools Explained: Which AI Tool for Which Job in 2026?",
-      "guide_note": "2026-11-21: approved, 3 parts (guide/ai-tools-plan.md section 2, all 3 titles as written; slug ai-tools); level: Novice; type: Comparison; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting: not answered yet, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; prices as \"was ... when checked\", \"free\" only in the maker's own words, no referral links, no income claims; AFFIL names OpenAI, Anthropic, Google, Microsoft, Perplexity, Notion and Canva; A.I. dotted, ChatGPT spoken \"Chat G P T\", other names as written, no pronunciation line; files to copy: the job-to-tool picker table (dated); kit guide/ai-tools-kit, thumbnail guide/creator-thumbnails/ai-tools/01.jpg, images guide/ai-tools-images/CREDITS.md (the lead clears images per part). Set up 2026-11-21.",
+      "guide_note": "2026-11-21: approved, 3 parts (guide/ai-tools-plan.md section 2, all 3 titles as written; slug ai-tools); level: Novice; type: Comparison; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting: not answered yet, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; prices as \"was ... when checked\", \"free\" only in the maker's own words, no referral links, no income claims; AFFIL names OpenAI, Anthropic, Google, Microsoft, Perplexity, Notion and Canva; A.I. dotted, ChatGPT spoken \"Chat G P T\", other names as written, no pronunciation line; files to copy: the job-to-tool picker table (dated); kit guide/ai-tools-kit, thumbnail guide/creator-thumbnails/ai-tools/01.jpg, images guide/ai-tools-images/CREDITS.md (the lead clears images per part). Set up 2026-11-21. | 2026-11-21: every gate passed (critic, viewer pre-render + re-check, final MP4); AUTOPOST (his pick \"auto post\"), so marked render approved by the lead.",
       "watermark": true,
       "generation": 4
     },
