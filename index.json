@@ -9342,6 +9342,39 @@
       "guide_note": "2026-11-21: approved, 4 parts (guide/ai-for-beginners-plan.md section 2, all 4 titles as written; slug ai-for-beginners); level: Novice; type: Comparison; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting: autopost public as each part passes every gate, one at a time; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; every company, product and university named is explained at first use; AFFIL names OpenAI, Anthropic, Google, Microsoft, Harvard University, the University of Helsinki and M.I.T.; A.I., L.L.M. and M.I.T. dotted, ChatGPT spoken \"Chat G P T\", CS50 \"C.S. fifty\", no pronunciation line; files to copy: the course picker table, dated; each course's length, cost and certificate in the provider's own words; ends on the playlist and How to Use Claude; kit guide/ai-for-beginners-kit, thumbnail guide/creator-thumbnails/ai-for-beginners/04.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-aiforbeginners.md, images guide/ai-for-beginners-images/CREDITS.md (the lead clears images per part). Set up 2026-11-21.",
       "watermark": true,
       "generation": 4
+    },
+    {
+      "name": "AI Tools 1 - Which AI Tool for Which Job",
+      "series": "AI Tools",
+      "part": 1,
+      "brand": "AI TOOLS",
+      "guide": "new",
+      "title": "AI Tools Explained: Which AI Tool for Which Job in 2026?",
+      "guide_note": "2026-11-21: approved, 3 parts (guide/ai-tools-plan.md section 2, all 3 titles as written; slug ai-tools); level: Novice; type: Comparison; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting: not answered yet, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; prices as \"was ... when checked\", \"free\" only in the maker's own words, no referral links, no income claims; AFFIL names OpenAI, Anthropic, Google, Microsoft, Perplexity, Notion and Canva; A.I. dotted, ChatGPT spoken \"Chat G P T\", other names as written, no pronunciation line; files to copy: the job-to-tool picker table (dated); kit guide/ai-tools-kit, thumbnail guide/creator-thumbnails/ai-tools/01.jpg, images guide/ai-tools-images/CREDITS.md (the lead clears images per part). Set up 2026-11-21.",
+      "watermark": true,
+      "generation": 4
+    },
+    {
+      "name": "AI Tools 2 - Free AI Tools",
+      "series": "AI Tools",
+      "part": 2,
+      "brand": "AI TOOLS",
+      "guide": "new",
+      "title": "Free AI Tools: What You Really Get Without Paying",
+      "guide_note": "2026-11-21: approved, 3 parts (guide/ai-tools-plan.md section 2, all 3 titles as written; slug ai-tools); level: Novice; type: Comparison; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting: not answered yet, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; prices as \"was ... when checked\", \"free\" only in the maker's own words, no referral links, no income claims; AFFIL names OpenAI, Anthropic, Google, Microsoft, Perplexity, Notion and Canva; A.I. dotted, ChatGPT spoken \"Chat G P T\", other names as written, no pronunciation line; files to copy: the free-plan limits sheet (dated); kit guide/ai-tools-kit, thumbnail guide/creator-thumbnails/ai-tools/02.jpg, images guide/ai-tools-images/CREDITS.md (the lead clears images per part). Set up 2026-11-21.",
+      "watermark": true,
+      "generation": 4
+    },
+    {
+      "name": "AI Tools 3 - AI Tools for Business",
+      "series": "AI Tools",
+      "part": 3,
+      "brand": "AI TOOLS",
+      "guide": "new",
+      "title": "AI Tools for Business: The Ones Worth Paying For",
+      "guide_note": "2026-11-21: approved, 3 parts (guide/ai-tools-plan.md section 2, all 3 titles as written; slug ai-tools); level: Novice; type: Tutorial; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting: not answered yet, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; prices as \"was ... when checked\", \"free\" only in the maker's own words, no referral links, no income claims; AFFIL names OpenAI, Anthropic, Google, Microsoft, Perplexity, Notion and Canva; A.I. dotted, ChatGPT spoken \"Chat G P T\", other names as written, no pronunciation line; files to copy: the \"first week with A.I. at work\" checklist; kit guide/ai-tools-kit, thumbnail guide/creator-thumbnails/ai-tools/03.jpg, images guide/ai-tools-images/CREDITS.md (the lead clears images per part). Set up 2026-11-21.",
+      "watermark": true,
+      "generation": 4
     }
   ]
 }
