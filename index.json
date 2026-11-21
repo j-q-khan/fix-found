@@ -8143,22 +8143,30 @@
       "series": "Give Claude New Abilities",
       "part": 8,
       "brand": "NEW ABILITIES",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Claude Computer Use: Let Claude Control Your Computer, Safely",
       "guide_note": "2026-11-15: approved, 10 parts (guide/claude-new-abilities-plan.md); titles lead with high-score phrases; Roblox dropped; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (Jabran 2026-11-15); pronunciation: names as written, \"whisper dot C.P.P.\", \"Y.T. dash D.L.P.\", \"F.F. mpeg\"; kit guide/claude-new-abilities-kit, thumbnails guide/creator-thumbnails/claude-new-abilities, writer brief guide/creator-series-kit/WRITER-BRIEF-claudenewabilities.md",
       "watermark": true,
-      "guide_playlist": "PLezzBhXnVwJc"
+      "guide_playlist": "PLezzBhXnVwJc",
+      "guide_youtube_url": "https://youtu.be/P294T3y68vA",
+      "guide_uploaded_on": "2026-11-21",
+      "generation": 4,
+      "guide_visibility": "public"
     },
     {
       "name": "Give Claude New Abilities 9 - Home Assistant",
       "series": "Give Claude New Abilities",
       "part": 9,
       "brand": "NEW ABILITIES",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Home Assistant MCP with Claude: Control Your Smart Home Safely",
       "guide_note": "2026-11-15: approved, 10 parts (guide/claude-new-abilities-plan.md); titles lead with high-score phrases; Roblox dropped; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (Jabran 2026-11-15); pronunciation: names as written, \"whisper dot C.P.P.\", \"Y.T. dash D.L.P.\", \"F.F. mpeg\"; kit guide/claude-new-abilities-kit, thumbnails guide/creator-thumbnails/claude-new-abilities, writer brief guide/creator-series-kit/WRITER-BRIEF-claudenewabilities.md",
       "watermark": true,
-      "guide_playlist": "PLezzBhXnVwJc"
+      "guide_playlist": "PLezzBhXnVwJc",
+      "guide_youtube_url": "https://youtu.be/W9Pll9UPecA",
+      "guide_uploaded_on": "2026-11-21",
+      "generation": 4,
+      "guide_visibility": "public"
     },
     {
       "name": "Give Claude New Abilities 10 - Voice Mode",
@@ -8851,22 +8859,30 @@
       "series": "Prompt Engineering",
       "part": 5,
       "brand": "PROMPT ENGINEERING",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "System Prompt Explained: Set One Up in Claude and ChatGPT",
       "guide_note": "2026-11-17: approved, 6 parts (guide/prompt-engineering-plan.md); level: Mid level; docs only, drawn boards and \"Example output\"; posting: public as each part passes every gate, one at a time (autopost); kit guide/prompt-engineering-kit, thumbnail guide/creator-thumbnails/prompt-engineering/05.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-promptengineering.md; 2026-11-18: critic, pre-render viewer pass (02b tone line and T4 our-advice heading fixed and re-passed), render QA (re-run with TTS_LINT_ALLOW=projects,project) and final MP4 viewer pass all passed (sheets/p05-viewer-pass.md); render approved under his autopost OK",
       "watermark": true,
-      "guide_playlist": "PLNO38g3ifrEI"
+      "guide_playlist": "PLNO38g3ifrEI",
+      "guide_youtube_url": "https://youtu.be/AjWw1fHyX_g",
+      "guide_uploaded_on": "2026-11-21",
+      "generation": 4,
+      "guide_visibility": "public"
     },
     {
       "name": "Prompt Engineering 6 - Context vs Prompt Engineering",
       "series": "Prompt Engineering",
       "part": 6,
       "brand": "PROMPT ENGINEERING",
-      "guide": "render approved",
+      "guide": "uploaded private",
       "title": "Context Engineering vs Prompt Engineering: What Changed and Why",
       "guide_note": "2026-11-17: approved, 6 parts (guide/prompt-engineering-plan.md); level: Mid level; docs only, drawn boards and \"Example output\"; posting: public as each part passes every gate, one at a time (autopost); kit guide/prompt-engineering-kit, thumbnail guide/creator-thumbnails/prompt-engineering/06.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-promptengineering.md; 2026-11-18: critic, pre-render viewer pass (02a/06a quote cuts, 03d label, 04a definition fixed and re-passed), render QA and final MP4 viewer pass all passed (sheets/p06-viewer-pass.md); render approved under his autopost OK",
       "watermark": true,
-      "guide_playlist": "PLNO38g3ifrEI"
+      "guide_playlist": "PLNO38g3ifrEI",
+      "guide_youtube_url": "https://youtu.be/e2HSCUPwlt4",
+      "guide_uploaded_on": "2026-11-21",
+      "generation": 4,
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "NotebookLM 1 - Gemini Notebook Tutorial",
@@ -9016,12 +9032,15 @@
       "series": "How to Use Gemini",
       "part": 6,
       "brand": "HOW TO USE GEMINI",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Gemini Canvas Tutorial: Make Docs, Slides and Apps From a Prompt",
       "guide_note": "2026-11-18: approved, 8 parts (guide/gemini-app-plan.md section 3, Series A \"How to Use Gemini\", the Gemini app); level: Novice; type: Tutorial; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; \"Gemini\" as written, no pronunciation line; posting: public as each part passes every gate, one at a time (autopost); kit guide/gemini-app-kit, thumbnail guide/creator-thumbnails/gemini-app/06.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-geminiapp.md, images guide/gemini-app-images/CREDITS.md (no licensed screenshots: every screen is a drawn board) 2026-11-19: pre-render viewer pass (2 TikTok fixes, re-check PASS) and final MP4 pass PASS (sheets/p06-viewer-pass.md); autopost approved by Jabran for this series; uploads after Part 5.",
       "watermark": true,
       "guide_playlist": "PLbb-sA1dxQgk",
-      "generation": 3
+      "generation": 3,
+      "guide_youtube_url": "https://youtu.be/kvVbOyCM_bY",
+      "guide_uploaded_on": "2026-11-21",
+      "guide_visibility": "public"
     },
     {
       "name": "How to Use Gemini 7 - Live",
@@ -9127,10 +9146,14 @@
       "series": "AI Video Editing",
       "part": 1,
       "brand": "AI VIDEO EDITING",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "AI Video Editing Tools: The Best AI Video Editor for Each Job",
       "guide_note": "2026-11-19: approved, 2 parts (guide/ai-video-editing-plan.md, the APPROVED table at the top; slug and paths ai-video-editing); docs only, nothing signed up for, installed or run, every screen a drawn board and any output labelled \"Example output\"; posting: public as each part passes every gate, one at a time (autopost); pronunciation: CapCut, DaVinci Resolve, Premiere, Descript, OpusClip, Riverside all as written (Jabran 2026-11-19), no samples; Premiere the one that could be misheard); kit guide/ai-video-editing-kit, thumbnails guide/creator-thumbnails/ai-video-editing, writer brief guide/creator-series-kit/WRITER-BRIEF-aivideoediting.md, images: no licensed screenshots (every screen is a drawn board)",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/lTd1UWL3SvM",
+      "guide_uploaded_on": "2026-11-21",
+      "generation": 4,
+      "guide_visibility": "public"
     },
     {
       "name": "AI Video Editing 2 - CapCut AI Captions, Auto Cut and AI Clipper",
@@ -9231,6 +9254,50 @@
       "guide_uploaded_on": "2026-11-21",
       "guide_visibility": "public",
       "guide_playlist": "PLb4wQcmCI--A"
+    },
+    {
+      "name": "Google AI Plans 1 - Is Google AI Pro Worth It",
+      "series": "Google AI Plans",
+      "part": 1,
+      "brand": "GOOGLE AI PLANS",
+      "guide": "new",
+      "title": "Google AI Pro: Is It Worth It? Free vs Plus vs Pro vs Ultra",
+      "guide_note": "2026-11-18: approved, 4 parts (guide/gemini-app-plan.md section 3, Series B \"Google AI Plans and Gemini vs ChatGPT\", slug google-ai-plans); level: Novice; type: Review; docs only, nothing signed up for, signed in to, installed or run, any output labelled \"Example output\"; posting: autopost public as each part passes every gate, one at a time; Generation 4 (RULEBOOK Generation 4 block, set at setup 2026-11-21); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; Free, Plus, Pro and Ultra by model as Google lists them on the day (facts section 0, evening of 2026-11-18: Hydrogen from Plus, Neon on Pro and Ultra, Carbon on Ultra, Auto on every plan); verdict by type of person; AI Plus gets its verdict here, not its own part; \"Gemini\" as written, no pronunciation line; kit guide/google-ai-plans-kit, thumbnail guide/creator-thumbnails/google-ai-plans/01.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-googleaiplans.md, images guide/google-ai-plans-images/CREDITS.md (no licensed screenshots: every screen is a drawn board). Set up 2026-11-21.",
+      "watermark": true,
+      "generation": 4
+    },
+    {
+      "name": "Google AI Plans 2 - Students",
+      "series": "Google AI Plans",
+      "part": 2,
+      "brand": "GOOGLE AI PLANS",
+      "guide": "new",
+      "title": "Gemini for Students: How to Get Google AI Pro Free for a Year",
+      "guide_note": "2026-11-18: approved, 4 parts (guide/gemini-app-plan.md section 3, Series B \"Google AI Plans and Gemini vs ChatGPT\", slug google-ai-plans); level: Novice; type: Tutorial; docs only, nothing signed up for, signed in to, installed or run, any output labelled \"Example output\"; posting: autopost public as each part passes every gate, one at a time; Generation 4 (RULEBOOK Generation 4 block, set at setup 2026-11-21); no disclosure in this part (it goes in Parts 1 and 4, description only); urgent: the student offer must be redeemed by December 31, 2026 (eligible US college students 18+, AI Pro for a year at no cost; AI Plus in 140+ other countries; payment method needed; renews at $19.99/month, all re-checked on the day); \"Free\" is the approved title, the narration uses Google's \"at no cost\"; \"Gemini\" as written, no pronunciation line; kit guide/google-ai-plans-kit, thumbnail guide/creator-thumbnails/google-ai-plans/02.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-googleaiplans.md, images guide/google-ai-plans-images/CREDITS.md (no licensed screenshots: every screen is a drawn board). Set up 2026-11-21.",
+      "watermark": true,
+      "generation": 4
+    },
+    {
+      "name": "Google AI Plans 3 - Ultra Review",
+      "series": "Google AI Plans",
+      "part": 3,
+      "brand": "GOOGLE AI PLANS",
+      "guide": "new",
+      "title": "Google AI Ultra Review: Who Needs the $99.99 or $199.99 Plan?",
+      "guide_note": "2026-11-18: approved, 4 parts (guide/gemini-app-plan.md section 3, Series B \"Google AI Plans and Gemini vs ChatGPT\", slug google-ai-plans); level: Novice; type: Review; docs only, nothing signed up for, signed in to, installed or run, any output labelled \"Example output\"; posting: autopost public as each part passes every gate, one at a time; Generation 4 (RULEBOOK Generation 4 block, set at setup 2026-11-21); no disclosure in this part (it goes in Parts 1 and 4, description only); both Ultra tiers (\"Starting at\" $99.99 and $199.99, was when checked) and what each adds; the second tier's name is a plan section 5 gap; 5x or 20x are against AI Pro's limits; \"Gemini\" as written, no pronunciation line; kit guide/google-ai-plans-kit, thumbnail guide/creator-thumbnails/google-ai-plans/03.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-googleaiplans.md, images guide/google-ai-plans-images/CREDITS.md (no licensed screenshots: every screen is a drawn board). Set up 2026-11-21.",
+      "watermark": true,
+      "generation": 4
+    },
+    {
+      "name": "Google AI Plans 4 - Gemini vs ChatGPT",
+      "series": "Google AI Plans",
+      "part": 4,
+      "brand": "GOOGLE AI PLANS",
+      "guide": "new",
+      "title": "Gemini vs ChatGPT: Which One Should You Pay For in 2026?",
+      "guide_note": "2026-11-18: approved, 4 parts (guide/gemini-app-plan.md section 3, Series B \"Google AI Plans and Gemini vs ChatGPT\", slug google-ai-plans); level: Novice; type: Comparison; docs only, nothing signed up for, signed in to, installed or run, any output labelled \"Example output\"; posting: autopost public as each part passes every gate, one at a time; Generation 4 (RULEBOOK Generation 4 block, set at setup 2026-11-21); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; ChatGPT prices only from OpenAI's own pages, re-confirmed on the day (facts section 11: 403s, learn.chatgpt.com); ChatGPT spoken \"Chat G P T\" undotted; AFFIL names Google, OpenAI, ChatGPT, Anthropic and Claude (build.py AFFIL_PART); \"Gemini\" as written, no pronunciation line; kit guide/google-ai-plans-kit, thumbnail guide/creator-thumbnails/google-ai-plans/04.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-googleaiplans.md, images guide/google-ai-plans-images/CREDITS.md (no licensed screenshots: every screen is a drawn board). Set up 2026-11-21.",
+      "watermark": true,
+      "generation": 4
     }
   ]
 }
