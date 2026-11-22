@@ -9605,7 +9605,7 @@
       "series": "Claude Cowork",
       "part": 1,
       "brand": "CLAUDE COWORK",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Claude Cowork Tutorial: Set It Up and Run Your First Task (Windows and Mac)",
       "guide_note": "2026-11-22: approved, 6 parts (guide/claude-cowork-plan.md section 3 table, titles as written; slug and paths claude-cowork); level: Novice; type: Tutorial; docs only, nothing signed up for, installed or run, every screen a drawn board labelled as drawn (the help-centre images carry only \"(c) 2026 Anthropic PBC\", no licence; facts section I) and any output labelled \"Example output\"; posting: not answered yet, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; Cowork as written (W1), H.C.S., V.M., A.P.I. dotted, no pronunciation line; prices \"was ... when checked\"; kit guide/claude-cowork-kit, thumbnail guide/creator-thumbnails/claude-cowork/01.jpg, images guide/claude-cowork-images/CREDITS.md (none cleared). Set up 2026-11-22.",
       "watermark": true
@@ -9658,6 +9658,26 @@
       "guide": "new",
       "title": "Claude Cowork with Outlook and Microsoft 365: Connect Your Email and Calendar",
       "guide_note": "2026-11-22: approved, 6 parts (guide/claude-cowork-plan.md section 3 table, titles as written; slug and paths claude-cowork); level: Novice; type: Tutorial; docs only, nothing signed up for, installed or run, every screen a drawn board labelled as drawn (the help-centre images carry only \"(c) 2026 Anthropic PBC\", no licence; facts section I) and any output labelled \"Example output\"; posting: not answered yet, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; Cowork as written (W1), H.C.S., V.M., A.P.I. dotted, no pronunciation line; prices \"was ... when checked\"; kit guide/claude-cowork-kit, thumbnail guide/creator-thumbnails/claude-cowork/06.jpg, images guide/claude-cowork-images/CREDITS.md (none cleared). Set up 2026-11-22.",
+      "watermark": true
+    },
+    {
+      "name": "AI Engineer 1 - Roadmap",
+      "series": "AI Engineer",
+      "part": 1,
+      "brand": "AI ENGINEER",
+      "guide": "new",
+      "title": "AI Engineer Roadmap 2026: How to Become an AI Engineer, Skills in Order",
+      "guide_note": "2026-11-22: approved, 2 parts (guide/ai-engineer-plan.md section 2 rows 1 and 2, titles as written; Part 3 cut; slug and paths ai-engineer); level: Novice; type: Explainer / roadmap; docs only, nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot cleared) and any output labelled \"Example output\"; posting: AUTOPOST public at the gates, one part at a time (Jabran 2026-11-22 \"Auto post\"); Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; A.I., A.P.I., R.A.G., M.L., L.L.M. dotted, names as written, no pronunciation line; course costs in the providers' own words, \"was ... when checked\"; no salary claims; kit guide/ai-engineer-kit, thumbnail guide/creator-thumbnails/ai-engineer/01.jpg, images guide/ai-engineer-images/CREDITS.md (none cleared). Set up 2026-11-22.",
+      "watermark": true
+    },
+    {
+      "name": "AI Engineer 2 - Free Courses",
+      "series": "AI Engineer",
+      "part": 2,
+      "brand": "AI ENGINEER",
+      "guide": "new",
+      "title": "AI Engineer Course Guide: The Free Courses Worth Your Time in 2026",
+      "guide_note": "2026-11-22: approved, 2 parts (guide/ai-engineer-plan.md section 2 rows 1 and 2, titles as written; Part 3 cut; slug and paths ai-engineer); level: Novice; type: Comparison; docs only, nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot cleared) and any output labelled \"Example output\"; posting: AUTOPOST public at the gates, one part at a time (Jabran 2026-11-22 \"Auto post\"); Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; A.I., A.P.I., R.A.G., M.L., L.L.M. dotted, names as written, no pronunciation line; course costs in the providers' own words, \"was ... when checked\"; no salary claims; kit guide/ai-engineer-kit, thumbnail guide/creator-thumbnails/ai-engineer/02.jpg, images guide/ai-engineer-images/CREDITS.md (none cleared). Set up 2026-11-22.",
       "watermark": true
     }
   ]
