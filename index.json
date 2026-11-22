@@ -8874,15 +8874,15 @@
       "series": "Prompt Engineering",
       "part": 6,
       "brand": "PROMPT ENGINEERING",
-      "guide": "uploaded private",
+      "guide": "posted",
       "title": "Context Engineering vs Prompt Engineering: What Changed and Why",
-      "guide_note": "2026-11-17: approved, 6 parts (guide/prompt-engineering-plan.md); level: Mid level; docs only, drawn boards and \"Example output\"; posting: public as each part passes every gate, one at a time (autopost); kit guide/prompt-engineering-kit, thumbnail guide/creator-thumbnails/prompt-engineering/06.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-promptengineering.md; 2026-11-18: critic, pre-render viewer pass (02a/06a quote cuts, 03d label, 04a definition fixed and re-passed), render QA and final MP4 viewer pass all passed (sheets/p06-viewer-pass.md); render approved under his autopost OK",
+      "guide_note": "2026-11-17: approved, 6 parts (guide/prompt-engineering-plan.md); level: Mid level; docs only, drawn boards and \"Example output\"; posting: public as each part passes every gate, one at a time (autopost); kit guide/prompt-engineering-kit, thumbnail guide/creator-thumbnails/prompt-engineering/06.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-promptengineering.md; 2026-11-18: critic, pre-render viewer pass (02a/06a quote cuts, 03d label, 04a definition fixed and re-passed), render QA and final MP4 viewer pass all passed (sheets/p06-viewer-pass.md); render approved under his autopost OK 2026-11-22: public; captions failed on quota (not repaired: video already public).",
       "watermark": true,
       "guide_playlist": "PLNO38g3ifrEI",
       "guide_youtube_url": "https://youtu.be/e2HSCUPwlt4",
       "guide_uploaded_on": "2026-11-21",
       "generation": 4,
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public"
     },
     {
       "name": "NotebookLM 1 - Gemini Notebook Tutorial",
@@ -9392,11 +9392,14 @@
       "series": "Agentic AI",
       "part": 1,
       "brand": "AGENTIC AI",
-      "guide": "render approved",
+      "guide": "uploaded private",
       "title": "Agentic AI Explained: Agentic vs Generative AI vs AI Agents",
       "guide_note": "2026-11-21: approved, 4 parts (guide/agentic-ai-plan.md section 1, all 4 titles as written; slug agentic-ai); level: Novice; type: Explainer; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\" (hands-on testing not approved); posting: autopost public at the gates, one at a time (Jabran, 2026-11-21); Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; [S] facts (the Google Cloud pages) never spoken; every company and product name explained at first use; ChatGPT Work (never \"ChatGPT agent\"); A.I. dotted, ChatGPT spoken \"Chat G P T\", other names as written, no pronunciation line; AFFIL names Anthropic, OpenAI, Microsoft, GitHub, Google and the Linux Foundation; angle: the word (generative A.I. vs one agent vs an agentic system), links Build AI Agents; kit guide/agentic-ai-kit, thumbnail guide/creator-thumbnails/agentic-ai/01.jpg, images guide/agentic-ai-images/CREDITS.md (the lead clears images per part), writer brief guide/creator-series-kit/WRITER-BRIEF-agenticai.md. Set up 2026-11-21. 2026-11-21: Part 1 passed critic, pre-render viewer pass (re-check), render QA and final MP4 pass; render approved under the series autopost rule.",
       "watermark": true,
-      "generation": 4
+      "generation": 4,
+      "guide_youtube_url": "https://youtu.be/AGI7roGIZaY",
+      "guide_uploaded_on": "2026-11-22",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Agentic AI 2 - Agentic Workflows vs Agents",
