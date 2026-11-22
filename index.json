@@ -9679,6 +9679,36 @@
       "title": "AI Engineer Course Guide: The Free Courses Worth Your Time in 2026",
       "guide_note": "2026-11-22: approved, 2 parts (guide/ai-engineer-plan.md section 2 rows 1 and 2, titles as written; Part 3 cut; slug and paths ai-engineer); level: Novice; type: Comparison; docs only, nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot cleared) and any output labelled \"Example output\"; posting: AUTOPOST public at the gates, one part at a time (Jabran 2026-11-22 \"Auto post\"); Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; A.I., A.P.I., R.A.G., M.L., L.L.M. dotted, names as written, no pronunciation line; course costs in the providers' own words, \"was ... when checked\"; no salary claims; kit guide/ai-engineer-kit, thumbnail guide/creator-thumbnails/ai-engineer/02.jpg, images guide/ai-engineer-images/CREDITS.md (none cleared). Set up 2026-11-22.",
       "watermark": true
+    },
+    {
+      "name": "Claude API 1 - Key",
+      "series": "Claude API",
+      "part": 1,
+      "brand": "CLAUDE API",
+      "guide": "new",
+      "title": "Claude API Key: How to Get One, Set a Spend Limit and Keep It Safe",
+      "guide_note": "2026-11-22: approved, 3 parts (guide/claude-api-plan.md section 3, Parts 1-3, titles as written; Part 4 cut; slug and paths claude-api); level: Novice; type: Tutorial, with a \"does my Pro or Max plan include it?\" chapter; docs only, nothing signed up for, installed, run or spent, every screen a drawn board labelled as drawn (no licensed screenshot found) and any output labelled \"Example output\"; keys on boards are dummy keys only; posting: AUTOPOST public at the gates, one part at a time (Jabran 2026-11-22 \"Autopost\"); Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; A.I., A.P.I., S.D.K. dotted, Claude, Anthropic, Python, Workbench as written, no pronunciation line; prices \"was ... when checked\"; kit guide/claude-api-kit, thumbnail guide/creator-thumbnails/claude-api/01.jpg, images guide/claude-api-images/CREDITS.md (none cleared). Set up 2026-11-22.",
+      "watermark": true
+    },
+    {
+      "name": "Claude API 2 - Pricing",
+      "series": "Claude API",
+      "part": 2,
+      "brand": "CLAUDE API",
+      "guide": "new",
+      "title": "Claude API Pricing: Is It Free? Credits, Usage and What It Really Costs",
+      "guide_note": "2026-11-22: approved, 3 parts (guide/claude-api-plan.md section 3, Parts 1-3, titles as written; Part 4 cut; slug and paths claude-api); level: Novice; type: Explainer, with a \"cut the bill\" chapter; docs only, nothing signed up for, installed, run or spent, every screen a drawn board labelled as drawn (no licensed screenshot found) and any output labelled \"Example output\"; keys on boards are dummy keys only; posting: AUTOPOST public at the gates, one part at a time (Jabran 2026-11-22 \"Autopost\"); Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; A.I., A.P.I., S.D.K. dotted, Claude, Anthropic, Python, Workbench as written, no pronunciation line; prices \"was ... when checked\"; kit guide/claude-api-kit, thumbnail guide/creator-thumbnails/claude-api/02.jpg, images guide/claude-api-images/CREDITS.md (none cleared). Set up 2026-11-22.",
+      "watermark": true
+    },
+    {
+      "name": "Claude API 3 - First Python call",
+      "series": "Claude API",
+      "part": 3,
+      "brand": "CLAUDE API",
+      "guide": "new",
+      "title": "How to Use Claude API: Your First Call in Python",
+      "guide_note": "2026-11-22: approved, 3 parts (guide/claude-api-plan.md section 3, Parts 1-3, titles as written; Part 4 cut; slug and paths claude-api); level: Novice to Mid level (says so when it steps up); type: Tutorial; docs only, nothing signed up for, installed, run or spent, every screen a drawn board labelled as drawn (no licensed screenshot found) and any output labelled \"Example output\"; keys on boards are dummy keys only; posting: AUTOPOST public at the gates, one part at a time (Jabran 2026-11-22 \"Autopost\"); Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; A.I., A.P.I., S.D.K. dotted, Claude, Anthropic, Python, Workbench as written, no pronunciation line; prices \"was ... when checked\"; kit guide/claude-api-kit, thumbnail guide/creator-thumbnails/claude-api/03.jpg, images guide/claude-api-images/CREDITS.md (none cleared). Set up 2026-11-22.",
+      "watermark": true
     }
   ]
 }
