@@ -8173,11 +8173,15 @@
       "series": "Give Claude New Abilities",
       "part": 10,
       "brand": "NEW ABILITIES",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Claude Voice Mode: Make Claude Code Talk Back, Free and Local",
       "guide_note": "2026-11-15: approved, 10 parts (guide/claude-new-abilities-plan.md); titles lead with high-score phrases; Roblox dropped; docs only, no hands-on test; posting: public as soon as each part passes every gate, one video at a time (Jabran 2026-11-15); pronunciation: names as written, \"whisper dot C.P.P.\", \"Y.T. dash D.L.P.\", \"F.F. mpeg\"; kit guide/claude-new-abilities-kit, thumbnails guide/creator-thumbnails/claude-new-abilities, writer brief guide/creator-series-kit/WRITER-BRIEF-claudenewabilities.md",
       "watermark": true,
-      "guide_playlist": "PLezzBhXnVwJc"
+      "guide_playlist": "PLezzBhXnVwJc",
+      "guide_youtube_url": "https://youtu.be/bH8Qr4WUpfo",
+      "guide_uploaded_on": "2026-11-22",
+      "generation": 4,
+      "guide_visibility": "public"
     },
     {
       "name": "Build AI Agents 1 - What Is an AI Agent",
@@ -8934,21 +8938,24 @@
       "series": "NotebookLM",
       "part": 4,
       "brand": "NOTEBOOKLM",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "NotebookLM vs ChatGPT vs Claude Projects: Which One for Your Documents? (Gemini Notebook)",
       "guide_note": "All gates passed 2026-11-21 (critic, build, viewer pass 2 rounds, render QA, final MP4 pass); autopost public per Jabran 2026-11-18. Generation 3.",
       "watermark": true,
       "guide_playlist": "PLac_H0x0gFjM",
-      "generation": 3
+      "generation": 3,
+      "guide_youtube_url": "https://youtu.be/WgqzU5nzoKM",
+      "guide_uploaded_on": "2026-11-22",
+      "guide_visibility": "public"
     },
     {
       "name": "NotebookLM 5 - Claude Code and the MCP Server",
       "series": "NotebookLM",
       "part": 5,
       "brand": "NOTEBOOKLM",
-      "guide": "new",
+      "guide": "render approved",
       "title": "NotebookLM with Claude Code: Google's Official MCP Server (Gemini Notebook)",
-      "guide_note": "2026-11-18: approved, 5 parts (guide/notebooklm-plan.md, \"Final parts\"; Google renamed NotebookLM to Gemini Notebook on 2026-07-16, so every title carries both names); level: Mid level; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; the spoken spelling of \"NotebookLM\" is pending his pick from samples; posting: public as each part passes every gate, one at a time (autopost); kit guide/notebooklm-kit, thumbnail guide/creator-thumbnails/notebooklm/05.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-notebooklm.md, images guide/notebooklm-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "guide_note": "2026-11-22 autopost: critic, viewer pass (round 2), QA and final MP4 pass all PASS",
       "watermark": true,
       "guide_playlist": "PLac_H0x0gFjM"
     },
@@ -9047,24 +9054,30 @@
       "series": "How to Use Gemini",
       "part": 7,
       "brand": "HOW TO USE GEMINI",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Gemini Live: Talk to Gemini With Your Camera and Screen",
       "guide_note": "2026-11-18: approved, 8 parts (guide/gemini-app-plan.md section 3, Series A \"How to Use Gemini\", the Gemini app); level: Novice; type: Tutorial; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; \"Gemini\" as written, no pronunciation line; posting: public as each part passes every gate, one at a time (autopost); kit guide/gemini-app-kit, thumbnail guide/creator-thumbnails/gemini-app/07.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-geminiapp.md, images guide/gemini-app-images/CREDITS.md (no licensed screenshots: every screen is a drawn board) 2026-11-19: pre-render viewer pass (3 fixes, re-check PASS) and final MP4 pass PASS (sheets/p07-viewer-pass.md); QA passed with TTS_LINT_ALLOW=live (Jabran's pick: Gemini Live as written); autopost approved by Jabran for this series.",
       "watermark": true,
       "guide_playlist": "PLbb-sA1dxQgk",
-      "generation": 3
+      "generation": 3,
+      "guide_youtube_url": "https://youtu.be/KChGgwEk6DY",
+      "guide_uploaded_on": "2026-11-22",
+      "guide_visibility": "public"
     },
     {
       "name": "How to Use Gemini 8 - Deep Research",
       "series": "How to Use Gemini",
       "part": 8,
       "brand": "HOW TO USE GEMINI",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Gemini Deep Research: Where the Button Went and How to Get a Good Report",
       "guide_note": "2026-11-18: approved, 8 parts (guide/gemini-app-plan.md section 3, Series A \"How to Use Gemini\", the Gemini app); level: Novice to mid (plan wording; one level per video, so the writer settles it, RULEBOOK section 2); type: Fix; docs only, nothing signed in to, installed or run, any output labelled \"Example output\"; \"Gemini\" as written, no pronunciation line; posting: public as each part passes every gate, one at a time (autopost); kit guide/gemini-app-kit, thumbnail guide/creator-thumbnails/gemini-app/08.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-geminiapp.md, images guide/gemini-app-images/CREDITS.md (no licensed screenshots: every screen is a drawn board) 2026-11-19: pre-render viewer pass (5 fixes, re-check PASS) and final MP4 pass PASS (sheets/p08-viewer-pass.md); autopost approved by Jabran for this series; uploads after Part 7 so the playlist stays in order; pathways.py adds the playlist link.",
       "watermark": true,
       "guide_playlist": "PLbb-sA1dxQgk",
-      "generation": 3
+      "generation": 3,
+      "guide_youtube_url": "https://youtu.be/d6K3mMTQVVU",
+      "guide_uploaded_on": "2026-11-22",
+      "guide_visibility": "public"
     },
     {
       "name": "ChatGPT Agent 1 - Work Explained",
@@ -9153,17 +9166,23 @@
       "guide_youtube_url": "https://youtu.be/lTd1UWL3SvM",
       "guide_uploaded_on": "2026-11-21",
       "generation": 4,
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "guide_playlist": "PLTpBYXI0_ZuU"
     },
     {
       "name": "AI Video Editing 2 - CapCut AI Captions, Auto Cut and AI Clipper",
       "series": "AI Video Editing",
       "part": 2,
       "brand": "AI VIDEO EDITING",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "AI Video Editing in CapCut: CapCut AI Captions, Auto Cut and AI Clipper",
       "guide_note": "2026-11-19: approved, 2 parts (guide/ai-video-editing-plan.md, the APPROVED table at the top; slug and paths ai-video-editing); docs only, nothing signed up for, installed or run, every screen a drawn board and any output labelled \"Example output\"; posting: public as each part passes every gate, one at a time (autopost); pronunciation: CapCut, DaVinci Resolve, Premiere, Descript, OpusClip, Riverside all as written (Jabran 2026-11-19), no samples; Premiere the one that could be misheard); kit guide/ai-video-editing-kit, thumbnails guide/creator-thumbnails/ai-video-editing, writer brief guide/creator-series-kit/WRITER-BRIEF-aivideoediting.md, images: no licensed screenshots (every screen is a drawn board)",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/TZNhgHj8fKY",
+      "guide_uploaded_on": "2026-11-22",
+      "generation": 4,
+      "guide_visibility": "public",
+      "guide_playlist": "PLTpBYXI0_ZuU"
     },
     {
       "name": "Figma AI 1 - AI Tutorial for Beginners",
@@ -9260,33 +9279,45 @@
       "series": "Google AI Plans",
       "part": 1,
       "brand": "GOOGLE AI PLANS",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Google AI Pro: Is It Worth It? Free vs Plus vs Pro vs Ultra",
       "guide_note": "2026-11-18: approved, 4 parts (guide/gemini-app-plan.md section 3, Series B \"Google AI Plans and Gemini vs ChatGPT\", slug google-ai-plans); level: Novice; type: Review; docs only, nothing signed up for, signed in to, installed or run, any output labelled \"Example output\"; posting: autopost public as each part passes every gate, one at a time; Generation 4 (RULEBOOK Generation 4 block, set at setup 2026-11-21); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; Free, Plus, Pro and Ultra by model as Google lists them on the day (facts section 0, evening of 2026-11-18: Hydrogen from Plus, Neon on Pro and Ultra, Carbon on Ultra, Auto on every plan); verdict by type of person; AI Plus gets its verdict here, not its own part; \"Gemini\" as written, no pronunciation line; kit guide/google-ai-plans-kit, thumbnail guide/creator-thumbnails/google-ai-plans/01.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-googleaiplans.md, images guide/google-ai-plans-images/CREDITS.md (no licensed screenshots: every screen is a drawn board). Set up 2026-11-21. 2026-11-21: viewer pass (7 fixes, re-check PASS), QA PASSED after a caption-key order fix, final MP4 pass PASS; autopost approved by Jabran.",
       "watermark": true,
-      "generation": 4
+      "generation": 4,
+      "guide_youtube_url": "https://youtu.be/dabV7u07kbU",
+      "guide_uploaded_on": "2026-11-22",
+      "guide_visibility": "public",
+      "guide_playlist": "PLChQx9K5d0IM"
     },
     {
       "name": "Google AI Plans 2 - Students",
       "series": "Google AI Plans",
       "part": 2,
       "brand": "GOOGLE AI PLANS",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Gemini for Students: How to Get Google AI Pro Free for a Year",
       "guide_note": "2026-11-18: approved, 4 parts (guide/gemini-app-plan.md section 3, Series B \"Google AI Plans and Gemini vs ChatGPT\", slug google-ai-plans); level: Novice; type: Tutorial; docs only, nothing signed up for, signed in to, installed or run, any output labelled \"Example output\"; posting: autopost public as each part passes every gate, one at a time; Generation 4 (RULEBOOK Generation 4 block, set at setup 2026-11-21); no disclosure in this part (it goes in Parts 1 and 4, description only); urgent: the student offer must be redeemed by December 31, 2026 (eligible US college students 18+, AI Pro for a year at no cost; AI Plus in 140+ other countries; payment method needed; renews at $19.99/month, all re-checked on the day); \"Free\" is the approved title, the narration uses Google's \"at no cost\"; \"Gemini\" as written, no pronunciation line; kit guide/google-ai-plans-kit, thumbnail guide/creator-thumbnails/google-ai-plans/02.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-googleaiplans.md, images guide/google-ai-plans-images/CREDITS.md (no licensed screenshots: every screen is a drawn board). Set up 2026-11-21. 2026-11-21: viewer pass (5 fixes, re-check PASS), QA PASSED after removing an @gmail quote from sources, final MP4 pass PASS; autopost approved by Jabran; uploads after Part 1.",
       "watermark": true,
-      "generation": 4
+      "generation": 4,
+      "guide_playlist": "PLChQx9K5d0IM",
+      "guide_youtube_url": "https://youtu.be/mwRdJzWcmGU",
+      "guide_uploaded_on": "2026-11-22",
+      "guide_visibility": "public"
     },
     {
       "name": "Google AI Plans 3 - Ultra Review",
       "series": "Google AI Plans",
       "part": 3,
       "brand": "GOOGLE AI PLANS",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Google AI Ultra Review: Who Needs the $99.99 or $199.99 Plan?",
       "guide_note": "2026-11-18: approved, 4 parts (guide/gemini-app-plan.md section 3, Series B \"Google AI Plans and Gemini vs ChatGPT\", slug google-ai-plans); level: Novice; type: Review; docs only, nothing signed up for, signed in to, installed or run, any output labelled \"Example output\"; posting: autopost public as each part passes every gate, one at a time; Generation 4 (RULEBOOK Generation 4 block, set at setup 2026-11-21); no disclosure in this part (it goes in Parts 1 and 4, description only); both Ultra tiers (\"Starting at\" $99.99 and $199.99, was when checked) and what each adds; the second tier's name is a plan section 5 gap; 5x or 20x are against AI Pro's limits; \"Gemini\" as written, no pronunciation line; kit guide/google-ai-plans-kit, thumbnail guide/creator-thumbnails/google-ai-plans/03.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-googleaiplans.md, images guide/google-ai-plans-images/CREDITS.md (no licensed screenshots: every screen is a drawn board). Set up 2026-11-21. 2026-11-22: viewer pass (8 fixes incl. whole-word cue matching, re-check PASS), QA PASSED, final MP4 pass PASS; autopost approved by Jabran.",
       "watermark": true,
-      "generation": 4
+      "generation": 4,
+      "guide_playlist": "PLChQx9K5d0IM",
+      "guide_youtube_url": "https://youtu.be/xgkXZhvZi8A",
+      "guide_uploaded_on": "2026-11-22",
+      "guide_visibility": "public"
     },
     {
       "name": "Google AI Plans 4 - Gemini vs ChatGPT",
@@ -9297,84 +9328,112 @@
       "title": "Gemini vs ChatGPT: Which One Should You Pay For in 2026?",
       "guide_note": "2026-11-18: approved, 4 parts (guide/gemini-app-plan.md section 3, Series B \"Google AI Plans and Gemini vs ChatGPT\", slug google-ai-plans); level: Novice; type: Comparison; docs only, nothing signed up for, signed in to, installed or run, any output labelled \"Example output\"; posting: autopost public as each part passes every gate, one at a time; Generation 4 (RULEBOOK Generation 4 block, set at setup 2026-11-21); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; ChatGPT prices only from OpenAI's own pages, re-confirmed on the day (facts section 11: 403s, learn.chatgpt.com); ChatGPT spoken \"Chat G P T\" undotted; AFFIL names Google, OpenAI, ChatGPT, Anthropic and Claude (build.py AFFIL_PART); \"Gemini\" as written, no pronunciation line; kit guide/google-ai-plans-kit, thumbnail guide/creator-thumbnails/google-ai-plans/04.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-googleaiplans.md, images guide/google-ai-plans-images/CREDITS.md (no licensed screenshots: every screen is a drawn board). Set up 2026-11-21. All gates passed 2026-11-22 (critic, build, pre-render viewer incl. 06d fix, final MP4 viewer); autopost per Jabran's standing OK",
       "watermark": true,
-      "generation": 4
+      "generation": 4,
+      "guide_playlist": "PLChQx9K5d0IM"
     },
     {
       "name": "Gemini Images 1 - Nano Banana 2",
       "series": "Gemini Images",
       "part": 1,
       "brand": "GEMINI IMAGES",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Gemini Image Generation: Nano Banana 2 in the Gemini App",
       "guide_note": "2026-11-18: approved as C3 of Series C (guide/gemini-app-plan.md section 3, \"Gemini Omni and Images\"); 2026-11-21: Jabran, \"images only, no spend\": only C3 is made, as a one-part series \"Gemini Images\" (slug gemini-images; the queue's gemini-omni reservation is left as it is); level: Novice; type: Tutorial; search phrases \"gemini image\" (192) and \"gemini nano banana\" (186); docs only, nothing signed up for, signed in to, installed or run; drawn boards only, labelled as drawn (Jabran, 2026-11-21): every result picture is a flat drawing captioned \"Drawn example\", never presented as a real Gemini output, and no generated samples; Nano Banana 2 on the free plan, 2.1 on paid plans and \"Redo with Pro\" as Google's pages state on the day; links Google AI Studio Part 5 (Nano Banana in AI Studio) and the How to Use Gemini playlist PLbb-sA1dxQgk; posting: autopost public when every gate passes; Generation 4 (RULEBOOK Generation 4 block, set at setup 2026-11-21); no disclosure in this part; AFFIL \"Not affiliated with Google, Anthropic or Claude.\"; \"Gemini\" and \"Nano Banana\" as written, SynthID's spoken spelling to be flagged to Jabran, no pronunciation line; kit guide/gemini-images-kit, thumbnail guide/creator-thumbnails/gemini-images/01.jpg (PART 1 OF 1), writer brief guide/creator-series-kit/WRITER-BRIEF-geminiimages.md, images guide/gemini-images-images/CREDITS.md (drawn boards only). Set up 2026-11-21. 2026-11-21: viewer pass (4 fixes, re-check PASS), QA PASSED after a tag fix (nano banana 21), final MP4 pass PASS; autopost approved by Jabran.",
       "watermark": true,
-      "generation": 4
+      "generation": 4,
+      "guide_youtube_url": "https://youtu.be/X7C_V1H8ZEE",
+      "guide_uploaded_on": "2026-11-22",
+      "guide_visibility": "public"
     },
     {
       "name": "AI for Beginners 1 - What Is AI",
       "series": "AI for Beginners",
       "part": 1,
       "brand": "AI FOR BEGINNERS",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "AI for Beginners: What Is AI, and What Can It Do for You?",
       "guide_note": "2026-11-21: approved, 4 parts (guide/ai-for-beginners-plan.md section 2, all 4 titles as written; slug ai-for-beginners); level: Novice; type: What-is; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting: autopost public as each part passes every gate, one at a time; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; every company, product and university named is explained at first use; AFFIL names OpenAI, Anthropic, Google, Microsoft, Harvard University, the University of Helsinki and M.I.T.; A.I., L.L.M. and M.I.T. dotted, ChatGPT spoken \"Chat G P T\", CS50 \"C.S. fifty\", no pronunciation line; files to copy: the \"ask it this first\" prompt pack; kit guide/ai-for-beginners-kit, thumbnail guide/creator-thumbnails/ai-for-beginners/01.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-aiforbeginners.md, images guide/ai-for-beginners-images/CREDITS.md (the lead clears images per part). Set up 2026-11-21.",
       "watermark": true,
-      "generation": 4
+      "generation": 4,
+      "guide_youtube_url": "https://youtu.be/VZAy0FBDkGQ",
+      "guide_uploaded_on": "2026-11-22",
+      "guide_visibility": "public",
+      "guide_playlist": "PLMPtu3Uf12fQ"
     },
     {
       "name": "AI for Beginners 2 - How AI Works",
       "series": "AI for Beginners",
       "part": 2,
       "brand": "AI FOR BEGINNERS",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "AI for Beginners: How Does AI Work? Chatbots Explained in Plain Words",
       "guide_note": "2026-11-21: approved, 4 parts (guide/ai-for-beginners-plan.md section 2, all 4 titles as written; slug ai-for-beginners); level: Novice; type: Explainer; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting: autopost public as each part passes every gate, one at a time; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; every company, product and university named is explained at first use; AFFIL names OpenAI, Anthropic, Google, Microsoft, Harvard University, the University of Helsinki and M.I.T.; A.I., L.L.M. and M.I.T. dotted, ChatGPT spoken \"Chat G P T\", CS50 \"C.S. fifty\", no pronunciation line; files to copy: the \"check the answer\" checklist; every definition from the vendors' own docs; kit guide/ai-for-beginners-kit, thumbnail guide/creator-thumbnails/ai-for-beginners/02.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-aiforbeginners.md, images guide/ai-for-beginners-images/CREDITS.md (the lead clears images per part). Set up 2026-11-21.",
       "watermark": true,
-      "generation": 4
+      "generation": 4,
+      "guide_youtube_url": "https://youtu.be/wfw_FfSTRLk",
+      "guide_uploaded_on": "2026-11-22",
+      "guide_visibility": "public",
+      "guide_playlist": "PLMPtu3Uf12fQ"
     },
     {
       "name": "AI for Beginners 3 - Your First Week",
       "series": "AI for Beginners",
       "part": 3,
       "brand": "AI FOR BEGINNERS",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "AI for Beginners Step by Step: Your First Week of Using AI",
       "guide_note": "2026-11-21: approved, 4 parts (guide/ai-for-beginners-plan.md section 2, all 4 titles as written; slug ai-for-beginners); level: Novice; type: Tutorial; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting: autopost public as each part passes every gate, one at a time; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; every company, product and university named is explained at first use; AFFIL names OpenAI, Anthropic, Google, Microsoft, Harvard University, the University of Helsinki and M.I.T.; A.I., L.L.M. and M.I.T. dotted, ChatGPT spoken \"Chat G P T\", CS50 \"C.S. fifty\", no pronunciation line; files to copy: the 7-day plan with the prompts; free-plan words and prices from each maker's own pages, dated; kit guide/ai-for-beginners-kit, thumbnail guide/creator-thumbnails/ai-for-beginners/03.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-aiforbeginners.md, images guide/ai-for-beginners-images/CREDITS.md (the lead clears images per part). Set up 2026-11-21.",
       "watermark": true,
-      "generation": 4
+      "generation": 4,
+      "guide_youtube_url": "https://youtu.be/P6LqsvH1mwE",
+      "guide_uploaded_on": "2026-11-22",
+      "guide_visibility": "public",
+      "guide_playlist": "PLMPtu3Uf12fQ"
     },
     {
       "name": "AI for Beginners 4 - Free AI Courses",
       "series": "AI for Beginners",
       "part": 4,
       "brand": "AI FOR BEGINNERS",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "AI for Beginners Free Course: Which One Should You Take?",
       "guide_note": "2026-11-21: approved, 4 parts (guide/ai-for-beginners-plan.md section 2, all 4 titles as written; slug ai-for-beginners); level: Novice; type: Comparison; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting: autopost public as each part passes every gate, one at a time; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; every company, product and university named is explained at first use; AFFIL names OpenAI, Anthropic, Google, Microsoft, Harvard University, the University of Helsinki and M.I.T.; A.I., L.L.M. and M.I.T. dotted, ChatGPT spoken \"Chat G P T\", CS50 \"C.S. fifty\", no pronunciation line; files to copy: the course picker table, dated; each course's length, cost and certificate in the provider's own words; ends on the playlist and How to Use Claude; kit guide/ai-for-beginners-kit, thumbnail guide/creator-thumbnails/ai-for-beginners/04.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-aiforbeginners.md, images guide/ai-for-beginners-images/CREDITS.md (the lead clears images per part). Set up 2026-11-21.",
       "watermark": true,
-      "generation": 4
+      "generation": 4,
+      "guide_youtube_url": "https://youtu.be/MRw58nvN3g4",
+      "guide_uploaded_on": "2026-11-22",
+      "guide_visibility": "public",
+      "guide_playlist": "PLMPtu3Uf12fQ"
     },
     {
       "name": "AI Tools 1 - Which AI Tool for Which Job",
       "series": "AI Tools",
       "part": 1,
       "brand": "AI TOOLS",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "AI Tools Explained: Which AI Tool for Which Job in 2026?",
       "guide_note": "2026-11-21: approved, 3 parts (guide/ai-tools-plan.md section 2, all 3 titles as written; slug ai-tools); level: Novice; type: Comparison; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting: not answered yet, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; prices as \"was ... when checked\", \"free\" only in the maker's own words, no referral links, no income claims; AFFIL names OpenAI, Anthropic, Google, Microsoft, Perplexity, Notion and Canva; A.I. dotted, ChatGPT spoken \"Chat G P T\", other names as written, no pronunciation line; files to copy: the job-to-tool picker table (dated); kit guide/ai-tools-kit, thumbnail guide/creator-thumbnails/ai-tools/01.jpg, images guide/ai-tools-images/CREDITS.md (the lead clears images per part). Set up 2026-11-21. | 2026-11-21: every gate passed (critic, viewer pre-render + re-check, final MP4); AUTOPOST (his pick \"auto post\"), so marked render approved by the lead.",
       "watermark": true,
-      "generation": 4
+      "generation": 4,
+      "guide_youtube_url": "https://youtu.be/BKG7NNaD2nU",
+      "guide_uploaded_on": "2026-11-22",
+      "guide_visibility": "public",
+      "guide_playlist": "PLPVZltVqPUqQ"
     },
     {
       "name": "AI Tools 2 - Free AI Tools",
       "series": "AI Tools",
       "part": 2,
       "brand": "AI TOOLS",
-      "guide": "render approved",
+      "guide": "uploaded private",
       "title": "Free AI Tools: What You Really Get Without Paying",
       "guide_note": "2026-11-21: approved, 3 parts (guide/ai-tools-plan.md section 2, all 3 titles as written; slug ai-tools); level: Novice; type: Comparison; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting: not answered yet, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; prices as \"was ... when checked\", \"free\" only in the maker's own words, no referral links, no income claims; AFFIL names OpenAI, Anthropic, Google, Microsoft, Perplexity, Notion and Canva; A.I. dotted, ChatGPT spoken \"Chat G P T\", other names as written, no pronunciation line; files to copy: the free-plan limits sheet (dated); kit guide/ai-tools-kit, thumbnail guide/creator-thumbnails/ai-tools/02.jpg, images guide/ai-tools-images/CREDITS.md (the lead clears images per part). Set up 2026-11-21. 2026-11-21 Part 2: viewer pre-render FAIL (05a garble) fixed, re-check PASS, QA and post-render checks PASS, final MP4 PASS; render approved under his autopost rule (public at the gates).",
       "watermark": true,
-      "generation": 4
+      "generation": 4,
+      "guide_playlist": "PLPVZltVqPUqQ",
+      "guide_youtube_url": "https://youtu.be/JB6i8CR3pEg",
+      "guide_uploaded_on": "2026-11-22",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "AI Tools 3 - AI Tools for Business",
@@ -9385,21 +9444,22 @@
       "title": "AI Tools for Business: The Ones Worth Paying For",
       "guide_note": "2026-11-21: approved, 3 parts (guide/ai-tools-plan.md section 2, all 3 titles as written; slug ai-tools); level: Novice; type: Tutorial; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting: not answered yet, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; prices as \"was ... when checked\", \"free\" only in the maker's own words, no referral links, no income claims; AFFIL names OpenAI, Anthropic, Google, Microsoft, Perplexity, Notion and Canva; A.I. dotted, ChatGPT spoken \"Chat G P T\", other names as written, no pronunciation line; files to copy: the \"first week with A.I. at work\" checklist; kit guide/ai-tools-kit, thumbnail guide/creator-thumbnails/ai-tools/03.jpg, images guide/ai-tools-images/CREDITS.md (the lead clears images per part). Set up 2026-11-21. 2026-11-21 Part 3: viewer pre-render FAIL (Microsoft $18 offer wording on 02b, 05f, T2) fixed, re-check PASS, QA and post-render checks PASS, final MP4 PASS; render approved under his autopost rule (public at the gates).",
       "watermark": true,
-      "generation": 4
+      "generation": 4,
+      "guide_playlist": "PLPVZltVqPUqQ"
     },
     {
       "name": "Agentic AI 1 - Agentic AI Explained",
       "series": "Agentic AI",
       "part": 1,
       "brand": "AGENTIC AI",
-      "guide": "uploaded private",
+      "guide": "posted",
       "title": "Agentic AI Explained: Agentic vs Generative AI vs AI Agents",
       "guide_note": "2026-11-21: approved, 4 parts (guide/agentic-ai-plan.md section 1, all 4 titles as written; slug agentic-ai); level: Novice; type: Explainer; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\" (hands-on testing not approved); posting: autopost public at the gates, one at a time (Jabran, 2026-11-21); Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; [S] facts (the Google Cloud pages) never spoken; every company and product name explained at first use; ChatGPT Work (never \"ChatGPT agent\"); A.I. dotted, ChatGPT spoken \"Chat G P T\", other names as written, no pronunciation line; AFFIL names Anthropic, OpenAI, Microsoft, GitHub, Google and the Linux Foundation; angle: the word (generative A.I. vs one agent vs an agentic system), links Build AI Agents; kit guide/agentic-ai-kit, thumbnail guide/creator-thumbnails/agentic-ai/01.jpg, images guide/agentic-ai-images/CREDITS.md (the lead clears images per part), writer brief guide/creator-series-kit/WRITER-BRIEF-agenticai.md. Set up 2026-11-21. 2026-11-21: Part 1 passed critic, pre-render viewer pass (re-check), render QA and final MP4 pass; render approved under the series autopost rule.",
       "watermark": true,
       "generation": 4,
       "guide_youtube_url": "https://youtu.be/AGI7roGIZaY",
       "guide_uploaded_on": "2026-11-22",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public"
     },
     {
       "name": "Agentic AI 2 - Agentic Workflows vs Agents",
@@ -9439,7 +9499,7 @@
       "series": "How to Use ChatGPT",
       "part": 1,
       "brand": "HOW TO USE CHATGPT",
-      "guide": "new",
+      "guide": "render approved",
       "title": "How to Use ChatGPT: A 2026 Beginner's Guide, Start to Finish",
       "guide_note": "2026-11-21: approved, 6 parts (guide/how-to-use-chatgpt-plan.md section 2, all 6 titles as written; slug how-to-use-chatgpt); level: Novice; type: Tutorial; docs only, nothing signed up for, signed in to, installed or generated, every screen a drawn board labelled as drawn (OpenAI states no screenshot licence, facts section 7) and any output labelled \"Example output\"; posting: not answered yet, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; [S] facts never spoken; every name explained at first use; ChatGPT spoken \"Chat G P T\", GPT-6 \"G P T six\", A.I. dotted, no pronunciation line; prices \"was ... when checked\"; lead phrase \"how to use chatgpt\" (336) with \"chatgpt for beginners\" (287); the message box, picking GPT-6 and the Thinking slider, files, web search, temporary chat, memory, custom instructions, Projects (one chapter, plan section 2) and Data controls; links the ChatGPT Agent series (Work), How to Use Claude Part 1, and Prompt Engineering Part 3 from the prompting chapter; AFFIL adds Anthropic; kit guide/how-to-use-chatgpt-kit, thumbnail guide/creator-thumbnails/how-to-use-chatgpt/01.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-howtousechatgpt.md, images guide/how-to-use-chatgpt-images/CREDITS.md (none cleared). Set up 2026-11-21.",
       "watermark": true,
@@ -9450,7 +9510,7 @@
       "series": "How to Use ChatGPT",
       "part": 2,
       "brand": "HOW TO USE CHATGPT",
-      "guide": "render check",
+      "guide": "render approved",
       "title": "ChatGPT 6 Astra Explained: What GPT-6, Sol and Astra Mean in Your Model Menu",
       "guide_note": "2026-11-21: approved, 6 parts (guide/how-to-use-chatgpt-plan.md section 2, all 6 titles as written; slug how-to-use-chatgpt); level: Novice; type: Explainer; docs only, nothing signed up for, signed in to, installed or generated, every screen a drawn board labelled as drawn (OpenAI states no screenshot licence, facts section 7) and any output labelled \"Example output\"; posting: not answered yet, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; [S] facts never spoken; every name explained at first use; ChatGPT spoken \"Chat G P T\", GPT-6 \"G P T six\", A.I. dotted, no pronunciation line; prices \"was ... when checked\"; lead phrase \"chatgpt astra\" (239) with \"chatgpt 6\" (216); scripts say OpenAI's names (GPT-6, GPT-6 Sol, GPT-6 Astra), never \"ChatGPT 6\" spoken; in Chat, Astra sits only behind the Pro level of the Thinking slider; GPT-6.2 Astra and Sol (Nov 17) are Work and Codex models, one line, linked to the ChatGPT Agent series; the Free/Go model conflict (facts 1.6): say \"a lighter model\" or that the pages disagree, never name it; kit guide/how-to-use-chatgpt-kit, thumbnail guide/creator-thumbnails/how-to-use-chatgpt/02.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-howtousechatgpt.md, images guide/how-to-use-chatgpt-images/CREDITS.md (none cleared). Set up 2026-11-21.",
       "watermark": true,
@@ -9461,7 +9521,7 @@
       "series": "How to Use ChatGPT",
       "part": 3,
       "brand": "HOW TO USE CHATGPT",
-      "guide": "render check",
+      "guide": "render approved",
       "title": "ChatGPT Image Generator: Make and Edit Pictures With Images 2.6",
       "guide_note": "2026-11-21: approved, 6 parts (guide/how-to-use-chatgpt-plan.md section 2, all 6 titles as written; slug how-to-use-chatgpt); level: Novice; type: Tutorial; docs only, nothing signed up for, signed in to, installed or generated, every screen a drawn board labelled as drawn (OpenAI states no screenshot licence, facts section 7) and any output labelled \"Example output\"; posting: not answered yet, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; [S] facts never spoken; every name explained at first use; ChatGPT spoken \"Chat G P T\", GPT-6 \"G P T six\", A.I. dotted, no pronunciation line; prices \"was ... when checked\"; lead phrase \"chatgpt image generator\" (195) with \"chatgpt images\" (168); Images 2.6 (Nov 4), make an image, the selection tool and region edits, templates, sketch on mobile, ownership in OpenAI's terms, C2PA (\"C. two P. A.\") and SynthID; limits only in OpenAI's words (no numbers exist); never a realistic person or event shown as real; every picture a drawn board labelled \"Example output\"; kit guide/how-to-use-chatgpt-kit, thumbnail guide/creator-thumbnails/how-to-use-chatgpt/03.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-howtousechatgpt.md, images guide/how-to-use-chatgpt-images/CREDITS.md (none cleared). Set up 2026-11-21.",
       "watermark": true,
@@ -9472,7 +9532,7 @@
       "series": "How to Use ChatGPT",
       "part": 4,
       "brand": "HOW TO USE CHATGPT",
-      "guide": "render check",
+      "guide": "render approved",
       "title": "ChatGPT Voice Mode: How to Use Live Voice, and What Changes on December 11",
       "guide_note": "2026-11-21: approved, 6 parts (guide/how-to-use-chatgpt-plan.md section 2, all 6 titles as written; slug how-to-use-chatgpt); level: Novice; type: Tutorial; docs only, nothing signed up for, signed in to, installed or generated, every screen a drawn board labelled as drawn (OpenAI states no screenshot licence, facts section 7) and any output labelled \"Example output\"; posting: not answered yet, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; [S] facts never spoken; every name explained at first use; ChatGPT spoken \"Chat G P T\", GPT-6 \"G P T six\", A.I. dotted, no pronunciation line; prices \"was ... when checked\"; lead phrase \"chatgpt voice\" (184) with \"chatgpt voice mode\" (132); teaches Live only, and states that Advanced and Standard voice retire on 2026-12-11 and that Live has no video or screen sharing (facts 5.2, 5.4); never teaches the camera button; should ship before December 11; \"Live\" spoken as written, so vo runs with TTS_LINT_ALLOW=live and \"live\" is used only as the product name; Go voice limits conflict (facts 5.9); kit guide/how-to-use-chatgpt-kit, thumbnail guide/creator-thumbnails/how-to-use-chatgpt/04.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-howtousechatgpt.md, images guide/how-to-use-chatgpt-images/CREDITS.md (none cleared). Set up 2026-11-21.",
       "watermark": true,
@@ -9483,7 +9543,7 @@
       "series": "How to Use ChatGPT",
       "part": 5,
       "brand": "HOW TO USE CHATGPT",
-      "guide": "new",
+      "guide": "render approved",
       "title": "ChatGPT App for Windows, Mac and Phone: Download It and What It Adds",
       "guide_note": "2026-11-21: approved, 6 parts (guide/how-to-use-chatgpt-plan.md section 2, all 6 titles as written; slug how-to-use-chatgpt); level: Novice; type: Tutorial; docs only, nothing signed up for, signed in to, installed or generated, every screen a drawn board labelled as drawn (OpenAI states no screenshot licence, facts section 7) and any output labelled \"Example output\"; posting: not answered yet, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; [S] facts never spoken; every name explained at first use; ChatGPT spoken \"Chat G P T\", GPT-6 \"G P T six\", A.I. dotted, no pronunciation line; prices \"was ... when checked\"; lead phrase \"chatgpt app\" (183) with \"chatgpt download\" (112); one desktop app holds Chat, Work and Codex, the old Mac app is ChatGPT Classic, Linux is a preview; only rows marked current (the Windows help page looks stale, facts 3.5); warns about look-alike store apps; links Work to the ChatGPT Agent series; AFFIL adds Apple, Microsoft and Google; kit guide/how-to-use-chatgpt-kit, thumbnail guide/creator-thumbnails/how-to-use-chatgpt/05.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-howtousechatgpt.md, images guide/how-to-use-chatgpt-images/CREDITS.md (none cleared). Set up 2026-11-21.",
       "watermark": true,
@@ -9494,7 +9554,7 @@
       "series": "How to Use ChatGPT",
       "part": 6,
       "brand": "HOW TO USE CHATGPT",
-      "guide": "new",
+      "guide": "render approved",
       "title": "ChatGPT Free vs Go vs Plus: Which Plan Is Worth Paying For in 2026?",
       "guide_note": "2026-11-21: approved, 6 parts (guide/how-to-use-chatgpt-plan.md section 2, all 6 titles as written; slug how-to-use-chatgpt); level: Novice; type: Comparison; docs only, nothing signed up for, signed in to, installed or generated, every screen a drawn board labelled as drawn (OpenAI states no screenshot licence, facts section 7) and any output labelled \"Example output\"; posting: not answered yet, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; [S] facts never spoken; every name explained at first use; ChatGPT spoken \"Chat G P T\", GPT-6 \"G P T six\", A.I. dotted, no pronunciation line; prices \"was ... when checked\"; lead phrase \"chatgpt plus\" (228) with \"chatgpt free\" (218), \"chatgpt go\" (182) and \"chatgpt pricing\" (144); prices only as \"was ... when checked, on <date>\" from the pricing page, never the App Store prices; Plus gets Medium and High only, Pro is not unlimited GPT-6 Pro; \"free\" and \"unlimited\" only in OpenAI's words; last part: ends on the playlist or the most related video; links Claude Code vs Part 2, Gemini vs ChatGPT (Google AI Plans) and How to Use Claude Part 7; AFFIL adds Anthropic and Google; kit guide/how-to-use-chatgpt-kit, thumbnail guide/creator-thumbnails/how-to-use-chatgpt/06.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-howtousechatgpt.md, images guide/how-to-use-chatgpt-images/CREDITS.md (none cleared). Set up 2026-11-21.",
       "watermark": true,
@@ -9505,9 +9565,9 @@
       "series": "AI Chatbot",
       "part": 1,
       "brand": "AI CHATBOT",
-      "guide": "new",
+      "guide": "render approved",
       "title": "AI Chatbot for Your Website: How to Make One, and Which Kind to Pick",
-      "guide_note": "2026-11-22: approved, 4 parts (guide/ai-chatbot-plan.md section 2, Parts 1-4 as written; Parts 5 and 6 cut; slug and paths ai-chatbot); level: Novice; type: Tutorial by job; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting not answered (plan section 5), so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; every company and product named is explained at first use; [S] facts never spoken (guide/ai-chatbot-facts.md); names spoken as written, no pronunciation line; kit guide/ai-chatbot-kit, thumbnail guide/creator-thumbnails/ai-chatbot/01.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-aichatbot.md, images guide/ai-chatbot-images/CREDITS.md (the lead clears images per part). Set up 2026-11-22.",
+      "guide_note": "2026-11-22: approved, 4 parts (guide/ai-chatbot-plan.md section 2, Parts 1-4 as written; Parts 5 and 6 cut; slug and paths ai-chatbot); level: Novice; type: Tutorial by job; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting: public as each part passes every gate, one at a time (autopost, Jabran 2026-11-22); Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; every company and product named is explained at first use; [S] facts never spoken (guide/ai-chatbot-facts.md); names spoken as written, no pronunciation line; kit guide/ai-chatbot-kit, thumbnail guide/creator-thumbnails/ai-chatbot/01.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-aichatbot.md, images guide/ai-chatbot-images/CREDITS.md (the lead clears images per part). Set up 2026-11-22. 2026-11-22 autopost: critic (re-run), viewer pass (round 2), QA and final MP4 pass all PASS.",
       "watermark": true
     },
     {
@@ -9517,7 +9577,7 @@
       "brand": "AI CHATBOT",
       "guide": "new",
       "title": "AI Chatbot Free: An Open-Source Chatbot That Answers From Your Documents (AnythingLLM)",
-      "guide_note": "2026-11-22: approved, 4 parts (guide/ai-chatbot-plan.md section 2, Parts 1-4 as written; Parts 5 and 6 cut; slug and paths ai-chatbot); level: Mid level; type: Tutorial, docs only; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting not answered (plan section 5), so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; every company and product named is explained at first use; [S] facts never spoken (guide/ai-chatbot-facts.md); names spoken as written, no pronunciation line; kit guide/ai-chatbot-kit, thumbnail guide/creator-thumbnails/ai-chatbot/02.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-aichatbot.md, images guide/ai-chatbot-images/CREDITS.md (the lead clears images per part). Set up 2026-11-22.",
+      "guide_note": "2026-11-22: approved, 4 parts (guide/ai-chatbot-plan.md section 2, Parts 1-4 as written; Parts 5 and 6 cut; slug and paths ai-chatbot); level: Mid level; type: Tutorial, docs only; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting: public as each part passes every gate, one at a time (autopost, Jabran 2026-11-22); Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; every company and product named is explained at first use; [S] facts never spoken (guide/ai-chatbot-facts.md); names spoken as written, no pronunciation line; kit guide/ai-chatbot-kit, thumbnail guide/creator-thumbnails/ai-chatbot/02.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-aichatbot.md, images guide/ai-chatbot-images/CREDITS.md (the lead clears images per part). Set up 2026-11-22.",
       "watermark": true
     },
     {
@@ -9527,7 +9587,7 @@
       "brand": "AI CHATBOT",
       "guide": "new",
       "title": "AI Chatbot With Dify: Build One and Put It on Your Website",
-      "guide_note": "2026-11-22: approved, 4 parts (guide/ai-chatbot-plan.md section 2, Parts 1-4 as written; Parts 5 and 6 cut; slug and paths ai-chatbot); level: Mid level; type: Tutorial, docs only; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting not answered (plan section 5), so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; every company and product named is explained at first use; [S] facts never spoken (guide/ai-chatbot-facts.md); names spoken as written, no pronunciation line; Dify's licence stated both ways, in Dify's own words (pricing page and LICENSE file), or the part is dropped; kit guide/ai-chatbot-kit, thumbnail guide/creator-thumbnails/ai-chatbot/03.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-aichatbot.md, images guide/ai-chatbot-images/CREDITS.md (the lead clears images per part). Set up 2026-11-22.",
+      "guide_note": "2026-11-22: approved, 4 parts (guide/ai-chatbot-plan.md section 2, Parts 1-4 as written; Parts 5 and 6 cut; slug and paths ai-chatbot); level: Mid level; type: Tutorial, docs only; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting: public as each part passes every gate, one at a time (autopost, Jabran 2026-11-22); Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; every company and product named is explained at first use; [S] facts never spoken (guide/ai-chatbot-facts.md); names spoken as written, no pronunciation line; Dify's licence stated both ways, in Dify's own words (pricing page and LICENSE file), or the part is dropped; kit guide/ai-chatbot-kit, thumbnail guide/creator-thumbnails/ai-chatbot/03.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-aichatbot.md, images guide/ai-chatbot-images/CREDITS.md (the lead clears images per part). Set up 2026-11-22.",
       "watermark": true
     },
     {
@@ -9537,7 +9597,67 @@
       "brand": "AI CHATBOT",
       "guide": "new",
       "title": "AI Chatbot for WhatsApp: Answer Customers Automatically",
-      "guide_note": "2026-11-22: approved, 4 parts (guide/ai-chatbot-plan.md section 2, Parts 1-4 as written; Parts 5 and 6 cut; slug and paths ai-chatbot); level: Novice; type: Tutorial; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting not answered (plan section 5), so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; every company and product named is explained at first use; [S] facts never spoken (guide/ai-chatbot-facts.md); names spoken as written, no pronunciation line; facts from the fact sheet's WhatsApp section only (its fact pass comes first); kit guide/ai-chatbot-kit, thumbnail guide/creator-thumbnails/ai-chatbot/04.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-aichatbot.md, images guide/ai-chatbot-images/CREDITS.md (the lead clears images per part). Set up 2026-11-22.",
+      "guide_note": "2026-11-22: approved, 4 parts (guide/ai-chatbot-plan.md section 2, Parts 1-4 as written; Parts 5 and 6 cut; slug and paths ai-chatbot); level: Novice; type: Tutorial; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting: public as each part passes every gate, one at a time (autopost, Jabran 2026-11-22); Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; every company and product named is explained at first use; [S] facts never spoken (guide/ai-chatbot-facts.md); names spoken as written, no pronunciation line; facts from the fact sheet's WhatsApp section only (its fact pass comes first); kit guide/ai-chatbot-kit, thumbnail guide/creator-thumbnails/ai-chatbot/04.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-aichatbot.md, images guide/ai-chatbot-images/CREDITS.md (the lead clears images per part). Set up 2026-11-22.",
+      "watermark": true
+    },
+    {
+      "name": "Claude Cowork 1 - Setup and First Task",
+      "series": "Claude Cowork",
+      "part": 1,
+      "brand": "CLAUDE COWORK",
+      "guide": "new",
+      "title": "Claude Cowork Tutorial: Set It Up and Run Your First Task (Windows and Mac)",
+      "guide_note": "2026-11-22: approved, 6 parts (guide/claude-cowork-plan.md section 3 table, titles as written; slug and paths claude-cowork); level: Novice; type: Tutorial; docs only, nothing signed up for, installed or run, every screen a drawn board labelled as drawn (the help-centre images carry only \"(c) 2026 Anthropic PBC\", no licence; facts section I) and any output labelled \"Example output\"; posting: not answered yet, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; Cowork as written (W1), H.C.S., V.M., A.P.I. dotted, no pronunciation line; prices \"was ... when checked\"; kit guide/claude-cowork-kit, thumbnail guide/creator-thumbnails/claude-cowork/01.jpg, images guide/claude-cowork-images/CREDITS.md (none cleared). Set up 2026-11-22.",
+      "watermark": true
+    },
+    {
+      "name": "Claude Cowork 2 - Fix Missing HCS on Windows",
+      "series": "Claude Cowork",
+      "part": 2,
+      "brand": "CLAUDE COWORK",
+      "guide": "new",
+      "title": "Claude Cowork Not Working on Windows? Fix \"Missing HCS Services\" and the Missing Cowork Tab",
+      "guide_note": "2026-11-22: approved, 6 parts (guide/claude-cowork-plan.md section 3 table, titles as written; slug and paths claude-cowork); level: Novice; type: Fix (short); docs only, nothing signed up for, installed or run, every screen a drawn board labelled as drawn (the help-centre images carry only \"(c) 2026 Anthropic PBC\", no licence; facts section I) and any output labelled \"Example output\"; posting: not answered yet, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; Cowork as written (W1), H.C.S., V.M., A.P.I. dotted, no pronunciation line; prices \"was ... when checked\"; kit guide/claude-cowork-kit, thumbnail guide/creator-thumbnails/claude-cowork/02.jpg, images guide/claude-cowork-images/CREDITS.md (none cleared). Set up 2026-11-22.",
+      "watermark": true
+    },
+    {
+      "name": "Claude Cowork 3 - Skills and Plugins",
+      "series": "Claude Cowork",
+      "part": 3,
+      "brand": "CLAUDE COWORK",
+      "guide": "new",
+      "title": "Claude Cowork Skills and Plugins: Add Ready-Made Skills Without Code",
+      "guide_note": "2026-11-22: approved, 6 parts (guide/claude-cowork-plan.md section 3 table, titles as written; slug and paths claude-cowork); level: Novice; type: Tutorial; docs only, nothing signed up for, installed or run, every screen a drawn board labelled as drawn (the help-centre images carry only \"(c) 2026 Anthropic PBC\", no licence; facts section I) and any output labelled \"Example output\"; posting: not answered yet, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; Cowork as written (W1), H.C.S., V.M., A.P.I. dotted, no pronunciation line; prices \"was ... when checked\"; kit guide/claude-cowork-kit, thumbnail guide/creator-thumbnails/claude-cowork/03.jpg, images guide/claude-cowork-images/CREDITS.md (none cleared). Set up 2026-11-22.",
+      "watermark": true
+    },
+    {
+      "name": "Claude Cowork 4 - Use Cases",
+      "series": "Claude Cowork",
+      "part": 4,
+      "brand": "CLAUDE COWORK",
+      "guide": "new",
+      "title": "Claude Cowork Use Cases: 5 Office Jobs It Does Well, and Where It Struggles",
+      "guide_note": "2026-11-22: approved, 6 parts (guide/claude-cowork-plan.md section 3 table, titles as written; slug and paths claude-cowork); level: Novice; type: Review / what-is; docs only, nothing signed up for, installed or run, every screen a drawn board labelled as drawn (the help-centre images carry only \"(c) 2026 Anthropic PBC\", no licence; facts section I) and any output labelled \"Example output\"; posting: not answered yet, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; Cowork as written (W1), H.C.S., V.M., A.P.I. dotted, no pronunciation line; prices \"was ... when checked\"; kit guide/claude-cowork-kit, thumbnail guide/creator-thumbnails/claude-cowork/04.jpg, images guide/claude-cowork-images/CREDITS.md (none cleared). Set up 2026-11-22.",
+      "watermark": true
+    },
+    {
+      "name": "Claude Cowork 5 - Obsidian Vault",
+      "series": "Claude Cowork",
+      "part": 5,
+      "brand": "CLAUDE COWORK",
+      "guide": "new",
+      "title": "Claude Cowork with Obsidian: Use Your Vault as a Connected Folder",
+      "guide_note": "2026-11-22: approved, 6 parts (guide/claude-cowork-plan.md section 3 table, titles as written; slug and paths claude-cowork); level: Mid level; type: Tutorial; docs only, nothing signed up for, installed or run, every screen a drawn board labelled as drawn (the help-centre images carry only \"(c) 2026 Anthropic PBC\", no licence; facts section I) and any output labelled \"Example output\"; posting: not answered yet, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; Cowork as written (W1), H.C.S., V.M., A.P.I. dotted, no pronunciation line; prices \"was ... when checked\"; kit guide/claude-cowork-kit, thumbnail guide/creator-thumbnails/claude-cowork/05.jpg, images guide/claude-cowork-images/CREDITS.md (none cleared). Set up 2026-11-22.",
+      "watermark": true
+    },
+    {
+      "name": "Claude Cowork 6 - Outlook and Microsoft 365",
+      "series": "Claude Cowork",
+      "part": 6,
+      "brand": "CLAUDE COWORK",
+      "guide": "new",
+      "title": "Claude Cowork with Outlook and Microsoft 365: Connect Your Email and Calendar",
+      "guide_note": "2026-11-22: approved, 6 parts (guide/claude-cowork-plan.md section 3 table, titles as written; slug and paths claude-cowork); level: Novice; type: Tutorial; docs only, nothing signed up for, installed or run, every screen a drawn board labelled as drawn (the help-centre images carry only \"(c) 2026 Anthropic PBC\", no licence; facts section I) and any output labelled \"Example output\"; posting: not answered yet, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; Cowork as written (W1), H.C.S., V.M., A.P.I. dotted, no pronunciation line; prices \"was ... when checked\"; kit guide/claude-cowork-kit, thumbnail guide/creator-thumbnails/claude-cowork/06.jpg, images guide/claude-cowork-images/CREDITS.md (none cleared). Set up 2026-11-22.",
       "watermark": true
     }
   ]
