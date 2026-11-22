@@ -9499,6 +9499,46 @@
       "guide_note": "2026-11-21: approved, 6 parts (guide/how-to-use-chatgpt-plan.md section 2, all 6 titles as written; slug how-to-use-chatgpt); level: Novice; type: Comparison; docs only, nothing signed up for, signed in to, installed or generated, every screen a drawn board labelled as drawn (OpenAI states no screenshot licence, facts section 7) and any output labelled \"Example output\"; posting: not answered yet, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; [S] facts never spoken; every name explained at first use; ChatGPT spoken \"Chat G P T\", GPT-6 \"G P T six\", A.I. dotted, no pronunciation line; prices \"was ... when checked\"; lead phrase \"chatgpt plus\" (228) with \"chatgpt free\" (218), \"chatgpt go\" (182) and \"chatgpt pricing\" (144); prices only as \"was ... when checked, on <date>\" from the pricing page, never the App Store prices; Plus gets Medium and High only, Pro is not unlimited GPT-6 Pro; \"free\" and \"unlimited\" only in OpenAI's words; last part: ends on the playlist or the most related video; links Claude Code vs Part 2, Gemini vs ChatGPT (Google AI Plans) and How to Use Claude Part 7; AFFIL adds Anthropic and Google; kit guide/how-to-use-chatgpt-kit, thumbnail guide/creator-thumbnails/how-to-use-chatgpt/06.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-howtousechatgpt.md, images guide/how-to-use-chatgpt-images/CREDITS.md (none cleared). Set up 2026-11-21.",
       "watermark": true,
       "generation": 4
+    },
+    {
+      "name": "AI Chatbot 1 - Which Kind to Pick",
+      "series": "AI Chatbot",
+      "part": 1,
+      "brand": "AI CHATBOT",
+      "guide": "new",
+      "title": "AI Chatbot for Your Website: How to Make One, and Which Kind to Pick",
+      "guide_note": "2026-11-22: approved, 4 parts (guide/ai-chatbot-plan.md section 2, Parts 1-4 as written; Parts 5 and 6 cut; slug and paths ai-chatbot); level: Novice; type: Tutorial by job; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting not answered (plan section 5), so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; every company and product named is explained at first use; [S] facts never spoken (guide/ai-chatbot-facts.md); names spoken as written, no pronunciation line; kit guide/ai-chatbot-kit, thumbnail guide/creator-thumbnails/ai-chatbot/01.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-aichatbot.md, images guide/ai-chatbot-images/CREDITS.md (the lead clears images per part). Set up 2026-11-22.",
+      "watermark": true
+    },
+    {
+      "name": "AI Chatbot 2 - AnythingLLM Free Chatbot",
+      "series": "AI Chatbot",
+      "part": 2,
+      "brand": "AI CHATBOT",
+      "guide": "new",
+      "title": "AI Chatbot Free: An Open-Source Chatbot That Answers From Your Documents (AnythingLLM)",
+      "guide_note": "2026-11-22: approved, 4 parts (guide/ai-chatbot-plan.md section 2, Parts 1-4 as written; Parts 5 and 6 cut; slug and paths ai-chatbot); level: Mid level; type: Tutorial, docs only; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting not answered (plan section 5), so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; every company and product named is explained at first use; [S] facts never spoken (guide/ai-chatbot-facts.md); names spoken as written, no pronunciation line; kit guide/ai-chatbot-kit, thumbnail guide/creator-thumbnails/ai-chatbot/02.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-aichatbot.md, images guide/ai-chatbot-images/CREDITS.md (the lead clears images per part). Set up 2026-11-22.",
+      "watermark": true
+    },
+    {
+      "name": "AI Chatbot 3 - Dify on Your Website",
+      "series": "AI Chatbot",
+      "part": 3,
+      "brand": "AI CHATBOT",
+      "guide": "new",
+      "title": "AI Chatbot With Dify: Build One and Put It on Your Website",
+      "guide_note": "2026-11-22: approved, 4 parts (guide/ai-chatbot-plan.md section 2, Parts 1-4 as written; Parts 5 and 6 cut; slug and paths ai-chatbot); level: Mid level; type: Tutorial, docs only; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting not answered (plan section 5), so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; every company and product named is explained at first use; [S] facts never spoken (guide/ai-chatbot-facts.md); names spoken as written, no pronunciation line; Dify's licence stated both ways, in Dify's own words (pricing page and LICENSE file), or the part is dropped; kit guide/ai-chatbot-kit, thumbnail guide/creator-thumbnails/ai-chatbot/03.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-aichatbot.md, images guide/ai-chatbot-images/CREDITS.md (the lead clears images per part). Set up 2026-11-22.",
+      "watermark": true
+    },
+    {
+      "name": "AI Chatbot 4 - WhatsApp Chatbot",
+      "series": "AI Chatbot",
+      "part": 4,
+      "brand": "AI CHATBOT",
+      "guide": "new",
+      "title": "AI Chatbot for WhatsApp: Answer Customers Automatically",
+      "guide_note": "2026-11-22: approved, 4 parts (guide/ai-chatbot-plan.md section 2, Parts 1-4 as written; Parts 5 and 6 cut; slug and paths ai-chatbot); level: Novice; type: Tutorial; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting not answered (plan section 5), so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; every company and product named is explained at first use; [S] facts never spoken (guide/ai-chatbot-facts.md); names spoken as written, no pronunciation line; facts from the fact sheet's WhatsApp section only (its fact pass comes first); kit guide/ai-chatbot-kit, thumbnail guide/creator-thumbnails/ai-chatbot/04.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-aichatbot.md, images guide/ai-chatbot-images/CREDITS.md (the lead clears images per part). Set up 2026-11-22.",
+      "watermark": true
     }
   ]
 }
