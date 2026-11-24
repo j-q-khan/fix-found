@@ -10212,6 +10212,36 @@
       "title": "OpenAI Codex CLI Tutorial: Permissions, AGENTS.md and Daily Commands",
       "guide_note": "2026-11-24: approved, 5 parts (guide/openai-codex-plan.md section 3; slug and paths openai-codex; Jabran: \"Proceed. Auto post, Docs only.\"); docs only, nothing installed, run or signed up for, every result a labelled \"Example output\" board, every screen a drawn board except the Apache-2.0 Codex CLI splash in Part 5; posting: autopost, public as each part passes every gate, one at a time; Generation 5 (no generation field: the upload stamps 5), so the series playlist and guide_playlist are set before Part 1 uploads; pronunciation: Codex, Cursor, Windsurf and GitHub as written, \"Visual Studio Code\" in full, \"agents dot M.D.\", C.L.I. and A.P.I. dotted, no samples; Free and Go only \"in the desktop app, subject to rollout\"; kit guide/openai-codex-kit, thumbnails guide/creator-thumbnails/openai-codex, images guide/openai-codex-images/CREDITS.md, writer brief guide/creator-series-kit/WRITER-BRIEF-openaicodex.md",
       "watermark": true
+    },
+    {
+      "name": "AI Game Development 1 - The Best AI Game Maker",
+      "series": "AI Game Development",
+      "part": 1,
+      "brand": "AI GAME DEVELOPMENT",
+      "guide": "new",
+      "title": "AI Game Development for Beginners: The Best AI Game Maker for Each Kind of Game",
+      "guide_note": "2026-11-24: approved, 3 parts (guide/ai-game-development-plan.md section 3; slug and paths ai-game-development); docs only, drawn boards and \"Example output\"; AUTOPOST public at the gates, one part at a time (Jabran: \"Proceed. Auto post, Docs only.\"); generation 5: no generation field, and the series playlist must exist with guide_playlist set on all 3 entries before Part 1 uploads; names spoken as written, \"Ludo dot A.I.,\" for Ludo.ai, no pronunciation line; kit guide/ai-game-development-kit, thumbnails guide/creator-thumbnails/ai-game-development, images guide/ai-game-development-images/CREDITS.md",
+      "watermark": true
+    },
+    {
+      "name": "AI Game Development 2 - Browser Game with Claude Code",
+      "series": "AI Game Development",
+      "part": 2,
+      "brand": "AI GAME DEVELOPMENT",
+      "guide": "new",
+      "title": "Claude Game Development: Build a Browser Game with Claude Code, Step by Step",
+      "guide_note": "2026-11-24: approved, 3 parts (guide/ai-game-development-plan.md section 3; slug and paths ai-game-development); docs only, drawn boards and \"Example output\"; AUTOPOST public at the gates, one part at a time (Jabran: \"Proceed. Auto post, Docs only.\"); generation 5: no generation field, and the series playlist must exist with guide_playlist set on all 3 entries before Part 1 uploads; names spoken as written, \"Ludo dot A.I.,\" for Ludo.ai, no pronunciation line; kit guide/ai-game-development-kit, thumbnails guide/creator-thumbnails/ai-game-development, images guide/ai-game-development-images/CREDITS.md",
+      "watermark": true
+    },
+    {
+      "name": "AI Game Development 3 - Unity AI Assistant and Generators",
+      "series": "AI Game Development",
+      "part": 3,
+      "brand": "AI GAME DEVELOPMENT",
+      "guide": "new",
+      "title": "Unity AI Tutorial: Unity's AI Assistant and Generators in Unity 6",
+      "guide_note": "2026-11-24: approved, 3 parts (guide/ai-game-development-plan.md section 3; slug and paths ai-game-development); docs only, drawn boards and \"Example output\"; AUTOPOST public at the gates, one part at a time (Jabran: \"Proceed. Auto post, Docs only.\"); generation 5: no generation field, and the series playlist must exist with guide_playlist set on all 3 entries before Part 1 uploads; names spoken as written, \"Ludo dot A.I.,\" for Ludo.ai, no pronunciation line; kit guide/ai-game-development-kit, thumbnails guide/creator-thumbnails/ai-game-development, images guide/ai-game-development-images/CREDITS.md",
+      "watermark": true
     }
   ]
 }
