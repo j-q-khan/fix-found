@@ -5361,7 +5361,8 @@
       "part": 6,
       "brand": "AI 3D PRINTING",
       "guide": "withdrawn",
-      "guide_claimed_on": "2026-11-01"
+      "guide_claimed_on": "2026-11-01",
+      "generation": 4
     },
     {
       "name": "AI 3D Printing 7 - Choosing a Material",
@@ -5369,7 +5370,8 @@
       "part": 7,
       "brand": "AI 3D PRINTING",
       "guide": "withdrawn",
-      "guide_claimed_on": "2026-11-01"
+      "guide_claimed_on": "2026-11-01",
+      "generation": 4
     },
     {
       "name": "AI 3D Printing 8 - Ordering from Online Print Shops",
@@ -5377,7 +5379,8 @@
       "part": 8,
       "brand": "AI 3D PRINTING",
       "guide": "withdrawn",
-      "guide_claimed_on": "2026-11-01"
+      "guide_claimed_on": "2026-11-01",
+      "generation": 4
     },
     {
       "name": "AI 3D Printing 9 - From One Print to a Product",
@@ -5385,7 +5388,8 @@
       "part": 9,
       "brand": "AI 3D PRINTING",
       "guide": "withdrawn",
-      "guide_claimed_on": "2026-11-01"
+      "guide_claimed_on": "2026-11-01",
+      "generation": 4
     },
     {
       "name": "AI Music 1 - The Whole Process",
@@ -5457,35 +5461,40 @@
       "series": "Hack Your TV with AI",
       "part": 1,
       "brand": "HACK YOUR TV",
-      "guide": "new"
+      "guide": "new",
+      "generation": 4
     },
     {
       "name": "Hack Your TV 2 - Turn Off Tracking and Ads",
       "series": "Hack Your TV with AI",
       "part": 2,
       "brand": "HACK YOUR TV",
-      "guide": "new"
+      "guide": "new",
+      "generation": 4
     },
     {
       "name": "Hack Your TV 3 - Control Your TV with Claude",
       "series": "Hack Your TV with AI",
       "part": 3,
       "brand": "HACK YOUR TV",
-      "guide": "new"
+      "guide": "new",
+      "generation": 4
     },
     {
       "name": "Hack Your TV 4 - Build Your Own Media Library",
       "series": "Hack Your TV with AI",
       "part": 4,
       "brand": "HACK YOUR TV",
-      "guide": "new"
+      "guide": "new",
+      "generation": 4
     },
     {
       "name": "Hack Your TV 5 - Ambient Lights and Automations",
       "series": "Hack Your TV with AI",
       "part": 5,
       "brand": "HACK YOUR TV",
-      "guide": "new"
+      "guide": "new",
+      "generation": 4
     },
     {
       "name": "Debloat Your TV 1 - Clean Out the Junk",
@@ -5493,35 +5502,40 @@
       "part": 1,
       "brand": "DEBLOAT YOUR TV",
       "guide": "in progress",
-      "guide_claimed_on": "2026-11-01"
+      "guide_claimed_on": "2026-11-01",
+      "generation": 4
     },
     {
       "name": "Debloat Your TV 2 - Turn Off Tracking",
       "series": "Debloat Your TV with AI",
       "part": 2,
       "brand": "DEBLOAT YOUR TV",
-      "guide": "new"
+      "guide": "new",
+      "generation": 4
     },
     {
       "name": "Debloat Your TV 3 - Delete Apps with Claude",
       "series": "Debloat Your TV with AI",
       "part": 3,
       "brand": "DEBLOAT YOUR TV",
-      "guide": "new"
+      "guide": "new",
+      "generation": 4
     },
     {
       "name": "Debloat Your TV 4 - A Clean Home Screen",
       "series": "Debloat Your TV with AI",
       "part": 4,
       "brand": "DEBLOAT YOUR TV",
-      "guide": "new"
+      "guide": "new",
+      "generation": 4
     },
     {
       "name": "Debloat Your TV 5 - Samsung LG and Roku Limits",
       "series": "Debloat Your TV with AI",
       "part": 5,
       "brand": "DEBLOAT YOUR TV",
-      "guide": "new"
+      "guide": "new",
+      "generation": 4
     },
     {
       "name": "3D Printing with AI 1 - How to Start",
@@ -6436,7 +6450,8 @@
       "brand": "OPENBAO",
       "guide": "redo",
       "guide_note": "2026-11-05 Jabran: \"Redo Vikunja and openBao\" (watch-the-best pass, then re-render)",
-      "guide_playlist": "PLFsq8_ReJxgE"
+      "guide_playlist": "PLFsq8_ReJxgE",
+      "generation": 4
     },
     {
       "name": "OpenBao 4 - OpenBao Kubernetes Secrets Tutorial",
@@ -6445,7 +6460,8 @@
       "brand": "OPENBAO",
       "guide": "redo",
       "guide_note": "2026-11-05 Jabran: \"Redo Vikunja and openBao\" (watch-the-best pass, then re-render)",
-      "guide_playlist": "PLFsq8_ReJxgE"
+      "guide_playlist": "PLFsq8_ReJxgE",
+      "generation": 4
     },
     {
       "name": "OpenBao 5 - OpenBao Dynamic Secrets for Databases",
@@ -6454,7 +6470,8 @@
       "brand": "OPENBAO",
       "guide": "redo",
       "guide_note": "2026-11-05 Jabran: \"Redo Vikunja and openBao\" (watch-the-best pass, then re-render)",
-      "guide_playlist": "PLFsq8_ReJxgE"
+      "guide_playlist": "PLFsq8_ReJxgE",
+      "generation": 4
     },
     {
       "name": "OpenBao 6 - OpenBao PKI: Run Your Own Certificate Authority",
@@ -6463,7 +6480,8 @@
       "brand": "OPENBAO",
       "guide": "redo",
       "guide_note": "2026-11-05 Jabran: \"Redo Vikunja and openBao\" (watch-the-best pass, then re-render)",
-      "guide_playlist": "PLFsq8_ReJxgE"
+      "guide_playlist": "PLFsq8_ReJxgE",
+      "generation": 4
     },
     {
       "name": "OpenBao 7 - OpenBao Transit: Encryption as a Service",
@@ -6472,7 +6490,8 @@
       "brand": "OPENBAO",
       "guide": "redo",
       "guide_note": "2026-11-05 Jabran: \"Redo Vikunja and openBao\" (watch-the-best pass, then re-render)",
-      "guide_playlist": "PLFsq8_ReJxgE"
+      "guide_playlist": "PLFsq8_ReJxgE",
+      "generation": 4
     },
     {
       "name": "OpenBao 8 - OpenBao vs Infisical",
@@ -6481,7 +6500,8 @@
       "brand": "OPENBAO",
       "guide": "redo",
       "guide_note": "2026-11-05 Jabran: \"Redo Vikunja and openBao\" (watch-the-best pass, then re-render)",
-      "guide_playlist": "PLFsq8_ReJxgE"
+      "guide_playlist": "PLFsq8_ReJxgE",
+      "generation": 4
     },
     {
       "name": "openHAB 1 - openHAB vs Home Assistant: Which Should You Use?",
@@ -6489,7 +6509,8 @@
       "part": 1,
       "brand": "OPENHAB",
       "guide": "new",
-      "guide_note": "2026-11-05 Jabran: \"yes straight public\" (guide/openhab-plan.md): after the critic and the independent quality check pass, mark render approved, upload, playlist in part order, make public"
+      "guide_note": "2026-11-05 Jabran: \"yes straight public\" (guide/openhab-plan.md): after the critic and the independent quality check pass, mark render approved, upload, playlist in part order, make public",
+      "generation": 4
     },
     {
       "name": "openHAB 2 - How to Install openHAB on a Raspberry Pi",
@@ -6497,7 +6518,8 @@
       "part": 2,
       "brand": "OPENHAB",
       "guide": "new",
-      "guide_note": "2026-11-05 Jabran: \"yes straight public\" (guide/openhab-plan.md): after the critic and the independent quality check pass, mark render approved, upload, playlist in part order, make public"
+      "guide_note": "2026-11-05 Jabran: \"yes straight public\" (guide/openhab-plan.md): after the critic and the independent quality check pass, mark render approved, upload, playlist in part order, make public",
+      "generation": 4
     },
     {
       "name": "openHAB 3 - How to Run openHAB in Docker",
@@ -6505,7 +6527,8 @@
       "part": 3,
       "brand": "OPENHAB",
       "guide": "new",
-      "guide_note": "2026-11-05 Jabran: \"yes straight public\" (guide/openhab-plan.md): after the critic and the independent quality check pass, mark render approved, upload, playlist in part order, make public"
+      "guide_note": "2026-11-05 Jabran: \"yes straight public\" (guide/openhab-plan.md): after the critic and the independent quality check pass, mark render approved, upload, playlist in part order, make public",
+      "generation": 4
     },
     {
       "name": "openHAB 4 - openHAB 5 Tutorial: Things, Items and Pages",
@@ -6513,7 +6536,8 @@
       "part": 4,
       "brand": "OPENHAB",
       "guide": "new",
-      "guide_note": "2026-11-05 Jabran: \"yes straight public\" (guide/openhab-plan.md): after the critic and the independent quality check pass, mark render approved, upload, playlist in part order, make public"
+      "guide_note": "2026-11-05 Jabran: \"yes straight public\" (guide/openhab-plan.md): after the critic and the independent quality check pass, mark render approved, upload, playlist in part order, make public",
+      "generation": 4
     },
     {
       "name": "openHAB 5 - openHAB Rules with Blockly",
@@ -6521,7 +6545,8 @@
       "part": 5,
       "brand": "OPENHAB",
       "guide": "redo",
-      "guide_note": "2026-11-06: old pre-voice render (Polly dropped \"eleven at night\"); rebuild under the new pipeline"
+      "guide_note": "2026-11-06: old pre-voice render (Polly dropped \"eleven at night\"); rebuild under the new pipeline",
+      "generation": 4
     },
     {
       "name": "openHAB 6 - openHAB MQTT and Zigbee2MQTT",
@@ -6529,7 +6554,8 @@
       "part": 6,
       "brand": "OPENHAB",
       "guide": "new",
-      "guide_note": "2026-11-05 Jabran: \"yes straight public\" (guide/openhab-plan.md): after the critic and the independent quality check pass, mark render approved, upload, playlist in part order, make public"
+      "guide_note": "2026-11-05 Jabran: \"yes straight public\" (guide/openhab-plan.md): after the critic and the independent quality check pass, mark render approved, upload, playlist in part order, make public",
+      "generation": 4
     },
     {
       "name": "openHAB 7 - openHAB Matter Bridge",
@@ -6537,7 +6563,8 @@
       "part": 7,
       "brand": "OPENHAB",
       "guide": "new",
-      "guide_note": "2026-11-05 Jabran: \"yes straight public\" (guide/openhab-plan.md): after the critic and the independent quality check pass, mark render approved, upload, playlist in part order, make public"
+      "guide_note": "2026-11-05 Jabran: \"yes straight public\" (guide/openhab-plan.md): after the critic and the independent quality check pass, mark render approved, upload, playlist in part order, make public",
+      "generation": 4
     },
     {
       "name": "openHAB 8 - openHAB Grafana Dashboard",
@@ -6545,7 +6572,8 @@
       "part": 8,
       "brand": "OPENHAB",
       "guide": "new",
-      "guide_note": "2026-11-05 Jabran: \"yes straight public\" (guide/openhab-plan.md): after the critic and the independent quality check pass, mark render approved, upload, playlist in part order, make public"
+      "guide_note": "2026-11-05 Jabran: \"yes straight public\" (guide/openhab-plan.md): after the critic and the independent quality check pass, mark render approved, upload, playlist in part order, make public",
+      "generation": 4
     },
     {
       "name": "AI CAD 1 - OpenSCAD with Claude Code",
@@ -6653,7 +6681,8 @@
       "guide": "new",
       "title": "OpenSCAD vs FreeCAD vs Fusion 360: Which for 3D Printing with AI?",
       "guide_note": "2026-11-07: titles approved (\"Now we are talking! DO THIS SERIES!!!!\", guide/ai-cad-plan.md); kit guide/ai-cad-kit, thumbnails guide/creator-thumbnails/ai-cad; the normal gates apply (critic, viewer passes, render check by the channel owner)",
-      "guide_playlist": "PLOJa0A8kpOHA"
+      "guide_playlist": "PLOJa0A8kpOHA",
+      "generation": 4
     },
     {
       "name": "Meshy AI 1 - Photo to 3D Model",
@@ -6705,7 +6734,8 @@
       "guide": "new",
       "title": "Meshy AI Multicolor 3D Printing: Split Parts and Send to Bambu Studio",
       "guide_note": "2026-11-07: titles approved per the lead's setup brief (guide/meshy-ai-plan.md); kit guide/meshy-ai-kit, thumbnails guide/creator-thumbnails/meshy-ai; the normal gates apply (critic, viewer passes, render check by the channel owner)",
-      "guide_playlist": "PLTLqiMzNRCEE"
+      "guide_playlist": "PLTLqiMzNRCEE",
+      "generation": 4
     },
     {
       "name": "Meshy AI 5 - Blender Clean Up and Fix",
@@ -6715,7 +6745,8 @@
       "guide": "new",
       "title": "Meshy AI to Blender: Clean Up and Fix an AI 3D Model",
       "guide_note": "2026-11-07: titles approved per the lead's setup brief (guide/meshy-ai-plan.md); kit guide/meshy-ai-kit, thumbnails guide/creator-thumbnails/meshy-ai; the normal gates apply (critic, viewer passes, render check by the channel owner)",
-      "guide_playlist": "PLTLqiMzNRCEE"
+      "guide_playlist": "PLTLqiMzNRCEE",
+      "generation": 4
     },
     {
       "name": "Meshy AI 6 - Rigging and Animation",
@@ -6725,7 +6756,8 @@
       "guide": "new",
       "title": "Meshy AI Rigging and Animation: Texture, Rig and Export a Character",
       "guide_note": "2026-11-07: titles approved per the lead's setup brief (guide/meshy-ai-plan.md); kit guide/meshy-ai-kit, thumbnails guide/creator-thumbnails/meshy-ai; the normal gates apply (critic, viewer passes, render check by the channel owner)",
-      "guide_playlist": "PLTLqiMzNRCEE"
+      "guide_playlist": "PLTLqiMzNRCEE",
+      "generation": 4
     },
     {
       "name": "Meshy AI 7 - Meshy MCP Server with Claude Code",
@@ -6735,7 +6767,8 @@
       "guide": "new",
       "title": "Meshy MCP Server: Make 3D Models from Claude Code",
       "guide_note": "2026-11-07: titles approved per the lead's setup brief (guide/meshy-ai-plan.md); kit guide/meshy-ai-kit, thumbnails guide/creator-thumbnails/meshy-ai; the normal gates apply (critic, viewer passes, render check by the channel owner)",
-      "guide_playlist": "PLTLqiMzNRCEE"
+      "guide_playlist": "PLTLqiMzNRCEE",
+      "generation": 4
     },
     {
       "name": "Meshy AI 8 - Meshy vs Tripo vs Hunyuan3D",
@@ -6745,7 +6778,8 @@
       "guide": "new",
       "title": "Meshy vs Tripo vs Hunyuan3D: Best AI 3D Generator for 3D Printing?",
       "guide_note": "2026-11-07: titles approved per the lead's setup brief (guide/meshy-ai-plan.md); kit guide/meshy-ai-kit, thumbnails guide/creator-thumbnails/meshy-ai; the normal gates apply (critic, viewer passes, render check by the channel owner)",
-      "guide_playlist": "PLTLqiMzNRCEE"
+      "guide_playlist": "PLTLqiMzNRCEE",
+      "generation": 4
     },
     {
       "name": "Blender MCP 1 - Explained",
@@ -9476,11 +9510,12 @@
       "series": "Agentic AI",
       "part": 2,
       "brand": "AGENTIC AI",
-      "guide": "render check",
+      "guide": "render approved",
       "title": "Agentic Workflow Explained: Workflows vs Agents, With Real Examples",
       "guide_note": "2026-11-21: approved, 4 parts (guide/agentic-ai-plan.md section 1, all 4 titles as written; slug agentic-ai); level: Novice; type: Explainer; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\" (hands-on testing not approved); posting: autopost public at the gates, one at a time (Jabran, 2026-11-21); Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; [S] facts (the Google Cloud pages) never spoken; every company and product name explained at first use; ChatGPT Work (never \"ChatGPT agent\"); A.I. dotted, ChatGPT spoken \"Chat G P T\", other names as written, no pronunciation line; AFFIL names Anthropic, OpenAI, Microsoft, GitHub, Google and the Linux Foundation; angle: Anthropic's workflows-vs-agents line and its five patterns, links AI Automation with n8n and Microsoft Copilot; kit guide/agentic-ai-kit, thumbnail guide/creator-thumbnails/agentic-ai/02.jpg, images guide/agentic-ai-images/CREDITS.md (the lead clears images per part), writer brief guide/creator-series-kit/WRITER-BRIEF-agenticai.md. Set up 2026-11-21.",
       "watermark": true,
-      "generation": 4
+      "generation": 4,
+      "notes": "2026-11-24: gates passed (critic, viewer pass + re-check, render QA, final MP4 pass); render approved under the autopost-at-gates rule (Jabran, 2026-11-21)."
     },
     {
       "name": "Agentic AI 3 - Agentic AI Examples to Try Today",
@@ -9941,6 +9976,17 @@
       "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
+      "name": "LLM 6 - LLM Agents Explained",
+      "series": "LLM",
+      "part": 6,
+      "brand": "LLM",
+      "guide": "render check",
+      "title": "LLM Agents Explained: How an LLM Becomes an Autonomous Agent",
+      "guide_note": "level: Novice to Mid level; type: Explainer (docs only); 2026-11-24: bonus Part 6 added (guide/llm-plan.md section 8, Jabran picked \"LLM Part 6\"; working title, the writer may tighten it within the same phrase); slug llm-6-llm-agents-explained; docs only, nothing signed up for, installed, cloned or run; every screen a real screenshot from guide/llm-images/CREDITS.md or a drawn board labelled as drawn, any output labelled \"Example output\"; Weng's \"LLM Powered Autonomous Agents\" credited to her by name, her figures shown only if licensed; doesn't repeat Build AI Agents or Agentic AI; posting: auto post when every gate passes, joins the LLM playlist; Generation 4 (RULEBOOK Generation 4 block); \"L.L.M.\" letter by letter, names as written, no pronunciation line; [S] facts never spoken; prices \"was ... when checked\"; kit guide/llm-kit, thumbnail guide/creator-thumbnails/llm/06.jpg (badge \"BONUS PART\"), facts guide/llm-facts.md. Set up 2026-11-24.",
+      "watermark": true,
+      "generation": 4
+    },
+    {
       "name": "AI Video 1 - Best AI Video Maker for Each Job",
       "series": "AI Video",
       "part": 1,
@@ -10005,9 +10051,9 @@
       "series": "Google AI",
       "part": 1,
       "brand": "GOOGLE AI",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Google AI Mode: How to Use It in Search (and Delete Its History)",
-      "guide_note": "2026-11-24: approved, 3 parts (guide/google-ai-plan.md section 2; slug and paths google-ai; Jabran: \"OK / docs only / auto post\"); docs only, nothing signed in to, signed up for, installed or run, every AI Mode answer or overview a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; pronunciation: Google, Gemini, Chrome, Android, Coursera as written, A.I. dotted; kit guide/google-ai-kit, thumbnails guide/creator-thumbnails/google-ai, writer brief guide/creator-series-kit/WRITER-BRIEF-googleai.md, images guide/google-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "guide_note": "2026-11-24: approved, 3 parts (guide/google-ai-plan.md section 2; slug and paths google-ai; Jabran: \"OK / docs only / auto post\"); docs only, nothing signed in to, signed up for, installed or run, every AI Mode answer or overview a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; pronunciation: Google, Gemini, Chrome, Android, Coursera as written, A.I. dotted; kit guide/google-ai-kit, thumbnails guide/creator-thumbnails/google-ai, writer brief guide/creator-series-kit/WRITER-BRIEF-googleai.md, images guide/google-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board) | 2026-11-24: every gate passed (critic, pre-render viewer, QA, final MP4 pass); render approved under his standing autopost OK for this series.",
       "watermark": true,
       "generation": 4
     },
@@ -10016,9 +10062,9 @@
       "series": "Google AI",
       "part": 2,
       "brand": "GOOGLE AI",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Google AI Overviews: Can You Turn Them Off? How to Get Plain Results",
-      "guide_note": "2026-11-24: approved, 3 parts (guide/google-ai-plan.md section 2; slug and paths google-ai; Jabran: \"OK / docs only / auto post\"); docs only, nothing signed in to, signed up for, installed or run, every AI Mode answer or overview a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; pronunciation: Google, Gemini, Chrome, Android, Coursera as written, A.I. dotted; kit guide/google-ai-kit, thumbnails guide/creator-thumbnails/google-ai, writer brief guide/creator-series-kit/WRITER-BRIEF-googleai.md, images guide/google-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "guide_note": "2026-11-24: approved, 3 parts (guide/google-ai-plan.md section 2; slug and paths google-ai; Jabran: \"OK / docs only / auto post\"); docs only, nothing signed in to, signed up for, installed or run, every AI Mode answer or overview a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; pronunciation: Google, Gemini, Chrome, Android, Coursera as written, A.I. dotted; kit guide/google-ai-kit, thumbnails guide/creator-thumbnails/google-ai, writer brief guide/creator-series-kit/WRITER-BRIEF-googleai.md, images guide/google-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board) | 2026-11-24: Part 2 passed every gate (critic, pre-render viewer, QA, final MP4 pass); render approved under his standing autopost OK.",
       "watermark": true,
       "generation": 4
     },
@@ -10027,9 +10073,9 @@
       "series": "Google AI",
       "part": 3,
       "brand": "GOOGLE AI",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Google AI Essentials: Is the Course Worth It? Cost, Length and Certificate",
-      "guide_note": "2026-11-24: approved, 3 parts (guide/google-ai-plan.md section 2; slug and paths google-ai; Jabran: \"OK / docs only / auto post\"); docs only, nothing signed in to, signed up for, installed or run, every AI Mode answer or overview a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; pronunciation: Google, Gemini, Chrome, Android, Coursera as written, A.I. dotted; kit guide/google-ai-kit, thumbnails guide/creator-thumbnails/google-ai, writer brief guide/creator-series-kit/WRITER-BRIEF-googleai.md, images guide/google-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "guide_note": "2026-11-24: approved, 3 parts (guide/google-ai-plan.md section 2; slug and paths google-ai; Jabran: \"OK / docs only / auto post\"); docs only, nothing signed in to, signed up for, installed or run, every AI Mode answer or overview a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; pronunciation: Google, Gemini, Chrome, Android, Coursera as written, A.I. dotted; kit guide/google-ai-kit, thumbnails guide/creator-thumbnails/google-ai, writer brief guide/creator-series-kit/WRITER-BRIEF-googleai.md, images guide/google-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board) | 2026-11-24: Part 3 passed every gate (critic, pre-render viewer, QA, final MP4 pass); render approved under his standing autopost OK.",
       "watermark": true,
       "generation": 4
     },
@@ -10038,7 +10084,7 @@
       "series": "AI App Builder",
       "part": 1,
       "brand": "AI APP BUILDER",
-      "guide": "new",
+      "guide": "render approved",
       "title": "AI App Builder: Replit, Bolt or Base44? Which One to Use for Your App",
       "guide_note": "2026-11-24: approved, 4 parts (guide/ai-app-builder-plan.md section 2; slug and paths ai-app-builder; Jabran: \"Approved. Go for it. Docs only, autopost\"); docs only, nothing signed up for, installed, run, built or published, every app or result a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; pronunciation: Base44, Replit and Bolt.new pending Jabran's pick (written as written for now); Replit free plan: never say \"free plan\" until replit.com/pricing shows one (fact 0.4); kit guide/ai-app-builder-kit, thumbnails guide/creator-thumbnails/ai-app-builder, writer brief guide/creator-series-kit/WRITER-BRIEF-aiappbuilder.md, images guide/ai-app-builder-images/CREDITS.md",
       "watermark": true,
@@ -10049,7 +10095,7 @@
       "series": "AI App Builder",
       "part": 2,
       "brand": "AI APP BUILDER",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Replit Tutorial: Build Your First App With Replit Agent 4",
       "guide_note": "2026-11-24: approved, 4 parts (guide/ai-app-builder-plan.md section 2; slug and paths ai-app-builder; Jabran: \"Approved. Go for it. Docs only, autopost\"); docs only, nothing signed up for, installed, run, built or published, every app or result a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; pronunciation: Base44, Replit and Bolt.new pending Jabran's pick (written as written for now); Replit free plan: never say \"free plan\" until replit.com/pricing shows one (fact 0.4); kit guide/ai-app-builder-kit, thumbnails guide/creator-thumbnails/ai-app-builder, writer brief guide/creator-series-kit/WRITER-BRIEF-aiappbuilder.md, images guide/ai-app-builder-images/CREDITS.md",
       "watermark": true,
