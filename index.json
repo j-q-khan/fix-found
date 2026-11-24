@@ -9603,7 +9603,8 @@
       "guide_youtube_url": "https://youtu.be/uF_fVX9AZhM",
       "guide_uploaded_on": "2026-11-23",
       "generation": 4,
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "guide_playlist": "PLIjID-D-HZ8w"
     },
     {
       "name": "AI Chatbot 2 - AnythingLLM Free Chatbot",
@@ -9617,28 +9618,38 @@
       "guide_youtube_url": "https://youtu.be/DcrtaZmY8Yk",
       "guide_uploaded_on": "2026-11-23",
       "generation": 4,
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "guide_playlist": "PLIjID-D-HZ8w"
     },
     {
       "name": "AI Chatbot 3 - Dify on Your Website",
       "series": "AI Chatbot",
       "part": 3,
       "brand": "AI CHATBOT",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "AI Chatbot With Dify: Build One and Put It on Your Website",
       "guide_note": "2026-11-22: approved, 4 parts (guide/ai-chatbot-plan.md section 2, Parts 1-4 as written; Parts 5 and 6 cut; slug and paths ai-chatbot); level: Mid level; type: Tutorial, docs only; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting: public as each part passes every gate, one at a time (autopost, Jabran 2026-11-22); Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; every company and product named is explained at first use; [S] facts never spoken (guide/ai-chatbot-facts.md); names spoken as written, no pronunciation line; Dify's licence stated both ways, in Dify's own words (pricing page and LICENSE file), or the part is dropped; kit guide/ai-chatbot-kit, thumbnail guide/creator-thumbnails/ai-chatbot/03.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-aichatbot.md, images guide/ai-chatbot-images/CREDITS.md (the lead clears images per part). Set up 2026-11-22. 2026-11-23 autopost: critic (re-run), viewer pass (re-pass), QA and final MP4 pass all PASS.",
       "watermark": true,
-      "generation": 4
+      "generation": 4,
+      "guide_youtube_url": "https://youtu.be/m0fk8q0JZas",
+      "guide_uploaded_on": "2026-11-24",
+      "guide_visibility": "public",
+      "guide_playlist": "PLIjID-D-HZ8w"
     },
     {
       "name": "AI Chatbot 4 - WhatsApp Chatbot",
       "series": "AI Chatbot",
       "part": 4,
       "brand": "AI CHATBOT",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "AI Chatbot for WhatsApp: Answer Customers Automatically",
       "guide_note": "2026-11-22: approved, 4 parts (guide/ai-chatbot-plan.md section 2, Parts 1-4 as written; Parts 5 and 6 cut; slug and paths ai-chatbot); level: Novice; type: Tutorial; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting: public as each part passes every gate, one at a time (autopost, Jabran 2026-11-22); Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; every company and product named is explained at first use; [S] facts never spoken (guide/ai-chatbot-facts.md); names spoken as written, no pronunciation line; facts from the fact sheet's WhatsApp section only (its fact pass comes first); kit guide/ai-chatbot-kit, thumbnail guide/creator-thumbnails/ai-chatbot/04.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-aichatbot.md, images guide/ai-chatbot-images/CREDITS.md (the lead clears images per part). Set up 2026-11-22. 2026-11-23 autopost: critic (re-run), viewer pass (re-pass), QA and final MP4 pass all PASS (description playlist link added by the playlist + pathways step).",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/m7_aTVPNhx4",
+      "guide_uploaded_on": "2026-11-24",
+      "generation": 4,
+      "guide_visibility": "public",
+      "guide_playlist": "PLIjID-D-HZ8w"
     },
     {
       "name": "Claude Cowork 1 - Setup and First Task",
@@ -9793,12 +9804,15 @@
       "series": "AI Assistant",
       "part": 1,
       "brand": "AI ASSISTANT",
-      "guide": "render approved",
+      "guide": "uploaded private",
       "title": "AI Assistant Apps: Which One Should You Use? ChatGPT, Gemini, Claude, Copilot or Siri",
       "guide_note": "level: Novice; type: Comparison by job; 2026-11-23: approved, 4 parts (guide/ai-assistant-plan.md section 2, titles as written, Part 2 option A; slug and paths ai-assistant); docs only, nothing signed up for, installed, run or downloaded; every open-source project read as text only (licence, last release, what it can reach); every screen a real screenshot from guide/ai-assistant-images/CREDITS.md or a drawn board labelled as drawn, any output labelled \"Example output\"; posting: AUTOPOST public at the gates, one part at a time (Jabran 2026-11-23 \"Auto post\"); Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; A.I., P.C. dotted, ChatGPT spoken \"Chat G P T\", names as written, no pronunciation line; [S] facts never spoken; prices \"was ... when checked\"; no \"free\" claim without the maker's own word; kit guide/ai-assistant-kit, thumbnail guide/creator-thumbnails/ai-assistant/01.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-aiassistant.md. Set up 2026-11-23.",
       "watermark": true,
       "generation": 4,
-      "guide_playlist": ""
+      "guide_playlist": "",
+      "guide_youtube_url": "https://youtu.be/9HKNq-QEf3M",
+      "guide_uploaded_on": "2026-11-24",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "AI Assistant 2 - Jarvis on Your PC",
@@ -9841,10 +9855,14 @@
       "series": "LLM",
       "part": 1,
       "brand": "LLM",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "LLM Explained: What Is an LLM and How Does It Really Work?",
       "guide_note": "level: Novice; type: Explainer; 2026-11-23: approved, 5 parts (guide/llm-plan.md section 2, titles as written, Parts 2 and 5 kept, no person name in titles; slug and paths llm); docs only, nothing signed up for, installed, cloned or run; every screen a real screenshot from guide/llm-images/CREDITS.md or a drawn board labelled as drawn, any output labelled \"Example output\"; posting not answered, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); \"L.L.M.\" letter by letter, names as written, no pronunciation line; [S] facts never spoken; prices \"was ... when checked\"; community repos named with their makers, never as Karpathy's or a vendor's; kit guide/llm-kit, thumbnail guide/creator-thumbnails/llm/01.jpg, facts guide/llm-facts.md. Set up 2026-11-23.",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/AaUkHED1kqg",
+      "guide_uploaded_on": "2026-11-24",
+      "generation": 4,
+      "guide_visibility": "public"
     },
     {
       "name": "LLM 2 - How LLMs are trained",
@@ -9881,7 +9899,7 @@
       "series": "LLM",
       "part": 5,
       "brand": "LLM",
-      "guide": "new",
+      "guide": "render approved",
       "title": "LLM Council: Ask Several AI Models, Then Let Them Judge Each Other",
       "guide_note": "level: Mid level; type: Tutorial (docs only); 2026-11-23: approved, 5 parts (guide/llm-plan.md section 2, titles as written, Parts 2 and 5 kept, no person name in titles; slug and paths llm); docs only, nothing signed up for, installed, cloned or run; every screen a real screenshot from guide/llm-images/CREDITS.md or a drawn board labelled as drawn, any output labelled \"Example output\"; posting not answered, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); \"L.L.M.\" letter by letter, names as written, no pronunciation line; [S] facts never spoken; prices \"was ... when checked\"; community repos named with their makers, never as Karpathy's or a vendor's; kit guide/llm-kit, thumbnail guide/creator-thumbnails/llm/05.jpg, facts guide/llm-facts.md. Set up 2026-11-23.",
       "watermark": true
@@ -9891,44 +9909,60 @@
       "series": "AI Video",
       "part": 1,
       "brand": "AI VIDEO",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "AI Video Generator: The Best AI Video Maker for Each Job",
       "guide_note": "2026-11-23: approved, 4 parts (guide/ai-video-plan.md section 4; slug and paths ai-video); docs only, nothing signed up for, installed, run or generated, every generated clip a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; pronunciation: Kling and Hailuo pending Jabran's pick (written as written for now); kit guide/ai-video-kit, thumbnails guide/creator-thumbnails/ai-video, writer brief guide/creator-series-kit/WRITER-BRIEF-aivideo.md, images guide/ai-video-images/CREDITS.md",
       "watermark": true,
-      "generation": 4
+      "generation": 4,
+      "guide_youtube_url": "https://youtu.be/LIIVgi7Z-mg",
+      "guide_uploaded_on": "2026-11-24",
+      "guide_visibility": "public",
+      "guide_playlist": "PLRW1tcZ_NBIo"
     },
     {
       "name": "AI Video 2 - Image to Video Step by Step",
       "series": "AI Video",
       "part": 2,
       "brand": "AI VIDEO",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "AI Video Generator from Image: Image to Video AI, Step by Step",
       "guide_note": "2026-11-23: approved, 4 parts (guide/ai-video-plan.md section 4; slug and paths ai-video); docs only, nothing signed up for, installed, run or generated, every generated clip a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; pronunciation: Kling and Hailuo pending Jabran's pick (written as written for now); kit guide/ai-video-kit, thumbnails guide/creator-thumbnails/ai-video, writer brief guide/creator-series-kit/WRITER-BRIEF-aivideo.md, images guide/ai-video-images/CREDITS.md",
       "watermark": true,
-      "generation": 4
+      "generation": 4,
+      "guide_youtube_url": "https://youtu.be/Oapo5S-EcpE",
+      "guide_uploaded_on": "2026-11-24",
+      "guide_visibility": "public",
+      "guide_playlist": "PLRW1tcZ_NBIo"
     },
     {
       "name": "AI Video 3 - What the Free Plans Really Give",
       "series": "AI Video",
       "part": 3,
       "brand": "AI VIDEO",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "AI Video Free: What the Free AI Video Generators Really Give You",
       "guide_note": "2026-11-23: approved, 4 parts (guide/ai-video-plan.md section 4; slug and paths ai-video); docs only, nothing signed up for, installed, run or generated, every generated clip a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; pronunciation: Kling and Hailuo pending Jabran's pick (written as written for now); kit guide/ai-video-kit, thumbnails guide/creator-thumbnails/ai-video, writer brief guide/creator-series-kit/WRITER-BRIEF-aivideo.md, images guide/ai-video-images/CREDITS.md",
       "watermark": true,
-      "generation": 4
+      "generation": 4,
+      "guide_youtube_url": "https://youtu.be/7t6gY7QhC5A",
+      "guide_uploaded_on": "2026-11-24",
+      "guide_visibility": "public",
+      "guide_playlist": "PLRW1tcZ_NBIo"
     },
     {
       "name": "AI Video 4 - Kling AI Tutorial",
       "series": "AI Video",
       "part": 4,
       "brand": "AI VIDEO",
-      "guide": "new",
+      "guide": "posted",
       "title": "Kling AI Tutorial: Text to Video, Image to Video and Motion Control",
       "guide_note": "2026-11-23: approved, 4 parts (guide/ai-video-plan.md section 4; slug and paths ai-video); docs only, nothing signed up for, installed, run or generated, every generated clip a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; pronunciation: Kling and Hailuo pending Jabran's pick (written as written for now); kit guide/ai-video-kit, thumbnails guide/creator-thumbnails/ai-video, writer brief guide/creator-series-kit/WRITER-BRIEF-aivideo.md, images guide/ai-video-images/CREDITS.md",
       "watermark": true,
-      "generation": 4
+      "generation": 4,
+      "guide_youtube_url": "https://youtu.be/H775fTHOc38",
+      "guide_uploaded_on": "2026-11-24",
+      "guide_visibility": "public",
+      "guide_playlist": "PLRW1tcZ_NBIo"
     }
   ]
 }
