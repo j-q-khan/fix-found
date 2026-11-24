@@ -10162,6 +10162,56 @@
       "title": "Claude Agents in Cowork: Sub-agents and Scheduled Tasks for Business Work",
       "guide_note": "2026-11-24: approved, 4 parts (guide/claude-agents-plan.md section 2; slug and paths claude-agents; Jabran: \"Proceed. Auto post. Docs only.\"); docs only, nothing installed, run or signed up for, every result a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; Generation 5 (no generation field: the upload stamps 5), so the series playlist and guide_playlist are set before Part 1 uploads; pronunciation: Claude, Claude Code and Cowork as written, \"agents dot M.D.\", \"Claude dot M.D.\", S.D.K., A.I., M.C.P. dotted; tmux pending Jabran's pick from renders/voice-samples/claude-agents/; kit guide/claude-agents-kit, thumbnails guide/creator-thumbnails/claude-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeagents.md, facts guide/claude-agents-facts.md, images guide/claude-agents-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
       "watermark": true
+    },
+    {
+      "name": "OpenAI Codex 1 - Which Codex to Start With",
+      "series": "OpenAI Codex",
+      "part": 1,
+      "brand": "OPENAI CODEX",
+      "guide": "new",
+      "title": "How to Use OpenAI Codex: Tutorial for Beginners (Which One to Start With)",
+      "guide_note": "2026-11-24: approved, 5 parts (guide/openai-codex-plan.md section 3; slug and paths openai-codex; Jabran: \"Proceed. Auto post, Docs only.\"); docs only, nothing installed, run or signed up for, every result a labelled \"Example output\" board, every screen a drawn board except the Apache-2.0 Codex CLI splash in Part 5; posting: autopost, public as each part passes every gate, one at a time; Generation 5 (no generation field: the upload stamps 5), so the series playlist and guide_playlist are set before Part 1 uploads; pronunciation: Codex, Cursor, Windsurf and GitHub as written, \"Visual Studio Code\" in full, \"agents dot M.D.\", C.L.I. and A.P.I. dotted, no samples; Free and Go only \"in the desktop app, subject to rollout\"; kit guide/openai-codex-kit, thumbnails guide/creator-thumbnails/openai-codex, images guide/openai-codex-images/CREDITS.md, writer brief guide/creator-series-kit/WRITER-BRIEF-openaicodex.md",
+      "watermark": true
+    },
+    {
+      "name": "OpenAI Codex 2 - Codex App in the ChatGPT Desktop App",
+      "series": "OpenAI Codex",
+      "part": 2,
+      "brand": "OPENAI CODEX",
+      "guide": "new",
+      "title": "OpenAI Codex App Tutorial: Use Codex in the ChatGPT Desktop App",
+      "guide_note": "2026-11-24: approved, 5 parts (guide/openai-codex-plan.md section 3; slug and paths openai-codex; Jabran: \"Proceed. Auto post, Docs only.\"); docs only, nothing installed, run or signed up for, every result a labelled \"Example output\" board, every screen a drawn board except the Apache-2.0 Codex CLI splash in Part 5; posting: autopost, public as each part passes every gate, one at a time; Generation 5 (no generation field: the upload stamps 5), so the series playlist and guide_playlist are set before Part 1 uploads; pronunciation: Codex, Cursor, Windsurf and GitHub as written, \"Visual Studio Code\" in full, \"agents dot M.D.\", C.L.I. and A.P.I. dotted, no samples; Free and Go only \"in the desktop app, subject to rollout\"; kit guide/openai-codex-kit, thumbnails guide/creator-thumbnails/openai-codex, images guide/openai-codex-images/CREDITS.md, writer brief guide/creator-series-kit/WRITER-BRIEF-openaicodex.md",
+      "watermark": true
+    },
+    {
+      "name": "OpenAI Codex 3 - Codex Cloud Task to Pull Request",
+      "series": "OpenAI Codex",
+      "part": 3,
+      "brand": "OPENAI CODEX",
+      "guide": "new",
+      "title": "ChatGPT Codex Cloud: Run a Task on Your GitHub Repo and Open a Pull Request",
+      "guide_note": "2026-11-24: approved, 5 parts (guide/openai-codex-plan.md section 3; slug and paths openai-codex; Jabran: \"Proceed. Auto post, Docs only.\"); docs only, nothing installed, run or signed up for, every result a labelled \"Example output\" board, every screen a drawn board except the Apache-2.0 Codex CLI splash in Part 5; posting: autopost, public as each part passes every gate, one at a time; Generation 5 (no generation field: the upload stamps 5), so the series playlist and guide_playlist are set before Part 1 uploads; pronunciation: Codex, Cursor, Windsurf and GitHub as written, \"Visual Studio Code\" in full, \"agents dot M.D.\", C.L.I. and A.P.I. dotted, no samples; Free and Go only \"in the desktop app, subject to rollout\"; kit guide/openai-codex-kit, thumbnails guide/creator-thumbnails/openai-codex, images guide/openai-codex-images/CREDITS.md, writer brief guide/creator-series-kit/WRITER-BRIEF-openaicodex.md",
+      "watermark": true
+    },
+    {
+      "name": "OpenAI Codex 4 - Codex in VS Code",
+      "series": "OpenAI Codex",
+      "part": 4,
+      "brand": "OPENAI CODEX",
+      "guide": "new",
+      "title": "OpenAI Codex in VS Code: Set Up the Extension and Make Your First Change",
+      "guide_note": "2026-11-24: approved, 5 parts (guide/openai-codex-plan.md section 3; slug and paths openai-codex; Jabran: \"Proceed. Auto post, Docs only.\"); docs only, nothing installed, run or signed up for, every result a labelled \"Example output\" board, every screen a drawn board except the Apache-2.0 Codex CLI splash in Part 5; posting: autopost, public as each part passes every gate, one at a time; Generation 5 (no generation field: the upload stamps 5), so the series playlist and guide_playlist are set before Part 1 uploads; pronunciation: Codex, Cursor, Windsurf and GitHub as written, \"Visual Studio Code\" in full, \"agents dot M.D.\", C.L.I. and A.P.I. dotted, no samples; Free and Go only \"in the desktop app, subject to rollout\"; kit guide/openai-codex-kit, thumbnails guide/creator-thumbnails/openai-codex, images guide/openai-codex-images/CREDITS.md, writer brief guide/creator-series-kit/WRITER-BRIEF-openaicodex.md",
+      "watermark": true
+    },
+    {
+      "name": "OpenAI Codex 5 - Codex CLI Permissions and AGENTS.md",
+      "series": "OpenAI Codex",
+      "part": 5,
+      "brand": "OPENAI CODEX",
+      "guide": "new",
+      "title": "OpenAI Codex CLI Tutorial: Permissions, AGENTS.md and Daily Commands",
+      "guide_note": "2026-11-24: approved, 5 parts (guide/openai-codex-plan.md section 3; slug and paths openai-codex; Jabran: \"Proceed. Auto post, Docs only.\"); docs only, nothing installed, run or signed up for, every result a labelled \"Example output\" board, every screen a drawn board except the Apache-2.0 Codex CLI splash in Part 5; posting: autopost, public as each part passes every gate, one at a time; Generation 5 (no generation field: the upload stamps 5), so the series playlist and guide_playlist are set before Part 1 uploads; pronunciation: Codex, Cursor, Windsurf and GitHub as written, \"Visual Studio Code\" in full, \"agents dot M.D.\", C.L.I. and A.P.I. dotted, no samples; Free and Go only \"in the desktop app, subject to rollout\"; kit guide/openai-codex-kit, thumbnails guide/creator-thumbnails/openai-codex, images guide/openai-codex-images/CREDITS.md, writer brief guide/creator-series-kit/WRITER-BRIEF-openaicodex.md",
+      "watermark": true
     }
   ]
 }
