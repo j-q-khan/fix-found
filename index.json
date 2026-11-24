@@ -9447,12 +9447,15 @@
       "series": "AI Tools",
       "part": 3,
       "brand": "AI TOOLS",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "AI Tools for Business: The Ones Worth Paying For",
       "guide_note": "2026-11-21: approved, 3 parts (guide/ai-tools-plan.md section 2, all 3 titles as written; slug ai-tools); level: Novice; type: Tutorial; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\"; posting: not answered yet, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; prices as \"was ... when checked\", \"free\" only in the maker's own words, no referral links, no income claims; AFFIL names OpenAI, Anthropic, Google, Microsoft, Perplexity, Notion and Canva; A.I. dotted, ChatGPT spoken \"Chat G P T\", other names as written, no pronunciation line; files to copy: the \"first week with A.I. at work\" checklist; kit guide/ai-tools-kit, thumbnail guide/creator-thumbnails/ai-tools/03.jpg, images guide/ai-tools-images/CREDITS.md (the lead clears images per part). Set up 2026-11-21. 2026-11-21 Part 3: viewer pre-render FAIL (Microsoft $18 offer wording on 02b, 05f, T2) fixed, re-check PASS, QA and post-render checks PASS, final MP4 PASS; render approved under his autopost rule (public at the gates).",
       "watermark": true,
       "generation": 4,
-      "guide_playlist": "PLPVZltVqPUqQ"
+      "guide_playlist": "PLPVZltVqPUqQ",
+      "guide_youtube_url": "https://youtu.be/46gcGna7FxQ",
+      "guide_uploaded_on": "2026-11-24",
+      "guide_visibility": "public"
     },
     {
       "name": "Agentic AI 1 - Agentic AI Explained",
@@ -9746,20 +9749,30 @@
       "series": "AI Engineer",
       "part": 1,
       "brand": "AI ENGINEER",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "AI Engineer Roadmap 2026: How to Become an AI Engineer, Skills in Order",
       "guide_note": "2026-11-22: approved, 2 parts (guide/ai-engineer-plan.md section 2 rows 1 and 2, titles as written; Part 3 cut; slug and paths ai-engineer); level: Novice; type: Explainer / roadmap; docs only, nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot cleared) and any output labelled \"Example output\"; posting: AUTOPOST public at the gates, one part at a time (Jabran 2026-11-22 \"Auto post\"); Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; A.I., A.P.I., R.A.G., M.L., L.L.M. dotted, names as written, no pronunciation line; course costs in the providers' own words, \"was ... when checked\"; no salary claims; kit guide/ai-engineer-kit, thumbnail guide/creator-thumbnails/ai-engineer/01.jpg, images guide/ai-engineer-images/CREDITS.md (none cleared). Set up 2026-11-22. 2026-11-22: all gates passed (critic, pre-render viewer pass after one narrow fix, final MP4 pass); render approved under the series' autopost rule (Jabran 2026-11-22 \"Auto post\").",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/gioYvIXSv3k",
+      "guide_uploaded_on": "2026-11-24",
+      "generation": 4,
+      "guide_visibility": "public",
+      "guide_playlist": "PLDhlGkI6rICw"
     },
     {
       "name": "AI Engineer 2 - Free Courses",
       "series": "AI Engineer",
       "part": 2,
       "brand": "AI ENGINEER",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "AI Engineer Course Guide: The Free Courses Worth Your Time in 2026",
       "guide_note": "2026-11-22: approved, 2 parts (guide/ai-engineer-plan.md section 2 rows 1 and 2, titles as written; Part 3 cut; slug and paths ai-engineer); level: Novice; type: Comparison; docs only, nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot cleared) and any output labelled \"Example output\"; posting: AUTOPOST public at the gates, one part at a time (Jabran 2026-11-22 \"Auto post\"); Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; A.I., A.P.I., R.A.G., M.L., L.L.M. dotted, names as written, no pronunciation line; course costs in the providers' own words, \"was ... when checked\"; no salary claims; kit guide/ai-engineer-kit, thumbnail guide/creator-thumbnails/ai-engineer/02.jpg, images guide/ai-engineer-images/CREDITS.md (none cleared). Set up 2026-11-22. 2026-11-22: all gates passed (critic, pre-render viewer pass after one opening trim and 7 board fixes, final MP4 pass); render approved under the series' autopost rule (Jabran 2026-11-22 \"Auto post\").",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/xq1b8PDx5mM",
+      "guide_uploaded_on": "2026-11-24",
+      "generation": 4,
+      "guide_visibility": "public",
+      "guide_playlist": "PLDhlGkI6rICw"
     },
     {
       "name": "Claude API 1 - Key",
@@ -9773,7 +9786,8 @@
       "guide_youtube_url": "https://youtu.be/1MLvJcpxqdM",
       "guide_uploaded_on": "2026-11-23",
       "generation": 4,
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "guide_playlist": "PLNoSQvycHLZA"
     },
     {
       "name": "Claude API 2 - Pricing",
@@ -9787,24 +9801,30 @@
       "guide_youtube_url": "https://youtu.be/BMp1V7HbaIg",
       "guide_uploaded_on": "2026-11-23",
       "generation": 4,
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_playlist": "PLNoSQvycHLZA"
     },
     {
       "name": "Claude API 3 - First Python call",
       "series": "Claude API",
       "part": 3,
       "brand": "CLAUDE API",
-      "guide": "render approved",
+      "guide": "uploaded private",
       "title": "How to Use Claude API: Your First Call in Python",
       "guide_note": "2026-11-22: approved, 3 parts (guide/claude-api-plan.md section 3, Parts 1-3, titles as written; Part 4 cut; slug and paths claude-api); level: Novice to Mid level (says so when it steps up); type: Tutorial; docs only, nothing signed up for, installed, run or spent, every screen a drawn board labelled as drawn (no licensed screenshot found) and any output labelled \"Example output\"; keys on boards are dummy keys only; posting: AUTOPOST public at the gates, one part at a time (Jabran 2026-11-22 \"Autopost\"); Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; A.I., A.P.I., S.D.K. dotted, Claude, Anthropic, Python, Workbench as written, no pronunciation line; prices \"was ... when checked\"; kit guide/claude-api-kit, thumbnail guide/creator-thumbnails/claude-api/03.jpg, images guide/claude-api-images/CREDITS.md (none cleared). Set up 2026-11-22.",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/eUgMox-d9CA",
+      "guide_uploaded_on": "2026-11-24",
+      "generation": 4,
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_playlist": "PLNoSQvycHLZA"
     },
     {
       "name": "AI Assistant 1 - Which App",
       "series": "AI Assistant",
       "part": 1,
       "brand": "AI ASSISTANT",
-      "guide": "uploaded private",
+      "guide": "posted",
       "title": "AI Assistant Apps: Which One Should You Use? ChatGPT, Gemini, Claude, Copilot or Siri",
       "guide_note": "level: Novice; type: Comparison by job; 2026-11-23: approved, 4 parts (guide/ai-assistant-plan.md section 2, titles as written, Part 2 option A; slug and paths ai-assistant); docs only, nothing signed up for, installed, run or downloaded; every open-source project read as text only (licence, last release, what it can reach); every screen a real screenshot from guide/ai-assistant-images/CREDITS.md or a drawn board labelled as drawn, any output labelled \"Example output\"; posting: AUTOPOST public at the gates, one part at a time (Jabran 2026-11-23 \"Auto post\"); Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; A.I., P.C. dotted, ChatGPT spoken \"Chat G P T\", names as written, no pronunciation line; [S] facts never spoken; prices \"was ... when checked\"; no \"free\" claim without the maker's own word; kit guide/ai-assistant-kit, thumbnail guide/creator-thumbnails/ai-assistant/01.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-aiassistant.md. Set up 2026-11-23.",
       "watermark": true,
@@ -9812,14 +9832,14 @@
       "guide_playlist": "",
       "guide_youtube_url": "https://youtu.be/9HKNq-QEf3M",
       "guide_uploaded_on": "2026-11-24",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public"
     },
     {
       "name": "AI Assistant 2 - Jarvis on Your PC",
       "series": "AI Assistant",
       "part": 2,
       "brand": "AI ASSISTANT",
-      "guide": "render check",
+      "guide": "render approved",
       "title": "Jarvis AI Assistant on Your PC: Build Your Own With Open-Source Tools",
       "guide_note": "level: Intermediate; type: Tutorial; \"Jarvis\" is a search word only, no film imagery or persona; ethanplusai/jarvis not featured; 2026-11-23: approved, 4 parts (guide/ai-assistant-plan.md section 2, titles as written, Part 2 option A; slug and paths ai-assistant); docs only, nothing signed up for, installed, run or downloaded; every open-source project read as text only (licence, last release, what it can reach); every screen a real screenshot from guide/ai-assistant-images/CREDITS.md or a drawn board labelled as drawn, any output labelled \"Example output\"; posting: AUTOPOST public at the gates, one part at a time (Jabran 2026-11-23 \"Auto post\"); Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; A.I., P.C. dotted, ChatGPT spoken \"Chat G P T\", names as written, no pronunciation line; [S] facts never spoken; prices \"was ... when checked\"; no \"free\" claim without the maker's own word; kit guide/ai-assistant-kit, thumbnail guide/creator-thumbnails/ai-assistant/02.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-aiassistant.md. Set up 2026-11-23.",
       "watermark": true,
@@ -9831,7 +9851,7 @@
       "series": "AI Assistant",
       "part": 3,
       "brand": "AI ASSISTANT",
-      "guide": "render check",
+      "guide": "render approved",
       "title": "AI Voice Assistant: Talk to It and Hear It Answer, on Your Phone or Your Own PC",
       "guide_note": "level: Intermediate; type: Tutorial; recorded against ChatGPT voice \"Live\" (Advanced and Standard retire 2026-12-11); 2026-11-23: approved, 4 parts (guide/ai-assistant-plan.md section 2, titles as written, Part 2 option A; slug and paths ai-assistant); docs only, nothing signed up for, installed, run or downloaded; every open-source project read as text only (licence, last release, what it can reach); every screen a real screenshot from guide/ai-assistant-images/CREDITS.md or a drawn board labelled as drawn, any output labelled \"Example output\"; posting: AUTOPOST public at the gates, one part at a time (Jabran 2026-11-23 \"Auto post\"); Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; A.I., P.C. dotted, ChatGPT spoken \"Chat G P T\", names as written, no pronunciation line; [S] facts never spoken; prices \"was ... when checked\"; no \"free\" claim without the maker's own word; kit guide/ai-assistant-kit, thumbnail guide/creator-thumbnails/ai-assistant/03.jpg, writer brief guide/creator-series-kit/WRITER-BRIEF-aiassistant.md. Set up 2026-11-23.",
       "watermark": true,
@@ -9869,40 +9889,56 @@
       "series": "LLM",
       "part": 2,
       "brand": "LLM",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "LLM Training Explained: How LLMs Are Trained, and the Tiny One You Can Build From Scratch",
       "guide_note": "level: Novice to Mid level (said aloud); type: Explainer and docs-only walk-through; 2026-11-23: approved, 5 parts (guide/llm-plan.md section 2, titles as written, Parts 2 and 5 kept, no person name in titles; slug and paths llm); docs only, nothing signed up for, installed, cloned or run; every screen a real screenshot from guide/llm-images/CREDITS.md or a drawn board labelled as drawn, any output labelled \"Example output\"; posting not answered, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); \"L.L.M.\" letter by letter, names as written, no pronunciation line; [S] facts never spoken; prices \"was ... when checked\"; community repos named with their makers, never as Karpathy's or a vendor's; kit guide/llm-kit, thumbnail guide/creator-thumbnails/llm/02.jpg, facts guide/llm-facts.md. Set up 2026-11-23.",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/rGTxqcJd4ko",
+      "guide_uploaded_on": "2026-11-24",
+      "generation": 4,
+      "guide_visibility": "public"
     },
     {
       "name": "LLM 3 - Which LLM is best",
       "series": "LLM",
       "part": 3,
       "brand": "LLM",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "LLM Models Compared: Which Is Best, and How to Read the Rankings",
       "guide_note": "level: Novice; type: Comparison; 2026-11-23: approved, 5 parts (guide/llm-plan.md section 2, titles as written, Parts 2 and 5 kept, no person name in titles; slug and paths llm); docs only, nothing signed up for, installed, cloned or run; every screen a real screenshot from guide/llm-images/CREDITS.md or a drawn board labelled as drawn, any output labelled \"Example output\"; posting not answered, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); \"L.L.M.\" letter by letter, names as written, no pronunciation line; [S] facts never spoken; prices \"was ... when checked\"; community repos named with their makers, never as Karpathy's or a vendor's; kit guide/llm-kit, thumbnail guide/creator-thumbnails/llm/03.jpg, facts guide/llm-facts.md. Set up 2026-11-23.",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/XYoDPl-P_bk",
+      "guide_uploaded_on": "2026-11-24",
+      "generation": 4,
+      "guide_visibility": "public"
     },
     {
       "name": "LLM 4 - LLM Wiki with Obsidian",
       "series": "LLM",
       "part": 4,
       "brand": "LLM",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "LLM Wiki: Build a Second Brain Your AI Keeps Up to Date, With Obsidian",
       "guide_note": "level: Mid level; type: Tutorial (docs only); 2026-11-23: approved, 5 parts (guide/llm-plan.md section 2, titles as written, Parts 2 and 5 kept, no person name in titles; slug and paths llm); docs only, nothing signed up for, installed, cloned or run; every screen a real screenshot from guide/llm-images/CREDITS.md or a drawn board labelled as drawn, any output labelled \"Example output\"; posting not answered, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); \"L.L.M.\" letter by letter, names as written, no pronunciation line; [S] facts never spoken; prices \"was ... when checked\"; community repos named with their makers, never as Karpathy's or a vendor's; kit guide/llm-kit, thumbnail guide/creator-thumbnails/llm/04.jpg, facts guide/llm-facts.md. Set up 2026-11-23.",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/QLQGxCJGdZ4",
+      "guide_uploaded_on": "2026-11-24",
+      "generation": 4,
+      "guide_visibility": "public"
     },
     {
       "name": "LLM 5 - LLM Council",
       "series": "LLM",
       "part": 5,
       "brand": "LLM",
-      "guide": "render approved",
+      "guide": "uploaded private",
       "title": "LLM Council: Ask Several AI Models, Then Let Them Judge Each Other",
       "guide_note": "level: Mid level; type: Tutorial (docs only); 2026-11-23: approved, 5 parts (guide/llm-plan.md section 2, titles as written, Parts 2 and 5 kept, no person name in titles; slug and paths llm); docs only, nothing signed up for, installed, cloned or run; every screen a real screenshot from guide/llm-images/CREDITS.md or a drawn board labelled as drawn, any output labelled \"Example output\"; posting not answered, so nothing uploads without Jabran's OK; Generation 4 (RULEBOOK Generation 4 block); \"L.L.M.\" letter by letter, names as written, no pronunciation line; [S] facts never spoken; prices \"was ... when checked\"; community repos named with their makers, never as Karpathy's or a vendor's; kit guide/llm-kit, thumbnail guide/creator-thumbnails/llm/05.jpg, facts guide/llm-facts.md. Set up 2026-11-23.",
-      "watermark": true
+      "watermark": true,
+      "guide_youtube_url": "https://youtu.be/qmXhM6W1pRQ",
+      "guide_uploaded_on": "2026-11-24",
+      "generation": 4,
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "AI Video 1 - Best AI Video Maker for Each Job",
