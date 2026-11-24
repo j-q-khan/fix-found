@@ -10122,6 +10122,46 @@
       "guide_note": "2026-11-24: approved, 4 parts (guide/ai-app-builder-plan.md section 2; slug and paths ai-app-builder; Jabran: \"Approved. Go for it. Docs only, autopost\"); docs only, nothing signed up for, installed, run, built or published, every app or result a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; pronunciation: Base44, Replit and Bolt.new pending Jabran's pick (written as written for now); Replit free plan: never say \"free plan\" until replit.com/pricing shows one (fact 0.4); kit guide/ai-app-builder-kit, thumbnails guide/creator-thumbnails/ai-app-builder, writer brief guide/creator-series-kit/WRITER-BRIEF-aiappbuilder.md, images guide/ai-app-builder-images/CREDITS.md",
       "watermark": true,
       "generation": 4
+    },
+    {
+      "name": "Claude Agents 1 - Which Claude Agent",
+      "series": "Claude Agents",
+      "part": 1,
+      "brand": "CLAUDE AGENTS",
+      "guide": "new",
+      "title": "Claude Agents Explained: Subagents, Agent Teams, Cowork or the Agent SDK?",
+      "guide_note": "2026-11-24: approved, 4 parts (guide/claude-agents-plan.md section 2; slug and paths claude-agents; Jabran: \"Proceed. Auto post. Docs only.\"); docs only, nothing installed, run or signed up for, every result a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; Generation 5 (no generation field: the upload stamps 5), so the series playlist and guide_playlist are set before Part 1 uploads; pronunciation: Claude, Claude Code and Cowork as written, \"agents dot M.D.\", \"Claude dot M.D.\", S.D.K., A.I., M.C.P. dotted; tmux pending Jabran's pick from renders/voice-samples/claude-agents/; kit guide/claude-agents-kit, thumbnails guide/creator-thumbnails/claude-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeagents.md, facts guide/claude-agents-facts.md, images guide/claude-agents-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true
+    },
+    {
+      "name": "Claude Agents 2 - Your First Subagent",
+      "series": "Claude Agents",
+      "part": 2,
+      "brand": "CLAUDE AGENTS",
+      "guide": "new",
+      "title": "Claude Agents in Claude Code: Make Your First Subagent",
+      "guide_note": "2026-11-24: approved, 4 parts (guide/claude-agents-plan.md section 2; slug and paths claude-agents; Jabran: \"Proceed. Auto post. Docs only.\"); docs only, nothing installed, run or signed up for, every result a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; Generation 5 (no generation field: the upload stamps 5), so the series playlist and guide_playlist are set before Part 1 uploads; pronunciation: Claude, Claude Code and Cowork as written, \"agents dot M.D.\", \"Claude dot M.D.\", S.D.K., A.I., M.C.P. dotted; tmux pending Jabran's pick from renders/voice-samples/claude-agents/; kit guide/claude-agents-kit, thumbnails guide/creator-thumbnails/claude-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeagents.md, facts guide/claude-agents-facts.md, images guide/claude-agents-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true
+    },
+    {
+      "name": "Claude Agents 3 - Agent Teams in Claude Code",
+      "series": "Claude Agents",
+      "part": 3,
+      "brand": "CLAUDE AGENTS",
+      "guide": "new",
+      "title": "Claude Agents Teams: Run Several Claude Code Agents at Once",
+      "guide_note": "2026-11-24: approved, 4 parts (guide/claude-agents-plan.md section 2; slug and paths claude-agents; Jabran: \"Proceed. Auto post. Docs only.\"); docs only, nothing installed, run or signed up for, every result a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; Generation 5 (no generation field: the upload stamps 5), so the series playlist and guide_playlist are set before Part 1 uploads; pronunciation: Claude, Claude Code and Cowork as written, \"agents dot M.D.\", \"Claude dot M.D.\", S.D.K., A.I., M.C.P. dotted; tmux pending Jabran's pick from renders/voice-samples/claude-agents/; kit guide/claude-agents-kit, thumbnails guide/creator-thumbnails/claude-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeagents.md, facts guide/claude-agents-facts.md, images guide/claude-agents-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true
+    },
+    {
+      "name": "Claude Agents 4 - Cowork Sub-agents and Scheduled Tasks",
+      "series": "Claude Agents",
+      "part": 4,
+      "brand": "CLAUDE AGENTS",
+      "guide": "new",
+      "title": "Claude Agents in Cowork: Sub-agents and Scheduled Tasks for Business Work",
+      "guide_note": "2026-11-24: approved, 4 parts (guide/claude-agents-plan.md section 2; slug and paths claude-agents; Jabran: \"Proceed. Auto post. Docs only.\"); docs only, nothing installed, run or signed up for, every result a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; Generation 5 (no generation field: the upload stamps 5), so the series playlist and guide_playlist are set before Part 1 uploads; pronunciation: Claude, Claude Code and Cowork as written, \"agents dot M.D.\", \"Claude dot M.D.\", S.D.K., A.I., M.C.P. dotted; tmux pending Jabran's pick from renders/voice-samples/claude-agents/; kit guide/claude-agents-kit, thumbnails guide/creator-thumbnails/claude-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeagents.md, facts guide/claude-agents-facts.md, images guide/claude-agents-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true
     }
   ]
 }
