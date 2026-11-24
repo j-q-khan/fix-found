@@ -9476,7 +9476,7 @@
       "series": "Agentic AI",
       "part": 2,
       "brand": "AGENTIC AI",
-      "guide": "new",
+      "guide": "render check",
       "title": "Agentic Workflow Explained: Workflows vs Agents, With Real Examples",
       "guide_note": "2026-11-21: approved, 4 parts (guide/agentic-ai-plan.md section 1, all 4 titles as written; slug agentic-ai); level: Novice; type: Explainer; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\" (hands-on testing not approved); posting: autopost public at the gates, one at a time (Jabran, 2026-11-21); Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; [S] facts (the Google Cloud pages) never spoken; every company and product name explained at first use; ChatGPT Work (never \"ChatGPT agent\"); A.I. dotted, ChatGPT spoken \"Chat G P T\", other names as written, no pronunciation line; AFFIL names Anthropic, OpenAI, Microsoft, GitHub, Google and the Linux Foundation; angle: Anthropic's workflows-vs-agents line and its five patterns, links AI Automation with n8n and Microsoft Copilot; kit guide/agentic-ai-kit, thumbnail guide/creator-thumbnails/agentic-ai/02.jpg, images guide/agentic-ai-images/CREDITS.md (the lead clears images per part), writer brief guide/creator-series-kit/WRITER-BRIEF-agenticai.md. Set up 2026-11-21.",
       "watermark": true,
@@ -9999,6 +9999,39 @@
       "guide_uploaded_on": "2026-11-24",
       "guide_visibility": "public",
       "guide_playlist": "PLRW1tcZ_NBIo"
+    },
+    {
+      "name": "Google AI 1 - AI Mode in Search",
+      "series": "Google AI",
+      "part": 1,
+      "brand": "GOOGLE AI",
+      "guide": "new",
+      "title": "Google AI Mode: How to Use It in Search (and Delete Its History)",
+      "guide_note": "2026-11-24: approved, 3 parts (guide/google-ai-plan.md section 2; slug and paths google-ai; Jabran: \"OK / docs only / auto post\"); docs only, nothing signed in to, signed up for, installed or run, every AI Mode answer or overview a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; pronunciation: Google, Gemini, Chrome, Android, Coursera as written, A.I. dotted; kit guide/google-ai-kit, thumbnails guide/creator-thumbnails/google-ai, writer brief guide/creator-series-kit/WRITER-BRIEF-googleai.md, images guide/google-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true,
+      "generation": 4
+    },
+    {
+      "name": "Google AI 2 - Turn Off AI Overviews",
+      "series": "Google AI",
+      "part": 2,
+      "brand": "GOOGLE AI",
+      "guide": "new",
+      "title": "Google AI Overviews: Can You Turn Them Off? How to Get Plain Results",
+      "guide_note": "2026-11-24: approved, 3 parts (guide/google-ai-plan.md section 2; slug and paths google-ai; Jabran: \"OK / docs only / auto post\"); docs only, nothing signed in to, signed up for, installed or run, every AI Mode answer or overview a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; pronunciation: Google, Gemini, Chrome, Android, Coursera as written, A.I. dotted; kit guide/google-ai-kit, thumbnails guide/creator-thumbnails/google-ai, writer brief guide/creator-series-kit/WRITER-BRIEF-googleai.md, images guide/google-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true,
+      "generation": 4
+    },
+    {
+      "name": "Google AI 3 - AI Essentials Worth It",
+      "series": "Google AI",
+      "part": 3,
+      "brand": "GOOGLE AI",
+      "guide": "new",
+      "title": "Google AI Essentials: Is the Course Worth It? Cost, Length and Certificate",
+      "guide_note": "2026-11-24: approved, 3 parts (guide/google-ai-plan.md section 2; slug and paths google-ai; Jabran: \"OK / docs only / auto post\"); docs only, nothing signed in to, signed up for, installed or run, every AI Mode answer or overview a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; pronunciation: Google, Gemini, Chrome, Android, Coursera as written, A.I. dotted; kit guide/google-ai-kit, thumbnails guide/creator-thumbnails/google-ai, writer brief guide/creator-series-kit/WRITER-BRIEF-googleai.md, images guide/google-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
+      "watermark": true,
+      "generation": 4
     }
   ]
 }
