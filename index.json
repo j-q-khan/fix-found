@@ -10032,6 +10032,50 @@
       "guide_note": "2026-11-24: approved, 3 parts (guide/google-ai-plan.md section 2; slug and paths google-ai; Jabran: \"OK / docs only / auto post\"); docs only, nothing signed in to, signed up for, installed or run, every AI Mode answer or overview a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; pronunciation: Google, Gemini, Chrome, Android, Coursera as written, A.I. dotted; kit guide/google-ai-kit, thumbnails guide/creator-thumbnails/google-ai, writer brief guide/creator-series-kit/WRITER-BRIEF-googleai.md, images guide/google-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
       "watermark": true,
       "generation": 4
+    },
+    {
+      "name": "AI App Builder 1 - Replit, Bolt or Base44",
+      "series": "AI App Builder",
+      "part": 1,
+      "brand": "AI APP BUILDER",
+      "guide": "new",
+      "title": "AI App Builder: Replit, Bolt or Base44? Which One to Use for Your App",
+      "guide_note": "2026-11-24: approved, 4 parts (guide/ai-app-builder-plan.md section 2; slug and paths ai-app-builder; Jabran: \"Approved. Go for it. Docs only, autopost\"); docs only, nothing signed up for, installed, run, built or published, every app or result a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; pronunciation: Base44, Replit and Bolt.new pending Jabran's pick (written as written for now); Replit free plan: never say \"free plan\" until replit.com/pricing shows one (fact 0.4); kit guide/ai-app-builder-kit, thumbnails guide/creator-thumbnails/ai-app-builder, writer brief guide/creator-series-kit/WRITER-BRIEF-aiappbuilder.md, images guide/ai-app-builder-images/CREDITS.md",
+      "watermark": true,
+      "generation": 4
+    },
+    {
+      "name": "AI App Builder 2 - Replit Agent 4 First App",
+      "series": "AI App Builder",
+      "part": 2,
+      "brand": "AI APP BUILDER",
+      "guide": "new",
+      "title": "Replit Tutorial: Build Your First App With Replit Agent 4",
+      "guide_note": "2026-11-24: approved, 4 parts (guide/ai-app-builder-plan.md section 2; slug and paths ai-app-builder; Jabran: \"Approved. Go for it. Docs only, autopost\"); docs only, nothing signed up for, installed, run, built or published, every app or result a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; pronunciation: Base44, Replit and Bolt.new pending Jabran's pick (written as written for now); Replit free plan: never say \"free plan\" until replit.com/pricing shows one (fact 0.4); kit guide/ai-app-builder-kit, thumbnails guide/creator-thumbnails/ai-app-builder, writer brief guide/creator-series-kit/WRITER-BRIEF-aiappbuilder.md, images guide/ai-app-builder-images/CREDITS.md",
+      "watermark": true,
+      "generation": 4
+    },
+    {
+      "name": "AI App Builder 3 - Bolt.new One Prompt to Published",
+      "series": "AI App Builder",
+      "part": 3,
+      "brand": "AI APP BUILDER",
+      "guide": "new",
+      "title": "Bolt.new Tutorial: Build an App From One Prompt and Publish It",
+      "guide_note": "2026-11-24: approved, 4 parts (guide/ai-app-builder-plan.md section 2; slug and paths ai-app-builder; Jabran: \"Approved. Go for it. Docs only, autopost\"); docs only, nothing signed up for, installed, run, built or published, every app or result a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; pronunciation: Base44, Replit and Bolt.new pending Jabran's pick (written as written for now); Replit free plan: never say \"free plan\" until replit.com/pricing shows one (fact 0.4); kit guide/ai-app-builder-kit, thumbnails guide/creator-thumbnails/ai-app-builder, writer brief guide/creator-series-kit/WRITER-BRIEF-aiappbuilder.md, images guide/ai-app-builder-images/CREDITS.md",
+      "watermark": true,
+      "generation": 4
+    },
+    {
+      "name": "AI App Builder 4 - Base44 Logins on Your Phone",
+      "series": "AI App Builder",
+      "part": 4,
+      "brand": "AI APP BUILDER",
+      "guide": "new",
+      "title": "Base44 Tutorial: Build an App With Logins and Put It on Your Phone",
+      "guide_note": "2026-11-24: approved, 4 parts (guide/ai-app-builder-plan.md section 2; slug and paths ai-app-builder; Jabran: \"Approved. Go for it. Docs only, autopost\"); docs only, nothing signed up for, installed, run, built or published, every app or result a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; pronunciation: Base44, Replit and Bolt.new pending Jabran's pick (written as written for now); Replit free plan: never say \"free plan\" until replit.com/pricing shows one (fact 0.4); kit guide/ai-app-builder-kit, thumbnails guide/creator-thumbnails/ai-app-builder, writer brief guide/creator-series-kit/WRITER-BRIEF-aiappbuilder.md, images guide/ai-app-builder-images/CREDITS.md",
+      "watermark": true,
+      "generation": 4
     }
   ]
 }
