@@ -10293,7 +10293,7 @@
       "series": "AI Game Development",
       "part": 2,
       "brand": "AI GAME DEVELOPMENT",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Claude Game Development: Build a Browser Game with Claude Code, Step by Step",
       "guide_note": "2026-11-24: approved, 3 parts (guide/ai-game-development-plan.md section 3; slug and paths ai-game-development); docs only, drawn boards and \"Example output\"; AUTOPOST public at the gates, one part at a time (Jabran: \"Proceed. Auto post, Docs only.\"); generation 5: no generation field, and the series playlist must exist with guide_playlist set on all 3 entries before Part 1 uploads; names spoken as written, \"Ludo dot A.I.,\" for Ludo.ai, no pronunciation line; kit guide/ai-game-development-kit, thumbnails guide/creator-thumbnails/ai-game-development, images guide/ai-game-development-images/CREDITS.md",
       "watermark": true,
