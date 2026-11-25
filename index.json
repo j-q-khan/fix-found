@@ -9525,11 +9525,12 @@
       "series": "Agentic AI",
       "part": 3,
       "brand": "AGENTIC AI",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Agentic AI Examples You Can Try Today: Claude Cowork, ChatGPT Work and Copilot",
       "guide_note": "2026-11-21: approved, 4 parts (guide/agentic-ai-plan.md section 1, all 4 titles as written; slug agentic-ai); level: Novice; type: Tutorial; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\" (hands-on testing not approved); posting: autopost public at the gates, one at a time (Jabran, 2026-11-21); Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; [S] facts (the Google Cloud pages) never spoken; every company and product name explained at first use; ChatGPT Work (never \"ChatGPT agent\"); A.I. dotted, ChatGPT spoken \"Chat G P T\", other names as written, no pronunciation line; AFFIL names Anthropic, OpenAI, Microsoft, GitHub, Google and the Linux Foundation; angle: one small task each in Claude Cowork, ChatGPT Work and agent mode in Word, Excel and PowerPoint, then the safety chapter (approvals and prompt injection); not a which-one comparison; kit guide/agentic-ai-kit, thumbnail guide/creator-thumbnails/agentic-ai/03.jpg, images guide/agentic-ai-images/CREDITS.md (the lead clears images per part), writer brief guide/creator-series-kit/WRITER-BRIEF-agenticai.md. Set up 2026-11-21.",
       "watermark": true,
-      "generation": 4
+      "generation": 4,
+      "notes": "2026-11-25: gates passed (critic, viewer pass + re-check, render QA, final MP4 pass); render approved under the autopost-at-gates rule (Jabran, 2026-11-21)."
     },
     {
       "name": "Agentic AI 4 - Agentic Coding Explained",
@@ -10304,22 +10305,24 @@
       "series": "AI Game Development",
       "part": 3,
       "brand": "AI GAME DEVELOPMENT",
-      "guide": "new",
+      "guide": "render check",
       "title": "Unity AI Tutorial: Unity's AI Assistant and Generators in Unity 6",
       "guide_note": "2026-11-24: approved, 3 parts (guide/ai-game-development-plan.md section 3; slug and paths ai-game-development); docs only, drawn boards and \"Example output\"; AUTOPOST public at the gates, one part at a time (Jabran: \"Proceed. Auto post, Docs only.\"); generation 5: no generation field, and the series playlist must exist with guide_playlist set on all 3 entries before Part 1 uploads; names spoken as written, \"Ludo dot A.I.,\" for Ludo.ai, no pronunciation line; kit guide/ai-game-development-kit, thumbnails guide/creator-thumbnails/ai-game-development, images guide/ai-game-development-images/CREDITS.md",
       "watermark": true,
-      "guide_playlist": "PLTYf2wfuyNXI"
+      "guide_playlist": "PLTYf2wfuyNXI",
+      "status": "render approved"
     },
     {
       "name": "AI Photo Editing 1 - Phone Editing",
       "series": "AI Photo Editing",
       "part": 1,
       "brand": "AI PHOTO EDITING",
-      "guide": "new",
-      "title": "AI Photo Editing on Your Phone: Remove Objects and Fix Photos in Google Photos, Apple Photos and Samsung",
+      "guide": "render approved",
+      "title": "AI Photo Editing on Your Phone: Remove Objects in Google Photos, Apple Photos and Samsung",
       "level": "Novice",
       "guide_note": "2026-11-25: approved, 4 parts (guide/ai-photo-editing-plan.md, the top table; slug and paths ai-photo-editing; Jabran: \"Do the 4 parts, docs only, auto post\"); docs only, nothing signed up for, installed, run, edited or generated, drawn boards and \"Example output\"; posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); every name spoken as written, ChatGPT as \"Chat G P T\"; kit guide/ai-photo-editing-kit, thumbnails guide/creator-thumbnails/ai-photo-editing, images guide/ai-photo-editing-images/CREDITS.md (no licensed screenshots: every screen is a drawn board), writer brief guide/creator-series-kit/WRITER-BRIEF-aiphotoediting.md",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLdfIbYkNI1fs"
     },
     {
       "name": "AI Photo Editing 2 - Photoshop AI",
@@ -10330,7 +10333,8 @@
       "title": "Photoshop AI Tutorial: Generative Fill, Remove Tool and Relight in Photoshop 28",
       "level": "Novice",
       "guide_note": "2026-11-25: approved, 4 parts (guide/ai-photo-editing-plan.md, the top table; slug and paths ai-photo-editing; Jabran: \"Do the 4 parts, docs only, auto post\"); docs only, nothing signed up for, installed, run, edited or generated, drawn boards and \"Example output\"; posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); every name spoken as written, ChatGPT as \"Chat G P T\"; kit guide/ai-photo-editing-kit, thumbnails guide/creator-thumbnails/ai-photo-editing, images guide/ai-photo-editing-images/CREDITS.md (no licensed screenshots: every screen is a drawn board), writer brief guide/creator-series-kit/WRITER-BRIEF-aiphotoediting.md",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLdfIbYkNI1fs"
     },
     {
       "name": "AI Photo Editing 3 - Free Editors",
@@ -10341,7 +10345,8 @@
       "title": "AI Photo Editor Free: What the Free AI Photo Editors Really Give You",
       "level": "Novice",
       "guide_note": "2026-11-25: approved, 4 parts (guide/ai-photo-editing-plan.md, the top table; slug and paths ai-photo-editing; Jabran: \"Do the 4 parts, docs only, auto post\"); docs only, nothing signed up for, installed, run, edited or generated, drawn boards and \"Example output\"; posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); every name spoken as written, ChatGPT as \"Chat G P T\"; kit guide/ai-photo-editing-kit, thumbnails guide/creator-thumbnails/ai-photo-editing, images guide/ai-photo-editing-images/CREDITS.md (no licensed screenshots: every screen is a drawn board), writer brief guide/creator-series-kit/WRITER-BRIEF-aiphotoediting.md",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLdfIbYkNI1fs"
     },
     {
       "name": "AI Photo Editing 4 - ChatGPT Editing",
@@ -10352,7 +10357,8 @@
       "title": "ChatGPT Photo Editing: Edit Your Own Photos With a Prompt, and Gemini Too",
       "level": "Novice",
       "guide_note": "2026-11-25: approved, 4 parts (guide/ai-photo-editing-plan.md, the top table; slug and paths ai-photo-editing; Jabran: \"Do the 4 parts, docs only, auto post\"); docs only, nothing signed up for, installed, run, edited or generated, drawn boards and \"Example output\"; posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); every name spoken as written, ChatGPT as \"Chat G P T\"; kit guide/ai-photo-editing-kit, thumbnails guide/creator-thumbnails/ai-photo-editing, images guide/ai-photo-editing-images/CREDITS.md (no licensed screenshots: every screen is a drawn board), writer brief guide/creator-series-kit/WRITER-BRIEF-aiphotoediting.md",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLdfIbYkNI1fs"
     },
     {
       "name": "AI Music Guide 1 - Free Plans Compared",
