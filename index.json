@@ -10106,7 +10106,7 @@
       "series": "AI App Builder",
       "part": 3,
       "brand": "AI APP BUILDER",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Bolt.new Tutorial: Build an App From One Prompt and Publish It",
       "guide_note": "2026-11-24: approved, 4 parts (guide/ai-app-builder-plan.md section 2; slug and paths ai-app-builder; Jabran: \"Approved. Go for it. Docs only, autopost\"); docs only, nothing signed up for, installed, run, built or published, every app or result a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; pronunciation: Base44, Replit and Bolt.new pending Jabran's pick (written as written for now); Replit free plan: never say \"free plan\" until replit.com/pricing shows one (fact 0.4); kit guide/ai-app-builder-kit, thumbnails guide/creator-thumbnails/ai-app-builder, writer brief guide/creator-series-kit/WRITER-BRIEF-aiappbuilder.md, images guide/ai-app-builder-images/CREDITS.md",
       "watermark": true,
@@ -10117,7 +10117,7 @@
       "series": "AI App Builder",
       "part": 4,
       "brand": "AI APP BUILDER",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Base44 Tutorial: Build an App With Logins and Put It on Your Phone",
       "guide_note": "2026-11-24: approved, 4 parts (guide/ai-app-builder-plan.md section 2; slug and paths ai-app-builder; Jabran: \"Approved. Go for it. Docs only, autopost\"); docs only, nothing signed up for, installed, run, built or published, every app or result a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; pronunciation: Base44, Replit and Bolt.new pending Jabran's pick (written as written for now); Replit free plan: never say \"free plan\" until replit.com/pricing shows one (fact 0.4); kit guide/ai-app-builder-kit, thumbnails guide/creator-thumbnails/ai-app-builder, writer brief guide/creator-series-kit/WRITER-BRIEF-aiappbuilder.md, images guide/ai-app-builder-images/CREDITS.md",
       "watermark": true,
@@ -10128,47 +10128,51 @@
       "series": "Claude Agents",
       "part": 1,
       "brand": "CLAUDE AGENTS",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Claude Agents Explained: Subagents, Agent Teams, Cowork or the Agent SDK?",
       "guide_note": "2026-11-24: approved, 4 parts (guide/claude-agents-plan.md section 2; slug and paths claude-agents; Jabran: \"Proceed. Auto post. Docs only.\"); docs only, nothing installed, run or signed up for, every result a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; Generation 5 (no generation field: the upload stamps 5), so the series playlist and guide_playlist are set before Part 1 uploads; pronunciation: Claude, Claude Code and Cowork as written, \"agents dot M.D.\", \"Claude dot M.D.\", S.D.K., A.I., M.C.P. dotted; tmux pending Jabran's pick from renders/voice-samples/claude-agents/; kit guide/claude-agents-kit, thumbnails guide/creator-thumbnails/claude-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeagents.md, facts guide/claude-agents-facts.md, images guide/claude-agents-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLJ84ICvh65Pc"
     },
     {
       "name": "Claude Agents 2 - Your First Subagent",
       "series": "Claude Agents",
       "part": 2,
       "brand": "CLAUDE AGENTS",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Claude Agents in Claude Code: Make Your First Subagent",
       "guide_note": "2026-11-24: approved, 4 parts (guide/claude-agents-plan.md section 2; slug and paths claude-agents; Jabran: \"Proceed. Auto post. Docs only.\"); docs only, nothing installed, run or signed up for, every result a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; Generation 5 (no generation field: the upload stamps 5), so the series playlist and guide_playlist are set before Part 1 uploads; pronunciation: Claude, Claude Code and Cowork as written, \"agents dot M.D.\", \"Claude dot M.D.\", S.D.K., A.I., M.C.P. dotted; tmux pending Jabran's pick from renders/voice-samples/claude-agents/; kit guide/claude-agents-kit, thumbnails guide/creator-thumbnails/claude-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeagents.md, facts guide/claude-agents-facts.md, images guide/claude-agents-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLJ84ICvh65Pc"
     },
     {
       "name": "Claude Agents 3 - Agent Teams in Claude Code",
       "series": "Claude Agents",
       "part": 3,
       "brand": "CLAUDE AGENTS",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Claude Agents Teams: Run Several Claude Code Agents at Once",
       "guide_note": "2026-11-24: approved, 4 parts (guide/claude-agents-plan.md section 2; slug and paths claude-agents; Jabran: \"Proceed. Auto post. Docs only.\"); docs only, nothing installed, run or signed up for, every result a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; Generation 5 (no generation field: the upload stamps 5), so the series playlist and guide_playlist are set before Part 1 uploads; pronunciation: Claude, Claude Code and Cowork as written, \"agents dot M.D.\", \"Claude dot M.D.\", S.D.K., A.I., M.C.P. dotted; tmux pending Jabran's pick from renders/voice-samples/claude-agents/; kit guide/claude-agents-kit, thumbnails guide/creator-thumbnails/claude-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeagents.md, facts guide/claude-agents-facts.md, images guide/claude-agents-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLJ84ICvh65Pc"
     },
     {
       "name": "Claude Agents 4 - Cowork Sub-agents and Scheduled Tasks",
       "series": "Claude Agents",
       "part": 4,
       "brand": "CLAUDE AGENTS",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Claude Agents in Cowork: Sub-agents and Scheduled Tasks for Business Work",
       "guide_note": "2026-11-24: approved, 4 parts (guide/claude-agents-plan.md section 2; slug and paths claude-agents; Jabran: \"Proceed. Auto post. Docs only.\"); docs only, nothing installed, run or signed up for, every result a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; Generation 5 (no generation field: the upload stamps 5), so the series playlist and guide_playlist are set before Part 1 uploads; pronunciation: Claude, Claude Code and Cowork as written, \"agents dot M.D.\", \"Claude dot M.D.\", S.D.K., A.I., M.C.P. dotted; tmux pending Jabran's pick from renders/voice-samples/claude-agents/; kit guide/claude-agents-kit, thumbnails guide/creator-thumbnails/claude-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeagents.md, facts guide/claude-agents-facts.md, images guide/claude-agents-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLJ84ICvh65Pc"
     },
     {
       "name": "OpenAI Codex 1 - Which Codex to Start With",
       "series": "OpenAI Codex",
       "part": 1,
       "brand": "OPENAI CODEX",
-      "guide": "new",
+      "guide": "render approved",
       "title": "How to Use OpenAI Codex: Tutorial for Beginners (Which One to Start With)",
       "guide_note": "2026-11-24: approved, 5 parts (guide/openai-codex-plan.md section 3; slug and paths openai-codex; Jabran: \"Proceed. Auto post, Docs only.\"); docs only, nothing installed, run or signed up for, every result a labelled \"Example output\" board, every screen a drawn board except the Apache-2.0 Codex CLI splash in Part 5; posting: autopost, public as each part passes every gate, one at a time; Generation 5 (no generation field: the upload stamps 5), so the series playlist and guide_playlist are set before Part 1 uploads; pronunciation: Codex, Cursor, Windsurf and GitHub as written, \"Visual Studio Code\" in full, \"agents dot M.D.\", C.L.I. and A.P.I. dotted, no samples; Free and Go only \"in the desktop app, subject to rollout\"; kit guide/openai-codex-kit, thumbnails guide/creator-thumbnails/openai-codex, images guide/openai-codex-images/CREDITS.md, writer brief guide/creator-series-kit/WRITER-BRIEF-openaicodex.md",
       "watermark": true
@@ -10178,7 +10182,7 @@
       "series": "OpenAI Codex",
       "part": 2,
       "brand": "OPENAI CODEX",
-      "guide": "new",
+      "guide": "render approved",
       "title": "OpenAI Codex App Tutorial: Use Codex in the ChatGPT Desktop App",
       "guide_note": "2026-11-24: approved, 5 parts (guide/openai-codex-plan.md section 3; slug and paths openai-codex; Jabran: \"Proceed. Auto post, Docs only.\"); docs only, nothing installed, run or signed up for, every result a labelled \"Example output\" board, every screen a drawn board except the Apache-2.0 Codex CLI splash in Part 5; posting: autopost, public as each part passes every gate, one at a time; Generation 5 (no generation field: the upload stamps 5), so the series playlist and guide_playlist are set before Part 1 uploads; pronunciation: Codex, Cursor, Windsurf and GitHub as written, \"Visual Studio Code\" in full, \"agents dot M.D.\", C.L.I. and A.P.I. dotted, no samples; Free and Go only \"in the desktop app, subject to rollout\"; kit guide/openai-codex-kit, thumbnails guide/creator-thumbnails/openai-codex, images guide/openai-codex-images/CREDITS.md, writer brief guide/creator-series-kit/WRITER-BRIEF-openaicodex.md",
       "watermark": true
@@ -10188,7 +10192,7 @@
       "series": "OpenAI Codex",
       "part": 3,
       "brand": "OPENAI CODEX",
-      "guide": "new",
+      "guide": "render approved",
       "title": "ChatGPT Codex Cloud: Run a Task on Your GitHub Repo and Open a Pull Request",
       "guide_note": "2026-11-24: approved, 5 parts (guide/openai-codex-plan.md section 3; slug and paths openai-codex; Jabran: \"Proceed. Auto post, Docs only.\"); docs only, nothing installed, run or signed up for, every result a labelled \"Example output\" board, every screen a drawn board except the Apache-2.0 Codex CLI splash in Part 5; posting: autopost, public as each part passes every gate, one at a time; Generation 5 (no generation field: the upload stamps 5), so the series playlist and guide_playlist are set before Part 1 uploads; pronunciation: Codex, Cursor, Windsurf and GitHub as written, \"Visual Studio Code\" in full, \"agents dot M.D.\", C.L.I. and A.P.I. dotted, no samples; Free and Go only \"in the desktop app, subject to rollout\"; kit guide/openai-codex-kit, thumbnails guide/creator-thumbnails/openai-codex, images guide/openai-codex-images/CREDITS.md, writer brief guide/creator-series-kit/WRITER-BRIEF-openaicodex.md",
       "watermark": true
@@ -10198,7 +10202,7 @@
       "series": "OpenAI Codex",
       "part": 4,
       "brand": "OPENAI CODEX",
-      "guide": "new",
+      "guide": "render approved",
       "title": "OpenAI Codex in VS Code: Set Up the Extension and Make Your First Change",
       "guide_note": "2026-11-24: approved, 5 parts (guide/openai-codex-plan.md section 3; slug and paths openai-codex; Jabran: \"Proceed. Auto post, Docs only.\"); docs only, nothing installed, run or signed up for, every result a labelled \"Example output\" board, every screen a drawn board except the Apache-2.0 Codex CLI splash in Part 5; posting: autopost, public as each part passes every gate, one at a time; Generation 5 (no generation field: the upload stamps 5), so the series playlist and guide_playlist are set before Part 1 uploads; pronunciation: Codex, Cursor, Windsurf and GitHub as written, \"Visual Studio Code\" in full, \"agents dot M.D.\", C.L.I. and A.P.I. dotted, no samples; Free and Go only \"in the desktop app, subject to rollout\"; kit guide/openai-codex-kit, thumbnails guide/creator-thumbnails/openai-codex, images guide/openai-codex-images/CREDITS.md, writer brief guide/creator-series-kit/WRITER-BRIEF-openaicodex.md",
       "watermark": true
@@ -10241,6 +10245,50 @@
       "guide": "new",
       "title": "Unity AI Tutorial: Unity's AI Assistant and Generators in Unity 6",
       "guide_note": "2026-11-24: approved, 3 parts (guide/ai-game-development-plan.md section 3; slug and paths ai-game-development); docs only, drawn boards and \"Example output\"; AUTOPOST public at the gates, one part at a time (Jabran: \"Proceed. Auto post, Docs only.\"); generation 5: no generation field, and the series playlist must exist with guide_playlist set on all 3 entries before Part 1 uploads; names spoken as written, \"Ludo dot A.I.,\" for Ludo.ai, no pronunciation line; kit guide/ai-game-development-kit, thumbnails guide/creator-thumbnails/ai-game-development, images guide/ai-game-development-images/CREDITS.md",
+      "watermark": true
+    },
+    {
+      "name": "AI Photo Editing 1 - Phone Editing",
+      "series": "AI Photo Editing",
+      "part": 1,
+      "brand": "AI PHOTO EDITING",
+      "guide": "new",
+      "title": "AI Photo Editing on Your Phone: Remove Objects and Fix Photos in Google Photos, Apple Photos and Samsung",
+      "level": "Novice",
+      "guide_note": "2026-11-25: approved, 4 parts (guide/ai-photo-editing-plan.md, the top table; slug and paths ai-photo-editing; Jabran: \"Do the 4 parts, docs only, auto post\"); docs only, nothing signed up for, installed, run, edited or generated, drawn boards and \"Example output\"; posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); every name spoken as written, ChatGPT as \"Chat G P T\"; kit guide/ai-photo-editing-kit, thumbnails guide/creator-thumbnails/ai-photo-editing, images guide/ai-photo-editing-images/CREDITS.md (no licensed screenshots: every screen is a drawn board), writer brief guide/creator-series-kit/WRITER-BRIEF-aiphotoediting.md",
+      "watermark": true
+    },
+    {
+      "name": "AI Photo Editing 2 - Photoshop AI",
+      "series": "AI Photo Editing",
+      "part": 2,
+      "brand": "AI PHOTO EDITING",
+      "guide": "new",
+      "title": "Photoshop AI Tutorial: Generative Fill, Remove Tool and Relight in Photoshop 28",
+      "level": "Novice",
+      "guide_note": "2026-11-25: approved, 4 parts (guide/ai-photo-editing-plan.md, the top table; slug and paths ai-photo-editing; Jabran: \"Do the 4 parts, docs only, auto post\"); docs only, nothing signed up for, installed, run, edited or generated, drawn boards and \"Example output\"; posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); every name spoken as written, ChatGPT as \"Chat G P T\"; kit guide/ai-photo-editing-kit, thumbnails guide/creator-thumbnails/ai-photo-editing, images guide/ai-photo-editing-images/CREDITS.md (no licensed screenshots: every screen is a drawn board), writer brief guide/creator-series-kit/WRITER-BRIEF-aiphotoediting.md",
+      "watermark": true
+    },
+    {
+      "name": "AI Photo Editing 3 - Free Editors",
+      "series": "AI Photo Editing",
+      "part": 3,
+      "brand": "AI PHOTO EDITING",
+      "guide": "new",
+      "title": "AI Photo Editor Free: What the Free AI Photo Editors Really Give You",
+      "level": "Novice",
+      "guide_note": "2026-11-25: approved, 4 parts (guide/ai-photo-editing-plan.md, the top table; slug and paths ai-photo-editing; Jabran: \"Do the 4 parts, docs only, auto post\"); docs only, nothing signed up for, installed, run, edited or generated, drawn boards and \"Example output\"; posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); every name spoken as written, ChatGPT as \"Chat G P T\"; kit guide/ai-photo-editing-kit, thumbnails guide/creator-thumbnails/ai-photo-editing, images guide/ai-photo-editing-images/CREDITS.md (no licensed screenshots: every screen is a drawn board), writer brief guide/creator-series-kit/WRITER-BRIEF-aiphotoediting.md",
+      "watermark": true
+    },
+    {
+      "name": "AI Photo Editing 4 - ChatGPT Editing",
+      "series": "AI Photo Editing",
+      "part": 4,
+      "brand": "AI PHOTO EDITING",
+      "guide": "new",
+      "title": "ChatGPT Photo Editing: Edit Your Own Photos With a Prompt, and Gemini Too",
+      "level": "Novice",
+      "guide_note": "2026-11-25: approved, 4 parts (guide/ai-photo-editing-plan.md, the top table; slug and paths ai-photo-editing; Jabran: \"Do the 4 parts, docs only, auto post\"); docs only, nothing signed up for, installed, run, edited or generated, drawn boards and \"Example output\"; posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); every name spoken as written, ChatGPT as \"Chat G P T\"; kit guide/ai-photo-editing-kit, thumbnails guide/creator-thumbnails/ai-photo-editing, images guide/ai-photo-editing-images/CREDITS.md (no licensed screenshots: every screen is a drawn board), writer brief guide/creator-series-kit/WRITER-BRIEF-aiphotoediting.md",
       "watermark": true
     }
   ]
