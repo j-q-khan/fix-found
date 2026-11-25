@@ -10391,6 +10391,26 @@
       "level": "Novice",
       "guide_note": "2026-11-25: approved, 3 parts (guide/ai-music-plan.md section 3 and the top; Jabran: \"Proceed, docs only, autopost\"); NOT the old \"Make Music with AI\" series: names \"AI Music Guide N - ...\", so build folders guide/ai-music-guide-N-<slug>/ (series_upload.sh PREFIX ai-music-guide, never ai-music), thumbnails guide/creator-thumbnails/ai-music-guide (thumbs2 key ai-music-guide; ai-music/ is the old series' folder); kit guide/ai-music-kit, paths ai-music (scripts, images, github; repo folder ai-toolbox-prompts/ai-music); docs only: no sign-ups, no generations, no song audio, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: autopost later, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); Suno, Udio, Lyria and ACE-Step spoken as written (S1 U1 L1 A1); colour deep magenta-violet #FA61FF/#5E0061/#200021 (COLOUR-RULES.md); images guide/ai-music-images/CREDITS.md (none licensed at setup), writer brief guide/creator-series-kit/WRITER-BRIEF-aimusic.md; tutorial, ends with a chapter on posting to YouTube (A.I. disclosure and the inauthentic-content rule)",
       "watermark": true
+    },
+    {
+      "name": "Gemini CLI 1 - Install and Who Can Still Use It",
+      "series": "Gemini CLI",
+      "part": 1,
+      "brand": "GEMINI CLI",
+      "guide": "new",
+      "title": "Gemini CLI Install on Windows and Mac (2026): Who Can Still Use It",
+      "guide_note": "2026-11-25: approved, 2 parts (guide/gemini-cli-plan.md, Titles table; Part 3 cut; slug and paths gemini-cli); generation 5, so no generation field; docs only, no hands-on test (Jabran said no), \"Example output\" for any output; posting: nothing uploads without Jabran's OK; Gemini and Antigravity spoken as written, C.L.I. dotted; kit guide/gemini-cli-kit, thumbnails guide/creator-thumbnails/gemini-cli, images guide/gemini-cli-images/CREDITS.md (official repo docs images, Apache-2.0, where they exist; drawn boards elsewhere); writer brief guide/creator-series-kit/WRITER-BRIEF-geminicli.md; guide_playlist not set yet: make the playlist before Part 1 uploads",
+      "watermark": true
+    },
+    {
+      "name": "Gemini CLI 2 - Code Assist vs CLI in VS Code",
+      "series": "Gemini CLI",
+      "part": 2,
+      "brand": "GEMINI CLI",
+      "guide": "new",
+      "title": "Gemini Code Assist vs Gemini CLI in 2026: What Still Works in Visual Studio Code",
+      "guide_note": "2026-11-25: approved, 2 parts (guide/gemini-cli-plan.md, Titles table; Part 3 cut; slug and paths gemini-cli); generation 5, so no generation field; docs only, no hands-on test (Jabran said no), \"Example output\" for any output; posting: nothing uploads without Jabran's OK; Gemini and Antigravity spoken as written, C.L.I. dotted; kit guide/gemini-cli-kit, thumbnails guide/creator-thumbnails/gemini-cli, images guide/gemini-cli-images/CREDITS.md (official repo docs images, Apache-2.0, where they exist; drawn boards elsewhere); writer brief guide/creator-series-kit/WRITER-BRIEF-geminicli.md; guide_playlist not set yet: make the playlist before Part 1 uploads",
+      "watermark": true
     }
   ]
 }
