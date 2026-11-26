@@ -10592,6 +10592,50 @@
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 4 parts (guide/ai-voice-plan.md section 2 and the top; Jabran: \"As recommended / Docs only / Auto post\"); Part 5 (free plans) not made, a free-options chapter goes in Part 1; kit guide/ai-voice-kit (board module avk.py), paths ai-voice (scripts, images, github; repo folder ai-toolbox-prompts/ai-voice), build folders guide/ai-voice-N-<slug>/, thumbnails guide/creator-thumbnails/ai-voice (thumbs2 key ai-voice); docs only: no sign-ups, no generations, no product audio, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); colour in COLOUR-RULES.md row \"AI Voice\"; facts guide/ai-voice-facts.md ([S] rows never spoken); writer brief guide/creator-series-kit/WRITER-BRIEF-aivoice.md; tutorial; stock avatars drawn, no realistic people shown as real; Synthesia as the alternative",
       "watermark": true
+    },
+    {
+      "name": "AI Image 1 - Best Generator for Each Job",
+      "series": "AI Image",
+      "part": 1,
+      "brand": "AI IMAGE",
+      "guide": "new",
+      "title": "AI Image Generator: The Best One for Each Job (and Which You Can Use for Business)",
+      "level": "Novice",
+      "guide_note": "2026-11-26: approved, 4 parts (guide/ai-image-plan.md section 3; Jabran: \"Do all 4 parts, docs only, auto post\"); slug and paths ai-image (kit guide/ai-image-kit, scripts, images, github; repo folder ai-toolbox-prompts/ai-image); names \"AI Image N - ...\", so build folders guide/ai-image-N-<slug>/; thumbnails guide/creator-thumbnails/ai-image; docs only: nothing signed up for, installed, run or generated, drawn boards labelled as drawn (Part 3 also has cleared Wikimedia Commons Upscayl images), generated pictures as \"Example output\", no realistic generated people; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Ideogram, Gemini, Nano Banana as written, ChatGPT \"Chat G P T\" (G2), Upscayl spoken \"Up-scale\", SynthID \"Synth I.D.\", C2PA \"C.2.P.A.\"; facts guide/ai-image-facts.md ([S] never spoken); colour light rose 336 degrees (COLOUR-RULES.md); writer brief guide/creator-series-kit/WRITER-BRIEF-aiimage.md",
+      "watermark": true
+    },
+    {
+      "name": "AI Image 2 - Free Plans",
+      "series": "AI Image",
+      "part": 2,
+      "brand": "AI IMAGE",
+      "guide": "new",
+      "title": "AI Image Generator Free: What the Free Plans Really Give You",
+      "level": "Novice",
+      "guide_note": "2026-11-26: approved, 4 parts (guide/ai-image-plan.md section 3; Jabran: \"Do all 4 parts, docs only, auto post\"); slug and paths ai-image (kit guide/ai-image-kit, scripts, images, github; repo folder ai-toolbox-prompts/ai-image); names \"AI Image N - ...\", so build folders guide/ai-image-N-<slug>/; thumbnails guide/creator-thumbnails/ai-image; docs only: nothing signed up for, installed, run or generated, drawn boards labelled as drawn (Part 3 also has cleared Wikimedia Commons Upscayl images), generated pictures as \"Example output\", no realistic generated people; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Ideogram, Gemini, Nano Banana as written, ChatGPT \"Chat G P T\" (G2), Upscayl spoken \"Up-scale\", SynthID \"Synth I.D.\", C2PA \"C.2.P.A.\"; facts guide/ai-image-facts.md ([S] never spoken); colour light rose 336 degrees (COLOUR-RULES.md); writer brief guide/creator-series-kit/WRITER-BRIEF-aiimage.md",
+      "watermark": true
+    },
+    {
+      "name": "AI Image 3 - Upscaler and Enhancer",
+      "series": "AI Image",
+      "part": 3,
+      "brand": "AI IMAGE",
+      "guide": "new",
+      "title": "AI Image Upscaler and Enhancer: Make Small Images Sharp",
+      "level": "Novice",
+      "guide_note": "2026-11-26: approved, 4 parts (guide/ai-image-plan.md section 3; Jabran: \"Do all 4 parts, docs only, auto post\"); slug and paths ai-image (kit guide/ai-image-kit, scripts, images, github; repo folder ai-toolbox-prompts/ai-image); names \"AI Image N - ...\", so build folders guide/ai-image-N-<slug>/; thumbnails guide/creator-thumbnails/ai-image; docs only: nothing signed up for, installed, run or generated, drawn boards labelled as drawn (Part 3 also has cleared Wikimedia Commons Upscayl images), generated pictures as \"Example output\", no realistic generated people; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Ideogram, Gemini, Nano Banana as written, ChatGPT \"Chat G P T\" (G2), Upscayl spoken \"Up-scale\", SynthID \"Synth I.D.\", C2PA \"C.2.P.A.\"; facts guide/ai-image-facts.md ([S] never spoken); colour light rose 336 degrees (COLOUR-RULES.md); writer brief guide/creator-series-kit/WRITER-BRIEF-aiimage.md",
+      "watermark": true
+    },
+    {
+      "name": "AI Image 4 - AI Image Detector",
+      "series": "AI Image",
+      "part": 4,
+      "brand": "AI IMAGE",
+      "guide": "new",
+      "title": "AI Image Detector: How to Tell If a Picture Is AI",
+      "level": "Novice",
+      "guide_note": "2026-11-26: approved, 4 parts (guide/ai-image-plan.md section 3; Jabran: \"Do all 4 parts, docs only, auto post\"); slug and paths ai-image (kit guide/ai-image-kit, scripts, images, github; repo folder ai-toolbox-prompts/ai-image); names \"AI Image N - ...\", so build folders guide/ai-image-N-<slug>/; thumbnails guide/creator-thumbnails/ai-image; docs only: nothing signed up for, installed, run or generated, drawn boards labelled as drawn (Part 3 also has cleared Wikimedia Commons Upscayl images), generated pictures as \"Example output\", no realistic generated people; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Ideogram, Gemini, Nano Banana as written, ChatGPT \"Chat G P T\" (G2), Upscayl spoken \"Up-scale\", SynthID \"Synth I.D.\", C2PA \"C.2.P.A.\"; facts guide/ai-image-facts.md ([S] never spoken); colour light rose 336 degrees (COLOUR-RULES.md); writer brief guide/creator-series-kit/WRITER-BRIEF-aiimage.md",
+      "watermark": true
     }
   ]
 }
