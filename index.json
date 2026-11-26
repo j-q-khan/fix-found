@@ -10499,11 +10499,12 @@
       "series": "Always-On AI Agents",
       "part": 2,
       "brand": "ALWAYS-ON AGENTS",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Gemini Spark Is Now Task: How to Use Google's Free Always-On Agent",
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 6 parts (guide/always-on-agents-plan.md section 3; Jabran: \"Yes\", then \"autop post, docs only\"); slug and paths always-on-agents (kit guide/always-on-agents-kit, scripts, images, github; repo folder ai-toolbox-prompts/always-on-agents); names \"Always-On AI Agents N - ...\", so build folders guide/always-on-ai-agents-N-<slug>/; thumbnails guide/creator-thumbnails/always-on-agents; docs only: no sign-ups, no tests, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation as written, xAI spoken \"x A.I.\" (caption xAI), ChatGPT \"Chat G P T\" (G2); facts guide/always-on-agents-facts.md ([S] never spoken); colour per plan section 5 and COLOUR-RULES.md; writer brief guide/creator-series-kit/WRITER-BRIEF-alwayson.md; tutorial",
-      "watermark": true
+      "watermark": true,
+      "notes": "2026-11-26: every gate passed (critic; pre-render viewer pass FAIL 7 -> writer/builder fixes -> re-check PASS; render QA; final MP4 pass); render approved under the autopost-at-gates rule (Jabran, 2026-11-26)."
     },
     {
       "name": "Always-On AI Agents 3 - Grok Bot Setup",
@@ -10635,6 +10636,46 @@
       "title": "AI Image Detector: How to Tell If a Picture Is AI",
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 4 parts (guide/ai-image-plan.md section 3; Jabran: \"Do all 4 parts, docs only, auto post\"); slug and paths ai-image (kit guide/ai-image-kit, scripts, images, github; repo folder ai-toolbox-prompts/ai-image); names \"AI Image N - ...\", so build folders guide/ai-image-N-<slug>/; thumbnails guide/creator-thumbnails/ai-image; docs only: nothing signed up for, installed, run or generated, drawn boards labelled as drawn (Part 3 also has cleared Wikimedia Commons Upscayl images), generated pictures as \"Example output\", no realistic generated people; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Ideogram, Gemini, Nano Banana as written, ChatGPT \"Chat G P T\" (G2), Upscayl spoken \"Up-scale\", SynthID \"Synth I.D.\", C2PA \"C.2.P.A.\"; facts guide/ai-image-facts.md ([S] never spoken); colour light rose 336 degrees (COLOUR-RULES.md); writer brief guide/creator-series-kit/WRITER-BRIEF-aiimage.md",
+      "watermark": true
+    },
+    {
+      "name": "Claude Opus 1 - New Features and Price",
+      "series": "Claude Opus",
+      "part": 1,
+      "brand": "CLAUDE OPUS",
+      "guide": "new",
+      "title": "Claude Opus 5.5: What's New, What It Costs and Who Should Use It",
+      "guide_note": "2026-11-26: approved, 4 parts (guide/claude-opus-plan.md section 3; Jabran: \"Yes, Autopost, docs only\"); slug and paths claude-opus (kit guide/claude-opus-kit, board module copk.py; scripts, images, github; repo folder ai-toolbox-prompts/claude-opus); names \"Claude Opus N - ...\", so build folders guide/claude-opus-N-<slug>/; thumbnails guide/creator-thumbnails/claude-opus (thumbs2 key claude-opus); docs only: nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot: guide/claude-opus-images/CREDITS.md), output boards \"Example output\", no benchmark numbers spoken; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Opus, Sonnet, Haiku, Fable as written, versions \"five point five\", no aside; facts guide/claude-opus-facts.md ([S] never spoken; Opus is \"our strongest daily driver\", Fable 5.2 is the most capable); colour pale lilac violet 265 degrees (COLOUR-RULES.md); writer brief guide/creator-series-kit/WRITER-BRIEF-claudeopus.md; level Novice; review / what-is",
+      "watermark": true
+    },
+    {
+      "name": "Claude Opus 2 - Opus vs Sonnet and Fable",
+      "series": "Claude Opus",
+      "part": 2,
+      "brand": "CLAUDE OPUS",
+      "guide": "new",
+      "title": "Claude Opus vs Sonnet: Which Claude Model to Use (and When Fable Is Worth It)",
+      "guide_note": "2026-11-26: approved, 4 parts (guide/claude-opus-plan.md section 3; Jabran: \"Yes, Autopost, docs only\"); slug and paths claude-opus (kit guide/claude-opus-kit, board module copk.py; scripts, images, github; repo folder ai-toolbox-prompts/claude-opus); names \"Claude Opus N - ...\", so build folders guide/claude-opus-N-<slug>/; thumbnails guide/creator-thumbnails/claude-opus (thumbs2 key claude-opus); docs only: nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot: guide/claude-opus-images/CREDITS.md), output boards \"Example output\", no benchmark numbers spoken; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Opus, Sonnet, Haiku, Fable as written, versions \"five point five\", no aside; facts guide/claude-opus-facts.md ([S] never spoken; Opus is \"our strongest daily driver\", Fable 5.2 is the most capable); colour pale lilac violet 265 degrees (COLOUR-RULES.md); writer brief guide/creator-series-kit/WRITER-BRIEF-claudeopus.md; level Novice; comparison",
+      "watermark": true
+    },
+    {
+      "name": "Claude Opus 3 - Website and Game From One Prompt",
+      "series": "Claude Opus",
+      "part": 3,
+      "brand": "CLAUDE OPUS",
+      "guide": "new",
+      "title": "Claude Opus Website and Game: Build Both From One Prompt",
+      "guide_note": "2026-11-26: approved, 4 parts (guide/claude-opus-plan.md section 3; Jabran: \"Yes, Autopost, docs only\"); slug and paths claude-opus (kit guide/claude-opus-kit, board module copk.py; scripts, images, github; repo folder ai-toolbox-prompts/claude-opus); names \"Claude Opus N - ...\", so build folders guide/claude-opus-N-<slug>/; thumbnails guide/creator-thumbnails/claude-opus (thumbs2 key claude-opus); docs only: nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot: guide/claude-opus-images/CREDITS.md), output boards \"Example output\", no benchmark numbers spoken; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Opus, Sonnet, Haiku, Fable as written, versions \"five point five\", no aside; facts guide/claude-opus-facts.md ([S] never spoken; Opus is \"our strongest daily driver\", Fable 5.2 is the most capable); colour pale lilac violet 265 degrees (COLOUR-RULES.md); writer brief guide/creator-series-kit/WRITER-BRIEF-claudeopus.md; level Novice; tutorial (borderline phrases, kept by Jabran)",
+      "watermark": true
+    },
+    {
+      "name": "Claude Opus 4 - Animation Made With Code",
+      "series": "Claude Opus",
+      "part": 4,
+      "brand": "CLAUDE OPUS",
+      "guide": "new",
+      "title": "Claude Opus Animation and Motion Graphics: Make a Video With Code",
+      "guide_note": "2026-11-26: approved, 4 parts (guide/claude-opus-plan.md section 3; Jabran: \"Yes, Autopost, docs only\"); slug and paths claude-opus (kit guide/claude-opus-kit, board module copk.py; scripts, images, github; repo folder ai-toolbox-prompts/claude-opus); names \"Claude Opus N - ...\", so build folders guide/claude-opus-N-<slug>/; thumbnails guide/creator-thumbnails/claude-opus (thumbs2 key claude-opus); docs only: nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot: guide/claude-opus-images/CREDITS.md), output boards \"Example output\", no benchmark numbers spoken; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Opus, Sonnet, Haiku, Fable as written, versions \"five point five\", no aside; facts guide/claude-opus-facts.md ([S] never spoken; Opus is \"our strongest daily driver\", Fable 5.2 is the most capable); colour pale lilac violet 265 degrees (COLOUR-RULES.md); writer brief guide/creator-series-kit/WRITER-BRIEF-claudeopus.md; level Mid level (said out loud); tutorial (borderline phrases, kept by Jabran)",
       "watermark": true
     }
   ]
