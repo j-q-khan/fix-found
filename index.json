@@ -9540,12 +9540,15 @@
       "series": "Agentic AI",
       "part": 4,
       "brand": "AGENTIC AI",
-      "guide": "render approved",
+      "guide": "uploaded private",
       "title": "Agentic Coding Explained: How AI Coding Agents Plan, Edit and Check Your Code",
       "guide_note": "2026-11-21: approved, 4 parts (guide/agentic-ai-plan.md section 1, all 4 titles as written; slug agentic-ai); level: Novice; type: Explainer with a worked example; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\" (hands-on testing not approved); posting: autopost public at the gates, one at a time (Jabran, 2026-11-21); Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; [S] facts (the Google Cloud pages) never spoken; every company and product name explained at first use; ChatGPT Work (never \"ChatGPT agent\"); A.I. dotted, ChatGPT spoken \"Chat G P T\", other names as written, no pronunciation line; AFFIL names Anthropic, OpenAI, Microsoft, GitHub, Google and the Linux Foundation; angle: the agentic coding loop (Claude Code, GitHub Copilot in the cloud), links AI Coding Agents and Claude Code vs; kit guide/agentic-ai-kit, thumbnail guide/creator-thumbnails/agentic-ai/04.jpg, images guide/agentic-ai-images/CREDITS.md (the lead clears images per part), writer brief guide/creator-series-kit/WRITER-BRIEF-agenticai.md. Set up 2026-11-21.",
       "watermark": true,
       "generation": 4,
-      "notes": "2026-11-25: gates passed (critic, viewer pass + re-check, render QA after the \"proposal\" rewording, final MP4 pass); render approved under the autopost-at-gates rule (Jabran, 2026-11-21)."
+      "notes": "2026-11-25: gates passed (critic, viewer pass + re-check, render QA after the \"proposal\" rewording, final MP4 pass); render approved under the autopost-at-gates rule (Jabran, 2026-11-21).",
+      "guide_youtube_url": "https://youtu.be/9_aKTn3XDQg",
+      "guide_uploaded_on": "2026-11-26",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "How to Use ChatGPT 1 - Beginner Guide",
@@ -10092,14 +10095,14 @@
       "series": "Google AI",
       "part": 2,
       "brand": "GOOGLE AI",
-      "guide": "uploaded private",
+      "guide": "posted",
       "title": "Google AI Overviews: Can You Turn Them Off? How to Get Plain Results",
       "guide_note": "2026-11-24: approved, 3 parts (guide/google-ai-plan.md section 2; slug and paths google-ai; Jabran: \"OK / docs only / auto post\"); docs only, nothing signed in to, signed up for, installed or run, every AI Mode answer or overview a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; pronunciation: Google, Gemini, Chrome, Android, Coursera as written, A.I. dotted; kit guide/google-ai-kit, thumbnails guide/creator-thumbnails/google-ai, writer brief guide/creator-series-kit/WRITER-BRIEF-googleai.md, images guide/google-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board) | 2026-11-24: Part 2 passed every gate (critic, pre-render viewer, QA, final MP4 pass); render approved under his standing autopost OK.",
       "watermark": true,
       "generation": 4,
       "guide_youtube_url": "https://youtu.be/uHlbpi5ZbcM",
       "guide_uploaded_on": "2026-11-25",
-      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_visibility": "public",
       "guide_playlist": "PLKb4zpjTeTAA"
     },
     {
@@ -10212,22 +10215,30 @@
       "series": "Claude Agents",
       "part": 3,
       "brand": "CLAUDE AGENTS",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Claude Agents Teams: Run Several Claude Code Agents at Once",
       "guide_note": "2026-11-24: approved, 4 parts (guide/claude-agents-plan.md section 2; slug and paths claude-agents; Jabran: \"Proceed. Auto post. Docs only.\"); docs only, nothing installed, run or signed up for, every result a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; Generation 5 (no generation field: the upload stamps 5), so the series playlist and guide_playlist are set before Part 1 uploads; pronunciation: Claude, Claude Code and Cowork as written, \"agents dot M.D.\", \"Claude dot M.D.\", S.D.K., A.I., M.C.P. dotted; tmux pending Jabran's pick from renders/voice-samples/claude-agents/; kit guide/claude-agents-kit, thumbnails guide/creator-thumbnails/claude-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeagents.md, facts guide/claude-agents-facts.md, images guide/claude-agents-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
       "watermark": true,
-      "guide_playlist": "PLJ84ICvh65Pc"
+      "guide_playlist": "PLJ84ICvh65Pc",
+      "guide_youtube_url": "https://youtu.be/evKrq5UjUOU",
+      "guide_uploaded_on": "2026-11-26",
+      "generation": 5,
+      "guide_visibility": "public"
     },
     {
       "name": "Claude Agents 4 - Cowork Sub-agents and Scheduled Tasks",
       "series": "Claude Agents",
       "part": 4,
       "brand": "CLAUDE AGENTS",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Claude Agents in Cowork: Sub-agents and Scheduled Tasks for Business Work",
       "guide_note": "2026-11-24: approved, 4 parts (guide/claude-agents-plan.md section 2; slug and paths claude-agents; Jabran: \"Proceed. Auto post. Docs only.\"); docs only, nothing installed, run or signed up for, every result a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; Generation 5 (no generation field: the upload stamps 5), so the series playlist and guide_playlist are set before Part 1 uploads; pronunciation: Claude, Claude Code and Cowork as written, \"agents dot M.D.\", \"Claude dot M.D.\", S.D.K., A.I., M.C.P. dotted; tmux pending Jabran's pick from renders/voice-samples/claude-agents/; kit guide/claude-agents-kit, thumbnails guide/creator-thumbnails/claude-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeagents.md, facts guide/claude-agents-facts.md, images guide/claude-agents-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
       "watermark": true,
-      "guide_playlist": "PLJ84ICvh65Pc"
+      "guide_playlist": "PLJ84ICvh65Pc",
+      "guide_youtube_url": "https://youtu.be/wPlKZ2MYQs8",
+      "guide_uploaded_on": "2026-11-26",
+      "generation": 5,
+      "guide_visibility": "public"
     },
     {
       "name": "OpenAI Codex 1 - Which Codex to Start With",
@@ -10249,44 +10260,60 @@
       "series": "OpenAI Codex",
       "part": 2,
       "brand": "OPENAI CODEX",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "OpenAI Codex App Tutorial: Use Codex in the ChatGPT Desktop App",
       "guide_note": "2026-11-24: approved, 5 parts (guide/openai-codex-plan.md section 3; slug and paths openai-codex; Jabran: \"Proceed. Auto post, Docs only.\"); docs only, nothing installed, run or signed up for, every result a labelled \"Example output\" board, every screen a drawn board except the Apache-2.0 Codex CLI splash in Part 5; posting: autopost, public as each part passes every gate, one at a time; Generation 5 (no generation field: the upload stamps 5), so the series playlist and guide_playlist are set before Part 1 uploads; pronunciation: Codex, Cursor, Windsurf and GitHub as written, \"Visual Studio Code\" in full, \"agents dot M.D.\", C.L.I. and A.P.I. dotted, no samples; Free and Go only \"in the desktop app, subject to rollout\"; kit guide/openai-codex-kit, thumbnails guide/creator-thumbnails/openai-codex, images guide/openai-codex-images/CREDITS.md, writer brief guide/creator-series-kit/WRITER-BRIEF-openaicodex.md",
       "watermark": true,
-      "guide_playlist": "PLEhJJTbTxc14"
+      "guide_playlist": "PLEhJJTbTxc14",
+      "guide_youtube_url": "https://youtu.be/MpDKep1V48Q",
+      "guide_uploaded_on": "2026-11-26",
+      "generation": 5,
+      "guide_visibility": "public"
     },
     {
       "name": "OpenAI Codex 3 - Codex Cloud Task to Pull Request",
       "series": "OpenAI Codex",
       "part": 3,
       "brand": "OPENAI CODEX",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "ChatGPT Codex Cloud: Run a Task on Your GitHub Repo and Open a Pull Request",
       "guide_note": "2026-11-24: approved, 5 parts (guide/openai-codex-plan.md section 3; slug and paths openai-codex; Jabran: \"Proceed. Auto post, Docs only.\"); docs only, nothing installed, run or signed up for, every result a labelled \"Example output\" board, every screen a drawn board except the Apache-2.0 Codex CLI splash in Part 5; posting: autopost, public as each part passes every gate, one at a time; Generation 5 (no generation field: the upload stamps 5), so the series playlist and guide_playlist are set before Part 1 uploads; pronunciation: Codex, Cursor, Windsurf and GitHub as written, \"Visual Studio Code\" in full, \"agents dot M.D.\", C.L.I. and A.P.I. dotted, no samples; Free and Go only \"in the desktop app, subject to rollout\"; kit guide/openai-codex-kit, thumbnails guide/creator-thumbnails/openai-codex, images guide/openai-codex-images/CREDITS.md, writer brief guide/creator-series-kit/WRITER-BRIEF-openaicodex.md",
       "watermark": true,
-      "guide_playlist": "PLEhJJTbTxc14"
+      "guide_playlist": "PLEhJJTbTxc14",
+      "guide_youtube_url": "https://youtu.be/fX80Sawh3_U",
+      "guide_uploaded_on": "2026-11-26",
+      "generation": 5,
+      "guide_visibility": "public"
     },
     {
       "name": "OpenAI Codex 4 - Codex in VS Code",
       "series": "OpenAI Codex",
       "part": 4,
       "brand": "OPENAI CODEX",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "OpenAI Codex in VS Code: Set Up the Extension and Make Your First Change",
       "guide_note": "2026-11-24: approved, 5 parts (guide/openai-codex-plan.md section 3; slug and paths openai-codex; Jabran: \"Proceed. Auto post, Docs only.\"); docs only, nothing installed, run or signed up for, every result a labelled \"Example output\" board, every screen a drawn board except the Apache-2.0 Codex CLI splash in Part 5; posting: autopost, public as each part passes every gate, one at a time; Generation 5 (no generation field: the upload stamps 5), so the series playlist and guide_playlist are set before Part 1 uploads; pronunciation: Codex, Cursor, Windsurf and GitHub as written, \"Visual Studio Code\" in full, \"agents dot M.D.\", C.L.I. and A.P.I. dotted, no samples; Free and Go only \"in the desktop app, subject to rollout\"; kit guide/openai-codex-kit, thumbnails guide/creator-thumbnails/openai-codex, images guide/openai-codex-images/CREDITS.md, writer brief guide/creator-series-kit/WRITER-BRIEF-openaicodex.md",
       "watermark": true,
-      "guide_playlist": "PLEhJJTbTxc14"
+      "guide_playlist": "PLEhJJTbTxc14",
+      "guide_youtube_url": "https://youtu.be/4IRQKPRgkdc",
+      "guide_uploaded_on": "2026-11-26",
+      "generation": 5,
+      "guide_visibility": "public"
     },
     {
       "name": "OpenAI Codex 5 - Codex CLI Permissions and AGENTS.md",
       "series": "OpenAI Codex",
       "part": 5,
       "brand": "OPENAI CODEX",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "OpenAI Codex CLI Tutorial: Permissions, AGENTS.md and Daily Commands",
       "guide_note": "2026-11-24: approved, 5 parts (guide/openai-codex-plan.md section 3; slug and paths openai-codex; Jabran: \"Proceed. Auto post, Docs only.\"); docs only, nothing installed, run or signed up for, every result a labelled \"Example output\" board, every screen a drawn board except the Apache-2.0 Codex CLI splash in Part 5; posting: autopost, public as each part passes every gate, one at a time; Generation 5 (no generation field: the upload stamps 5), so the series playlist and guide_playlist are set before Part 1 uploads; pronunciation: Codex, Cursor, Windsurf and GitHub as written, \"Visual Studio Code\" in full, \"agents dot M.D.\", C.L.I. and A.P.I. dotted, no samples; Free and Go only \"in the desktop app, subject to rollout\"; kit guide/openai-codex-kit, thumbnails guide/creator-thumbnails/openai-codex, images guide/openai-codex-images/CREDITS.md, writer brief guide/creator-series-kit/WRITER-BRIEF-openaicodex.md",
       "watermark": true,
-      "guide_playlist": "PLEhJJTbTxc14"
+      "guide_playlist": "PLEhJJTbTxc14",
+      "guide_youtube_url": "https://youtu.be/tAocGS6UXX0",
+      "guide_uploaded_on": "2026-11-26",
+      "generation": 5,
+      "guide_visibility": "public"
     },
     {
       "name": "AI Game Development 1 - The Best AI Game Maker",
@@ -10460,11 +10487,12 @@
       "series": "Always-On AI Agents",
       "part": 1,
       "brand": "ALWAYS-ON AGENTS",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Gemini Spark vs Grok Bot vs Claude Duet vs Meta Muse vs ChatGPT Dots: Which AI Agent Fits You?",
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 6 parts (guide/always-on-agents-plan.md section 3; Jabran: \"Yes\", then \"autop post, docs only\"); slug and paths always-on-agents (kit guide/always-on-agents-kit, scripts, images, github; repo folder ai-toolbox-prompts/always-on-agents); names \"Always-On AI Agents N - ...\", so build folders guide/always-on-ai-agents-N-<slug>/; thumbnails guide/creator-thumbnails/always-on-agents; docs only: no sign-ups, no tests, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation as written, xAI spoken \"x A.I.\" (caption xAI), ChatGPT \"Chat G P T\" (G2); facts guide/always-on-agents-facts.md ([S] never spoken); colour per plan section 5 and COLOUR-RULES.md; writer brief guide/creator-series-kit/WRITER-BRIEF-alwayson.md; comparison, ships first",
-      "watermark": true
+      "watermark": true,
+      "notes": "2026-11-26: every gate passed (critic; pre-render viewer pass + re-check; render QA; final MP4 pass after the empty \"Prompts to copy\" heading fix, repackaged with qa); render approved under the autopost-at-gates rule (Jabran, 2026-11-26). GitHub folder pushed (ai-toolbox-prompts 6dd967c)."
     },
     {
       "name": "Always-On AI Agents 2 - Gemini Spark Is Now Task",
@@ -10519,6 +10547,50 @@
       "title": "ChatGPT Dots Explained: What It Does, Who Gets It, and Is Pro Worth It?",
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 6 parts (guide/always-on-agents-plan.md section 3; Jabran: \"Yes\", then \"autop post, docs only\"); slug and paths always-on-agents (kit guide/always-on-agents-kit, scripts, images, github; repo folder ai-toolbox-prompts/always-on-agents); names \"Always-On AI Agents N - ...\", so build folders guide/always-on-ai-agents-N-<slug>/; thumbnails guide/creator-thumbnails/always-on-agents; docs only: no sign-ups, no tests, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation as written, xAI spoken \"x A.I.\" (caption xAI), ChatGPT \"Chat G P T\" (G2); facts guide/always-on-agents-facts.md ([S] never spoken); colour per plan section 5 and COLOUR-RULES.md; writer brief guide/creator-series-kit/WRITER-BRIEF-alwayson.md; review / what-is (149, kept last)",
+      "watermark": true
+    },
+    {
+      "name": "AI Voice 1 - Text to Voiceover",
+      "series": "AI Voice",
+      "part": 1,
+      "brand": "AI VOICE",
+      "guide": "new",
+      "title": "AI Voice Generator: Turn Text Into a Realistic Voiceover With ElevenLabs",
+      "level": "Novice",
+      "guide_note": "2026-11-26: approved, 4 parts (guide/ai-voice-plan.md section 2 and the top; Jabran: \"As recommended / Docs only / Auto post\"); Part 5 (free plans) not made, a free-options chapter goes in Part 1; kit guide/ai-voice-kit (board module avk.py), paths ai-voice (scripts, images, github; repo folder ai-toolbox-prompts/ai-voice), build folders guide/ai-voice-N-<slug>/, thumbnails guide/creator-thumbnails/ai-voice (thumbs2 key ai-voice); docs only: no sign-ups, no generations, no product audio, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); colour in COLOUR-RULES.md row \"AI Voice\"; facts guide/ai-voice-facts.md ([S] rows never spoken); writer brief guide/creator-series-kit/WRITER-BRIEF-aivoice.md; tutorial, with a free-options chapter (licences of Kokoro, Piper, Gemini text to speech, CapCut)",
+      "watermark": true
+    },
+    {
+      "name": "AI Voice 2 - Clone Your Own Voice",
+      "series": "AI Voice",
+      "part": 2,
+      "brand": "AI VOICE",
+      "guide": "new",
+      "title": "AI Voice Cloning: Clone Your Own Voice With ElevenLabs, the Safe Way",
+      "level": "Novice",
+      "guide_note": "2026-11-26: approved, 4 parts (guide/ai-voice-plan.md section 2 and the top; Jabran: \"As recommended / Docs only / Auto post\"); Part 5 (free plans) not made, a free-options chapter goes in Part 1; kit guide/ai-voice-kit (board module avk.py), paths ai-voice (scripts, images, github; repo folder ai-toolbox-prompts/ai-voice), build folders guide/ai-voice-N-<slug>/, thumbnails guide/creator-thumbnails/ai-voice (thumbs2 key ai-voice); docs only: no sign-ups, no generations, no product audio, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); colour in COLOUR-RULES.md row \"AI Voice\"; facts guide/ai-voice-facts.md ([S] rows never spoken); writer brief guide/creator-series-kit/WRITER-BRIEF-aivoice.md; tutorial; consent and YouTube disclosure in the companies' own words",
+      "watermark": true
+    },
+    {
+      "name": "AI Voice 3 - Voice Changer",
+      "series": "AI Voice",
+      "part": 3,
+      "brand": "AI VOICE",
+      "guide": "new",
+      "title": "AI Voice Changer: Turn Your Recording Into Another Voice (ElevenLabs Voice Changer)",
+      "level": "Novice",
+      "guide_note": "2026-11-26: approved, 4 parts (guide/ai-voice-plan.md section 2 and the top; Jabran: \"As recommended / Docs only / Auto post\"); Part 5 (free plans) not made, a free-options chapter goes in Part 1; kit guide/ai-voice-kit (board module avk.py), paths ai-voice (scripts, images, github; repo folder ai-toolbox-prompts/ai-voice), build folders guide/ai-voice-N-<slug>/, thumbnails guide/creator-thumbnails/ai-voice (thumbs2 key ai-voice); docs only: no sign-ups, no generations, no product audio, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); colour in COLOUR-RULES.md row \"AI Voice\"; facts guide/ai-voice-facts.md ([S] rows never spoken); writer brief guide/creator-series-kit/WRITER-BRIEF-aivoice.md; tutorial; local changers described from READMEs only",
+      "watermark": true
+    },
+    {
+      "name": "AI Voice 4 - Talking Avatar With HeyGen",
+      "series": "AI Voice",
+      "part": 4,
+      "brand": "AI VOICE",
+      "guide": "new",
+      "title": "AI Avatar Video: Make a Talking Avatar With HeyGen (Avatar 6 Tutorial)",
+      "level": "Novice",
+      "guide_note": "2026-11-26: approved, 4 parts (guide/ai-voice-plan.md section 2 and the top; Jabran: \"As recommended / Docs only / Auto post\"); Part 5 (free plans) not made, a free-options chapter goes in Part 1; kit guide/ai-voice-kit (board module avk.py), paths ai-voice (scripts, images, github; repo folder ai-toolbox-prompts/ai-voice), build folders guide/ai-voice-N-<slug>/, thumbnails guide/creator-thumbnails/ai-voice (thumbs2 key ai-voice); docs only: no sign-ups, no generations, no product audio, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); colour in COLOUR-RULES.md row \"AI Voice\"; facts guide/ai-voice-facts.md ([S] rows never spoken); writer brief guide/creator-series-kit/WRITER-BRIEF-aivoice.md; tutorial; stock avatars drawn, no realistic people shown as real; Synthesia as the alternative",
       "watermark": true
     }
   ]
