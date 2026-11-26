@@ -9537,11 +9537,12 @@
       "series": "Agentic AI",
       "part": 4,
       "brand": "AGENTIC AI",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Agentic Coding Explained: How AI Coding Agents Plan, Edit and Check Your Code",
       "guide_note": "2026-11-21: approved, 4 parts (guide/agentic-ai-plan.md section 1, all 4 titles as written; slug agentic-ai); level: Novice; type: Explainer with a worked example; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\" (hands-on testing not approved); posting: autopost public at the gates, one at a time (Jabran, 2026-11-21); Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; [S] facts (the Google Cloud pages) never spoken; every company and product name explained at first use; ChatGPT Work (never \"ChatGPT agent\"); A.I. dotted, ChatGPT spoken \"Chat G P T\", other names as written, no pronunciation line; AFFIL names Anthropic, OpenAI, Microsoft, GitHub, Google and the Linux Foundation; angle: the agentic coding loop (Claude Code, GitHub Copilot in the cloud), links AI Coding Agents and Claude Code vs; kit guide/agentic-ai-kit, thumbnail guide/creator-thumbnails/agentic-ai/04.jpg, images guide/agentic-ai-images/CREDITS.md (the lead clears images per part), writer brief guide/creator-series-kit/WRITER-BRIEF-agenticai.md. Set up 2026-11-21.",
       "watermark": true,
-      "generation": 4
+      "generation": 4,
+      "notes": "2026-11-25: gates passed (critic, viewer pass + re-check, render QA after the \"proposal\" rewording, final MP4 pass); render approved under the autopost-at-gates rule (Jabran, 2026-11-21)."
     },
     {
       "name": "How to Use ChatGPT 1 - Beginner Guide",
@@ -10328,7 +10329,7 @@
       "series": "AI Photo Editing",
       "part": 2,
       "brand": "AI PHOTO EDITING",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Photoshop AI Tutorial: Generative Fill, Remove Tool and Relight in Photoshop 28",
       "level": "Novice",
       "guide_note": "2026-11-25: approved, 4 parts (guide/ai-photo-editing-plan.md, the top table; slug and paths ai-photo-editing; Jabran: \"Do the 4 parts, docs only, auto post\"); docs only, nothing signed up for, installed, run, edited or generated, drawn boards and \"Example output\"; posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); every name spoken as written, ChatGPT as \"Chat G P T\"; kit guide/ai-photo-editing-kit, thumbnails guide/creator-thumbnails/ai-photo-editing, images guide/ai-photo-editing-images/CREDITS.md (no licensed screenshots: every screen is a drawn board), writer brief guide/creator-series-kit/WRITER-BRIEF-aiphotoediting.md",
@@ -10340,7 +10341,7 @@
       "series": "AI Photo Editing",
       "part": 3,
       "brand": "AI PHOTO EDITING",
-      "guide": "new",
+      "guide": "render approved",
       "title": "AI Photo Editor Free: What the Free AI Photo Editors Really Give You",
       "level": "Novice",
       "guide_note": "2026-11-25: approved, 4 parts (guide/ai-photo-editing-plan.md, the top table; slug and paths ai-photo-editing; Jabran: \"Do the 4 parts, docs only, auto post\"); docs only, nothing signed up for, installed, run, edited or generated, drawn boards and \"Example output\"; posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); every name spoken as written, ChatGPT as \"Chat G P T\"; kit guide/ai-photo-editing-kit, thumbnails guide/creator-thumbnails/ai-photo-editing, images guide/ai-photo-editing-images/CREDITS.md (no licensed screenshots: every screen is a drawn board), writer brief guide/creator-series-kit/WRITER-BRIEF-aiphotoediting.md",
@@ -10352,7 +10353,7 @@
       "series": "AI Photo Editing",
       "part": 4,
       "brand": "AI PHOTO EDITING",
-      "guide": "new",
+      "guide": "render approved",
       "title": "ChatGPT Photo Editing: Edit Your Own Photos With a Prompt, and Gemini Too",
       "level": "Novice",
       "guide_note": "2026-11-25: approved, 4 parts (guide/ai-photo-editing-plan.md, the top table; slug and paths ai-photo-editing; Jabran: \"Do the 4 parts, docs only, auto post\"); docs only, nothing signed up for, installed, run, edited or generated, drawn boards and \"Example output\"; posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); every name spoken as written, ChatGPT as \"Chat G P T\"; kit guide/ai-photo-editing-kit, thumbnails guide/creator-thumbnails/ai-photo-editing, images guide/ai-photo-editing-images/CREDITS.md (no licensed screenshots: every screen is a drawn board), writer brief guide/creator-series-kit/WRITER-BRIEF-aiphotoediting.md",
@@ -10364,11 +10365,12 @@
       "series": "AI Music",
       "part": 1,
       "brand": "AI MUSIC",
-      "guide": "new",
+      "guide": "render approved",
       "title": "AI Music for Free: Suno vs Udio vs Gemini, What Each Free Plan Really Gives You",
       "level": "Novice",
-      "guide_note": "2026-11-25: approved, 3 parts (guide/ai-music-plan.md section 3 and the top; Jabran: \"Proceed, docs only, autopost\"); NOT the old \"Make Music with AI\" series: names \"AI Music Guide N - ...\", so build folders guide/ai-music-guide-N-<slug>/ (series_upload.sh PREFIX ai-music-guide, never ai-music), thumbnails guide/creator-thumbnails/ai-music-guide (thumbs2 key ai-music-guide; ai-music/ is the old series' folder); kit guide/ai-music-kit, paths ai-music (scripts, images, github; repo folder ai-toolbox-prompts/ai-music); docs only: no sign-ups, no generations, no song audio, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: autopost later, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); Suno, Udio, Lyria and ACE-Step spoken as written (S1 U1 L1 A1); colour deep magenta-violet #FA61FF/#5E0061/#200021 (COLOUR-RULES.md); images guide/ai-music-images/CREDITS.md (none licensed at setup), writer brief guide/creator-series-kit/WRITER-BRIEF-aimusic.md; comparison",
-      "watermark": true
+      "guide_note": "2026-11-25: approved, 3 parts (guide/ai-music-plan.md section 3 and the top; Jabran: \"Proceed, docs only, autopost\"); NOT the old \"Make Music with AI\" series: names \"AI Music Guide N - ...\", so build folders guide/ai-music-guide-N-<slug>/ (series_upload.sh PREFIX ai-music-guide, never ai-music), thumbnails guide/creator-thumbnails/ai-music-guide (thumbs2 key ai-music-guide; ai-music/ is the old series' folder); kit guide/ai-music-kit, paths ai-music (scripts, images, github; repo folder ai-toolbox-prompts/ai-music); docs only: no sign-ups, no generations, no song audio, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: autopost later, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); Suno, Udio, Lyria and ACE-Step spoken as written (S1 U1 L1 A1); colour deep magenta-violet #FA61FF/#5E0061/#200021 (COLOUR-RULES.md); images guide/ai-music-images/CREDITS.md (none licensed at setup), writer brief guide/creator-series-kit/WRITER-BRIEF-aimusic.md; comparison | 2026-11-25: every gate passed (critic, pre-render viewer pass, render QA, final MP4 pass); autopost per Jabran.",
+      "watermark": true,
+      "guide_playlist": "PLZLLNrt4or8o"
     },
     {
       "name": "AI Music Guide 2 - Your First Song in Suno",
@@ -10379,7 +10381,8 @@
       "title": "AI Music With Suno: Make Your First AI Song With Your Own Lyrics (Suno v6 Tutorial)",
       "level": "Novice",
       "guide_note": "2026-11-25: approved, 3 parts (guide/ai-music-plan.md section 3 and the top; Jabran: \"Proceed, docs only, autopost\"); NOT the old \"Make Music with AI\" series: names \"AI Music Guide N - ...\", so build folders guide/ai-music-guide-N-<slug>/ (series_upload.sh PREFIX ai-music-guide, never ai-music), thumbnails guide/creator-thumbnails/ai-music-guide (thumbs2 key ai-music-guide; ai-music/ is the old series' folder); kit guide/ai-music-kit, paths ai-music (scripts, images, github; repo folder ai-toolbox-prompts/ai-music); docs only: no sign-ups, no generations, no song audio, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: autopost later, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); Suno, Udio, Lyria and ACE-Step spoken as written (S1 U1 L1 A1); colour deep magenta-violet #FA61FF/#5E0061/#200021 (COLOUR-RULES.md); images guide/ai-music-images/CREDITS.md (none licensed at setup), writer brief guide/creator-series-kit/WRITER-BRIEF-aimusic.md; tutorial",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLZLLNrt4or8o"
     },
     {
       "name": "AI Music Guide 3 - Song to Music Video",
@@ -10390,14 +10393,15 @@
       "title": "AI Music Video: Turn Your Song Into a Music Video With Suno Visuals",
       "level": "Novice",
       "guide_note": "2026-11-25: approved, 3 parts (guide/ai-music-plan.md section 3 and the top; Jabran: \"Proceed, docs only, autopost\"); NOT the old \"Make Music with AI\" series: names \"AI Music Guide N - ...\", so build folders guide/ai-music-guide-N-<slug>/ (series_upload.sh PREFIX ai-music-guide, never ai-music), thumbnails guide/creator-thumbnails/ai-music-guide (thumbs2 key ai-music-guide; ai-music/ is the old series' folder); kit guide/ai-music-kit, paths ai-music (scripts, images, github; repo folder ai-toolbox-prompts/ai-music); docs only: no sign-ups, no generations, no song audio, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: autopost later, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); Suno, Udio, Lyria and ACE-Step spoken as written (S1 U1 L1 A1); colour deep magenta-violet #FA61FF/#5E0061/#200021 (COLOUR-RULES.md); images guide/ai-music-images/CREDITS.md (none licensed at setup), writer brief guide/creator-series-kit/WRITER-BRIEF-aimusic.md; tutorial, ends with a chapter on posting to YouTube (A.I. disclosure and the inauthentic-content rule)",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLZLLNrt4or8o"
     },
     {
       "name": "Gemini CLI 1 - Install and Who Can Still Use It",
       "series": "Gemini CLI",
       "part": 1,
       "brand": "GEMINI CLI",
-      "guide": "new",
+      "guide": "render check",
       "title": "Gemini CLI Install on Windows and Mac (2026): Who Can Still Use It",
       "guide_note": "2026-11-25: approved, 2 parts (guide/gemini-cli-plan.md, Titles table; Part 3 cut; slug and paths gemini-cli); generation 5, so no generation field; docs only, no hands-on test (Jabran said no), \"Example output\" for any output; posting: nothing uploads without Jabran's OK; Gemini and Antigravity spoken as written, C.L.I. dotted; kit guide/gemini-cli-kit, thumbnails guide/creator-thumbnails/gemini-cli, images guide/gemini-cli-images/CREDITS.md (official repo docs images, Apache-2.0, where they exist; drawn boards elsewhere); writer brief guide/creator-series-kit/WRITER-BRIEF-geminicli.md; guide_playlist not set yet: make the playlist before Part 1 uploads",
       "watermark": true
@@ -10407,9 +10411,75 @@
       "series": "Gemini CLI",
       "part": 2,
       "brand": "GEMINI CLI",
-      "guide": "new",
+      "guide": "render check",
       "title": "Gemini Code Assist vs Gemini CLI in 2026: What Still Works in Visual Studio Code",
       "guide_note": "2026-11-25: approved, 2 parts (guide/gemini-cli-plan.md, Titles table; Part 3 cut; slug and paths gemini-cli); generation 5, so no generation field; docs only, no hands-on test (Jabran said no), \"Example output\" for any output; posting: nothing uploads without Jabran's OK; Gemini and Antigravity spoken as written, C.L.I. dotted; kit guide/gemini-cli-kit, thumbnails guide/creator-thumbnails/gemini-cli, images guide/gemini-cli-images/CREDITS.md (official repo docs images, Apache-2.0, where they exist; drawn boards elsewhere); writer brief guide/creator-series-kit/WRITER-BRIEF-geminicli.md; guide_playlist not set yet: make the playlist before Part 1 uploads",
+      "watermark": true
+    },
+    {
+      "name": "Always-On AI Agents 1 - Which Agent Fits You",
+      "series": "Always-On AI Agents",
+      "part": 1,
+      "brand": "ALWAYS-ON AGENTS",
+      "guide": "new",
+      "title": "Gemini Spark vs Grok Bot vs Claude Duet vs Meta Muse vs ChatGPT Dots: Which AI Agent Fits You?",
+      "level": "Novice",
+      "guide_note": "2026-11-26: approved, 6 parts (guide/always-on-agents-plan.md section 3; Jabran: \"Yes\", then \"autop post, docs only\"); slug and paths always-on-agents (kit guide/always-on-agents-kit, scripts, images, github; repo folder ai-toolbox-prompts/always-on-agents); names \"Always-On AI Agents N - ...\", so build folders guide/always-on-ai-agents-N-<slug>/; thumbnails guide/creator-thumbnails/always-on-agents; docs only: no sign-ups, no tests, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation as written, xAI spoken \"x A.I.\" (caption xAI), ChatGPT \"Chat G P T\" (G2); facts guide/always-on-agents-facts.md ([S] never spoken); colour per plan section 5 and COLOUR-RULES.md; writer brief guide/creator-series-kit/WRITER-BRIEF-alwayson.md; comparison, ships first",
+      "watermark": true
+    },
+    {
+      "name": "Always-On AI Agents 2 - Gemini Spark Is Now Task",
+      "series": "Always-On AI Agents",
+      "part": 2,
+      "brand": "ALWAYS-ON AGENTS",
+      "guide": "new",
+      "title": "Gemini Spark Is Now Task: How to Use Google's Free Always-On Agent",
+      "level": "Novice",
+      "guide_note": "2026-11-26: approved, 6 parts (guide/always-on-agents-plan.md section 3; Jabran: \"Yes\", then \"autop post, docs only\"); slug and paths always-on-agents (kit guide/always-on-agents-kit, scripts, images, github; repo folder ai-toolbox-prompts/always-on-agents); names \"Always-On AI Agents N - ...\", so build folders guide/always-on-ai-agents-N-<slug>/; thumbnails guide/creator-thumbnails/always-on-agents; docs only: no sign-ups, no tests, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation as written, xAI spoken \"x A.I.\" (caption xAI), ChatGPT \"Chat G P T\" (G2); facts guide/always-on-agents-facts.md ([S] never spoken); colour per plan section 5 and COLOUR-RULES.md; writer brief guide/creator-series-kit/WRITER-BRIEF-alwayson.md; tutorial",
+      "watermark": true
+    },
+    {
+      "name": "Always-On AI Agents 3 - Grok Bot Setup",
+      "series": "Always-On AI Agents",
+      "part": 3,
+      "brand": "ALWAYS-ON AGENTS",
+      "guide": "new",
+      "title": "Grok Bot Setup and Use Cases: What xAI's Always-On Agent Can Do for You",
+      "level": "Novice",
+      "guide_note": "2026-11-26: approved, 6 parts (guide/always-on-agents-plan.md section 3; Jabran: \"Yes\", then \"autop post, docs only\"); slug and paths always-on-agents (kit guide/always-on-agents-kit, scripts, images, github; repo folder ai-toolbox-prompts/always-on-agents); names \"Always-On AI Agents N - ...\", so build folders guide/always-on-ai-agents-N-<slug>/; thumbnails guide/creator-thumbnails/always-on-agents; docs only: no sign-ups, no tests, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation as written, xAI spoken \"x A.I.\" (caption xAI), ChatGPT \"Chat G P T\" (G2); facts guide/always-on-agents-facts.md ([S] never spoken); colour per plan section 5 and COLOUR-RULES.md; writer brief guide/creator-series-kit/WRITER-BRIEF-alwayson.md; tutorial",
+      "watermark": true
+    },
+    {
+      "name": "Always-On AI Agents 4 - Claude Duet Explained",
+      "series": "Always-On AI Agents",
+      "part": 4,
+      "brand": "ALWAYS-ON AGENTS",
+      "guide": "new",
+      "title": "Claude Duet Explained: Who Can Get It and What It Does for You Each Day",
+      "level": "Novice",
+      "guide_note": "2026-11-26: approved, 6 parts (guide/always-on-agents-plan.md section 3; Jabran: \"Yes\", then \"autop post, docs only\"); slug and paths always-on-agents (kit guide/always-on-agents-kit, scripts, images, github; repo folder ai-toolbox-prompts/always-on-agents); names \"Always-On AI Agents N - ...\", so build folders guide/always-on-ai-agents-N-<slug>/; thumbnails guide/creator-thumbnails/always-on-agents; docs only: no sign-ups, no tests, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation as written, xAI spoken \"x A.I.\" (caption xAI), ChatGPT \"Chat G P T\" (G2); facts guide/always-on-agents-facts.md ([S] never spoken); colour per plan section 5 and COLOUR-RULES.md; writer brief guide/creator-series-kit/WRITER-BRIEF-alwayson.md; review / what-is",
+      "watermark": true
+    },
+    {
+      "name": "Always-On AI Agents 5 - Meta Muse Explained",
+      "series": "Always-On AI Agents",
+      "part": 5,
+      "brand": "ALWAYS-ON AGENTS",
+      "guide": "new",
+      "title": "Meta Muse: The Free AI Agent in WhatsApp, Explained (Plus Spark, Glimmer and Charm)",
+      "level": "Novice",
+      "guide_note": "2026-11-26: approved, 6 parts (guide/always-on-agents-plan.md section 3; Jabran: \"Yes\", then \"autop post, docs only\"); slug and paths always-on-agents (kit guide/always-on-agents-kit, scripts, images, github; repo folder ai-toolbox-prompts/always-on-agents); names \"Always-On AI Agents N - ...\", so build folders guide/always-on-ai-agents-N-<slug>/; thumbnails guide/creator-thumbnails/always-on-agents; docs only: no sign-ups, no tests, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation as written, xAI spoken \"x A.I.\" (caption xAI), ChatGPT \"Chat G P T\" (G2); facts guide/always-on-agents-facts.md ([S] never spoken); colour per plan section 5 and COLOUR-RULES.md; writer brief guide/creator-series-kit/WRITER-BRIEF-alwayson.md; review / what-is",
+      "watermark": true
+    },
+    {
+      "name": "Always-On AI Agents 6 - ChatGPT Dots Explained",
+      "series": "Always-On AI Agents",
+      "part": 6,
+      "brand": "ALWAYS-ON AGENTS",
+      "guide": "new",
+      "title": "ChatGPT Dots Explained: What It Does, Who Gets It, and Is Pro Worth It?",
+      "level": "Novice",
+      "guide_note": "2026-11-26: approved, 6 parts (guide/always-on-agents-plan.md section 3; Jabran: \"Yes\", then \"autop post, docs only\"); slug and paths always-on-agents (kit guide/always-on-agents-kit, scripts, images, github; repo folder ai-toolbox-prompts/always-on-agents); names \"Always-On AI Agents N - ...\", so build folders guide/always-on-ai-agents-N-<slug>/; thumbnails guide/creator-thumbnails/always-on-agents; docs only: no sign-ups, no tests, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation as written, xAI spoken \"x A.I.\" (caption xAI), ChatGPT \"Chat G P T\" (G2); facts guide/always-on-agents-facts.md ([S] never spoken); colour per plan section 5 and COLOUR-RULES.md; writer brief guide/creator-series-kit/WRITER-BRIEF-alwayson.md; review / what-is (149, kept last)",
       "watermark": true
     }
   ]
