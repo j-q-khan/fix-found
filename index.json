@@ -10721,6 +10721,46 @@
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 4 parts, all Novice (guide/claude-small-business-plan.md section 3; Jabran: \"OK 4 parts, docs only, autopost at the gates\"; Part 4 kept despite 116); slug and paths claude-small-business (kit guide/claude-small-business-kit, board module csbk.py; scripts, images, github; repo folder ai-toolbox-prompts/claude-small-business); names \"Claude for Small Business N - ...\", so build folders guide/claude-for-small-business-N-<slug>/; thumbnail guide/creator-thumbnails/claude-small-business/04.jpg (thumbs2 key claude-small-business); docs only: nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot: guide/claude-small-business-images/CREDITS.md), output boards \"Example output\" on dummy business data; say what each connector or extension can see; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Claude, Chrome, Outlook, Cowork as written, dotted abbreviations, no aside; facts guide/claude-small-business-facts.md ([S] never spoken, inferences never stated as fact); colour pale aqua teal 175 degrees (COLOUR-RULES.md); \"Not affiliated with Anthropic, Google or Microsoft.\" in every description; writer brief guide/creator-series-kit/WRITER-BRIEF-claudesmallbusiness.md; tutorial (116, kept by Jabran)",
       "watermark": true
+    },
+    {
+      "name": "Gemini for Home and Work 1 - Home Review",
+      "series": "Gemini for Home and Work",
+      "part": 1,
+      "brand": "GEMINI FOR",
+      "guide": "new",
+      "title": "Gemini for Home Review: Should You Switch From Google Assistant? (You Can't Switch Back)",
+      "guide_note": "2026-11-26: approved, 4 parts, Part 3 kept (guide/gemini-for-plan.md section 2; Jabran: \"OK, keep all 4 parts\"); slug and paths gemini-for (kit guide/gemini-for-kit, board module gfk.py; scripts, images, github; repo folder ai-toolbox-prompts/gemini-for); names \"Gemini for Home and Work N - ...\", so build folders guide/gemini-for-home-and-work-N-<slug>/; thumbnails guide/creator-thumbnails/gemini-for (thumbs2 key gemini-for); docs only: nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot: guide/gemini-for-images/CREDITS.md), output boards \"Example output\"; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Gemini, Nest, Gmail, Docs, Sheets, Meet, Workspace as written, \"Gemini Live\" as written (lint allow), \"LearnLM\" never spoken, no aside; facts guide/gemini-for-facts.md ([S] never spoken; prices \"was ... when checked\" with the country); colour light coral 6 degrees (COLOUR-RULES.md); writer brief guide/creator-series-kit/WRITER-BRIEF-geminifor.md; level Novice; review with setup steps; demo on a dummy home only",
+      "watermark": true
+    },
+    {
+      "name": "Gemini for Home and Work 2 - Gmail and Docs",
+      "series": "Gemini for Home and Work",
+      "part": 2,
+      "brand": "GEMINI FOR",
+      "guide": "new",
+      "title": "Gemini for Workspace: How to Use Gemini in Gmail and Google Docs",
+      "guide_note": "2026-11-26: approved, 4 parts, Part 3 kept (guide/gemini-for-plan.md section 2; Jabran: \"OK, keep all 4 parts\"); slug and paths gemini-for (kit guide/gemini-for-kit, board module gfk.py; scripts, images, github; repo folder ai-toolbox-prompts/gemini-for); names \"Gemini for Home and Work N - ...\", so build folders guide/gemini-for-home-and-work-N-<slug>/; thumbnails guide/creator-thumbnails/gemini-for (thumbs2 key gemini-for); docs only: nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot: guide/gemini-for-images/CREDITS.md), output boards \"Example output\"; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Gemini, Nest, Gmail, Docs, Sheets, Meet, Workspace as written, \"Gemini Live\" as written (lint allow), \"LearnLM\" never spoken, no aside; facts guide/gemini-for-facts.md ([S] never spoken; prices \"was ... when checked\" with the country); colour light coral 6 degrees (COLOUR-RULES.md); writer brief guide/creator-series-kit/WRITER-BRIEF-geminifor.md; level Novice; tutorial",
+      "watermark": true
+    },
+    {
+      "name": "Gemini for Home and Work 3 - Sheets and Meet",
+      "series": "Gemini for Home and Work",
+      "part": 3,
+      "brand": "GEMINI FOR",
+      "guide": "new",
+      "title": "Gemini for Work in Google Sheets and Meet: the AI Formula and Take Notes for Me",
+      "guide_note": "2026-11-26: approved, 4 parts, Part 3 kept (guide/gemini-for-plan.md section 2; Jabran: \"OK, keep all 4 parts\"); slug and paths gemini-for (kit guide/gemini-for-kit, board module gfk.py; scripts, images, github; repo folder ai-toolbox-prompts/gemini-for); names \"Gemini for Home and Work N - ...\", so build folders guide/gemini-for-home-and-work-N-<slug>/; thumbnails guide/creator-thumbnails/gemini-for (thumbs2 key gemini-for); docs only: nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot: guide/gemini-for-images/CREDITS.md), output boards \"Example output\"; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Gemini, Nest, Gmail, Docs, Sheets, Meet, Workspace as written, \"Gemini Live\" as written (lint allow), \"LearnLM\" never spoken, no aside; facts guide/gemini-for-facts.md ([S] never spoken; prices \"was ... when checked\" with the country); colour light coral 6 degrees (COLOUR-RULES.md); writer brief guide/creator-series-kit/WRITER-BRIEF-geminifor.md; level Novice; tutorial",
+      "watermark": true
+    },
+    {
+      "name": "Gemini for Home and Work 4 - Guided Learning",
+      "series": "Gemini for Home and Work",
+      "part": 4,
+      "brand": "GEMINI FOR",
+      "guide": "new",
+      "title": "Gemini for Studying: How to Use Guided Learning, Step by Step",
+      "guide_note": "2026-11-26: approved, 4 parts, Part 3 kept (guide/gemini-for-plan.md section 2; Jabran: \"OK, keep all 4 parts\"); slug and paths gemini-for (kit guide/gemini-for-kit, board module gfk.py; scripts, images, github; repo folder ai-toolbox-prompts/gemini-for); names \"Gemini for Home and Work N - ...\", so build folders guide/gemini-for-home-and-work-N-<slug>/; thumbnails guide/creator-thumbnails/gemini-for (thumbs2 key gemini-for); docs only: nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot: guide/gemini-for-images/CREDITS.md), output boards \"Example output\"; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Gemini, Nest, Gmail, Docs, Sheets, Meet, Workspace as written, \"Gemini Live\" as written (lint allow), \"LearnLM\" never spoken, no aside; facts guide/gemini-for-facts.md ([S] never spoken; prices \"was ... when checked\" with the country); colour light coral 6 degrees (COLOUR-RULES.md); writer brief guide/creator-series-kit/WRITER-BRIEF-geminifor.md; level Novice; tutorial; last part",
+      "watermark": true
     }
   ]
 }
