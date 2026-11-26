@@ -10330,12 +10330,16 @@
       "series": "AI Photo Editing",
       "part": 1,
       "brand": "AI PHOTO EDITING",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "AI Photo Editing on Your Phone: Remove Objects in Google Photos, Apple Photos and Samsung",
       "level": "Novice",
       "guide_note": "2026-11-25: approved, 4 parts (guide/ai-photo-editing-plan.md, the top table; slug and paths ai-photo-editing; Jabran: \"Do the 4 parts, docs only, auto post\"); docs only, nothing signed up for, installed, run, edited or generated, drawn boards and \"Example output\"; posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); every name spoken as written, ChatGPT as \"Chat G P T\"; kit guide/ai-photo-editing-kit, thumbnails guide/creator-thumbnails/ai-photo-editing, images guide/ai-photo-editing-images/CREDITS.md (no licensed screenshots: every screen is a drawn board), writer brief guide/creator-series-kit/WRITER-BRIEF-aiphotoediting.md",
       "watermark": true,
-      "guide_playlist": "PLdfIbYkNI1fs"
+      "guide_playlist": "PLdfIbYkNI1fs",
+      "guide_youtube_url": "https://youtu.be/1PJ81LNUvmo",
+      "guide_uploaded_on": "2026-11-26",
+      "generation": 5,
+      "guide_visibility": "public"
     },
     {
       "name": "AI Photo Editing 2 - Photoshop AI",
@@ -10414,22 +10418,30 @@
       "series": "Gemini CLI",
       "part": 1,
       "brand": "GEMINI CLI",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Gemini CLI Install on Windows and Mac (2026): Who Can Still Use It",
       "guide_note": "2026-11-25: approved, 2 parts (guide/gemini-cli-plan.md, Titles table; Part 3 cut; slug and paths gemini-cli); generation 5, so no generation field; docs only, no hands-on test (Jabran said no), \"Example output\" for any output; posting: nothing uploads without Jabran's OK; Gemini and Antigravity spoken as written, C.L.I. dotted; kit guide/gemini-cli-kit, thumbnails guide/creator-thumbnails/gemini-cli, images guide/gemini-cli-images/CREDITS.md (official repo docs images, Apache-2.0, where they exist; drawn boards elsewhere); writer brief guide/creator-series-kit/WRITER-BRIEF-geminicli.md; guide_playlist not set yet: make the playlist before Part 1 uploads",
       "watermark": true,
-      "guide_playlist": "PLC_ZPnKjVJ3k"
+      "guide_playlist": "PLC_ZPnKjVJ3k",
+      "guide_youtube_url": "https://youtu.be/EKTEBa-dnlA",
+      "guide_uploaded_on": "2026-11-26",
+      "generation": 5,
+      "guide_visibility": "public"
     },
     {
       "name": "Gemini CLI 2 - Code Assist vs CLI in VS Code",
       "series": "Gemini CLI",
       "part": 2,
       "brand": "GEMINI CLI",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Gemini Code Assist vs Gemini CLI in 2026: What Still Works in Visual Studio Code",
       "guide_note": "2026-11-25: approved, 2 parts (guide/gemini-cli-plan.md, Titles table; Part 3 cut; slug and paths gemini-cli); generation 5, so no generation field; docs only, no hands-on test (Jabran said no), \"Example output\" for any output; posting: nothing uploads without Jabran's OK; Gemini and Antigravity spoken as written, C.L.I. dotted; kit guide/gemini-cli-kit, thumbnails guide/creator-thumbnails/gemini-cli, images guide/gemini-cli-images/CREDITS.md (official repo docs images, Apache-2.0, where they exist; drawn boards elsewhere); writer brief guide/creator-series-kit/WRITER-BRIEF-geminicli.md; guide_playlist not set yet: make the playlist before Part 1 uploads",
       "watermark": true,
-      "guide_playlist": "PLC_ZPnKjVJ3k"
+      "guide_playlist": "PLC_ZPnKjVJ3k",
+      "guide_youtube_url": "https://youtu.be/_lFS5rnZPG4",
+      "guide_uploaded_on": "2026-11-26",
+      "generation": 5,
+      "guide_visibility": "public"
     },
     {
       "name": "Always-On AI Agents 1 - Which Agent Fits You",
