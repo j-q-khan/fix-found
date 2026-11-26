@@ -9525,12 +9525,15 @@
       "series": "Agentic AI",
       "part": 3,
       "brand": "AGENTIC AI",
-      "guide": "render approved",
+      "guide": "uploaded private",
       "title": "Agentic AI Examples You Can Try Today: Claude Cowork, ChatGPT Work and Copilot",
       "guide_note": "2026-11-21: approved, 4 parts (guide/agentic-ai-plan.md section 1, all 4 titles as written; slug agentic-ai); level: Novice; type: Tutorial; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\" (hands-on testing not approved); posting: autopost public at the gates, one at a time (Jabran, 2026-11-21); Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; [S] facts (the Google Cloud pages) never spoken; every company and product name explained at first use; ChatGPT Work (never \"ChatGPT agent\"); A.I. dotted, ChatGPT spoken \"Chat G P T\", other names as written, no pronunciation line; AFFIL names Anthropic, OpenAI, Microsoft, GitHub, Google and the Linux Foundation; angle: one small task each in Claude Cowork, ChatGPT Work and agent mode in Word, Excel and PowerPoint, then the safety chapter (approvals and prompt injection); not a which-one comparison; kit guide/agentic-ai-kit, thumbnail guide/creator-thumbnails/agentic-ai/03.jpg, images guide/agentic-ai-images/CREDITS.md (the lead clears images per part), writer brief guide/creator-series-kit/WRITER-BRIEF-agenticai.md. Set up 2026-11-21.",
       "watermark": true,
       "generation": 4,
-      "notes": "2026-11-25: gates passed (critic, viewer pass + re-check, render QA, final MP4 pass); render approved under the autopost-at-gates rule (Jabran, 2026-11-21)."
+      "notes": "2026-11-25: gates passed (critic, viewer pass + re-check, render QA, final MP4 pass); render approved under the autopost-at-gates rule (Jabran, 2026-11-21).",
+      "guide_youtube_url": "https://youtu.be/gF14g4hp69U",
+      "guide_uploaded_on": "2026-11-26",
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Agentic AI 4 - Agentic Coding Explained",
@@ -10081,7 +10084,8 @@
       "generation": 4,
       "guide_youtube_url": "https://youtu.be/MKAIYTqN5jM",
       "guide_uploaded_on": "2026-11-25",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "guide_playlist": "PLKb4zpjTeTAA"
     },
     {
       "name": "Google AI 2 - Turn Off AI Overviews",
@@ -10095,18 +10099,23 @@
       "generation": 4,
       "guide_youtube_url": "https://youtu.be/uHlbpi5ZbcM",
       "guide_uploaded_on": "2026-11-25",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "private (Jabran publishes from Studio)",
+      "guide_playlist": "PLKb4zpjTeTAA"
     },
     {
       "name": "Google AI 3 - AI Essentials Worth It",
       "series": "Google AI",
       "part": 3,
       "brand": "GOOGLE AI",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Google AI Essentials: Is the Course Worth It? Cost, Length and Certificate",
       "guide_note": "2026-11-24: approved, 3 parts (guide/google-ai-plan.md section 2; slug and paths google-ai; Jabran: \"OK / docs only / auto post\"); docs only, nothing signed in to, signed up for, installed or run, every AI Mode answer or overview a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; pronunciation: Google, Gemini, Chrome, Android, Coursera as written, A.I. dotted; kit guide/google-ai-kit, thumbnails guide/creator-thumbnails/google-ai, writer brief guide/creator-series-kit/WRITER-BRIEF-googleai.md, images guide/google-ai-images/CREDITS.md (no licensed screenshots: every screen is a drawn board) | 2026-11-24: Part 3 passed every gate (critic, pre-render viewer, QA, final MP4 pass); render approved under his standing autopost OK.",
       "watermark": true,
-      "generation": 4
+      "generation": 4,
+      "guide_youtube_url": "https://youtu.be/65NbSqmiVlI",
+      "guide_uploaded_on": "2026-11-26",
+      "guide_visibility": "public",
+      "guide_playlist": "PLKb4zpjTeTAA"
     },
     {
       "name": "AI App Builder 1 - Replit, Bolt or Base44",
@@ -10188,11 +10197,15 @@
       "series": "Claude Agents",
       "part": 2,
       "brand": "CLAUDE AGENTS",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Claude Agents in Claude Code: Make Your First Subagent",
       "guide_note": "2026-11-24: approved, 4 parts (guide/claude-agents-plan.md section 2; slug and paths claude-agents; Jabran: \"Proceed. Auto post. Docs only.\"); docs only, nothing installed, run or signed up for, every result a labelled \"Example output\" board; posting: autopost, public as each part passes every gate, one at a time; Generation 5 (no generation field: the upload stamps 5), so the series playlist and guide_playlist are set before Part 1 uploads; pronunciation: Claude, Claude Code and Cowork as written, \"agents dot M.D.\", \"Claude dot M.D.\", S.D.K., A.I., M.C.P. dotted; tmux pending Jabran's pick from renders/voice-samples/claude-agents/; kit guide/claude-agents-kit, thumbnails guide/creator-thumbnails/claude-agents, writer brief guide/creator-series-kit/WRITER-BRIEF-claudeagents.md, facts guide/claude-agents-facts.md, images guide/claude-agents-images/CREDITS.md (no licensed screenshots: every screen is a drawn board)",
       "watermark": true,
-      "guide_playlist": "PLJ84ICvh65Pc"
+      "guide_playlist": "PLJ84ICvh65Pc",
+      "guide_youtube_url": "https://youtu.be/ftv2jAhIZHs",
+      "guide_uploaded_on": "2026-11-26",
+      "generation": 5,
+      "guide_visibility": "public"
     },
     {
       "name": "Claude Agents 3 - Agent Teams in Claude Code",
@@ -10401,20 +10414,22 @@
       "series": "Gemini CLI",
       "part": 1,
       "brand": "GEMINI CLI",
-      "guide": "render check",
+      "guide": "render approved",
       "title": "Gemini CLI Install on Windows and Mac (2026): Who Can Still Use It",
       "guide_note": "2026-11-25: approved, 2 parts (guide/gemini-cli-plan.md, Titles table; Part 3 cut; slug and paths gemini-cli); generation 5, so no generation field; docs only, no hands-on test (Jabran said no), \"Example output\" for any output; posting: nothing uploads without Jabran's OK; Gemini and Antigravity spoken as written, C.L.I. dotted; kit guide/gemini-cli-kit, thumbnails guide/creator-thumbnails/gemini-cli, images guide/gemini-cli-images/CREDITS.md (official repo docs images, Apache-2.0, where they exist; drawn boards elsewhere); writer brief guide/creator-series-kit/WRITER-BRIEF-geminicli.md; guide_playlist not set yet: make the playlist before Part 1 uploads",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLC_ZPnKjVJ3k"
     },
     {
       "name": "Gemini CLI 2 - Code Assist vs CLI in VS Code",
       "series": "Gemini CLI",
       "part": 2,
       "brand": "GEMINI CLI",
-      "guide": "render check",
+      "guide": "render approved",
       "title": "Gemini Code Assist vs Gemini CLI in 2026: What Still Works in Visual Studio Code",
       "guide_note": "2026-11-25: approved, 2 parts (guide/gemini-cli-plan.md, Titles table; Part 3 cut; slug and paths gemini-cli); generation 5, so no generation field; docs only, no hands-on test (Jabran said no), \"Example output\" for any output; posting: nothing uploads without Jabran's OK; Gemini and Antigravity spoken as written, C.L.I. dotted; kit guide/gemini-cli-kit, thumbnails guide/creator-thumbnails/gemini-cli, images guide/gemini-cli-images/CREDITS.md (official repo docs images, Apache-2.0, where they exist; drawn boards elsewhere); writer brief guide/creator-series-kit/WRITER-BRIEF-geminicli.md; guide_playlist not set yet: make the playlist before Part 1 uploads",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLC_ZPnKjVJ3k"
     },
     {
       "name": "Always-On AI Agents 1 - Which Agent Fits You",
