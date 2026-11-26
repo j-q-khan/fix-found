@@ -10761,6 +10761,66 @@
       "title": "Gemini for Studying: How to Use Guided Learning, Step by Step",
       "guide_note": "2026-11-26: approved, 4 parts, Part 3 kept (guide/gemini-for-plan.md section 2; Jabran: \"OK, keep all 4 parts\"); slug and paths gemini-for (kit guide/gemini-for-kit, board module gfk.py; scripts, images, github; repo folder ai-toolbox-prompts/gemini-for); names \"Gemini for Home and Work N - ...\", so build folders guide/gemini-for-home-and-work-N-<slug>/; thumbnails guide/creator-thumbnails/gemini-for (thumbs2 key gemini-for); docs only: nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot: guide/gemini-for-images/CREDITS.md), output boards \"Example output\"; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Gemini, Nest, Gmail, Docs, Sheets, Meet, Workspace as written, \"Gemini Live\" as written (lint allow), \"LearnLM\" never spoken, no aside; facts guide/gemini-for-facts.md ([S] never spoken; prices \"was ... when checked\" with the country); colour light coral 6 degrees (COLOUR-RULES.md); writer brief guide/creator-series-kit/WRITER-BRIEF-geminifor.md; level Novice; tutorial; last part",
       "watermark": true
+    },
+    {
+      "name": "New in Claude 1 - Claude Meetings",
+      "series": "New in Claude",
+      "part": 1,
+      "brand": "NEW IN CLAUDE",
+      "guide": "new",
+      "title": "Claude Update: Claude Meetings, Add Claude to Your Google Meet Calls",
+      "guide_note": "2026-11-26: approved, 6 parts (guide/new-in-claude-plan.md section 3; Jabran: \"OK, all six, keep Part 5. Docs only, Auto post\"); kit guide/new-in-claude-kit (board module nick.py), paths new-in-claude (scripts, images, github; repo folder ai-toolbox-prompts/new-in-claude), build folders guide/new-in-claude-N-<slug>/, thumbnails guide/creator-thumbnails/new-in-claude (thumbs2 key new-in-claude); docs only: nothing signed in to, run or generated, every screen a drawn board labelled as drawn (no licensed images: guide/new-in-claude-images/CREDITS.md), output boards \"Example output\", dummy workspace only (no real calls, colleagues or company data); posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); colour in COLOUR-RULES.md row \"New in Claude\" (provisional pale raspberry, for the lead to confirm); facts guide/new-in-claude-facts.md ([S] rows never spoken); writer brief guide/creator-series-kit/WRITER-BRIEF-newinclaude.md; all names as written, \"P.R.\" said \"pull request\"",
+      "watermark": true
+    },
+    {
+      "name": "New in Claude 2 - Claude Motion",
+      "series": "New in Claude",
+      "part": 2,
+      "brand": "NEW IN CLAUDE",
+      "guide": "new",
+      "title": "Claude Motion: Turn a Chat Into an Animated Explainer Video",
+      "guide_note": "2026-11-26: approved, 6 parts (guide/new-in-claude-plan.md section 3; Jabran: \"OK, all six, keep Part 5. Docs only, Auto post\"); kit guide/new-in-claude-kit (board module nick.py), paths new-in-claude (scripts, images, github; repo folder ai-toolbox-prompts/new-in-claude), build folders guide/new-in-claude-N-<slug>/, thumbnails guide/creator-thumbnails/new-in-claude (thumbs2 key new-in-claude); docs only: nothing signed in to, run or generated, every screen a drawn board labelled as drawn (no licensed images: guide/new-in-claude-images/CREDITS.md), output boards \"Example output\", dummy workspace only (no real calls, colleagues or company data); posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); colour in COLOUR-RULES.md row \"New in Claude\" (provisional pale raspberry, for the lead to confirm); facts guide/new-in-claude-facts.md ([S] rows never spoken); writer brief guide/creator-series-kit/WRITER-BRIEF-newinclaude.md; all names as written, \"P.R.\" said \"pull request\"",
+      "watermark": true
+    },
+    {
+      "name": "New in Claude 3 - Claude Sheets",
+      "series": "New in Claude",
+      "part": 3,
+      "brand": "NEW IN CLAUDE",
+      "guide": "new",
+      "title": "Claude Update: Claude Sheets, the Spreadsheet Built Into Claude",
+      "guide_note": "2026-11-26: approved, 6 parts (guide/new-in-claude-plan.md section 3; Jabran: \"OK, all six, keep Part 5. Docs only, Auto post\"); kit guide/new-in-claude-kit (board module nick.py), paths new-in-claude (scripts, images, github; repo folder ai-toolbox-prompts/new-in-claude), build folders guide/new-in-claude-N-<slug>/, thumbnails guide/creator-thumbnails/new-in-claude (thumbs2 key new-in-claude); docs only: nothing signed in to, run or generated, every screen a drawn board labelled as drawn (no licensed images: guide/new-in-claude-images/CREDITS.md), output boards \"Example output\", dummy workspace only (no real calls, colleagues or company data); posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); colour in COLOUR-RULES.md row \"New in Claude\" (provisional pale raspberry, for the lead to confirm); facts guide/new-in-claude-facts.md ([S] rows never spoken); writer brief guide/creator-series-kit/WRITER-BRIEF-newinclaude.md; all names as written, \"P.R.\" said \"pull request\"",
+      "watermark": true
+    },
+    {
+      "name": "New in Claude 4 - Claude Data",
+      "series": "New in Claude",
+      "part": 4,
+      "brand": "NEW IN CLAUDE",
+      "guide": "new",
+      "title": "Claude Update: Claude Data (Formerly Claude Dashboards), Build a Dashboard From Your Data",
+      "guide_note": "2026-11-26: approved, 6 parts (guide/new-in-claude-plan.md section 3; Jabran: \"OK, all six, keep Part 5. Docs only, Auto post\"); kit guide/new-in-claude-kit (board module nick.py), paths new-in-claude (scripts, images, github; repo folder ai-toolbox-prompts/new-in-claude), build folders guide/new-in-claude-N-<slug>/, thumbnails guide/creator-thumbnails/new-in-claude (thumbs2 key new-in-claude); docs only: nothing signed in to, run or generated, every screen a drawn board labelled as drawn (no licensed images: guide/new-in-claude-images/CREDITS.md), output boards \"Example output\", dummy workspace only (no real calls, colleagues or company data); posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); colour in COLOUR-RULES.md row \"New in Claude\" (provisional pale raspberry, for the lead to confirm); facts guide/new-in-claude-facts.md ([S] rows never spoken); writer brief guide/creator-series-kit/WRITER-BRIEF-newinclaude.md; all names as written, \"P.R.\" said \"pull request\"",
+      "watermark": true
+    },
+    {
+      "name": "New in Claude 5 - Claude Whiteboards",
+      "series": "New in Claude",
+      "part": 5,
+      "brand": "NEW IN CLAUDE",
+      "guide": "new",
+      "title": "Claude Update: Claude Whiteboards, Plan a Project on a Shared Board",
+      "guide_note": "2026-11-26: approved, 6 parts (guide/new-in-claude-plan.md section 3; Jabran: \"OK, all six, keep Part 5. Docs only, Auto post\"); kit guide/new-in-claude-kit (board module nick.py), paths new-in-claude (scripts, images, github; repo folder ai-toolbox-prompts/new-in-claude), build folders guide/new-in-claude-N-<slug>/, thumbnails guide/creator-thumbnails/new-in-claude (thumbs2 key new-in-claude); docs only: nothing signed in to, run or generated, every screen a drawn board labelled as drawn (no licensed images: guide/new-in-claude-images/CREDITS.md), output boards \"Example output\", dummy workspace only (no real calls, colleagues or company data); posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); colour in COLOUR-RULES.md row \"New in Claude\" (provisional pale raspberry, for the lead to confirm); facts guide/new-in-claude-facts.md ([S] rows never spoken); writer brief guide/creator-series-kit/WRITER-BRIEF-newinclaude.md; all names as written, \"P.R.\" said \"pull request\"",
+      "watermark": true
+    },
+    {
+      "name": "New in Claude 6 - Claude Ship",
+      "series": "New in Claude",
+      "part": 6,
+      "brand": "NEW IN CLAUDE",
+      "guide": "new",
+      "title": "Claude Update: Claude Ship, PR Steward and Claude Approvals Explained",
+      "guide_note": "2026-11-26: approved, 6 parts (guide/new-in-claude-plan.md section 3; Jabran: \"OK, all six, keep Part 5. Docs only, Auto post\"); kit guide/new-in-claude-kit (board module nick.py), paths new-in-claude (scripts, images, github; repo folder ai-toolbox-prompts/new-in-claude), build folders guide/new-in-claude-N-<slug>/, thumbnails guide/creator-thumbnails/new-in-claude (thumbs2 key new-in-claude); docs only: nothing signed in to, run or generated, every screen a drawn board labelled as drawn (no licensed images: guide/new-in-claude-images/CREDITS.md), output boards \"Example output\", dummy workspace only (no real calls, colleagues or company data); posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); colour in COLOUR-RULES.md row \"New in Claude\" (provisional pale raspberry, for the lead to confirm); facts guide/new-in-claude-facts.md ([S] rows never spoken); writer brief guide/creator-series-kit/WRITER-BRIEF-newinclaude.md; all names as written, \"P.R.\" said \"pull request\"",
+      "watermark": true
     }
   ]
 }
