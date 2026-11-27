@@ -9525,7 +9525,7 @@
       "series": "Agentic AI",
       "part": 3,
       "brand": "AGENTIC AI",
-      "guide": "uploaded private",
+      "guide": "posted",
       "title": "Agentic AI Examples You Can Try Today: Claude Cowork, ChatGPT Work and Copilot",
       "guide_note": "2026-11-21: approved, 4 parts (guide/agentic-ai-plan.md section 1, all 4 titles as written; slug agentic-ai); level: Novice; type: Tutorial; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\" (hands-on testing not approved); posting: autopost public at the gates, one at a time (Jabran, 2026-11-21); Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; [S] facts (the Google Cloud pages) never spoken; every company and product name explained at first use; ChatGPT Work (never \"ChatGPT agent\"); A.I. dotted, ChatGPT spoken \"Chat G P T\", other names as written, no pronunciation line; AFFIL names Anthropic, OpenAI, Microsoft, GitHub, Google and the Linux Foundation; angle: one small task each in Claude Cowork, ChatGPT Work and agent mode in Word, Excel and PowerPoint, then the safety chapter (approvals and prompt injection); not a which-one comparison; kit guide/agentic-ai-kit, thumbnail guide/creator-thumbnails/agentic-ai/03.jpg, images guide/agentic-ai-images/CREDITS.md (the lead clears images per part), writer brief guide/creator-series-kit/WRITER-BRIEF-agenticai.md. Set up 2026-11-21.",
       "watermark": true,
@@ -9533,14 +9533,14 @@
       "notes": "2026-11-25: gates passed (critic, viewer pass + re-check, render QA, final MP4 pass); render approved under the autopost-at-gates rule (Jabran, 2026-11-21).",
       "guide_youtube_url": "https://youtu.be/gF14g4hp69U",
       "guide_uploaded_on": "2026-11-26",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public"
     },
     {
       "name": "Agentic AI 4 - Agentic Coding Explained",
       "series": "Agentic AI",
       "part": 4,
       "brand": "AGENTIC AI",
-      "guide": "uploaded private",
+      "guide": "posted",
       "title": "Agentic Coding Explained: How AI Coding Agents Plan, Edit and Check Your Code",
       "guide_note": "2026-11-21: approved, 4 parts (guide/agentic-ai-plan.md section 1, all 4 titles as written; slug agentic-ai); level: Novice; type: Explainer with a worked example; docs only, nothing signed up for, signed in to, installed or run, any output a drawn board labelled \"Example output\" (hands-on testing not approved); posting: autopost public at the gates, one at a time (Jabran, 2026-11-21); Generation 4 (RULEBOOK Generation 4 block); the \"made with Claude's help\" disclosure is in the description only (kit DISCLOSE), never spoken or on a board; [S] facts (the Google Cloud pages) never spoken; every company and product name explained at first use; ChatGPT Work (never \"ChatGPT agent\"); A.I. dotted, ChatGPT spoken \"Chat G P T\", other names as written, no pronunciation line; AFFIL names Anthropic, OpenAI, Microsoft, GitHub, Google and the Linux Foundation; angle: the agentic coding loop (Claude Code, GitHub Copilot in the cloud), links AI Coding Agents and Claude Code vs; kit guide/agentic-ai-kit, thumbnail guide/creator-thumbnails/agentic-ai/04.jpg, images guide/agentic-ai-images/CREDITS.md (the lead clears images per part), writer brief guide/creator-series-kit/WRITER-BRIEF-agenticai.md. Set up 2026-11-21.",
       "watermark": true,
@@ -9548,7 +9548,7 @@
       "notes": "2026-11-25: gates passed (critic, viewer pass + re-check, render QA after the \"proposal\" rewording, final MP4 pass); render approved under the autopost-at-gates rule (Jabran, 2026-11-21).",
       "guide_youtube_url": "https://youtu.be/9_aKTn3XDQg",
       "guide_uploaded_on": "2026-11-26",
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public"
     },
     {
       "name": "How to Use ChatGPT 1 - Beginner Guide",
@@ -10335,22 +10335,30 @@
       "series": "AI Game Development",
       "part": 2,
       "brand": "AI GAME DEVELOPMENT",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Claude Game Development: Build a Browser Game with Claude Code, Step by Step",
       "guide_note": "2026-11-24: approved, 3 parts (guide/ai-game-development-plan.md section 3; slug and paths ai-game-development); docs only, drawn boards and \"Example output\"; AUTOPOST public at the gates, one part at a time (Jabran: \"Proceed. Auto post, Docs only.\"); generation 5: no generation field, and the series playlist must exist with guide_playlist set on all 3 entries before Part 1 uploads; names spoken as written, \"Ludo dot A.I.,\" for Ludo.ai, no pronunciation line; kit guide/ai-game-development-kit, thumbnails guide/creator-thumbnails/ai-game-development, images guide/ai-game-development-images/CREDITS.md",
       "watermark": true,
-      "guide_playlist": "PLTYf2wfuyNXI"
+      "guide_playlist": "PLTYf2wfuyNXI",
+      "guide_youtube_url": "https://youtu.be/XscWAgB_aWo",
+      "guide_uploaded_on": "2026-11-27",
+      "generation": 5,
+      "guide_visibility": "public"
     },
     {
       "name": "AI Game Development 3 - Unity AI Assistant and Generators",
       "series": "AI Game Development",
       "part": 3,
       "brand": "AI GAME DEVELOPMENT",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Unity AI Tutorial: Unity's AI Assistant and Generators in Unity 6",
       "guide_note": "2026-11-24: approved, 3 parts (guide/ai-game-development-plan.md section 3; slug and paths ai-game-development); docs only, drawn boards and \"Example output\"; AUTOPOST public at the gates, one part at a time (Jabran: \"Proceed. Auto post, Docs only.\"); generation 5: no generation field, and the series playlist must exist with guide_playlist set on all 3 entries before Part 1 uploads; names spoken as written, \"Ludo dot A.I.,\" for Ludo.ai, no pronunciation line; kit guide/ai-game-development-kit, thumbnails guide/creator-thumbnails/ai-game-development, images guide/ai-game-development-images/CREDITS.md",
       "watermark": true,
-      "guide_playlist": "PLTYf2wfuyNXI"
+      "guide_playlist": "PLTYf2wfuyNXI",
+      "guide_youtube_url": "https://youtu.be/G1dZrquVsZo",
+      "guide_uploaded_on": "2026-11-27",
+      "generation": 5,
+      "guide_visibility": "public"
     },
     {
       "name": "AI Photo Editing 1 - Phone Editing",
@@ -10437,12 +10445,16 @@
       "series": "AI Music",
       "part": 2,
       "brand": "AI MUSIC",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "AI Music With Suno: Make Your First AI Song With Your Own Lyrics (Suno v6 Tutorial)",
       "level": "Novice",
       "guide_note": "2026-11-25: approved, 3 parts (guide/ai-music-plan.md section 3 and the top; Jabran: \"Proceed, docs only, autopost\"); NOT the old \"Make Music with AI\" series: names \"AI Music Guide N - ...\", so build folders guide/ai-music-guide-N-<slug>/ (series_upload.sh PREFIX ai-music-guide, never ai-music), thumbnails guide/creator-thumbnails/ai-music-guide (thumbs2 key ai-music-guide; ai-music/ is the old series' folder); kit guide/ai-music-kit, paths ai-music (scripts, images, github; repo folder ai-toolbox-prompts/ai-music); docs only: no sign-ups, no generations, no song audio, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: autopost later, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); Suno, Udio, Lyria and ACE-Step spoken as written (S1 U1 L1 A1); colour deep magenta-violet #FA61FF/#5E0061/#200021 (COLOUR-RULES.md); images guide/ai-music-images/CREDITS.md (none licensed at setup), writer brief guide/creator-series-kit/WRITER-BRIEF-aimusic.md; tutorial | 2026-11-26: critic, pre-render viewer pass (3 fixes, recheck PASS), QA and final MP4 pass all PASS; render approved under Jabran's autopost OK of 2026-11-25 (\"Proceed, docs only, autopost\").",
       "watermark": true,
-      "guide_playlist": "PLZLLNrt4or8o"
+      "guide_playlist": "PLZLLNrt4or8o",
+      "guide_youtube_url": "https://youtu.be/95lvDMsrYb4",
+      "guide_uploaded_on": "2026-11-27",
+      "generation": 5,
+      "guide_visibility": "public"
     },
     {
       "name": "AI Music Guide 3 - Song to Music Video",
@@ -10560,11 +10572,16 @@
       "series": "AI Voice",
       "part": 1,
       "brand": "AI VOICE",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "AI Voice Generator: Turn Text Into a Realistic Voiceover With ElevenLabs",
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 4 parts (guide/ai-voice-plan.md section 2 and the top; Jabran: \"As recommended / Docs only / Auto post\"); Part 5 (free plans) not made, a free-options chapter goes in Part 1; kit guide/ai-voice-kit (board module avk.py), paths ai-voice (scripts, images, github; repo folder ai-toolbox-prompts/ai-voice), build folders guide/ai-voice-N-<slug>/, thumbnails guide/creator-thumbnails/ai-voice (thumbs2 key ai-voice); docs only: no sign-ups, no generations, no product audio, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); colour in COLOUR-RULES.md row \"AI Voice\"; facts guide/ai-voice-facts.md ([S] rows never spoken); writer brief guide/creator-series-kit/WRITER-BRIEF-aivoice.md; tutorial, with a free-options chapter (licences of Kokoro, Piper, Gemini text to speech, CapCut)",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLfpV7mXU7FNo",
+      "guide_youtube_url": "https://youtu.be/MQbbrnFSUYs",
+      "guide_uploaded_on": "2026-11-27",
+      "generation": 5,
+      "guide_visibility": "public"
     },
     {
       "name": "AI Voice 2 - Clone Your Own Voice",
@@ -10575,7 +10592,8 @@
       "title": "AI Voice Cloning: Clone Your Own Voice With ElevenLabs, the Safe Way",
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 4 parts (guide/ai-voice-plan.md section 2 and the top; Jabran: \"As recommended / Docs only / Auto post\"); Part 5 (free plans) not made, a free-options chapter goes in Part 1; kit guide/ai-voice-kit (board module avk.py), paths ai-voice (scripts, images, github; repo folder ai-toolbox-prompts/ai-voice), build folders guide/ai-voice-N-<slug>/, thumbnails guide/creator-thumbnails/ai-voice (thumbs2 key ai-voice); docs only: no sign-ups, no generations, no product audio, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); colour in COLOUR-RULES.md row \"AI Voice\"; facts guide/ai-voice-facts.md ([S] rows never spoken); writer brief guide/creator-series-kit/WRITER-BRIEF-aivoice.md; tutorial; consent and YouTube disclosure in the companies' own words",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLfpV7mXU7FNo"
     },
     {
       "name": "AI Voice 3 - Voice Changer",
@@ -10586,7 +10604,8 @@
       "title": "AI Voice Changer: Turn Your Recording Into Another Voice (ElevenLabs Voice Changer)",
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 4 parts (guide/ai-voice-plan.md section 2 and the top; Jabran: \"As recommended / Docs only / Auto post\"); Part 5 (free plans) not made, a free-options chapter goes in Part 1; kit guide/ai-voice-kit (board module avk.py), paths ai-voice (scripts, images, github; repo folder ai-toolbox-prompts/ai-voice), build folders guide/ai-voice-N-<slug>/, thumbnails guide/creator-thumbnails/ai-voice (thumbs2 key ai-voice); docs only: no sign-ups, no generations, no product audio, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); colour in COLOUR-RULES.md row \"AI Voice\"; facts guide/ai-voice-facts.md ([S] rows never spoken); writer brief guide/creator-series-kit/WRITER-BRIEF-aivoice.md; tutorial; local changers described from READMEs only",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLfpV7mXU7FNo"
     },
     {
       "name": "AI Voice 4 - Talking Avatar With HeyGen",
@@ -10597,7 +10616,8 @@
       "title": "AI Avatar Video: Make a Talking Avatar With HeyGen (Avatar 6 Tutorial)",
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 4 parts (guide/ai-voice-plan.md section 2 and the top; Jabran: \"As recommended / Docs only / Auto post\"); Part 5 (free plans) not made, a free-options chapter goes in Part 1; kit guide/ai-voice-kit (board module avk.py), paths ai-voice (scripts, images, github; repo folder ai-toolbox-prompts/ai-voice), build folders guide/ai-voice-N-<slug>/, thumbnails guide/creator-thumbnails/ai-voice (thumbs2 key ai-voice); docs only: no sign-ups, no generations, no product audio, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); colour in COLOUR-RULES.md row \"AI Voice\"; facts guide/ai-voice-facts.md ([S] rows never spoken); writer brief guide/creator-series-kit/WRITER-BRIEF-aivoice.md; tutorial; stock avatars drawn, no realistic people shown as real; Synthesia as the alternative",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLfpV7mXU7FNo"
     },
     {
       "name": "AI Image 1 - Best Generator for Each Job",
@@ -10700,7 +10720,9 @@
       "title": "Claude for Business: Set Up the Small Business Plugin and Run Your First Workflow",
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 4 parts, all Novice (guide/claude-small-business-plan.md section 3; Jabran: \"OK 4 parts, docs only, autopost at the gates\"; Part 4 kept despite 116); slug and paths claude-small-business (kit guide/claude-small-business-kit, board module csbk.py; scripts, images, github; repo folder ai-toolbox-prompts/claude-small-business); names \"Claude for Small Business N - ...\", so build folders guide/claude-for-small-business-N-<slug>/; thumbnail guide/creator-thumbnails/claude-small-business/01.jpg (thumbs2 key claude-small-business); docs only: nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot: guide/claude-small-business-images/CREDITS.md), output boards \"Example output\" on dummy business data; say what each connector or extension can see; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Claude, Chrome, Outlook, Cowork as written, dotted abbreviations, no aside; facts guide/claude-small-business-facts.md ([S] never spoken, inferences never stated as fact); colour pale aqua teal 175 degrees (COLOUR-RULES.md); \"Not affiliated with Anthropic, Google or Microsoft.\" in every description; writer brief guide/creator-series-kit/WRITER-BRIEF-claudesmallbusiness.md; tutorial",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLbi6TAkAj3-g",
+      "status": "render approved"
     },
     {
       "name": "Claude for Small Business 2 - Claude in Chrome Setup",
@@ -10711,7 +10733,9 @@
       "title": "Claude in Chrome: Install the Extension and Let Claude Use Websites Safely",
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 4 parts, all Novice (guide/claude-small-business-plan.md section 3; Jabran: \"OK 4 parts, docs only, autopost at the gates\"; Part 4 kept despite 116); slug and paths claude-small-business (kit guide/claude-small-business-kit, board module csbk.py; scripts, images, github; repo folder ai-toolbox-prompts/claude-small-business); names \"Claude for Small Business N - ...\", so build folders guide/claude-for-small-business-N-<slug>/; thumbnail guide/creator-thumbnails/claude-small-business/02.jpg (thumbs2 key claude-small-business); docs only: nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot: guide/claude-small-business-images/CREDITS.md), output boards \"Example output\" on dummy business data; say what each connector or extension can see; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Claude, Chrome, Outlook, Cowork as written, dotted abbreviations, no aside; facts guide/claude-small-business-facts.md ([S] never spoken, inferences never stated as fact); colour pale aqua teal 175 degrees (COLOUR-RULES.md); \"Not affiliated with Anthropic, Google or Microsoft.\" in every description; writer brief guide/creator-series-kit/WRITER-BRIEF-claudesmallbusiness.md; tutorial with a short Fix chapter",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLbi6TAkAj3-g",
+      "status": "render approved"
     },
     {
       "name": "Claude for Small Business 3 - Research With Sources",
@@ -10722,7 +10746,8 @@
       "title": "Claude for Research: Find Sources and Papers You Can Check",
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 4 parts, all Novice (guide/claude-small-business-plan.md section 3; Jabran: \"OK 4 parts, docs only, autopost at the gates\"; Part 4 kept despite 116); slug and paths claude-small-business (kit guide/claude-small-business-kit, board module csbk.py; scripts, images, github; repo folder ai-toolbox-prompts/claude-small-business); names \"Claude for Small Business N - ...\", so build folders guide/claude-for-small-business-N-<slug>/; thumbnail guide/creator-thumbnails/claude-small-business/03.jpg (thumbs2 key claude-small-business); docs only: nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot: guide/claude-small-business-images/CREDITS.md), output boards \"Example output\" on dummy business data; say what each connector or extension can see; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Claude, Chrome, Outlook, Cowork as written, dotted abbreviations, no aside; facts guide/claude-small-business-facts.md ([S] never spoken, inferences never stated as fact); colour pale aqua teal 175 degrees (COLOUR-RULES.md); \"Not affiliated with Anthropic, Google or Microsoft.\" in every description; writer brief guide/creator-series-kit/WRITER-BRIEF-claudesmallbusiness.md; tutorial",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLbi6TAkAj3-g"
     },
     {
       "name": "Claude for Small Business 4 - Claude for Outlook Setup",
@@ -10733,18 +10758,23 @@
       "title": "Claude for Outlook: Install the Add-in, Draft Replies and Find Meeting Times",
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 4 parts, all Novice (guide/claude-small-business-plan.md section 3; Jabran: \"OK 4 parts, docs only, autopost at the gates\"; Part 4 kept despite 116); slug and paths claude-small-business (kit guide/claude-small-business-kit, board module csbk.py; scripts, images, github; repo folder ai-toolbox-prompts/claude-small-business); names \"Claude for Small Business N - ...\", so build folders guide/claude-for-small-business-N-<slug>/; thumbnail guide/creator-thumbnails/claude-small-business/04.jpg (thumbs2 key claude-small-business); docs only: nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot: guide/claude-small-business-images/CREDITS.md), output boards \"Example output\" on dummy business data; say what each connector or extension can see; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Claude, Chrome, Outlook, Cowork as written, dotted abbreviations, no aside; facts guide/claude-small-business-facts.md ([S] never spoken, inferences never stated as fact); colour pale aqua teal 175 degrees (COLOUR-RULES.md); \"Not affiliated with Anthropic, Google or Microsoft.\" in every description; writer brief guide/creator-series-kit/WRITER-BRIEF-claudesmallbusiness.md; tutorial (116, kept by Jabran)",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLbi6TAkAj3-g"
     },
     {
       "name": "Gemini for Home and Work 1 - Home Review",
       "series": "Gemini for Home and Work",
       "part": 1,
       "brand": "GEMINI FOR HOME AND WORK",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Gemini for Home Review: Should You Switch From Google Assistant? (You Can't Switch Back)",
       "guide_note": "2026-11-26: approved, 4 parts, Part 3 kept (guide/gemini-for-plan.md section 2; Jabran: \"OK, keep all 4 parts\"); slug and paths gemini-for (kit guide/gemini-for-kit, board module gfk.py; scripts, images, github; repo folder ai-toolbox-prompts/gemini-for); names \"Gemini for Home and Work N - ...\", so build folders guide/gemini-for-home-and-work-N-<slug>/; thumbnails guide/creator-thumbnails/gemini-for (thumbs2 key gemini-for); docs only: nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot: guide/gemini-for-images/CREDITS.md), output boards \"Example output\"; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Gemini, Nest, Gmail, Docs, Sheets, Meet, Workspace as written, \"Gemini Live\" as written (lint allow), \"LearnLM\" never spoken, no aside; facts guide/gemini-for-facts.md ([S] never spoken; prices \"was ... when checked\" with the country); colour light coral 6 degrees (COLOUR-RULES.md); writer brief guide/creator-series-kit/WRITER-BRIEF-geminifor.md; level Novice; review with setup steps; demo on a dummy home only",
       "watermark": true,
-      "guide_playlist": "PLd_rr5x1pv2o"
+      "guide_playlist": "PLd_rr5x1pv2o",
+      "guide_youtube_url": "https://youtu.be/oAbDHdBDEyI",
+      "guide_uploaded_on": "2026-11-27",
+      "generation": 5,
+      "guide_visibility": "public"
     },
     {
       "name": "Gemini for Home and Work 2 - Gmail and Docs",
