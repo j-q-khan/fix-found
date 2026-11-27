@@ -10876,7 +10876,7 @@
       "series": "New in Claude",
       "part": 3,
       "brand": "NEW IN CLAUDE",
-      "guide": "render check",
+      "guide": "render approved",
       "title": "Claude Update: Claude Sheets, the Spreadsheet Built Into Claude",
       "guide_note": "2026-11-26: approved, 6 parts (guide/new-in-claude-plan.md section 3; Jabran: \"OK, all six, keep Part 5. Docs only, Auto post\"); kit guide/new-in-claude-kit (board module nick.py), paths new-in-claude (scripts, images, github; repo folder ai-toolbox-prompts/new-in-claude), build folders guide/new-in-claude-N-<slug>/, thumbnails guide/creator-thumbnails/new-in-claude (thumbs2 key new-in-claude); docs only: nothing signed in to, run or generated, every screen a drawn board labelled as drawn (no licensed images: guide/new-in-claude-images/CREDITS.md), output boards \"Example output\", dummy workspace only (no real calls, colleagues or company data); posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); colour in COLOUR-RULES.md row \"New in Claude\" (provisional pale raspberry, for the lead to confirm); facts guide/new-in-claude-facts.md ([S] rows never spoken); writer brief guide/creator-series-kit/WRITER-BRIEF-newinclaude.md; all names as written, \"P.R.\" said \"pull request\"",
       "watermark": true,
