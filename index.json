@@ -10604,7 +10604,7 @@
       "series": "AI Image",
       "part": 1,
       "brand": "AI IMAGE",
-      "guide": "uploaded private",
+      "guide": "posted",
       "title": "AI Image Generator: The Best One for Each Job (and Which You Can Use for Business)",
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 4 parts (guide/ai-image-plan.md section 3; Jabran: \"Do all 4 parts, docs only, auto post\"); slug and paths ai-image (kit guide/ai-image-kit, scripts, images, github; repo folder ai-toolbox-prompts/ai-image); names \"AI Image N - ...\", so build folders guide/ai-image-N-<slug>/; thumbnails guide/creator-thumbnails/ai-image; docs only: nothing signed up for, installed, run or generated, drawn boards labelled as drawn (Part 3 also has cleared Wikimedia Commons Upscayl images), generated pictures as \"Example output\", no realistic generated people; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Ideogram, Gemini, Nano Banana as written, ChatGPT \"Chat G P T\" (G2), Upscayl spoken \"Up-scale\", SynthID \"Synth I.D.\", C2PA \"C.2.P.A.\"; facts guide/ai-image-facts.md ([S] never spoken); colour light rose 336 degrees (COLOUR-RULES.md); writer brief guide/creator-series-kit/WRITER-BRIEF-aiimage.md",
@@ -10613,7 +10613,7 @@
       "guide_youtube_url": "https://youtu.be/2WK1CNBJTZg",
       "guide_uploaded_on": "2026-11-27",
       "generation": 5,
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public"
     },
     {
       "name": "AI Image 2 - Free Plans",
