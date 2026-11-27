@@ -10910,6 +10910,39 @@
       "guide_note": "2026-11-26: approved, 6 parts (guide/new-in-claude-plan.md section 3; Jabran: \"OK, all six, keep Part 5. Docs only, Auto post\"); kit guide/new-in-claude-kit (board module nick.py), paths new-in-claude (scripts, images, github; repo folder ai-toolbox-prompts/new-in-claude), build folders guide/new-in-claude-N-<slug>/, thumbnails guide/creator-thumbnails/new-in-claude (thumbs2 key new-in-claude); docs only: nothing signed in to, run or generated, every screen a drawn board labelled as drawn (no licensed images: guide/new-in-claude-images/CREDITS.md), output boards \"Example output\", dummy workspace only (no real calls, colleagues or company data); posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); colour in COLOUR-RULES.md row \"New in Claude\" (provisional pale raspberry, for the lead to confirm); facts guide/new-in-claude-facts.md ([S] rows never spoken); writer brief guide/creator-series-kit/WRITER-BRIEF-newinclaude.md; all names as written, \"P.R.\" said \"pull request\"",
       "watermark": true,
       "guide_playlist": "PLAiNtR3JLduA"
+    },
+    {
+      "name": "ChatGPT for Business 1 - Which Plan and First Jobs",
+      "series": "ChatGPT for Business",
+      "part": 1,
+      "brand": "CHATGPT FOR BUSINESS",
+      "guide": "new",
+      "title": "ChatGPT for Business: Which Plan to Buy, and the First Jobs to Give It",
+      "level": "Novice",
+      "guide_note": "2026-11-26: approved, 3 parts, all Novice (guide/chatgpt-for-business-plan.md section 3; Jabran: \"3 parts as proposed\", PowerPoint and Word stay a chapter of Part 2); slug and paths chatgpt-for-business (kit guide/chatgpt-for-business-kit, board module cfbk.py; scripts, images, github; repo folder ai-toolbox-prompts/chatgpt-for-business); names \"ChatGPT for Business N - ...\", so build folders guide/chatgpt-for-business-N-<slug>/; thumbnails guide/creator-thumbnails/chatgpt-for-business (thumbs2 key chatgpt-for-business, prefix cfb_); docs only: nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot: guide/chatgpt-for-business-images/CREDITS.md), output boards \"Example output\" on dummy data; posting: AUTOPOST public as each part passes every gate, one at a time (Jabran, 2026-11-27); playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: ChatGPT spoken \"Chat G P T\" undotted (G2), Excel, PowerPoint, Word, Codex, OpenAI as written, A.I. dotted, no aside; facts guide/chatgpt-for-business-facts.md ([S] never spoken; prices \"was ... when checked\"); colour light periwinkle blue 233 degrees (COLOUR-RULES.md); \"Not affiliated with OpenAI or Microsoft.\" in every description; writer brief guide/creator-series-kit/WRITER-BRIEF-chatgptforbusiness.md; review / what-is",
+      "watermark": true
+    },
+    {
+      "name": "ChatGPT for Business 2 - Excel Add-in",
+      "series": "ChatGPT for Business",
+      "part": 2,
+      "brand": "CHATGPT FOR BUSINESS",
+      "guide": "new",
+      "title": "ChatGPT for Excel: Install the Official Add-in (Free), Plus PowerPoint and Word",
+      "level": "Novice",
+      "guide_note": "2026-11-26: approved, 3 parts, all Novice (guide/chatgpt-for-business-plan.md section 3; Jabran: \"3 parts as proposed\", PowerPoint and Word stay a chapter of Part 2); slug and paths chatgpt-for-business (kit guide/chatgpt-for-business-kit, board module cfbk.py; scripts, images, github; repo folder ai-toolbox-prompts/chatgpt-for-business); names \"ChatGPT for Business N - ...\", so build folders guide/chatgpt-for-business-N-<slug>/; thumbnails guide/creator-thumbnails/chatgpt-for-business (thumbs2 key chatgpt-for-business, prefix cfb_); docs only: nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot: guide/chatgpt-for-business-images/CREDITS.md), output boards \"Example output\" on dummy data; posting: AUTOPOST public as each part passes every gate, one at a time (Jabran, 2026-11-27); playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: ChatGPT spoken \"Chat G P T\" undotted (G2), Excel, PowerPoint, Word, Codex, OpenAI as written, A.I. dotted, no aside; facts guide/chatgpt-for-business-facts.md ([S] never spoken; prices \"was ... when checked\"); colour light periwinkle blue 233 degrees (COLOUR-RULES.md); \"Not affiliated with OpenAI or Microsoft.\" in every description; writer brief guide/creator-series-kit/WRITER-BRIEF-chatgptforbusiness.md; tutorial with a Fix chapter (the wrong add-in, sign-in)",
+      "watermark": true
+    },
+    {
+      "name": "ChatGPT for Business 3 - Coding in the Chat",
+      "series": "ChatGPT for Business",
+      "part": 3,
+      "brand": "CHATGPT FOR BUSINESS",
+      "guide": "new",
+      "title": "ChatGPT for Coding: Explain, Fix and Write Code in the Chat",
+      "level": "Novice",
+      "guide_note": "2026-11-26: approved, 3 parts, all Novice (guide/chatgpt-for-business-plan.md section 3; Jabran: \"3 parts as proposed\", PowerPoint and Word stay a chapter of Part 2); slug and paths chatgpt-for-business (kit guide/chatgpt-for-business-kit, board module cfbk.py; scripts, images, github; repo folder ai-toolbox-prompts/chatgpt-for-business); names \"ChatGPT for Business N - ...\", so build folders guide/chatgpt-for-business-N-<slug>/; thumbnails guide/creator-thumbnails/chatgpt-for-business (thumbs2 key chatgpt-for-business, prefix cfb_); docs only: nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot: guide/chatgpt-for-business-images/CREDITS.md), output boards \"Example output\" on dummy data; posting: AUTOPOST public as each part passes every gate, one at a time (Jabran, 2026-11-27); playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: ChatGPT spoken \"Chat G P T\" undotted (G2), Excel, PowerPoint, Word, Codex, OpenAI as written, A.I. dotted, no aside; facts guide/chatgpt-for-business-facts.md ([S] never spoken; prices \"was ... when checked\"); colour light periwinkle blue 233 degrees (COLOUR-RULES.md); \"Not affiliated with OpenAI or Microsoft.\" in every description; writer brief guide/creator-series-kit/WRITER-BRIEF-chatgptforbusiness.md; tutorial; last part",
+      "watermark": true
     }
   ]
 }
