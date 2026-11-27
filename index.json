@@ -10433,10 +10433,10 @@
       "series": "AI Music",
       "part": 2,
       "brand": "AI MUSIC",
-      "guide": "new",
+      "guide": "render approved",
       "title": "AI Music With Suno: Make Your First AI Song With Your Own Lyrics (Suno v6 Tutorial)",
       "level": "Novice",
-      "guide_note": "2026-11-25: approved, 3 parts (guide/ai-music-plan.md section 3 and the top; Jabran: \"Proceed, docs only, autopost\"); NOT the old \"Make Music with AI\" series: names \"AI Music Guide N - ...\", so build folders guide/ai-music-guide-N-<slug>/ (series_upload.sh PREFIX ai-music-guide, never ai-music), thumbnails guide/creator-thumbnails/ai-music-guide (thumbs2 key ai-music-guide; ai-music/ is the old series' folder); kit guide/ai-music-kit, paths ai-music (scripts, images, github; repo folder ai-toolbox-prompts/ai-music); docs only: no sign-ups, no generations, no song audio, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: autopost later, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); Suno, Udio, Lyria and ACE-Step spoken as written (S1 U1 L1 A1); colour deep magenta-violet #FA61FF/#5E0061/#200021 (COLOUR-RULES.md); images guide/ai-music-images/CREDITS.md (none licensed at setup), writer brief guide/creator-series-kit/WRITER-BRIEF-aimusic.md; tutorial",
+      "guide_note": "2026-11-25: approved, 3 parts (guide/ai-music-plan.md section 3 and the top; Jabran: \"Proceed, docs only, autopost\"); NOT the old \"Make Music with AI\" series: names \"AI Music Guide N - ...\", so build folders guide/ai-music-guide-N-<slug>/ (series_upload.sh PREFIX ai-music-guide, never ai-music), thumbnails guide/creator-thumbnails/ai-music-guide (thumbs2 key ai-music-guide; ai-music/ is the old series' folder); kit guide/ai-music-kit, paths ai-music (scripts, images, github; repo folder ai-toolbox-prompts/ai-music); docs only: no sign-ups, no generations, no song audio, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: autopost later, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); Suno, Udio, Lyria and ACE-Step spoken as written (S1 U1 L1 A1); colour deep magenta-violet #FA61FF/#5E0061/#200021 (COLOUR-RULES.md); images guide/ai-music-images/CREDITS.md (none licensed at setup), writer brief guide/creator-series-kit/WRITER-BRIEF-aimusic.md; tutorial | 2026-11-26: critic, pre-render viewer pass (3 fixes, recheck PASS), QA and final MP4 pass all PASS; render approved under Jabran's autopost OK of 2026-11-25 (\"Proceed, docs only, autopost\").",
       "watermark": true,
       "guide_playlist": "PLZLLNrt4or8o"
     },
@@ -10445,10 +10445,10 @@
       "series": "AI Music",
       "part": 3,
       "brand": "AI MUSIC",
-      "guide": "new",
+      "guide": "render approved",
       "title": "AI Music Video: Turn Your Song Into a Music Video With Suno Visuals",
       "level": "Novice",
-      "guide_note": "2026-11-25: approved, 3 parts (guide/ai-music-plan.md section 3 and the top; Jabran: \"Proceed, docs only, autopost\"); NOT the old \"Make Music with AI\" series: names \"AI Music Guide N - ...\", so build folders guide/ai-music-guide-N-<slug>/ (series_upload.sh PREFIX ai-music-guide, never ai-music), thumbnails guide/creator-thumbnails/ai-music-guide (thumbs2 key ai-music-guide; ai-music/ is the old series' folder); kit guide/ai-music-kit, paths ai-music (scripts, images, github; repo folder ai-toolbox-prompts/ai-music); docs only: no sign-ups, no generations, no song audio, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: autopost later, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); Suno, Udio, Lyria and ACE-Step spoken as written (S1 U1 L1 A1); colour deep magenta-violet #FA61FF/#5E0061/#200021 (COLOUR-RULES.md); images guide/ai-music-images/CREDITS.md (none licensed at setup), writer brief guide/creator-series-kit/WRITER-BRIEF-aimusic.md; tutorial, ends with a chapter on posting to YouTube (A.I. disclosure and the inauthentic-content rule)",
+      "guide_note": "2026-11-25: approved, 3 parts (guide/ai-music-plan.md section 3 and the top; Jabran: \"Proceed, docs only, autopost\"); NOT the old \"Make Music with AI\" series: names \"AI Music Guide N - ...\", so build folders guide/ai-music-guide-N-<slug>/ (series_upload.sh PREFIX ai-music-guide, never ai-music), thumbnails guide/creator-thumbnails/ai-music-guide (thumbs2 key ai-music-guide; ai-music/ is the old series' folder); kit guide/ai-music-kit, paths ai-music (scripts, images, github; repo folder ai-toolbox-prompts/ai-music); docs only: no sign-ups, no generations, no song audio, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: autopost later, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); Suno, Udio, Lyria and ACE-Step spoken as written (S1 U1 L1 A1); colour deep magenta-violet #FA61FF/#5E0061/#200021 (COLOUR-RULES.md); images guide/ai-music-images/CREDITS.md (none licensed at setup), writer brief guide/creator-series-kit/WRITER-BRIEF-aimusic.md; tutorial, ends with a chapter on posting to YouTube (A.I. disclosure and the inauthentic-content rule) | 2026-11-26: critic (10 fixes), pre-render viewer pass (3 fixes, recheck PASS), QA (TTS_LINT_ALLOW=content, his C1 pick) and final MP4 pass all PASS; render approved under Jabran's autopost OK of 2026-11-25.",
       "watermark": true,
       "guide_playlist": "PLZLLNrt4or8o"
     },
@@ -10511,7 +10511,7 @@
       "series": "Always-On AI Agents",
       "part": 3,
       "brand": "ALWAYS-ON AGENTS",
-      "guide": "new",
+      "guide": "render check",
       "title": "Grok Bot Setup and Use Cases: What xAI's Always-On Agent Can Do for You",
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 6 parts (guide/always-on-agents-plan.md section 3; Jabran: \"Yes\", then \"autop post, docs only\"); slug and paths always-on-agents (kit guide/always-on-agents-kit, scripts, images, github; repo folder ai-toolbox-prompts/always-on-agents); names \"Always-On AI Agents N - ...\", so build folders guide/always-on-ai-agents-N-<slug>/; thumbnails guide/creator-thumbnails/always-on-agents; docs only: no sign-ups, no tests, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation as written, xAI spoken \"x A.I.\" (caption xAI), ChatGPT \"Chat G P T\" (G2); facts guide/always-on-agents-facts.md ([S] never spoken); colour per plan section 5 and COLOUR-RULES.md; writer brief guide/creator-series-kit/WRITER-BRIEF-alwayson.md; tutorial",
@@ -10522,11 +10522,12 @@
       "series": "Always-On AI Agents",
       "part": 4,
       "brand": "ALWAYS-ON AGENTS",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Claude Duet Explained: Who Can Get It and What It Does for You Each Day",
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 6 parts (guide/always-on-agents-plan.md section 3; Jabran: \"Yes\", then \"autop post, docs only\"); slug and paths always-on-agents (kit guide/always-on-agents-kit, scripts, images, github; repo folder ai-toolbox-prompts/always-on-agents); names \"Always-On AI Agents N - ...\", so build folders guide/always-on-ai-agents-N-<slug>/; thumbnails guide/creator-thumbnails/always-on-agents; docs only: no sign-ups, no tests, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation as written, xAI spoken \"x A.I.\" (caption xAI), ChatGPT \"Chat G P T\" (G2); facts guide/always-on-agents-facts.md ([S] never spoken); colour per plan section 5 and COLOUR-RULES.md; writer brief guide/creator-series-kit/WRITER-BRIEF-alwayson.md; review / what-is",
-      "watermark": true
+      "watermark": true,
+      "notes": "2026-11-26: every gate passed (critic; pre-render viewer pass FAIL 4 -> fixes -> re-check PASS; render QA; builder post-render checks; final MP4 pass, 1 description no fixed and repackaged with qa); render approved under the autopost-at-gates rule (Jabran, 2026-11-26). Listen spot: Claude at 4:43.5-4:45.0 (whisper heard cloud; captions and boards correct)."
     },
     {
       "name": "Always-On AI Agents 5 - Meta Muse Explained",
@@ -10555,7 +10556,7 @@
       "series": "AI Voice",
       "part": 1,
       "brand": "AI VOICE",
-      "guide": "new",
+      "guide": "render approved",
       "title": "AI Voice Generator: Turn Text Into a Realistic Voiceover With ElevenLabs",
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 4 parts (guide/ai-voice-plan.md section 2 and the top; Jabran: \"As recommended / Docs only / Auto post\"); Part 5 (free plans) not made, a free-options chapter goes in Part 1; kit guide/ai-voice-kit (board module avk.py), paths ai-voice (scripts, images, github; repo folder ai-toolbox-prompts/ai-voice), build folders guide/ai-voice-N-<slug>/, thumbnails guide/creator-thumbnails/ai-voice (thumbs2 key ai-voice); docs only: no sign-ups, no generations, no product audio, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); colour in COLOUR-RULES.md row \"AI Voice\"; facts guide/ai-voice-facts.md ([S] rows never spoken); writer brief guide/creator-series-kit/WRITER-BRIEF-aivoice.md; tutorial, with a free-options chapter (licences of Kokoro, Piper, Gemini text to speech, CapCut)",
@@ -10566,7 +10567,7 @@
       "series": "AI Voice",
       "part": 2,
       "brand": "AI VOICE",
-      "guide": "new",
+      "guide": "render approved",
       "title": "AI Voice Cloning: Clone Your Own Voice With ElevenLabs, the Safe Way",
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 4 parts (guide/ai-voice-plan.md section 2 and the top; Jabran: \"As recommended / Docs only / Auto post\"); Part 5 (free plans) not made, a free-options chapter goes in Part 1; kit guide/ai-voice-kit (board module avk.py), paths ai-voice (scripts, images, github; repo folder ai-toolbox-prompts/ai-voice), build folders guide/ai-voice-N-<slug>/, thumbnails guide/creator-thumbnails/ai-voice (thumbs2 key ai-voice); docs only: no sign-ups, no generations, no product audio, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); colour in COLOUR-RULES.md row \"AI Voice\"; facts guide/ai-voice-facts.md ([S] rows never spoken); writer brief guide/creator-series-kit/WRITER-BRIEF-aivoice.md; tutorial; consent and YouTube disclosure in the companies' own words",
@@ -10599,7 +10600,7 @@
       "series": "AI Image",
       "part": 1,
       "brand": "AI IMAGE",
-      "guide": "new",
+      "guide": "render approved",
       "title": "AI Image Generator: The Best One for Each Job (and Which You Can Use for Business)",
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 4 parts (guide/ai-image-plan.md section 3; Jabran: \"Do all 4 parts, docs only, auto post\"); slug and paths ai-image (kit guide/ai-image-kit, scripts, images, github; repo folder ai-toolbox-prompts/ai-image); names \"AI Image N - ...\", so build folders guide/ai-image-N-<slug>/; thumbnails guide/creator-thumbnails/ai-image; docs only: nothing signed up for, installed, run or generated, drawn boards labelled as drawn (Part 3 also has cleared Wikimedia Commons Upscayl images), generated pictures as \"Example output\", no realistic generated people; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Ideogram, Gemini, Nano Banana as written, ChatGPT \"Chat G P T\" (G2), Upscayl spoken \"Up-scale\", SynthID \"Synth I.D.\", C2PA \"C.2.P.A.\"; facts guide/ai-image-facts.md ([S] never spoken); colour light rose 336 degrees (COLOUR-RULES.md); writer brief guide/creator-series-kit/WRITER-BRIEF-aiimage.md",
@@ -10610,7 +10611,7 @@
       "series": "AI Image",
       "part": 2,
       "brand": "AI IMAGE",
-      "guide": "new",
+      "guide": "render approved",
       "title": "AI Image Generator Free: What the Free Plans Really Give You",
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 4 parts (guide/ai-image-plan.md section 3; Jabran: \"Do all 4 parts, docs only, auto post\"); slug and paths ai-image (kit guide/ai-image-kit, scripts, images, github; repo folder ai-toolbox-prompts/ai-image); names \"AI Image N - ...\", so build folders guide/ai-image-N-<slug>/; thumbnails guide/creator-thumbnails/ai-image; docs only: nothing signed up for, installed, run or generated, drawn boards labelled as drawn (Part 3 also has cleared Wikimedia Commons Upscayl images), generated pictures as \"Example output\", no realistic generated people; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Ideogram, Gemini, Nano Banana as written, ChatGPT \"Chat G P T\" (G2), Upscayl spoken \"Up-scale\", SynthID \"Synth I.D.\", C2PA \"C.2.P.A.\"; facts guide/ai-image-facts.md ([S] never spoken); colour light rose 336 degrees (COLOUR-RULES.md); writer brief guide/creator-series-kit/WRITER-BRIEF-aiimage.md",
@@ -10621,7 +10622,7 @@
       "series": "AI Image",
       "part": 3,
       "brand": "AI IMAGE",
-      "guide": "new",
+      "guide": "render approved",
       "title": "AI Image Upscaler and Enhancer: Make Small Images Sharp",
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 4 parts (guide/ai-image-plan.md section 3; Jabran: \"Do all 4 parts, docs only, auto post\"); slug and paths ai-image (kit guide/ai-image-kit, scripts, images, github; repo folder ai-toolbox-prompts/ai-image); names \"AI Image N - ...\", so build folders guide/ai-image-N-<slug>/; thumbnails guide/creator-thumbnails/ai-image; docs only: nothing signed up for, installed, run or generated, drawn boards labelled as drawn (Part 3 also has cleared Wikimedia Commons Upscayl images), generated pictures as \"Example output\", no realistic generated people; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Ideogram, Gemini, Nano Banana as written, ChatGPT \"Chat G P T\" (G2), Upscayl spoken \"Up-scale\", SynthID \"Synth I.D.\", C2PA \"C.2.P.A.\"; facts guide/ai-image-facts.md ([S] never spoken); colour light rose 336 degrees (COLOUR-RULES.md); writer brief guide/creator-series-kit/WRITER-BRIEF-aiimage.md",
@@ -10643,7 +10644,7 @@
       "series": "Claude Opus",
       "part": 1,
       "brand": "CLAUDE OPUS",
-      "guide": "new",
+      "guide": "render check",
       "title": "Claude Opus 5.5: What's New, What It Costs and Who Should Use It",
       "guide_note": "2026-11-26: approved, 4 parts (guide/claude-opus-plan.md section 3; Jabran: \"Yes, Autopost, docs only\"); slug and paths claude-opus (kit guide/claude-opus-kit, board module copk.py; scripts, images, github; repo folder ai-toolbox-prompts/claude-opus); names \"Claude Opus N - ...\", so build folders guide/claude-opus-N-<slug>/; thumbnails guide/creator-thumbnails/claude-opus (thumbs2 key claude-opus); docs only: nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot: guide/claude-opus-images/CREDITS.md), output boards \"Example output\", no benchmark numbers spoken; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Opus, Sonnet, Haiku, Fable as written, versions \"five point five\", no aside; facts guide/claude-opus-facts.md ([S] never spoken; Opus is \"our strongest daily driver\", Fable 5.2 is the most capable); colour pale lilac violet 265 degrees (COLOUR-RULES.md); writer brief guide/creator-series-kit/WRITER-BRIEF-claudeopus.md; level Novice; review / what-is",
       "watermark": true
@@ -10653,7 +10654,7 @@
       "series": "Claude Opus",
       "part": 2,
       "brand": "CLAUDE OPUS",
-      "guide": "new",
+      "guide": "render check",
       "title": "Claude Opus vs Sonnet: Which Claude Model to Use (and When Fable Is Worth It)",
       "guide_note": "2026-11-26: approved, 4 parts (guide/claude-opus-plan.md section 3; Jabran: \"Yes, Autopost, docs only\"); slug and paths claude-opus (kit guide/claude-opus-kit, board module copk.py; scripts, images, github; repo folder ai-toolbox-prompts/claude-opus); names \"Claude Opus N - ...\", so build folders guide/claude-opus-N-<slug>/; thumbnails guide/creator-thumbnails/claude-opus (thumbs2 key claude-opus); docs only: nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot: guide/claude-opus-images/CREDITS.md), output boards \"Example output\", no benchmark numbers spoken; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Opus, Sonnet, Haiku, Fable as written, versions \"five point five\", no aside; facts guide/claude-opus-facts.md ([S] never spoken; Opus is \"our strongest daily driver\", Fable 5.2 is the most capable); colour pale lilac violet 265 degrees (COLOUR-RULES.md); writer brief guide/creator-series-kit/WRITER-BRIEF-claudeopus.md; level Novice; comparison",
       "watermark": true
@@ -10683,7 +10684,7 @@
       "series": "Claude for Small Business",
       "part": 1,
       "brand": "CLAUDE FOR SMALL BUSINESS",
-      "guide": "new",
+      "guide": "render check",
       "title": "Claude for Business: Set Up the Small Business Plugin and Run Your First Workflow",
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 4 parts, all Novice (guide/claude-small-business-plan.md section 3; Jabran: \"OK 4 parts, docs only, autopost at the gates\"; Part 4 kept despite 116); slug and paths claude-small-business (kit guide/claude-small-business-kit, board module csbk.py; scripts, images, github; repo folder ai-toolbox-prompts/claude-small-business); names \"Claude for Small Business N - ...\", so build folders guide/claude-for-small-business-N-<slug>/; thumbnail guide/creator-thumbnails/claude-small-business/01.jpg (thumbs2 key claude-small-business); docs only: nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot: guide/claude-small-business-images/CREDITS.md), output boards \"Example output\" on dummy business data; say what each connector or extension can see; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Claude, Chrome, Outlook, Cowork as written, dotted abbreviations, no aside; facts guide/claude-small-business-facts.md ([S] never spoken, inferences never stated as fact); colour pale aqua teal 175 degrees (COLOUR-RULES.md); \"Not affiliated with Anthropic, Google or Microsoft.\" in every description; writer brief guide/creator-series-kit/WRITER-BRIEF-claudesmallbusiness.md; tutorial",
@@ -10694,7 +10695,7 @@
       "series": "Claude for Small Business",
       "part": 2,
       "brand": "CLAUDE FOR SMALL BUSINESS",
-      "guide": "new",
+      "guide": "render check",
       "title": "Claude in Chrome: Install the Extension and Let Claude Use Websites Safely",
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 4 parts, all Novice (guide/claude-small-business-plan.md section 3; Jabran: \"OK 4 parts, docs only, autopost at the gates\"; Part 4 kept despite 116); slug and paths claude-small-business (kit guide/claude-small-business-kit, board module csbk.py; scripts, images, github; repo folder ai-toolbox-prompts/claude-small-business); names \"Claude for Small Business N - ...\", so build folders guide/claude-for-small-business-N-<slug>/; thumbnail guide/creator-thumbnails/claude-small-business/02.jpg (thumbs2 key claude-small-business); docs only: nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot: guide/claude-small-business-images/CREDITS.md), output boards \"Example output\" on dummy business data; say what each connector or extension can see; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Claude, Chrome, Outlook, Cowork as written, dotted abbreviations, no aside; facts guide/claude-small-business-facts.md ([S] never spoken, inferences never stated as fact); colour pale aqua teal 175 degrees (COLOUR-RULES.md); \"Not affiliated with Anthropic, Google or Microsoft.\" in every description; writer brief guide/creator-series-kit/WRITER-BRIEF-claudesmallbusiness.md; tutorial with a short Fix chapter",
@@ -10727,7 +10728,7 @@
       "series": "Gemini for Home and Work",
       "part": 1,
       "brand": "GEMINI FOR HOME AND WORK",
-      "guide": "new",
+      "guide": "render check",
       "title": "Gemini for Home Review: Should You Switch From Google Assistant? (You Can't Switch Back)",
       "guide_note": "2026-11-26: approved, 4 parts, Part 3 kept (guide/gemini-for-plan.md section 2; Jabran: \"OK, keep all 4 parts\"); slug and paths gemini-for (kit guide/gemini-for-kit, board module gfk.py; scripts, images, github; repo folder ai-toolbox-prompts/gemini-for); names \"Gemini for Home and Work N - ...\", so build folders guide/gemini-for-home-and-work-N-<slug>/; thumbnails guide/creator-thumbnails/gemini-for (thumbs2 key gemini-for); docs only: nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot: guide/gemini-for-images/CREDITS.md), output boards \"Example output\"; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Gemini, Nest, Gmail, Docs, Sheets, Meet, Workspace as written, \"Gemini Live\" as written (lint allow), \"LearnLM\" never spoken, no aside; facts guide/gemini-for-facts.md ([S] never spoken; prices \"was ... when checked\" with the country); colour light coral 6 degrees (COLOUR-RULES.md); writer brief guide/creator-series-kit/WRITER-BRIEF-geminifor.md; level Novice; review with setup steps; demo on a dummy home only",
       "watermark": true
@@ -10737,7 +10738,7 @@
       "series": "Gemini for Home and Work",
       "part": 2,
       "brand": "GEMINI FOR HOME AND WORK",
-      "guide": "new",
+      "guide": "render check",
       "title": "Gemini for Workspace: How to Use Gemini in Gmail and Google Docs",
       "guide_note": "2026-11-26: approved, 4 parts, Part 3 kept (guide/gemini-for-plan.md section 2; Jabran: \"OK, keep all 4 parts\"); slug and paths gemini-for (kit guide/gemini-for-kit, board module gfk.py; scripts, images, github; repo folder ai-toolbox-prompts/gemini-for); names \"Gemini for Home and Work N - ...\", so build folders guide/gemini-for-home-and-work-N-<slug>/; thumbnails guide/creator-thumbnails/gemini-for (thumbs2 key gemini-for); docs only: nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot: guide/gemini-for-images/CREDITS.md), output boards \"Example output\"; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Gemini, Nest, Gmail, Docs, Sheets, Meet, Workspace as written, \"Gemini Live\" as written (lint allow), \"LearnLM\" never spoken, no aside; facts guide/gemini-for-facts.md ([S] never spoken; prices \"was ... when checked\" with the country); colour light coral 6 degrees (COLOUR-RULES.md); writer brief guide/creator-series-kit/WRITER-BRIEF-geminifor.md; level Novice; tutorial",
       "watermark": true
@@ -10767,30 +10768,33 @@
       "series": "New in Claude",
       "part": 1,
       "brand": "NEW IN CLAUDE",
-      "guide": "new",
+      "guide": "render approved",
       "title": "Claude Update: Claude Meetings, Add Claude to Your Google Meet Calls",
       "guide_note": "2026-11-26: approved, 6 parts (guide/new-in-claude-plan.md section 3; Jabran: \"OK, all six, keep Part 5. Docs only, Auto post\"); kit guide/new-in-claude-kit (board module nick.py), paths new-in-claude (scripts, images, github; repo folder ai-toolbox-prompts/new-in-claude), build folders guide/new-in-claude-N-<slug>/, thumbnails guide/creator-thumbnails/new-in-claude (thumbs2 key new-in-claude); docs only: nothing signed in to, run or generated, every screen a drawn board labelled as drawn (no licensed images: guide/new-in-claude-images/CREDITS.md), output boards \"Example output\", dummy workspace only (no real calls, colleagues or company data); posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); colour in COLOUR-RULES.md row \"New in Claude\" (provisional pale raspberry, for the lead to confirm); facts guide/new-in-claude-facts.md ([S] rows never spoken); writer brief guide/creator-series-kit/WRITER-BRIEF-newinclaude.md; all names as written, \"P.R.\" said \"pull request\"",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLAiNtR3JLduA"
     },
     {
       "name": "New in Claude 2 - Claude Motion",
       "series": "New in Claude",
       "part": 2,
       "brand": "NEW IN CLAUDE",
-      "guide": "new",
+      "guide": "render check",
       "title": "Claude Motion: Turn a Chat Into an Animated Explainer Video",
       "guide_note": "2026-11-26: approved, 6 parts (guide/new-in-claude-plan.md section 3; Jabran: \"OK, all six, keep Part 5. Docs only, Auto post\"); kit guide/new-in-claude-kit (board module nick.py), paths new-in-claude (scripts, images, github; repo folder ai-toolbox-prompts/new-in-claude), build folders guide/new-in-claude-N-<slug>/, thumbnails guide/creator-thumbnails/new-in-claude (thumbs2 key new-in-claude); docs only: nothing signed in to, run or generated, every screen a drawn board labelled as drawn (no licensed images: guide/new-in-claude-images/CREDITS.md), output boards \"Example output\", dummy workspace only (no real calls, colleagues or company data); posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); colour in COLOUR-RULES.md row \"New in Claude\" (provisional pale raspberry, for the lead to confirm); facts guide/new-in-claude-facts.md ([S] rows never spoken); writer brief guide/creator-series-kit/WRITER-BRIEF-newinclaude.md; all names as written, \"P.R.\" said \"pull request\"",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLAiNtR3JLduA"
     },
     {
       "name": "New in Claude 3 - Claude Sheets",
       "series": "New in Claude",
       "part": 3,
       "brand": "NEW IN CLAUDE",
-      "guide": "new",
+      "guide": "render check",
       "title": "Claude Update: Claude Sheets, the Spreadsheet Built Into Claude",
       "guide_note": "2026-11-26: approved, 6 parts (guide/new-in-claude-plan.md section 3; Jabran: \"OK, all six, keep Part 5. Docs only, Auto post\"); kit guide/new-in-claude-kit (board module nick.py), paths new-in-claude (scripts, images, github; repo folder ai-toolbox-prompts/new-in-claude), build folders guide/new-in-claude-N-<slug>/, thumbnails guide/creator-thumbnails/new-in-claude (thumbs2 key new-in-claude); docs only: nothing signed in to, run or generated, every screen a drawn board labelled as drawn (no licensed images: guide/new-in-claude-images/CREDITS.md), output boards \"Example output\", dummy workspace only (no real calls, colleagues or company data); posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); colour in COLOUR-RULES.md row \"New in Claude\" (provisional pale raspberry, for the lead to confirm); facts guide/new-in-claude-facts.md ([S] rows never spoken); writer brief guide/creator-series-kit/WRITER-BRIEF-newinclaude.md; all names as written, \"P.R.\" said \"pull request\"",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLAiNtR3JLduA"
     },
     {
       "name": "New in Claude 4 - Claude Data",
@@ -10800,7 +10804,8 @@
       "guide": "new",
       "title": "Claude Update: Claude Data (Formerly Claude Dashboards), Build a Dashboard From Your Data",
       "guide_note": "2026-11-26: approved, 6 parts (guide/new-in-claude-plan.md section 3; Jabran: \"OK, all six, keep Part 5. Docs only, Auto post\"); kit guide/new-in-claude-kit (board module nick.py), paths new-in-claude (scripts, images, github; repo folder ai-toolbox-prompts/new-in-claude), build folders guide/new-in-claude-N-<slug>/, thumbnails guide/creator-thumbnails/new-in-claude (thumbs2 key new-in-claude); docs only: nothing signed in to, run or generated, every screen a drawn board labelled as drawn (no licensed images: guide/new-in-claude-images/CREDITS.md), output boards \"Example output\", dummy workspace only (no real calls, colleagues or company data); posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); colour in COLOUR-RULES.md row \"New in Claude\" (provisional pale raspberry, for the lead to confirm); facts guide/new-in-claude-facts.md ([S] rows never spoken); writer brief guide/creator-series-kit/WRITER-BRIEF-newinclaude.md; all names as written, \"P.R.\" said \"pull request\"",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLAiNtR3JLduA"
     },
     {
       "name": "New in Claude 5 - Claude Whiteboards",
@@ -10810,7 +10815,8 @@
       "guide": "new",
       "title": "Claude Update: Claude Whiteboards, Plan a Project on a Shared Board",
       "guide_note": "2026-11-26: approved, 6 parts (guide/new-in-claude-plan.md section 3; Jabran: \"OK, all six, keep Part 5. Docs only, Auto post\"); kit guide/new-in-claude-kit (board module nick.py), paths new-in-claude (scripts, images, github; repo folder ai-toolbox-prompts/new-in-claude), build folders guide/new-in-claude-N-<slug>/, thumbnails guide/creator-thumbnails/new-in-claude (thumbs2 key new-in-claude); docs only: nothing signed in to, run or generated, every screen a drawn board labelled as drawn (no licensed images: guide/new-in-claude-images/CREDITS.md), output boards \"Example output\", dummy workspace only (no real calls, colleagues or company data); posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); colour in COLOUR-RULES.md row \"New in Claude\" (provisional pale raspberry, for the lead to confirm); facts guide/new-in-claude-facts.md ([S] rows never spoken); writer brief guide/creator-series-kit/WRITER-BRIEF-newinclaude.md; all names as written, \"P.R.\" said \"pull request\"",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLAiNtR3JLduA"
     },
     {
       "name": "New in Claude 6 - Claude Ship",
@@ -10820,7 +10826,8 @@
       "guide": "new",
       "title": "Claude Update: Claude Ship, PR Steward and Claude Approvals Explained",
       "guide_note": "2026-11-26: approved, 6 parts (guide/new-in-claude-plan.md section 3; Jabran: \"OK, all six, keep Part 5. Docs only, Auto post\"); kit guide/new-in-claude-kit (board module nick.py), paths new-in-claude (scripts, images, github; repo folder ai-toolbox-prompts/new-in-claude), build folders guide/new-in-claude-N-<slug>/, thumbnails guide/creator-thumbnails/new-in-claude (thumbs2 key new-in-claude); docs only: nothing signed in to, run or generated, every screen a drawn board labelled as drawn (no licensed images: guide/new-in-claude-images/CREDITS.md), output boards \"Example output\", dummy workspace only (no real calls, colleagues or company data); posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); colour in COLOUR-RULES.md row \"New in Claude\" (provisional pale raspberry, for the lead to confirm); facts guide/new-in-claude-facts.md ([S] rows never spoken); writer brief guide/creator-series-kit/WRITER-BRIEF-newinclaude.md; all names as written, \"P.R.\" said \"pull request\"",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLAiNtR3JLduA"
     }
   ]
 }
