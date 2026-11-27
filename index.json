@@ -9503,7 +9503,8 @@
       "generation": 4,
       "guide_youtube_url": "https://youtu.be/AGI7roGIZaY",
       "guide_uploaded_on": "2026-11-22",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "guide_playlist": "PLNh8iZuV9vMk"
     },
     {
       "name": "Agentic AI 2 - Agentic Workflows vs Agents",
@@ -9518,7 +9519,8 @@
       "notes": "2026-11-24: gates passed (critic, viewer pass + re-check, render QA, final MP4 pass); render approved under the autopost-at-gates rule (Jabran, 2026-11-21).",
       "guide_youtube_url": "https://youtu.be/mbSYkB2HpaE",
       "guide_uploaded_on": "2026-11-25",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "guide_playlist": "PLNh8iZuV9vMk"
     },
     {
       "name": "Agentic AI 3 - Agentic AI Examples to Try Today",
@@ -9533,7 +9535,8 @@
       "notes": "2026-11-25: gates passed (critic, viewer pass + re-check, render QA, final MP4 pass); render approved under the autopost-at-gates rule (Jabran, 2026-11-21).",
       "guide_youtube_url": "https://youtu.be/gF14g4hp69U",
       "guide_uploaded_on": "2026-11-26",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "guide_playlist": "PLNh8iZuV9vMk"
     },
     {
       "name": "Agentic AI 4 - Agentic Coding Explained",
@@ -9548,7 +9551,8 @@
       "notes": "2026-11-25: gates passed (critic, viewer pass + re-check, render QA after the \"proposal\" rewording, final MP4 pass); render approved under the autopost-at-gates rule (Jabran, 2026-11-21).",
       "guide_youtube_url": "https://youtu.be/9_aKTn3XDQg",
       "guide_uploaded_on": "2026-11-26",
-      "guide_visibility": "public"
+      "guide_visibility": "public",
+      "guide_playlist": "PLNh8iZuV9vMk"
     },
     {
       "name": "How to Use ChatGPT 1 - Beginner Guide",
@@ -10508,7 +10512,8 @@
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 6 parts (guide/always-on-agents-plan.md section 3; Jabran: \"Yes\", then \"autop post, docs only\"); slug and paths always-on-agents (kit guide/always-on-agents-kit, scripts, images, github; repo folder ai-toolbox-prompts/always-on-agents); names \"Always-On AI Agents N - ...\", so build folders guide/always-on-ai-agents-N-<slug>/; thumbnails guide/creator-thumbnails/always-on-agents; docs only: no sign-ups, no tests, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation as written, xAI spoken \"x A.I.\" (caption xAI), ChatGPT \"Chat G P T\" (G2); facts guide/always-on-agents-facts.md ([S] never spoken); colour per plan section 5 and COLOUR-RULES.md; writer brief guide/creator-series-kit/WRITER-BRIEF-alwayson.md; comparison, ships first",
       "watermark": true,
-      "notes": "2026-11-26: every gate passed (critic; pre-render viewer pass + re-check; render QA; final MP4 pass after the empty \"Prompts to copy\" heading fix, repackaged with qa); render approved under the autopost-at-gates rule (Jabran, 2026-11-26). GitHub folder pushed (ai-toolbox-prompts 6dd967c)."
+      "notes": "2026-11-26: every gate passed (critic; pre-render viewer pass + re-check; render QA; final MP4 pass after the empty \"Prompts to copy\" heading fix, repackaged with qa); render approved under the autopost-at-gates rule (Jabran, 2026-11-26). GitHub folder pushed (ai-toolbox-prompts 6dd967c).",
+      "guide_playlist": "PLTZSJ0kzxJt8"
     },
     {
       "name": "Always-On AI Agents 2 - Gemini Spark Is Now Task",
@@ -10520,7 +10525,8 @@
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 6 parts (guide/always-on-agents-plan.md section 3; Jabran: \"Yes\", then \"autop post, docs only\"); slug and paths always-on-agents (kit guide/always-on-agents-kit, scripts, images, github; repo folder ai-toolbox-prompts/always-on-agents); names \"Always-On AI Agents N - ...\", so build folders guide/always-on-ai-agents-N-<slug>/; thumbnails guide/creator-thumbnails/always-on-agents; docs only: no sign-ups, no tests, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation as written, xAI spoken \"x A.I.\" (caption xAI), ChatGPT \"Chat G P T\" (G2); facts guide/always-on-agents-facts.md ([S] never spoken); colour per plan section 5 and COLOUR-RULES.md; writer brief guide/creator-series-kit/WRITER-BRIEF-alwayson.md; tutorial",
       "watermark": true,
-      "notes": "2026-11-26: every gate passed (critic; pre-render viewer pass FAIL 7 -> writer/builder fixes -> re-check PASS; render QA; final MP4 pass); render approved under the autopost-at-gates rule (Jabran, 2026-11-26)."
+      "notes": "2026-11-26: every gate passed (critic; pre-render viewer pass FAIL 7 -> writer/builder fixes -> re-check PASS; render QA; final MP4 pass); render approved under the autopost-at-gates rule (Jabran, 2026-11-26).",
+      "guide_playlist": "PLTZSJ0kzxJt8"
     },
     {
       "name": "Always-On AI Agents 3 - Grok Bot Setup",
@@ -10531,7 +10537,8 @@
       "title": "Grok Bot Setup and Use Cases: What xAI's Always-On Agent Can Do for You",
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 6 parts (guide/always-on-agents-plan.md section 3; Jabran: \"Yes\", then \"autop post, docs only\"); slug and paths always-on-agents (kit guide/always-on-agents-kit, scripts, images, github; repo folder ai-toolbox-prompts/always-on-agents); names \"Always-On AI Agents N - ...\", so build folders guide/always-on-ai-agents-N-<slug>/; thumbnails guide/creator-thumbnails/always-on-agents; docs only: no sign-ups, no tests, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation as written, xAI spoken \"x A.I.\" (caption xAI), ChatGPT \"Chat G P T\" (G2); facts guide/always-on-agents-facts.md ([S] never spoken); colour per plan section 5 and COLOUR-RULES.md; writer brief guide/creator-series-kit/WRITER-BRIEF-alwayson.md; tutorial",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLTZSJ0kzxJt8"
     },
     {
       "name": "Always-On AI Agents 4 - Claude Duet Explained",
@@ -10543,7 +10550,8 @@
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 6 parts (guide/always-on-agents-plan.md section 3; Jabran: \"Yes\", then \"autop post, docs only\"); slug and paths always-on-agents (kit guide/always-on-agents-kit, scripts, images, github; repo folder ai-toolbox-prompts/always-on-agents); names \"Always-On AI Agents N - ...\", so build folders guide/always-on-ai-agents-N-<slug>/; thumbnails guide/creator-thumbnails/always-on-agents; docs only: no sign-ups, no tests, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation as written, xAI spoken \"x A.I.\" (caption xAI), ChatGPT \"Chat G P T\" (G2); facts guide/always-on-agents-facts.md ([S] never spoken); colour per plan section 5 and COLOUR-RULES.md; writer brief guide/creator-series-kit/WRITER-BRIEF-alwayson.md; review / what-is",
       "watermark": true,
-      "notes": "2026-11-26: every gate passed (critic; pre-render viewer pass FAIL 4 -> fixes -> re-check PASS; render QA; builder post-render checks; final MP4 pass, 1 description no fixed and repackaged with qa); render approved under the autopost-at-gates rule (Jabran, 2026-11-26). Listen spot: Claude at 4:43.5-4:45.0 (whisper heard cloud; captions and boards correct)."
+      "notes": "2026-11-26: every gate passed (critic; pre-render viewer pass FAIL 4 -> fixes -> re-check PASS; render QA; builder post-render checks; final MP4 pass, 1 description no fixed and repackaged with qa); render approved under the autopost-at-gates rule (Jabran, 2026-11-26). Listen spot: Claude at 4:43.5-4:45.0 (whisper heard cloud; captions and boards correct).",
+      "guide_playlist": "PLTZSJ0kzxJt8"
     },
     {
       "name": "Always-On AI Agents 5 - Meta Muse Explained",
@@ -10554,7 +10562,8 @@
       "title": "Meta Muse: The Free AI Agent in WhatsApp, Explained (Plus Spark, Glimmer and Charm)",
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 6 parts (guide/always-on-agents-plan.md section 3; Jabran: \"Yes\", then \"autop post, docs only\"); slug and paths always-on-agents (kit guide/always-on-agents-kit, scripts, images, github; repo folder ai-toolbox-prompts/always-on-agents); names \"Always-On AI Agents N - ...\", so build folders guide/always-on-ai-agents-N-<slug>/; thumbnails guide/creator-thumbnails/always-on-agents; docs only: no sign-ups, no tests, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation as written, xAI spoken \"x A.I.\" (caption xAI), ChatGPT \"Chat G P T\" (G2); facts guide/always-on-agents-facts.md ([S] never spoken); colour per plan section 5 and COLOUR-RULES.md; writer brief guide/creator-series-kit/WRITER-BRIEF-alwayson.md; review / what-is",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLTZSJ0kzxJt8"
     },
     {
       "name": "Always-On AI Agents 6 - ChatGPT Dots Explained",
@@ -10565,7 +10574,8 @@
       "title": "ChatGPT Dots Explained: What It Does, Who Gets It, and Is Pro Worth It?",
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 6 parts (guide/always-on-agents-plan.md section 3; Jabran: \"Yes\", then \"autop post, docs only\"); slug and paths always-on-agents (kit guide/always-on-agents-kit, scripts, images, github; repo folder ai-toolbox-prompts/always-on-agents); names \"Always-On AI Agents N - ...\", so build folders guide/always-on-ai-agents-N-<slug>/; thumbnails guide/creator-thumbnails/always-on-agents; docs only: no sign-ups, no tests, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation as written, xAI spoken \"x A.I.\" (caption xAI), ChatGPT \"Chat G P T\" (G2); facts guide/always-on-agents-facts.md ([S] never spoken); colour per plan section 5 and COLOUR-RULES.md; writer brief guide/creator-series-kit/WRITER-BRIEF-alwayson.md; review / what-is (149, kept last)",
-      "watermark": true
+      "watermark": true,
+      "guide_playlist": "PLTZSJ0kzxJt8"
     },
     {
       "name": "AI Voice 1 - Text to Voiceover",
@@ -10824,18 +10834,22 @@
       "series": "New in Claude",
       "part": 1,
       "brand": "NEW IN CLAUDE",
-      "guide": "render approved",
+      "guide": "uploaded private",
       "title": "Claude Update: Claude Meetings, Add Claude to Your Google Meet Calls",
       "guide_note": "2026-11-26: approved, 6 parts (guide/new-in-claude-plan.md section 3; Jabran: \"OK, all six, keep Part 5. Docs only, Auto post\"); kit guide/new-in-claude-kit (board module nick.py), paths new-in-claude (scripts, images, github; repo folder ai-toolbox-prompts/new-in-claude), build folders guide/new-in-claude-N-<slug>/, thumbnails guide/creator-thumbnails/new-in-claude (thumbs2 key new-in-claude); docs only: nothing signed in to, run or generated, every screen a drawn board labelled as drawn (no licensed images: guide/new-in-claude-images/CREDITS.md), output boards \"Example output\", dummy workspace only (no real calls, colleagues or company data); posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); colour in COLOUR-RULES.md row \"New in Claude\" (provisional pale raspberry, for the lead to confirm); facts guide/new-in-claude-facts.md ([S] rows never spoken); writer brief guide/creator-series-kit/WRITER-BRIEF-newinclaude.md; all names as written, \"P.R.\" said \"pull request\"",
       "watermark": true,
-      "guide_playlist": "PLAiNtR3JLduA"
+      "guide_playlist": "PLAiNtR3JLduA",
+      "guide_youtube_url": "https://youtu.be/ViW8M5sXvdU",
+      "guide_uploaded_on": "2026-11-27",
+      "generation": 5,
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "New in Claude 2 - Claude Motion",
       "series": "New in Claude",
       "part": 2,
       "brand": "NEW IN CLAUDE",
-      "guide": "render check",
+      "guide": "render approved",
       "title": "Claude Motion: Turn a Chat Into an Animated Explainer Video",
       "guide_note": "2026-11-26: approved, 6 parts (guide/new-in-claude-plan.md section 3; Jabran: \"OK, all six, keep Part 5. Docs only, Auto post\"); kit guide/new-in-claude-kit (board module nick.py), paths new-in-claude (scripts, images, github; repo folder ai-toolbox-prompts/new-in-claude), build folders guide/new-in-claude-N-<slug>/, thumbnails guide/creator-thumbnails/new-in-claude (thumbs2 key new-in-claude); docs only: nothing signed in to, run or generated, every screen a drawn board labelled as drawn (no licensed images: guide/new-in-claude-images/CREDITS.md), output boards \"Example output\", dummy workspace only (no real calls, colleagues or company data); posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); colour in COLOUR-RULES.md row \"New in Claude\" (provisional pale raspberry, for the lead to confirm); facts guide/new-in-claude-facts.md ([S] rows never spoken); writer brief guide/creator-series-kit/WRITER-BRIEF-newinclaude.md; all names as written, \"P.R.\" said \"pull request\"",
       "watermark": true,
