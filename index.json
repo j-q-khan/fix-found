@@ -11102,6 +11102,56 @@
       "level": "Novice",
       "guide_note": "2026-11-28: approved, 4 parts, all Novice (guide/grok-ai-plan.md section 3; Jabran: \"Yes, all 4 parts, keep Part 4, auto post, docs only\"); slug and paths grok-ai (kit guide/grok-ai-kit, board module grkk.py; scripts, images, github; repo folder ai-toolbox-prompts/grok-ai); names \"Grok AI N - ...\", so build folders guide/grok-ai-N-<slug>/; thumbnails guide/creator-thumbnails/grok-ai (thumbs2 key grok-ai, prefix grk_); docs only: nothing signed up for, installed, run or generated, every screen a drawn board labelled as drawn (no licensed screenshot: guide/grok-ai-images/CREDITS.md), output boards \"Example output\" on invented subjects, no real people, no photo edits of people, no politics; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Grok, SuperGrok, Imagine as written, xAI spoken \"x A.I.\" (caption xAI), never \"SpaceXSI\" aloud, ChatGPT \"Chat G P T\" undotted (G2), A.I. dotted, no aside; facts guide/grok-ai-facts.md (only [F] rows spoken; x.ai legal pages and grok.com blocked; prices \"was ... when checked\"); colour pale lemon-lime 75 degrees (COLOUR-RULES.md); \"Not affiliated with xAI, X, SpaceX or OpenAI.\" in every description; writer brief guide/creator-series-kit/WRITER-BRIEF-grokai.md; review; last part",
       "watermark": true
+    },
+    {
+      "name": "CAD with Claude 1 - Fusion 360 Official MCP",
+      "series": "CAD with Claude",
+      "part": 1,
+      "brand": "CAD WITH CLAUDE",
+      "guide": "new",
+      "title": "Fusion 360 with Claude: Set Up Autodesk's Official MCP Server",
+      "guide_note": "2026-11-28: approved, 5 parts (guide/cad-with-claude-plan.md section 3; Jabran: \"Yes, all 5 parts, blueprint blue, auto post, docs only\"); parent series AI CAD with Claude (playlist PLOJa0A8kpOHA), linked from every part, repeated in none; slug and paths cad-with-claude (kit guide/cad-with-claude-kit, board module cwck.py; scripts, images, github; repo folder ai-toolbox-prompts/cad-with-claude); names \"CAD with Claude N - ...\", so build folders guide/cad-with-claude-N-<slug>/; thumbnails guide/creator-thumbnails/cad-with-claude (thumbs2 key cad-with-claude, prefix cwc_); docs only: nothing signed up for, installed or run, output boards \"Example output\"; images: Parts 3-4 licensed CadQuery/build123d docs images once the lead credits them in guide/cad-with-claude-images/CREDITS.md, Parts 1, 2 and 5 drawn boards labelled as drawn; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: CadQuery \"Cad Query\", Fusion 360 \"Fusion three sixty\", Onshape, OpenSCAD, Gridfinity, FeatureScript as written, build123d from samples (Jabran picks), A.I., M.C.P., S.T.L., S.T.E.P., A.P.I. dotted, no aside; facts guide/cad-with-claude-facts.md ([S] never spoken; prices and limits \"was ... when checked\"); colour mid blueprint blue 218 degrees (COLOUR-RULES.md 2026-11-28); \"Not affiliated with Autodesk, PTC, Onshape, Anthropic or Claude.\" in every description; community MCP servers named with their maker, never as the vendor's own; Novice to Mid level, tutorial",
+      "watermark": true
+    },
+    {
+      "name": "CAD with Claude 2 - Onshape AI Advisor and MCP",
+      "series": "CAD with Claude",
+      "part": 2,
+      "brand": "CAD WITH CLAUDE",
+      "guide": "new",
+      "title": "Onshape with AI: The AI Advisor and Onshape's MCP for Claude",
+      "guide_note": "2026-11-28: approved, 5 parts (guide/cad-with-claude-plan.md section 3; Jabran: \"Yes, all 5 parts, blueprint blue, auto post, docs only\"); parent series AI CAD with Claude (playlist PLOJa0A8kpOHA), linked from every part, repeated in none; slug and paths cad-with-claude (kit guide/cad-with-claude-kit, board module cwck.py; scripts, images, github; repo folder ai-toolbox-prompts/cad-with-claude); names \"CAD with Claude N - ...\", so build folders guide/cad-with-claude-N-<slug>/; thumbnails guide/creator-thumbnails/cad-with-claude (thumbs2 key cad-with-claude, prefix cwc_); docs only: nothing signed up for, installed or run, output boards \"Example output\"; images: Parts 3-4 licensed CadQuery/build123d docs images once the lead credits them in guide/cad-with-claude-images/CREDITS.md, Parts 1, 2 and 5 drawn boards labelled as drawn; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: CadQuery \"Cad Query\", Fusion 360 \"Fusion three sixty\", Onshape, OpenSCAD, Gridfinity, FeatureScript as written, build123d from samples (Jabran picks), A.I., M.C.P., S.T.L., S.T.E.P., A.P.I. dotted, no aside; facts guide/cad-with-claude-facts.md ([S] never spoken; prices and limits \"was ... when checked\"); colour mid blueprint blue 218 degrees (COLOUR-RULES.md 2026-11-28); \"Not affiliated with Autodesk, PTC, Onshape, Anthropic or Claude.\" in every description; community MCP servers named with their maker, never as the vendor's own; Novice, tutorial",
+      "watermark": true
+    },
+    {
+      "name": "CAD with Claude 3 - CadQuery with Claude Code",
+      "series": "CAD with Claude",
+      "part": 3,
+      "brand": "CAD WITH CLAUDE",
+      "guide": "new",
+      "title": "CadQuery with Claude Code: Design 3D Prints in Python by Describing Them",
+      "guide_note": "2026-11-28: approved, 5 parts (guide/cad-with-claude-plan.md section 3; Jabran: \"Yes, all 5 parts, blueprint blue, auto post, docs only\"); parent series AI CAD with Claude (playlist PLOJa0A8kpOHA), linked from every part, repeated in none; slug and paths cad-with-claude (kit guide/cad-with-claude-kit, board module cwck.py; scripts, images, github; repo folder ai-toolbox-prompts/cad-with-claude); names \"CAD with Claude N - ...\", so build folders guide/cad-with-claude-N-<slug>/; thumbnails guide/creator-thumbnails/cad-with-claude (thumbs2 key cad-with-claude, prefix cwc_); docs only: nothing signed up for, installed or run, output boards \"Example output\"; images: Parts 3-4 licensed CadQuery/build123d docs images once the lead credits them in guide/cad-with-claude-images/CREDITS.md, Parts 1, 2 and 5 drawn boards labelled as drawn; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: CadQuery \"Cad Query\", Fusion 360 \"Fusion three sixty\", Onshape, OpenSCAD, Gridfinity, FeatureScript as written, build123d from samples (Jabran picks), A.I., M.C.P., S.T.L., S.T.E.P., A.P.I. dotted, no aside; facts guide/cad-with-claude-facts.md ([S] never spoken; prices and limits \"was ... when checked\"); colour mid blueprint blue 218 degrees (COLOUR-RULES.md 2026-11-28); \"Not affiliated with Autodesk, PTC, Onshape, Anthropic or Claude.\" in every description; community MCP servers named with their maker, never as the vendor's own; Novice to Mid level, tutorial",
+      "watermark": true
+    },
+    {
+      "name": "CAD with Claude 4 - build123d Gridfinity Bin",
+      "series": "CAD with Claude",
+      "part": 4,
+      "brand": "CAD WITH CLAUDE",
+      "guide": "new",
+      "title": "build123d with Claude Code: Parametric Parts and a Gridfinity Bin",
+      "guide_note": "2026-11-28: approved, 5 parts (guide/cad-with-claude-plan.md section 3; Jabran: \"Yes, all 5 parts, blueprint blue, auto post, docs only\"); parent series AI CAD with Claude (playlist PLOJa0A8kpOHA), linked from every part, repeated in none; slug and paths cad-with-claude (kit guide/cad-with-claude-kit, board module cwck.py; scripts, images, github; repo folder ai-toolbox-prompts/cad-with-claude); names \"CAD with Claude N - ...\", so build folders guide/cad-with-claude-N-<slug>/; thumbnails guide/creator-thumbnails/cad-with-claude (thumbs2 key cad-with-claude, prefix cwc_); docs only: nothing signed up for, installed or run, output boards \"Example output\"; images: Parts 3-4 licensed CadQuery/build123d docs images once the lead credits them in guide/cad-with-claude-images/CREDITS.md, Parts 1, 2 and 5 drawn boards labelled as drawn; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: CadQuery \"Cad Query\", Fusion 360 \"Fusion three sixty\", Onshape, OpenSCAD, Gridfinity, FeatureScript as written, build123d from samples (Jabran picks), A.I., M.C.P., S.T.L., S.T.E.P., A.P.I. dotted, no aside; facts guide/cad-with-claude-facts.md ([S] never spoken; prices and limits \"was ... when checked\"); colour mid blueprint blue 218 degrees (COLOUR-RULES.md 2026-11-28); \"Not affiliated with Autodesk, PTC, Onshape, Anthropic or Claude.\" in every description; community MCP servers named with their maker, never as the vendor's own; Mid level, tutorial",
+      "watermark": true
+    },
+    {
+      "name": "CAD with Claude 5 - Which Code CAD for AI",
+      "series": "CAD with Claude",
+      "part": 5,
+      "brand": "CAD WITH CLAUDE",
+      "guide": "new",
+      "title": "OpenSCAD vs CadQuery vs build123d: Which Code CAD Works Best with AI?",
+      "guide_note": "2026-11-28: approved, 5 parts (guide/cad-with-claude-plan.md section 3; Jabran: \"Yes, all 5 parts, blueprint blue, auto post, docs only\"); parent series AI CAD with Claude (playlist PLOJa0A8kpOHA), linked from every part, repeated in none; slug and paths cad-with-claude (kit guide/cad-with-claude-kit, board module cwck.py; scripts, images, github; repo folder ai-toolbox-prompts/cad-with-claude); names \"CAD with Claude N - ...\", so build folders guide/cad-with-claude-N-<slug>/; thumbnails guide/creator-thumbnails/cad-with-claude (thumbs2 key cad-with-claude, prefix cwc_); docs only: nothing signed up for, installed or run, output boards \"Example output\"; images: Parts 3-4 licensed CadQuery/build123d docs images once the lead credits them in guide/cad-with-claude-images/CREDITS.md, Parts 1, 2 and 5 drawn boards labelled as drawn; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: CadQuery \"Cad Query\", Fusion 360 \"Fusion three sixty\", Onshape, OpenSCAD, Gridfinity, FeatureScript as written, build123d from samples (Jabran picks), A.I., M.C.P., S.T.L., S.T.E.P., A.P.I. dotted, no aside; facts guide/cad-with-claude-facts.md ([S] never spoken; prices and limits \"was ... when checked\"); colour mid blueprint blue 218 degrees (COLOUR-RULES.md 2026-11-28); \"Not affiliated with Autodesk, PTC, Onshape, Anthropic or Claude.\" in every description; community MCP servers named with their maker, never as the vendor's own; Novice, comparison; last part",
+      "watermark": true
     }
   ]
 }
