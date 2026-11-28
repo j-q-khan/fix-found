@@ -10465,12 +10465,16 @@
       "series": "AI Music",
       "part": 3,
       "brand": "AI MUSIC",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "AI Music Video: Turn Your Song Into a Music Video With Suno Visuals",
       "level": "Novice",
       "guide_note": "2026-11-25: approved, 3 parts (guide/ai-music-plan.md section 3 and the top; Jabran: \"Proceed, docs only, autopost\"); NOT the old \"Make Music with AI\" series: names \"AI Music Guide N - ...\", so build folders guide/ai-music-guide-N-<slug>/ (series_upload.sh PREFIX ai-music-guide, never ai-music), thumbnails guide/creator-thumbnails/ai-music-guide (thumbs2 key ai-music-guide; ai-music/ is the old series' folder); kit guide/ai-music-kit, paths ai-music (scripts, images, github; repo folder ai-toolbox-prompts/ai-music); docs only: no sign-ups, no generations, no song audio, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: autopost later, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); Suno, Udio, Lyria and ACE-Step spoken as written (S1 U1 L1 A1); colour deep magenta-violet #FA61FF/#5E0061/#200021 (COLOUR-RULES.md); images guide/ai-music-images/CREDITS.md (none licensed at setup), writer brief guide/creator-series-kit/WRITER-BRIEF-aimusic.md; tutorial, ends with a chapter on posting to YouTube (A.I. disclosure and the inauthentic-content rule) | 2026-11-26: critic (10 fixes), pre-render viewer pass (3 fixes, recheck PASS), QA (TTS_LINT_ALLOW=content, his C1 pick) and final MP4 pass all PASS; render approved under Jabran's autopost OK of 2026-11-25.",
       "watermark": true,
-      "guide_playlist": "PLZLLNrt4or8o"
+      "guide_playlist": "PLZLLNrt4or8o",
+      "guide_youtube_url": "https://youtu.be/aGEh9TVFulk",
+      "guide_uploaded_on": "2026-11-28",
+      "generation": 5,
+      "guide_visibility": "public"
     },
     {
       "name": "Gemini CLI 1 - Install and Who Can Still Use It",
@@ -10612,12 +10616,16 @@
       "series": "AI Voice",
       "part": 2,
       "brand": "AI VOICE",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "AI Voice Cloning: Clone Your Own Voice With ElevenLabs, the Safe Way",
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 4 parts (guide/ai-voice-plan.md section 2 and the top; Jabran: \"As recommended / Docs only / Auto post\"); Part 5 (free plans) not made, a free-options chapter goes in Part 1; kit guide/ai-voice-kit (board module avk.py), paths ai-voice (scripts, images, github; repo folder ai-toolbox-prompts/ai-voice), build folders guide/ai-voice-N-<slug>/, thumbnails guide/creator-thumbnails/ai-voice (thumbs2 key ai-voice); docs only: no sign-ups, no generations, no product audio, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); colour in COLOUR-RULES.md row \"AI Voice\"; facts guide/ai-voice-facts.md ([S] rows never spoken); writer brief guide/creator-series-kit/WRITER-BRIEF-aivoice.md; tutorial; consent and YouTube disclosure in the companies' own words",
       "watermark": true,
-      "guide_playlist": "PLfpV7mXU7FNo"
+      "guide_playlist": "PLfpV7mXU7FNo",
+      "guide_youtube_url": "https://youtu.be/oIKNSZFMHH4",
+      "guide_uploaded_on": "2026-11-28",
+      "generation": 5,
+      "guide_visibility": "public"
     },
     {
       "name": "AI Voice 3 - Voice Changer",
@@ -10830,11 +10838,15 @@
       "series": "Gemini for Home and Work",
       "part": 3,
       "brand": "GEMINI FOR HOME AND WORK",
-      "guide": "render check",
+      "guide": "uploaded private",
       "title": "Gemini for Work in Google Sheets and Meet: the AI Formula and Take Notes for Me",
       "guide_note": "2026-11-26: approved, 4 parts, Part 3 kept (guide/gemini-for-plan.md section 2; Jabran: \"OK, keep all 4 parts\"); slug and paths gemini-for (kit guide/gemini-for-kit, board module gfk.py; scripts, images, github; repo folder ai-toolbox-prompts/gemini-for); names \"Gemini for Home and Work N - ...\", so build folders guide/gemini-for-home-and-work-N-<slug>/; thumbnails guide/creator-thumbnails/gemini-for (thumbs2 key gemini-for); docs only: nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot: guide/gemini-for-images/CREDITS.md), output boards \"Example output\"; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Gemini, Nest, Gmail, Docs, Sheets, Meet, Workspace as written, \"Gemini Live\" as written (lint allow), \"LearnLM\" never spoken, no aside; facts guide/gemini-for-facts.md ([S] never spoken; prices \"was ... when checked\" with the country); colour light coral 6 degrees (COLOUR-RULES.md); writer brief guide/creator-series-kit/WRITER-BRIEF-geminifor.md; level Novice; tutorial",
       "watermark": true,
-      "guide_playlist": "PLd_rr5x1pv2o"
+      "guide_playlist": "PLd_rr5x1pv2o",
+      "guide_youtube_url": "https://youtu.be/085ky4tZE8I",
+      "guide_uploaded_on": "2026-11-28",
+      "generation": 5,
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Gemini for Home and Work 4 - Guided Learning",
@@ -10867,7 +10879,7 @@
       "series": "New in Claude",
       "part": 2,
       "brand": "NEW IN CLAUDE",
-      "guide": "uploaded private",
+      "guide": "posted",
       "title": "Claude Motion: Turn a Chat Into an Animated Explainer Video",
       "guide_note": "2026-11-26: approved, 6 parts (guide/new-in-claude-plan.md section 3; Jabran: \"OK, all six, keep Part 5. Docs only, Auto post\"); kit guide/new-in-claude-kit (board module nick.py), paths new-in-claude (scripts, images, github; repo folder ai-toolbox-prompts/new-in-claude), build folders guide/new-in-claude-N-<slug>/, thumbnails guide/creator-thumbnails/new-in-claude (thumbs2 key new-in-claude); docs only: nothing signed in to, run or generated, every screen a drawn board labelled as drawn (no licensed images: guide/new-in-claude-images/CREDITS.md), output boards \"Example output\", dummy workspace only (no real calls, colleagues or company data); posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); colour in COLOUR-RULES.md row \"New in Claude\" (provisional pale raspberry, for the lead to confirm); facts guide/new-in-claude-facts.md ([S] rows never spoken); writer brief guide/creator-series-kit/WRITER-BRIEF-newinclaude.md; all names as written, \"P.R.\" said \"pull request\"",
       "watermark": true,
@@ -10875,7 +10887,7 @@
       "guide_youtube_url": "https://youtu.be/f1elYeQ47VY",
       "guide_uploaded_on": "2026-11-27",
       "generation": 5,
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public"
     },
     {
       "name": "New in Claude 3 - Claude Sheets",
