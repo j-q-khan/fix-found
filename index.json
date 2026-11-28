@@ -10574,26 +10574,34 @@
       "series": "Always-On AI Agents",
       "part": 5,
       "brand": "ALWAYS-ON AGENTS",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "Meta Muse: The Free AI Agent in WhatsApp, Explained (Plus Spark, Glimmer and Charm)",
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 6 parts (guide/always-on-agents-plan.md section 3; Jabran: \"Yes\", then \"autop post, docs only\"); slug and paths always-on-agents (kit guide/always-on-agents-kit, scripts, images, github; repo folder ai-toolbox-prompts/always-on-agents); names \"Always-On AI Agents N - ...\", so build folders guide/always-on-ai-agents-N-<slug>/; thumbnails guide/creator-thumbnails/always-on-agents; docs only: no sign-ups, no tests, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation as written, xAI spoken \"x A.I.\" (caption xAI), ChatGPT \"Chat G P T\" (G2); facts guide/always-on-agents-facts.md ([S] never spoken); colour per plan section 5 and COLOUR-RULES.md; writer brief guide/creator-series-kit/WRITER-BRIEF-alwayson.md; review / what-is",
       "watermark": true,
       "guide_playlist": "PLTZSJ0kzxJt8",
-      "notes": "2026-11-27: every gate passed (critic FAIL 12 -> writer fixes; pre-render viewer pass FAIL 2 -> fixes -> re-check PASS; render QA; builder post-render checks; final MP4 pass PASS); render approved under the autopost-at-gates rule (Jabran, 2026-11-26). Listen spot: 1:33.4 \"keeps going after. You shut the app\" (whisper hears a stop)."
+      "notes": "2026-11-27: every gate passed (critic FAIL 12 -> writer fixes; pre-render viewer pass FAIL 2 -> fixes -> re-check PASS; render QA; builder post-render checks; final MP4 pass PASS); render approved under the autopost-at-gates rule (Jabran, 2026-11-26). Listen spot: 1:33.4 \"keeps going after. You shut the app\" (whisper hears a stop).",
+      "guide_youtube_url": "https://youtu.be/rxKWHoY1GYM",
+      "guide_uploaded_on": "2026-11-28",
+      "generation": 5,
+      "guide_visibility": "public"
     },
     {
       "name": "Always-On AI Agents 6 - ChatGPT Dots Explained",
       "series": "Always-On AI Agents",
       "part": 6,
       "brand": "ALWAYS-ON AGENTS",
-      "guide": "render approved",
+      "guide": "posted",
       "title": "ChatGPT Dots Explained: What It Does, Who Gets It, and Is Pro Worth It?",
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 6 parts (guide/always-on-agents-plan.md section 3; Jabran: \"Yes\", then \"autop post, docs only\"); slug and paths always-on-agents (kit guide/always-on-agents-kit, scripts, images, github; repo folder ai-toolbox-prompts/always-on-agents); names \"Always-On AI Agents N - ...\", so build folders guide/always-on-ai-agents-N-<slug>/; thumbnails guide/creator-thumbnails/always-on-agents; docs only: no sign-ups, no tests, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation as written, xAI spoken \"x A.I.\" (caption xAI), ChatGPT \"Chat G P T\" (G2); facts guide/always-on-agents-facts.md ([S] never spoken); colour per plan section 5 and COLOUR-RULES.md; writer brief guide/creator-series-kit/WRITER-BRIEF-alwayson.md; review / what-is (149, kept last)",
       "watermark": true,
       "guide_playlist": "PLTZSJ0kzxJt8",
-      "notes": "2026-11-27: every gate passed (critic FAIL 10 -> writer fixes; pre-render viewer pass PASS; render QA; builder post-render checks; final MP4 pass PASS); render approved under the autopost-at-gates rule (Jabran, 2026-11-26). Listen spot: 4:32 \"give your dot a time zone\" (whisper hears data). Caption break \"Add rule.\" hand-set in timeline.json/captions.srt: redo if vo re-runs."
+      "notes": "2026-11-27: every gate passed (critic FAIL 10 -> writer fixes; pre-render viewer pass PASS; render QA; builder post-render checks; final MP4 pass PASS); render approved under the autopost-at-gates rule (Jabran, 2026-11-26). Listen spot: 4:32 \"give your dot a time zone\" (whisper hears data). Caption break \"Add rule.\" hand-set in timeline.json/captions.srt: redo if vo re-runs.",
+      "guide_youtube_url": "https://youtu.be/MwKz0A_Sp2s",
+      "guide_uploaded_on": "2026-11-28",
+      "generation": 5,
+      "guide_visibility": "public"
     },
     {
       "name": "AI Voice 1 - Text to Voiceover",
