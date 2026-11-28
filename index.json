@@ -10545,12 +10545,13 @@
       "series": "Always-On AI Agents",
       "part": 3,
       "brand": "ALWAYS-ON AGENTS",
-      "guide": "render check",
+      "guide": "render approved",
       "title": "Grok Bot Setup and Use Cases: What xAI's Always-On Agent Can Do for You",
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 6 parts (guide/always-on-agents-plan.md section 3; Jabran: \"Yes\", then \"autop post, docs only\"); slug and paths always-on-agents (kit guide/always-on-agents-kit, scripts, images, github; repo folder ai-toolbox-prompts/always-on-agents); names \"Always-On AI Agents N - ...\", so build folders guide/always-on-ai-agents-N-<slug>/; thumbnails guide/creator-thumbnails/always-on-agents; docs only: no sign-ups, no tests, every screen a licensed docs screenshot or a drawn board labelled as drawn, output boards \"Example output\"; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation as written, xAI spoken \"x A.I.\" (caption xAI), ChatGPT \"Chat G P T\" (G2); facts guide/always-on-agents-facts.md ([S] never spoken); colour per plan section 5 and COLOUR-RULES.md; writer brief guide/creator-series-kit/WRITER-BRIEF-alwayson.md; tutorial",
       "watermark": true,
-      "guide_playlist": "PLTZSJ0kzxJt8"
+      "guide_playlist": "PLTZSJ0kzxJt8",
+      "notes": "2026-11-28: every gate passed except one listen spot (4:42 \"keep every send\", whisper hears \"everyone sent\"); Jabran: \"Just post part 3\" (approved as it is)."
     },
     {
       "name": "Always-On AI Agents 4 - Claude Duet Explained",
@@ -10712,23 +10713,31 @@
       "series": "AI Image",
       "part": 4,
       "brand": "AI IMAGE",
-      "guide": "render approved",
+      "guide": "uploaded private",
       "title": "AI Image Detector: How to Tell If a Picture Is AI",
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 4 parts (guide/ai-image-plan.md section 3; Jabran: \"Do all 4 parts, docs only, auto post\"); slug and paths ai-image (kit guide/ai-image-kit, scripts, images, github; repo folder ai-toolbox-prompts/ai-image); names \"AI Image N - ...\", so build folders guide/ai-image-N-<slug>/; thumbnails guide/creator-thumbnails/ai-image; docs only: nothing signed up for, installed, run or generated, drawn boards labelled as drawn (Part 3 also has cleared Wikimedia Commons Upscayl images), generated pictures as \"Example output\", no realistic generated people; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Ideogram, Gemini, Nano Banana as written, ChatGPT \"Chat G P T\" (G2), Upscayl spoken \"Up-scale\", SynthID \"Synth I.D.\", C2PA \"C.2.P.A.\"; facts guide/ai-image-facts.md ([S] never spoken); colour light rose 336 degrees (COLOUR-RULES.md); writer brief guide/creator-series-kit/WRITER-BRIEF-aiimage.md",
       "watermark": true,
-      "guide_playlist": "PLDYyAdrw4oaU"
+      "guide_playlist": "PLDYyAdrw4oaU",
+      "guide_youtube_url": "https://youtu.be/UTnRoPPv2m8",
+      "guide_uploaded_on": "2026-11-28",
+      "generation": 5,
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Claude Opus 1 - New Features and Price",
       "series": "Claude Opus",
       "part": 1,
       "brand": "CLAUDE OPUS",
-      "guide": "render approved",
+      "guide": "uploaded private",
       "title": "Claude Opus 5.5: What's New, What It Costs and Who Should Use It",
       "guide_note": "2026-11-26: approved, 4 parts (guide/claude-opus-plan.md section 3; Jabran: \"Yes, Autopost, docs only\"); slug and paths claude-opus (kit guide/claude-opus-kit, board module copk.py; scripts, images, github; repo folder ai-toolbox-prompts/claude-opus); names \"Claude Opus N - ...\", so build folders guide/claude-opus-N-<slug>/; thumbnails guide/creator-thumbnails/claude-opus (thumbs2 key claude-opus); docs only: nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot: guide/claude-opus-images/CREDITS.md), output boards \"Example output\", no benchmark numbers spoken; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Opus, Sonnet, Haiku, Fable as written, versions \"five point five\", no aside; facts guide/claude-opus-facts.md ([S] never spoken; Opus is \"our strongest daily driver\", Fable 5.2 is the most capable); colour pale lilac violet 265 degrees (COLOUR-RULES.md); writer brief guide/creator-series-kit/WRITER-BRIEF-claudeopus.md; level Novice; review / what-is",
       "watermark": true,
-      "guide_playlist": "PLa-eQbb_PowM"
+      "guide_playlist": "PLa-eQbb_PowM",
+      "guide_youtube_url": "https://youtu.be/iwM4QDhkvj8",
+      "guide_uploaded_on": "2026-11-28",
+      "generation": 5,
+      "guide_visibility": "private (Jabran publishes from Studio)"
     },
     {
       "name": "Claude Opus 2 - Opus vs Sonnet and Fable",
@@ -10747,7 +10756,7 @@
       "part": 3,
       "brand": "CLAUDE OPUS",
       "guide": "new",
-      "title": "Claude Opus Website and Game: Build Both From One Prompt",
+      "title": "Claude Opus Website and Game: Build Each From One Prompt",
       "guide_note": "2026-11-26: approved, 4 parts (guide/claude-opus-plan.md section 3; Jabran: \"Yes, Autopost, docs only\"); slug and paths claude-opus (kit guide/claude-opus-kit, board module copk.py; scripts, images, github; repo folder ai-toolbox-prompts/claude-opus); names \"Claude Opus N - ...\", so build folders guide/claude-opus-N-<slug>/; thumbnails guide/creator-thumbnails/claude-opus (thumbs2 key claude-opus); docs only: nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot: guide/claude-opus-images/CREDITS.md), output boards \"Example output\", no benchmark numbers spoken; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Opus, Sonnet, Haiku, Fable as written, versions \"five point five\", no aside; facts guide/claude-opus-facts.md ([S] never spoken; Opus is \"our strongest daily driver\", Fable 5.2 is the most capable); colour pale lilac violet 265 degrees (COLOUR-RULES.md); writer brief guide/creator-series-kit/WRITER-BRIEF-claudeopus.md; level Novice; tutorial (borderline phrases, kept by Jabran)",
       "watermark": true,
       "guide_playlist": "PLa-eQbb_PowM"
@@ -10967,7 +10976,7 @@
       "series": "New in Claude",
       "part": 6,
       "brand": "NEW IN CLAUDE",
-      "guide": "uploaded private",
+      "guide": "posted",
       "title": "Claude Update: Claude Ship, PR Steward and Claude Approvals Explained",
       "guide_note": "2026-11-26: approved, 6 parts (guide/new-in-claude-plan.md section 3; Jabran: \"OK, all six, keep Part 5. Docs only, Auto post\"); kit guide/new-in-claude-kit (board module nick.py), paths new-in-claude (scripts, images, github; repo folder ai-toolbox-prompts/new-in-claude), build folders guide/new-in-claude-N-<slug>/, thumbnails guide/creator-thumbnails/new-in-claude (thumbs2 key new-in-claude); docs only: nothing signed in to, run or generated, every screen a drawn board labelled as drawn (no licensed images: guide/new-in-claude-images/CREDITS.md), output boards \"Example output\", dummy workspace only (no real calls, colleagues or company data); posting: autopost, public as each part passes every gate, one at a time, playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); colour in COLOUR-RULES.md row \"New in Claude\" (provisional pale raspberry, for the lead to confirm); facts guide/new-in-claude-facts.md ([S] rows never spoken); writer brief guide/creator-series-kit/WRITER-BRIEF-newinclaude.md; all names as written, \"P.R.\" said \"pull request\"",
       "watermark": true,
@@ -10975,7 +10984,7 @@
       "guide_youtube_url": "https://youtu.be/mruCpbHEpRg",
       "guide_uploaded_on": "2026-11-28",
       "generation": 5,
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public"
     },
     {
       "name": "ChatGPT for Business 1 - Which Plan and First Jobs",
@@ -11008,6 +11017,46 @@
       "title": "ChatGPT for Coding: Explain, Fix and Write Code in the Chat",
       "level": "Novice",
       "guide_note": "2026-11-26: approved, 3 parts, all Novice (guide/chatgpt-for-business-plan.md section 3; Jabran: \"3 parts as proposed\", PowerPoint and Word stay a chapter of Part 2); slug and paths chatgpt-for-business (kit guide/chatgpt-for-business-kit, board module cfbk.py; scripts, images, github; repo folder ai-toolbox-prompts/chatgpt-for-business); names \"ChatGPT for Business N - ...\", so build folders guide/chatgpt-for-business-N-<slug>/; thumbnails guide/creator-thumbnails/chatgpt-for-business (thumbs2 key chatgpt-for-business, prefix cfb_); docs only: nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot: guide/chatgpt-for-business-images/CREDITS.md), output boards \"Example output\" on dummy data; posting: AUTOPOST public as each part passes every gate, one at a time (Jabran, 2026-11-27); playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: ChatGPT spoken \"Chat G P T\" undotted (G2), Excel, PowerPoint, Word, Codex, OpenAI as written, A.I. dotted, no aside; facts guide/chatgpt-for-business-facts.md ([S] never spoken; prices \"was ... when checked\"); colour light periwinkle blue 233 degrees (COLOUR-RULES.md); \"Not affiliated with OpenAI or Microsoft.\" in every description; writer brief guide/creator-series-kit/WRITER-BRIEF-chatgptforbusiness.md; tutorial; last part",
+      "watermark": true
+    },
+    {
+      "name": "Cursor AI 1 - Tutorial for Beginners",
+      "series": "Cursor AI",
+      "part": 1,
+      "brand": "CURSOR AI",
+      "guide": "new",
+      "title": "Cursor AI Tutorial for Beginners: Download, Set Up and Make Your First Edit",
+      "guide_note": "2026-11-28: approved, 4 parts (guide/cursor-ai-plan.md §3; slug and paths cursor-ai); docs only, drawn boards and \"Example output\"; AUTOPOST public at the gates, one at a time; Cursor spoken as written; kit guide/cursor-ai-kit, thumbnails guide/creator-thumbnails/cursor-ai, images guide/cursor-ai-images/CREDITS.md (Cursor terms: no implied licenses, so drawn boards)",
+      "watermark": true
+    },
+    {
+      "name": "Cursor AI 2 - Agent Website",
+      "series": "Cursor AI",
+      "part": 2,
+      "brand": "CURSOR AI",
+      "guide": "new",
+      "title": "Cursor AI Agent: Build a Website From One Prompt and Undo What You Don't Want",
+      "guide_note": "2026-11-28: approved, 4 parts (guide/cursor-ai-plan.md §3; slug and paths cursor-ai); docs only, drawn boards and \"Example output\"; AUTOPOST public at the gates, one at a time; Cursor spoken as written; kit guide/cursor-ai-kit, thumbnails guide/creator-thumbnails/cursor-ai, images guide/cursor-ai-images/CREDITS.md (Cursor terms: no implied licenses, so drawn boards)",
+      "watermark": true
+    },
+    {
+      "name": "Cursor AI 3 - MCP Setup",
+      "series": "Cursor AI",
+      "part": 3,
+      "brand": "CURSOR AI",
+      "guide": "new",
+      "title": "Cursor MCP Setup: Add MCP Servers to Cursor AI With mcp.json",
+      "guide_note": "2026-11-28: approved, 4 parts (guide/cursor-ai-plan.md §3; slug and paths cursor-ai); docs only, drawn boards and \"Example output\"; AUTOPOST public at the gates, one at a time; Cursor spoken as written; kit guide/cursor-ai-kit, thumbnails guide/creator-thumbnails/cursor-ai, images guide/cursor-ai-images/CREDITS.md (Cursor terms: no implied licenses, so drawn boards)",
+      "watermark": true
+    },
+    {
+      "name": "Cursor AI 4 - Rules vs Skills",
+      "series": "Cursor AI",
+      "part": 4,
+      "brand": "CURSOR AI",
+      "guide": "new",
+      "title": "Cursor Rules vs Skills: Teach Cursor AI Your Project",
+      "guide_note": "2026-11-28: approved, 4 parts (guide/cursor-ai-plan.md §3; slug and paths cursor-ai); docs only, drawn boards and \"Example output\"; AUTOPOST public at the gates, one at a time; Cursor spoken as written; kit guide/cursor-ai-kit, thumbnails guide/creator-thumbnails/cursor-ai, images guide/cursor-ai-images/CREDITS.md (Cursor terms: no implied licenses, so drawn boards)",
       "watermark": true
     }
   ]
