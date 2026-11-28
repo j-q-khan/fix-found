@@ -10838,7 +10838,7 @@
       "series": "Gemini for Home and Work",
       "part": 3,
       "brand": "GEMINI FOR HOME AND WORK",
-      "guide": "uploaded private",
+      "guide": "posted",
       "title": "Gemini for Work in Google Sheets and Meet: the AI Formula and Take Notes for Me",
       "guide_note": "2026-11-26: approved, 4 parts, Part 3 kept (guide/gemini-for-plan.md section 2; Jabran: \"OK, keep all 4 parts\"); slug and paths gemini-for (kit guide/gemini-for-kit, board module gfk.py; scripts, images, github; repo folder ai-toolbox-prompts/gemini-for); names \"Gemini for Home and Work N - ...\", so build folders guide/gemini-for-home-and-work-N-<slug>/; thumbnails guide/creator-thumbnails/gemini-for (thumbs2 key gemini-for); docs only: nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot: guide/gemini-for-images/CREDITS.md), output boards \"Example output\"; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Gemini, Nest, Gmail, Docs, Sheets, Meet, Workspace as written, \"Gemini Live\" as written (lint allow), \"LearnLM\" never spoken, no aside; facts guide/gemini-for-facts.md ([S] never spoken; prices \"was ... when checked\" with the country); colour light coral 6 degrees (COLOUR-RULES.md); writer brief guide/creator-series-kit/WRITER-BRIEF-geminifor.md; level Novice; tutorial",
       "watermark": true,
@@ -10846,7 +10846,7 @@
       "guide_youtube_url": "https://youtu.be/085ky4tZE8I",
       "guide_uploaded_on": "2026-11-28",
       "generation": 5,
-      "guide_visibility": "private (Jabran publishes from Studio)"
+      "guide_visibility": "public"
     },
     {
       "name": "Gemini for Home and Work 4 - Guided Learning",
