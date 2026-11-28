@@ -10755,7 +10755,7 @@
       "series": "Claude Opus",
       "part": 3,
       "brand": "CLAUDE OPUS",
-      "guide": "new",
+      "guide": "render check",
       "title": "Claude Opus Website and Game: Build Each From One Prompt",
       "guide_note": "2026-11-26: approved, 4 parts (guide/claude-opus-plan.md section 3; Jabran: \"Yes, Autopost, docs only\"); slug and paths claude-opus (kit guide/claude-opus-kit, board module copk.py; scripts, images, github; repo folder ai-toolbox-prompts/claude-opus); names \"Claude Opus N - ...\", so build folders guide/claude-opus-N-<slug>/; thumbnails guide/creator-thumbnails/claude-opus (thumbs2 key claude-opus); docs only: nothing signed up for, installed or run, every screen a drawn board labelled as drawn (no licensed screenshot: guide/claude-opus-images/CREDITS.md), output boards \"Example output\", no benchmark numbers spoken; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Opus, Sonnet, Haiku, Fable as written, versions \"five point five\", no aside; facts guide/claude-opus-facts.md ([S] never spoken; Opus is \"our strongest daily driver\", Fable 5.2 is the most capable); colour pale lilac violet 265 degrees (COLOUR-RULES.md); writer brief guide/creator-series-kit/WRITER-BRIEF-claudeopus.md; level Novice; tutorial (borderline phrases, kept by Jabran)",
       "watermark": true,
@@ -11057,6 +11057,50 @@
       "guide": "new",
       "title": "Cursor Rules vs Skills: Teach Cursor AI Your Project",
       "guide_note": "2026-11-28: approved, 4 parts (guide/cursor-ai-plan.md §3; slug and paths cursor-ai); docs only, drawn boards and \"Example output\"; AUTOPOST public at the gates, one at a time; Cursor spoken as written; kit guide/cursor-ai-kit, thumbnails guide/creator-thumbnails/cursor-ai, images guide/cursor-ai-images/CREDITS.md (Cursor terms: no implied licenses, so drawn boards)",
+      "watermark": true
+    },
+    {
+      "name": "Grok AI 1 - How to Use Grok",
+      "series": "Grok AI",
+      "part": 1,
+      "brand": "GROK AI",
+      "guide": "new",
+      "title": "Grok AI Tutorial: How to Use Grok for Beginners (and What's Free)",
+      "level": "Novice",
+      "guide_note": "2026-11-28: approved, 4 parts, all Novice (guide/grok-ai-plan.md section 3; Jabran: \"Yes, all 4 parts, keep Part 4, auto post, docs only\"); slug and paths grok-ai (kit guide/grok-ai-kit, board module grkk.py; scripts, images, github; repo folder ai-toolbox-prompts/grok-ai); names \"Grok AI N - ...\", so build folders guide/grok-ai-N-<slug>/; thumbnails guide/creator-thumbnails/grok-ai (thumbs2 key grok-ai, prefix grk_); docs only: nothing signed up for, installed, run or generated, every screen a drawn board labelled as drawn (no licensed screenshot: guide/grok-ai-images/CREDITS.md), output boards \"Example output\" on invented subjects, no real people, no photo edits of people, no politics; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Grok, SuperGrok, Imagine as written, xAI spoken \"x A.I.\" (caption xAI), never \"SpaceXSI\" aloud, ChatGPT \"Chat G P T\" undotted (G2), A.I. dotted, no aside; facts guide/grok-ai-facts.md (only [F] rows spoken; x.ai legal pages and grok.com blocked; prices \"was ... when checked\"); colour pale lemon-lime 75 degrees (COLOUR-RULES.md); \"Not affiliated with xAI, X, SpaceX or OpenAI.\" in every description; writer brief guide/creator-series-kit/WRITER-BRIEF-grokai.md; tutorial",
+      "watermark": true
+    },
+    {
+      "name": "Grok AI 2 - Grok vs ChatGPT",
+      "series": "Grok AI",
+      "part": 2,
+      "brand": "GROK AI",
+      "guide": "new",
+      "title": "Grok AI vs ChatGPT: Which One Should You Use in 2026?",
+      "level": "Novice",
+      "guide_note": "2026-11-28: approved, 4 parts, all Novice (guide/grok-ai-plan.md section 3; Jabran: \"Yes, all 4 parts, keep Part 4, auto post, docs only\"); slug and paths grok-ai (kit guide/grok-ai-kit, board module grkk.py; scripts, images, github; repo folder ai-toolbox-prompts/grok-ai); names \"Grok AI N - ...\", so build folders guide/grok-ai-N-<slug>/; thumbnails guide/creator-thumbnails/grok-ai (thumbs2 key grok-ai, prefix grk_); docs only: nothing signed up for, installed, run or generated, every screen a drawn board labelled as drawn (no licensed screenshot: guide/grok-ai-images/CREDITS.md), output boards \"Example output\" on invented subjects, no real people, no photo edits of people, no politics; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Grok, SuperGrok, Imagine as written, xAI spoken \"x A.I.\" (caption xAI), never \"SpaceXSI\" aloud, ChatGPT \"Chat G P T\" undotted (G2), A.I. dotted, no aside; facts guide/grok-ai-facts.md (only [F] rows spoken; x.ai legal pages and grok.com blocked; prices \"was ... when checked\"); colour pale lemon-lime 75 degrees (COLOUR-RULES.md); \"Not affiliated with xAI, X, SpaceX or OpenAI.\" in every description; writer brief guide/creator-series-kit/WRITER-BRIEF-grokai.md; comparison",
+      "watermark": true
+    },
+    {
+      "name": "Grok AI 3 - Grok Imagine Video and Images",
+      "series": "Grok AI",
+      "part": 3,
+      "brand": "GROK AI",
+      "guide": "new",
+      "title": "Grok AI Video Generator: How to Use Grok Imagine for Videos and Images",
+      "level": "Novice",
+      "guide_note": "2026-11-28: approved, 4 parts, all Novice (guide/grok-ai-plan.md section 3; Jabran: \"Yes, all 4 parts, keep Part 4, auto post, docs only\"); slug and paths grok-ai (kit guide/grok-ai-kit, board module grkk.py; scripts, images, github; repo folder ai-toolbox-prompts/grok-ai); names \"Grok AI N - ...\", so build folders guide/grok-ai-N-<slug>/; thumbnails guide/creator-thumbnails/grok-ai (thumbs2 key grok-ai, prefix grk_); docs only: nothing signed up for, installed, run or generated, every screen a drawn board labelled as drawn (no licensed screenshot: guide/grok-ai-images/CREDITS.md), output boards \"Example output\" on invented subjects, no real people, no photo edits of people, no politics; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Grok, SuperGrok, Imagine as written, xAI spoken \"x A.I.\" (caption xAI), never \"SpaceXSI\" aloud, ChatGPT \"Chat G P T\" undotted (G2), A.I. dotted, no aside; facts guide/grok-ai-facts.md (only [F] rows spoken; x.ai legal pages and grok.com blocked; prices \"was ... when checked\"); colour pale lemon-lime 75 degrees (COLOUR-RULES.md); \"Not affiliated with xAI, X, SpaceX or OpenAI.\" in every description; writer brief guide/creator-series-kit/WRITER-BRIEF-grokai.md; tutorial with a Fix chapter (limit reached, 720p fallback)",
+      "watermark": true
+    },
+    {
+      "name": "Grok AI 4 - Free vs SuperGrok",
+      "series": "Grok AI",
+      "part": 4,
+      "brand": "GROK AI",
+      "guide": "new",
+      "title": "Grok AI Free vs SuperGrok: Is Paying Worth It?",
+      "level": "Novice",
+      "guide_note": "2026-11-28: approved, 4 parts, all Novice (guide/grok-ai-plan.md section 3; Jabran: \"Yes, all 4 parts, keep Part 4, auto post, docs only\"); slug and paths grok-ai (kit guide/grok-ai-kit, board module grkk.py; scripts, images, github; repo folder ai-toolbox-prompts/grok-ai); names \"Grok AI N - ...\", so build folders guide/grok-ai-N-<slug>/; thumbnails guide/creator-thumbnails/grok-ai (thumbs2 key grok-ai, prefix grk_); docs only: nothing signed up for, installed, run or generated, every screen a drawn board labelled as drawn (no licensed screenshot: guide/grok-ai-images/CREDITS.md), output boards \"Example output\" on invented subjects, no real people, no photo edits of people, no politics; posting: AUTOPOST public as each part passes every gate, one at a time; playlist made and guide_playlist set before Part 1 uploads; generation 5 (no generation field); pronunciation: Grok, SuperGrok, Imagine as written, xAI spoken \"x A.I.\" (caption xAI), never \"SpaceXSI\" aloud, ChatGPT \"Chat G P T\" undotted (G2), A.I. dotted, no aside; facts guide/grok-ai-facts.md (only [F] rows spoken; x.ai legal pages and grok.com blocked; prices \"was ... when checked\"); colour pale lemon-lime 75 degrees (COLOUR-RULES.md); \"Not affiliated with xAI, X, SpaceX or OpenAI.\" in every description; writer brief guide/creator-series-kit/WRITER-BRIEF-grokai.md; review; last part",
       "watermark": true
     }
   ]
